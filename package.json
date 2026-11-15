@@ -1,0 +1,21 @@
+{
+  "name": "hackatlon",
+  "version": "1.0.0",
+  "description": "This repository contains the static version of the Discovering Timișoara website, mirrored from the live site and bundled with its local assets.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarmauazburatoare/hackatlon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/sarmauazburatoare/hackatlon/issues"
+  },
+  "homepage": "https://github.com/sarmauazburatoare/hackatlon#readme"
+}

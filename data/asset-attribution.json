@@ -1,0 +1,1584 @@
+{
+  "site": "Discovering Timișoara",
+  "photos": [
+    {
+      "activity": "Beat Se7en",
+      "path": "/media/photos-v03/outdoor-beat-seven.webp",
+      "author": "Autor neprecizat (site-ul operatorului)",
+      "source": "https://beatse7en.ro/",
+      "license": "Sursă: site-ul operatorului · licență de reutilizare neprecizată",
+      "rightsStatus": "operator-homepage-unconfirmed",
+      "alt": {
+        "ro": "Jucători pe podeaua LED de la Beat Se7en.",
+        "en": "Players on the LED floor at Beat Se7en.",
+        "it": "Giocatori sul pavimento LED di Beat Se7en.",
+        "fr": "Joueurs sur le sol LED de Beat Se7en.",
+        "es": "Jugadores en el suelo LED de Beat Se7en.",
+        "zh-Hans": "Beat Se7en 的玩家在 LED 地板上游戏。"
+      }
+    },
+    {
+      "activity": "Hype Play by Kiddo",
+      "path": "/media/photos-v03/outdoor-hype.webp",
+      "author": "Autor neprecizat (site-ul operatorului)",
+      "source": "https://hypeplay.ro/hype-timisoara/",
+      "license": "Sursă: site-ul operatorului · licență de reutilizare neprecizată",
+      "rightsStatus": "operator-homepage-unconfirmed",
+      "alt": {
+        "ro": "Zonă cu bureți și echipamente de joacă la Hype Play.",
+        "en": "Foam pit and play equipment at Hype Play.",
+        "it": "Vasca di gommapiuma e giochi da Hype Play.",
+        "fr": "Bac de mousse et équipements chez Hype Play.",
+        "es": "Foso de espuma y juegos de Hype Play.",
+        "zh-Hans": "Hype Play 的海绵池与游乐设施。"
+      }
+    },
+    {
+      "activity": "Skydiving Simulator",
+      "path": "/media/photos-v04/skydiving.webp",
+      "author": "Autor neprecizat · fotografie furnizată de utilizator",
+      "source": "/data/v04-photo-provenance.json",
+      "license": "Furnizată de utilizator pentru acest proiect; autorul și licența publică nu sunt precizate.",
+      "rightsStatus": "user-supplied",
+      "alt": {
+        "ro": "Skydiving Simulator",
+        "en": "Skydiving Simulator",
+        "it": "Skydiving Simulator",
+        "fr": "Skydiving Simulator",
+        "es": "Skydiving Simulator",
+        "zh-Hans": "Skydiving Simulator"
+      }
+    },
+    {
+      "activity": "Bowling — Gentlemen’s Social Club",
+      "path": "/media/photos-v04/bowling.webp",
+      "author": "Autor neprecizat · fotografie furnizată de utilizator",
+      "source": "/data/v04-photo-provenance.json",
+      "license": "Furnizată de utilizator pentru acest proiect; autorul și licența publică nu sunt precizate.",
+      "rightsStatus": "user-supplied",
+      "alt": {
+        "ro": "Bowling — Gentlemen’s Social Club",
+        "en": "Bowling — Gentlemen’s Social Club",
+        "it": "Bowling — Gentlemen’s Social Club",
+        "fr": "Bowling — Gentlemen’s Social Club",
+        "es": "Bolos — Gentlemen’s Social Club",
+        "zh-Hans": "保龄球 — Gentlemen’s Social Club"
+      }
+    },
+    {
+      "activity": "Rolers Dreams",
+      "path": "/media/photos-v03/root-rolers.webp",
+      "author": "Roller Dreams (creator neprecizat)",
+      "source": "https://rollerdreams.ro/",
+      "license": "Site-ul operatorului · licență de reutilizare neprecizată",
+      "alt": {
+        "ro": "Ilustrație de prezentare cu patine cu rotile și lumini colorate.",
+        "en": "Promotional illustration of roller skates and colorful lights.",
+        "it": "Illustrazione promozionale con pattini a rotelle e luci colorate.",
+        "fr": "Illustration promotionnelle avec des patins à roulettes et des lumières colorées.",
+        "es": "Ilustración promocional con patines y luces de colores.",
+        "zh-Hans": "带有轮滑鞋和彩色灯光的宣传插图。"
+      },
+      "caption": {
+        "ro": "Imagine promoțională ilustrativă publicată de operator; nu este o fotografie verificată a locației.",
+        "en": "Illustrative promotional image published by the operator; this is not a verified photograph of the venue.",
+        "it": "Immagine promozionale illustrativa pubblicata dal gestore; non è una fotografia verificata del locale.",
+        "fr": "Image promotionnelle illustrative publiée par l’exploitant ; il ne s’agit pas d’une photographie vérifiée du lieu.",
+        "es": "Imagen promocional ilustrativa publicada por el operador; no es una fotografía verificada del local.",
+        "zh-Hans": "运营方发布的宣传示意图片，并非经核实的场所实景照片。"
+      },
+      "illustrative": true,
+      "rightsStatus": "operator-homepage-unconfirmed"
+    },
+    {
+      "activity": "Animus — Floor Is Lava",
+      "path": "/media/photos-v03/outdoor-animus.webp",
+      "author": "Autor neprecizat (site-ul operatorului)",
+      "source": "https://animusarena.ro/",
+      "license": "Sursă: site-ul operatorului · licență de reutilizare neprecizată",
+      "rightsStatus": "operator-homepage-unconfirmed",
+      "alt": {
+        "ro": "Participanți pe podeaua interactivă din ANIMUS Arena.",
+        "en": "Participants on the interactive floor at ANIMUS Arena.",
+        "it": "Partecipanti sul pavimento interattivo di ANIMUS Arena.",
+        "fr": "Participants sur le sol interactif d’ANIMUS Arena.",
+        "es": "Participantes en el suelo interactivo de ANIMUS Arena.",
+        "zh-Hans": "ANIMUS Arena 的参与者在互动地板上游戏。"
+      }
+    },
+    {
+      "activity": "Red Motor",
+      "path": "/media/photos-v03/outdoor-red-motor.webp",
+      "author": "Autor neprecizat (site-ul operatorului)",
+      "source": "https://www.redmotor.ro/",
+      "license": "Sursă: site-ul operatorului · licență de reutilizare neprecizată",
+      "rightsStatus": "operator-homepage-unconfirmed",
+      "alt": {
+        "ro": "Karturi electrice pe circuitul interior Red Motor.",
+        "en": "Electric karts on the Red Motor indoor track.",
+        "it": "Kart elettrici sulla pista coperta Red Motor.",
+        "fr": "Karts électriques sur la piste intérieure Red Motor.",
+        "es": "Karts eléctricos en la pista cubierta Red Motor.",
+        "zh-Hans": "Red Motor 室内赛道上的电动卡丁车。"
+      }
+    },
+    {
+      "activity": "Arcade — Iulius Mall",
+      "path": "/media/photos-v03/outdoor-arcade.webp",
+      "author": "Autor neprecizat (site-ul operatorului)",
+      "source": "https://energy-games.ro/locatie/timisoara-iulius-town/",
+      "license": "Sursă: site-ul operatorului · licență de reutilizare neprecizată",
+      "rightsStatus": "operator-homepage-unconfirmed",
+      "alt": {
+        "ro": "Aparate arcade la Energy Games, Iulius Town Timișoara.",
+        "en": "Arcade machines at Energy Games, Iulius Town Timișoara.",
+        "it": "Videogiochi da Energy Games, Iulius Town Timișoara.",
+        "fr": "Bornes d’arcade chez Energy Games, Iulius Town Timișoara.",
+        "es": "Máquinas arcade de Energy Games, Iulius Town Timișoara.",
+        "zh-Hans": "蒂米什瓦拉 Iulius Town 的 Energy Games 街机。"
+      }
+    },
+    {
+      "activity": "Amazonia",
+      "path": "/media/photos-v03/outdoor-amazonia.webp",
+      "author": "Autor neprecizat (site-ul operatorului)",
+      "source": "https://www.amazonia.ro/",
+      "license": "Sursă: site-ul operatorului · licență de reutilizare neprecizată",
+      "rightsStatus": "operator-homepage-unconfirmed",
+      "alt": {
+        "ro": "Tobogane și piscine exterioare la Amazonia Timișoara.",
+        "en": "Outdoor slides and pools at Amazonia Timișoara.",
+        "it": "Scivoli e piscine all’aperto di Amazonia Timișoara.",
+        "fr": "Toboggans et piscines extérieures d’Amazonia Timișoara.",
+        "es": "Toboganes y piscinas exteriores de Amazonia Timișoara.",
+        "zh-Hans": "蒂米什瓦拉 Amazonia 的室外滑梯与泳池。"
+      }
+    },
+    {
+      "activity": "Exitgames",
+      "path": "/media/photos-v04/exitgames.webp",
+      "author": "Autor neprecizat · fotografie furnizată de utilizator",
+      "source": "/data/v04-photo-provenance.json",
+      "license": "Furnizată de utilizator pentru acest proiect; autorul și licența publică nu sunt precizate.",
+      "rightsStatus": "user-supplied",
+      "alt": {
+        "ro": "Exitgames",
+        "en": "Exitgames",
+        "it": "Exitgames",
+        "fr": "Exitgames",
+        "es": "Exitgames",
+        "zh-Hans": "Exitgames"
+      }
+    },
+    {
+      "activity": "Samantha’s House",
+      "path": "/media/photos-v04/samantha.webp",
+      "author": "Autor neprecizat · fotografie furnizată de utilizator",
+      "source": "/data/v04-photo-provenance.json",
+      "license": "Furnizată de utilizator pentru acest proiect; autorul și licența publică nu sunt precizate.",
+      "rightsStatus": "user-supplied",
+      "alt": {
+        "ro": "Samantha’s House",
+        "en": "Samantha’s House",
+        "it": "Samantha’s House",
+        "fr": "Samantha’s House",
+        "es": "Samantha’s House",
+        "zh-Hans": "Samantha’s House"
+      }
+    },
+    {
+      "activity": "Olărit — Gruni",
+      "path": "/media/photos-v03/outdoor-grumi.webp",
+      "author": "Autor neprecizat (site-ul operatorului)",
+      "source": "https://gruni.ro/atelier/",
+      "license": "Sursă: site-ul operatorului · licență de reutilizare neprecizată",
+      "rightsStatus": "operator-homepage-unconfirmed",
+      "alt": {
+        "ro": "Intrarea atelierului Gruni, cu ceramică și panou pictat.",
+        "en": "Entrance to the Gruni studio with pottery and a painted sign.",
+        "it": "Ingresso dell’atelier Gruni con ceramiche e insegna dipinta.",
+        "fr": "Entrée de l’atelier Gruni avec céramiques et panneau peint.",
+        "es": "Entrada del taller Gruni con cerámica y cartel pintado.",
+        "zh-Hans": "Gruni 工作室入口的陶器与彩绘招牌。"
+      }
+    },
+    {
+      "activity": "Megazone — Laser Tag",
+      "path": "/media/photos-v03/outdoor-megazone.webp",
+      "author": "Autor neprecizat (site-ul operatorului)",
+      "source": "https://www.megazonetimisoara.ro/megazone-2",
+      "license": "Sursă: site-ul operatorului · licență de reutilizare neprecizată",
+      "rightsStatus": "operator-homepage-unconfirmed",
+      "alt": {
+        "ro": "Jucător cu echipament laser tag în arena Megazone 2.",
+        "en": "Player with laser tag equipment inside Megazone 2.",
+        "it": "Giocatore con attrezzatura laser tag da Megazone 2.",
+        "fr": "Joueur équipé de laser tag dans Megazone 2.",
+        "es": "Jugador con equipo de laser tag en Megazone 2.",
+        "zh-Hans": "Megazone 2 场馆内穿戴激光对战装备的玩家。"
+      }
+    },
+    {
+      "activity": "Paintball — Arena Paintball",
+      "path": "/media/photos-v03/outdoor-paintball.webp",
+      "author": "Autor neprecizat (site-ul operatorului)",
+      "source": "https://www.arenapaintball.ro/poze.html",
+      "license": "Sursă: site-ul operatorului · licență de reutilizare neprecizată",
+      "rightsStatus": "operator-homepage-unconfirmed",
+      "alt": {
+        "ro": "Grup de jucători pe terenul Army al Arena Paintball din zona Giroc.",
+        "en": "Group of players at the Arena Paintball Army grounds near Giroc.",
+        "it": "Gruppo di giocatori sul campo Army di Arena Paintball vicino a Giroc.",
+        "fr": "Groupe de joueurs sur le terrain Army d’Arena Paintball près de Giroc.",
+        "es": "Grupo de jugadores en el campo Army de Arena Paintball cerca de Giroc.",
+        "zh-Hans": "Giroc 附近 Arena Paintball Army 场地内的玩家合影。"
+      },
+      "caption": {
+        "ro": "Fotografie din galeria operatorului; data realizării nu este precizată.",
+        "en": "Photograph from the operator’s gallery; capture date unspecified.",
+        "it": "Fotografia della galleria del gestore; data di scatto non indicata.",
+        "fr": "Photographie de la galerie de l’exploitant ; date de prise de vue non précisée.",
+        "es": "Fotografía de la galería del operador; fecha de captura no indicada.",
+        "zh-Hans": "来自经营方图库；拍摄日期未注明。"
+      }
+    },
+    {
+      "activity": "Parcul Copiilor",
+      "path": "/media/photos-v04/parcul-copiilor.webp",
+      "author": "Autor neprecizat · fotografie furnizată de utilizator",
+      "source": "/data/v04-photo-provenance.json",
+      "license": "Furnizată de utilizator pentru acest proiect; autorul și licența publică nu sunt precizate.",
+      "rightsStatus": "user-supplied",
+      "alt": {
+        "ro": "Parcul Copiilor",
+        "en": "Children’s Park",
+        "it": "Parco dei Bambini",
+        "fr": "Parc des Enfants",
+        "es": "Parque de los Niños",
+        "zh-Hans": "儿童公园"
+      }
+    },
+    {
+      "activity": "Energy Kids — Iulius Mall",
+      "path": "/media/photos-v03/outdoor-energy-kids.webp",
+      "author": "Autor neprecizat (site-ul operatorului)",
+      "source": "https://energykids.ro/locatii/timisoara-iulius-town/",
+      "license": "Sursă: site-ul operatorului · licență de reutilizare neprecizată",
+      "rightsStatus": "operator-homepage-unconfirmed",
+      "alt": {
+        "ro": "Interiorul locului de joacă Energy Kids din Iulius Town.",
+        "en": "Interior of the Energy Kids playground at Iulius Town.",
+        "it": "Interno dell’area giochi Energy Kids di Iulius Town.",
+        "fr": "Intérieur de l’aire de jeux Energy Kids d’Iulius Town.",
+        "es": "Interior de la zona de juegos Energy Kids de Iulius Town.",
+        "zh-Hans": "Iulius Town 的 Energy Kids 游乐区内部。"
+      }
+    },
+    {
+      "activity": "Paradisul Piraților",
+      "path": "/media/photos-v03/paradisul-piratilor.jpg",
+      "author": "Paradisul Piraților (fotograf neprecizat)",
+      "source": "https://www.megazonebites.ro/tunurile-piratilor",
+      "license": "Site-ul operatorului · licență de reutilizare neprecizată",
+      "alt": {
+        "ro": "Copii la tunurile cu mingi de burete și sigla Tunurile Piraților, în prezentarea originală a localului.",
+        "en": "Children at foam-ball cannons with the Tunurile Piraților logo in the venue’s original promotional image.",
+        "it": "Bambini ai cannoni con palline di gommapiuma e logo Tunurile Piraților nella promozione originale del locale.",
+        "fr": "Enfants aux canons à balles en mousse et logo Tunurile Piraților dans la présentation d’origine du lieu.",
+        "es": "Niños junto a cañones de bolas de espuma y el logotipo de Tunurile Piraților en la promoción original del local.",
+        "zh-Hans": "场所原宣传图片中的儿童泡沫球炮和 Tunurile Piraților 标志。"
+      },
+      "caption": {
+        "ro": "Imagine promoțională nedatată a Tunurilor Piraților, atracția originală pentru copii de la Paradisul Piraților. Funcționarea actuală nu este confirmată.",
+        "en": "Undated promotional image of Tunurile Piraților, the original children’s attraction at Paradisul Piraților. Current operation is unconfirmed.",
+        "it": "Immagine promozionale senza data di Tunurile Piraților, l’attrazione originaria per bambini di Paradisul Piraților. L’attività attuale non è confermata.",
+        "fr": "Image promotionnelle non datée de Tunurile Piraților, l’attraction d’origine pour enfants de Paradisul Piraților. Son fonctionnement actuel reste à confirmer.",
+        "es": "Imagen promocional sin fecha de Tunurile Piraților, la atracción infantil original de Paradisul Piraților. Su funcionamiento actual no está confirmado.",
+        "zh-Hans": "Tunurile Piraților 的未注明日期宣传图片，展示 Paradisul Piraților 原有的儿童游乐项目。该项目目前是否仍在运营尚未确认。"
+      },
+      "rightsStatus": "operator-homepage-unconfirmed"
+    },
+    {
+      "activity": "Arena Jocurilor SRL",
+      "path": "/media/photos-v04/arena-jocurilor.webp",
+      "author": "Autor neprecizat · fotografie furnizată de utilizator",
+      "source": "/data/v04-photo-provenance.json",
+      "license": "Furnizată de utilizator pentru acest proiect; autorul și licența publică nu sunt precizate.",
+      "rightsStatus": "user-supplied",
+      "alt": {
+        "ro": "Arena Jocurilor SRL",
+        "en": "Arena Jocurilor SRL",
+        "it": "Arena Jocurilor SRL",
+        "fr": "Arena Jocurilor SRL",
+        "es": "Arena Jocurilor SRL",
+        "zh-Hans": "Arena Jocurilor SRL"
+      }
+    },
+    {
+      "activity": "Kids Town",
+      "path": "/media/photos-v04/kids-town.webp",
+      "author": "Autor neprecizat · fotografie furnizată de utilizator",
+      "source": "/data/v04-photo-provenance.json",
+      "license": "Furnizată de utilizator pentru acest proiect; autorul și licența publică nu sunt precizate.",
+      "rightsStatus": "user-supplied",
+      "alt": {
+        "ro": "Kids Town",
+        "en": "Kids Town",
+        "it": "Kids Town",
+        "fr": "Kids Town",
+        "es": "Kids Town",
+        "zh-Hans": "Kids Town"
+      }
+    },
+    {
+      "activity": "Noso",
+      "path": "/media/photos-v04/noso.webp",
+      "author": "Autor neprecizat · fotografie furnizată de utilizator",
+      "source": "/data/v04-photo-provenance.json",
+      "license": "Furnizată de utilizator pentru acest proiect; autorul și licența publică nu sunt precizate.",
+      "rightsStatus": "user-supplied",
+      "alt": {
+        "ro": "Noso",
+        "en": "Noso",
+        "it": "Noso",
+        "fr": "Noso",
+        "es": "Noso",
+        "zh-Hans": "Noso"
+      }
+    },
+    {
+      "activity": "Planetarium — UVT",
+      "path": "/media/photos-v04/planetarium.webp",
+      "author": "Autor neprecizat · fotografie furnizată de utilizator",
+      "source": "/data/v04-photo-provenance.json",
+      "license": "Furnizată de utilizator pentru acest proiect; autorul și licența publică nu sunt precizate.",
+      "rightsStatus": "user-supplied",
+      "alt": {
+        "ro": "Planetarium — UVT",
+        "en": "Planetarium — UVT",
+        "it": "Planetario — UVT",
+        "fr": "Planétarium — UVT",
+        "es": "Planetario — UVT",
+        "zh-Hans": "天文馆 — UVT"
+      }
+    },
+    {
+      "activity": "Pista de bicicletă spre Serbia / Zrenjanin",
+      "path": "/media/photos-v04/bike-serbia.webp",
+      "author": "Autor neprecizat · fotografie furnizată de utilizator",
+      "source": "/data/v04-photo-provenance.json",
+      "license": "Furnizată de utilizator pentru acest proiect; autorul și licența publică nu sunt precizate.",
+      "rightsStatus": "user-supplied",
+      "alt": {
+        "ro": "Pista de bicicletă spre Serbia / Zrenjanin",
+        "en": "Cycle path towards Serbia / Zrenjanin",
+        "it": "Pista ciclabile verso la Serbia / Zrenjanin",
+        "fr": "Piste cyclable vers la Serbie / Zrenjanin",
+        "es": "Vía ciclista hacia Serbia / Zrenjanin",
+        "zh-Hans": "通往塞尔维亚／兹雷尼亚宁方向的自行车道"
+      }
+    },
+    {
+      "activity": "La Livada",
+      "path": "/media/photos-v04/la-livada.webp",
+      "author": "Autor neprecizat · fotografie furnizată de utilizator",
+      "source": "/data/v04-photo-provenance.json",
+      "license": "Furnizată de utilizator pentru acest proiect; autorul și licența publică nu sunt precizate.",
+      "rightsStatus": "user-supplied",
+      "alt": {
+        "ro": "La Livada",
+        "en": "La Livada",
+        "it": "La Livada",
+        "fr": "La Livada",
+        "es": "La Livada",
+        "zh-Hans": "La Livada"
+      }
+    },
+    {
+      "activity": "Plaja Nouă",
+      "path": "/media/photos-v04/plaja-noua.webp",
+      "author": "Autor neprecizat · fotografie furnizată de utilizator",
+      "source": "/data/v04-photo-provenance.json",
+      "license": "Furnizată de utilizator pentru acest proiect; autorul și licența publică nu sunt precizate.",
+      "rightsStatus": "user-supplied",
+      "alt": {
+        "ro": "Plaja Nouă",
+        "en": "Plaja Nouă",
+        "it": "Plaja Nouă",
+        "fr": "Plaja Nouă",
+        "es": "Plaja Nouă",
+        "zh-Hans": "Plaja Nouă"
+      }
+    },
+    {
+      "activity": "Herneacova",
+      "path": "/media/photos-v04/herneacova.webp",
+      "author": "Autor neprecizat · fotografie furnizată de utilizator",
+      "source": "/data/v04-photo-provenance.json",
+      "license": "Furnizată de utilizator pentru acest proiect; autorul și licența publică nu sunt precizate.",
+      "rightsStatus": "user-supplied",
+      "alt": {
+        "ro": "Herneacova",
+        "en": "Herneacova",
+        "it": "Herneacova",
+        "fr": "Herneacova",
+        "es": "Herneacova",
+        "zh-Hans": "Herneacova"
+      }
+    },
+    {
+      "activity": "L’iziera Park",
+      "path": "/media/photos-v03/outdoor-liziera.webp",
+      "author": "Autor neprecizat (site-ul operatorului)",
+      "source": "https://liziera.com/",
+      "license": "Sursă: site-ul operatorului · licență de reutilizare neprecizată",
+      "rightsStatus": "operator-homepage-unconfirmed",
+      "alt": {
+        "ro": "Colț cu scaune și oglindă în pădurea de la L’iziera Park.",
+        "en": "Chairs and a mirror in the woodland at L’iziera Park.",
+        "it": "Sedie e specchio nel bosco di L’iziera Park.",
+        "fr": "Chaises et miroir dans le bois de L’iziera Park.",
+        "es": "Sillas y espejo en el bosque de L’iziera Park.",
+        "zh-Hans": "L’iziera Park 林间的椅子与镜子。"
+      }
+    },
+    {
+      "activity": "Parcul Rozelor",
+      "path": "/media/photos/parcul-rozelor.webp",
+      "author": "Turbojet",
+      "source": "https://commons.wikimedia.org/wiki/File:Parcul_Rozelor_Timisoara_-_entrance.jpg",
+      "license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0",
+      "alt": {
+        "ro": "Parcul Rozelor",
+        "en": "Rose Park",
+        "it": "Parco delle Rose",
+        "fr": "Parc des Roses",
+        "es": "Parque de las Rosas",
+        "zh-Hans": "玫瑰公园"
+      },
+      "rightsStatus": "licensed"
+    },
+    {
+      "activity": "Parcul Botanic",
+      "path": "/media/photos/parcul-botanic.webp",
+      "author": "Tournasol7",
+      "source": "https://commons.wikimedia.org/wiki/File:Botanical_Garden_in_Timisoara_(1).jpg",
+      "license": "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0",
+      "alt": {
+        "ro": "Parcul Botanic",
+        "en": "Botanical Park",
+        "it": "Parco Botanico",
+        "fr": "Parc botanique",
+        "es": "Parque Botánico",
+        "zh-Hans": "植物园"
+      },
+      "rightsStatus": "licensed"
+    },
+    {
+      "activity": "Parcul Civic",
+      "path": "/media/photos/parcul-civic.webp",
+      "author": "Ionlizarazu",
+      "source": "https://commons.wikimedia.org/wiki/File:Civic_Park,_Timi%C8%99oara.jpg",
+      "license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0",
+      "alt": {
+        "ro": "Parcul Civic",
+        "en": "Civic Park",
+        "it": "Parco Civico",
+        "fr": "Parc civique",
+        "es": "Parque Cívico",
+        "zh-Hans": "市民公园"
+      },
+      "rightsStatus": "licensed"
+    },
+    {
+      "activity": "Parcul Castelului",
+      "path": "/media/photos-v02/parcul-castelului.webp",
+      "author": "Vacant0",
+      "source": "https://commons.wikimedia.org/wiki/File:Huniade_Castle,_Timi%C8%99oara,_August_2022.jpg",
+      "license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0",
+      "alt": {
+        "ro": "Alee și gazon în Scuarul Castelului, lângă Castelul Huniade.",
+        "en": "Path and lawn in Castle Park beside Huniade Castle.",
+        "it": "Sentiero e prato del Parco del Castello accanto al Castello Huniade.",
+        "fr": "Allée et pelouse du parc du Château, à côté du château Huniade.",
+        "es": "Sendero y césped del Parque del Castillo, junto al castillo Huniade.",
+        "zh-Hans": "匈雅提城堡旁城堡公园内的小径与草坪。"
+      },
+      "rightsStatus": "licensed"
+    },
+    {
+      "activity": "Parcul Regina Maria",
+      "path": "/media/photos/parcul-regina-maria.webp",
+      "author": "Fred Romero from Paris, France",
+      "source": "https://commons.wikimedia.org/wiki/File:Timi%C8%99oara_-_Parcul_%E2%80%9ERegina_Maria%E2%80%9D_(43013587180).jpg",
+      "license": "CC BY 2.0 · https://creativecommons.org/licenses/by/2.0",
+      "alt": {
+        "ro": "Parcul Regina Maria",
+        "en": "Queen Maria Park",
+        "it": "Parco Regina Maria",
+        "fr": "Parc Regina Maria",
+        "es": "Parque Regina Maria",
+        "zh-Hans": "玛丽亚王后公园"
+      },
+      "rightsStatus": "licensed"
+    },
+    {
+      "activity": "Pet Yoga — Puppy Yoga la FABER",
+      "path": "/media/photos-v03/outdoor-pet-yoga.webp",
+      "author": "Autor neprecizat (site-ul operatorului)",
+      "source": "https://puppyyoga.ro/",
+      "license": "Sursă: site-ul operatorului · licență de reutilizare neprecizată",
+      "rightsStatus": "operator-homepage-unconfirmed",
+      "alt": {
+        "ro": "Participantă și cățeluș într-o fotografie de prezentare Puppy Yoga România.",
+        "en": "Participant and puppy in a Puppy Yoga Romania promotional photograph.",
+        "it": "Partecipante e cucciolo in una fotografia di Puppy Yoga Romania.",
+        "fr": "Participante et chiot sur une photographie de Puppy Yoga Romania.",
+        "es": "Participante y cachorro en una fotografía de Puppy Yoga Romania.",
+        "zh-Hans": "Puppy Yoga Romania 宣传照片中的参与者与小狗。"
+      },
+      "caption": {
+        "ro": "Imagine de prezentare a operatorului; nu este confirmată ca fiind realizată la FABER.",
+        "en": "Operator promotional photograph; not confirmed as taken at FABER.",
+        "it": "Fotografia del gestore; non è confermato che sia stata scattata a FABER.",
+        "fr": "Photographie de l’exploitant ; prise de vue à FABER non confirmée.",
+        "es": "Fotografía del operador; no se ha confirmado que se tomara en FABER.",
+        "zh-Hans": "经营方宣传照片；尚未证实拍摄地点为 FABER。"
+      }
+    },
+    {
+      "activity": "Dharmaland",
+      "path": "/media/photos-v03/outdoor-dharmaland.webp",
+      "author": "Autor neprecizat (site-ul operatorului)",
+      "source": "https://gymone4spa.ro/",
+      "license": "Sursă: site-ul operatorului · licență de reutilizare neprecizată",
+      "rightsStatus": "operator-homepage-unconfirmed",
+      "alt": {
+        "ro": "Piscina interioară Gym One 4 Spa, fostul Dharmaland.",
+        "en": "Indoor pool at Gym One 4 Spa, formerly Dharmaland.",
+        "it": "Piscina coperta di Gym One 4 Spa, già Dharmaland.",
+        "fr": "Piscine intérieure de Gym One 4 Spa, anciennement Dharmaland.",
+        "es": "Piscina cubierta de Gym One 4 Spa, antes Dharmaland.",
+        "zh-Hans": "Gym One 4 Spa（原 Dharmaland）的室内泳池。"
+      }
+    },
+    {
+      "activity": "Plimbare pe malul Begăi",
+      "path": "/media/photos-v04/bega-walk.webp",
+      "author": "Autor neprecizat · fotografie furnizată de utilizator",
+      "source": "/data/v04-photo-provenance.json",
+      "license": "Furnizată de utilizator pentru acest proiect; autorul și licența publică nu sunt precizate.",
+      "rightsStatus": "user-supplied",
+      "alt": {
+        "ro": "Plimbare pe malul Begăi",
+        "en": "Walk along the Bega",
+        "it": "Passeggiata lungo il Bega",
+        "fr": "Promenade au bord de la Bega",
+        "es": "Paseo junto al Bega",
+        "zh-Hans": "贝加河畔漫步"
+      }
+    },
+    {
+      "activity": "Plimbare cu vaporașul pe Bega",
+      "path": "/media/photos-v04/bega-boat.webp",
+      "author": "Autor neprecizat · fotografie furnizată de utilizator",
+      "source": "/data/v04-photo-provenance.json",
+      "license": "Furnizată de utilizator pentru acest proiect; autorul și licența publică nu sunt precizate.",
+      "rightsStatus": "user-supplied",
+      "alt": {
+        "ro": "Plimbare cu vaporașul pe Bega",
+        "en": "Boat ride on the Bega",
+        "it": "Giro in battello sul Bega",
+        "fr": "Balade en bateau sur la Bega",
+        "es": "Paseo en barco por el Bega",
+        "zh-Hans": "乘船游览贝加河"
+      }
+    },
+    {
+      "activity": "No Name",
+      "path": "/media/photos-v03/city-no-name.webp",
+      "author": "Autor neprecizat (pagina operatorului No Name)",
+      "source": "https://www.facebook.com/clubnonametm/",
+      "license": "Sursă: site-ul operatorului · licență de reutilizare neprecizată",
+      "rightsStatus": "operator-homepage-unconfirmed",
+      "alt": {
+        "ro": "Piscina No Name iluminată noaptea, fotografie publicată de operator.",
+        "en": "The No Name pool lit at night, in a photograph published by the operator.",
+        "it": "La piscina di No Name illuminata di notte, in una foto pubblicata dal gestore.",
+        "fr": "La piscine de No Name éclairée de nuit, sur une photo publiée par l’établissement.",
+        "es": "La piscina de No Name iluminada de noche, en una foto publicada por el local.",
+        "zh-Hans": "运营方发布的 No Name 泳池夜景照片。"
+      },
+      "caption": {
+        "ro": "Fotografie de prezentare publicată de operator.",
+        "en": "Presentation photograph published by the operator.",
+        "it": "Foto di presentazione pubblicata dal gestore.",
+        "fr": "Photo de présentation publiée par l’établissement.",
+        "es": "Foto de presentación publicada por el local.",
+        "zh-Hans": "运营方发布的展示照片。"
+      }
+    },
+    {
+      "activity": "Heaven",
+      "path": "/media/photos-v04/heaven.webp",
+      "author": "Autor neprecizat · fotografie furnizată de utilizator",
+      "source": "/data/v04-photo-provenance.json",
+      "license": "Furnizată de utilizator pentru acest proiect; autorul și licența publică nu sunt precizate.",
+      "rightsStatus": "user-supplied",
+      "alt": {
+        "ro": "Heaven",
+        "en": "Heaven",
+        "it": "Heaven",
+        "fr": "Heaven",
+        "es": "Heaven",
+        "zh-Hans": "Heaven"
+      }
+    },
+    {
+      "activity": "Fratelli",
+      "path": "/media/photos-v04/fratelli.webp",
+      "author": "Autor neprecizat · fotografie furnizată de utilizator",
+      "source": "/data/v04-photo-provenance.json",
+      "license": "Furnizată de utilizator pentru acest proiect; autorul și licența publică nu sunt precizate.",
+      "rightsStatus": "user-supplied",
+      "alt": {
+        "ro": "Fratelli",
+        "en": "Fratelli",
+        "it": "Fratelli",
+        "fr": "Fratelli",
+        "es": "Fratelli",
+        "zh-Hans": "Fratelli"
+      }
+    },
+    {
+      "activity": "D’arc",
+      "path": "/media/photos-v04/darc.webp",
+      "author": "Autor neprecizat · fotografie furnizată de utilizator",
+      "source": "/data/v04-photo-provenance.json",
+      "license": "Furnizată de utilizator pentru acest proiect; autorul și licența publică nu sunt precizate.",
+      "rightsStatus": "user-supplied",
+      "alt": {
+        "ro": "D’arc",
+        "en": "D’arc",
+        "it": "D’arc",
+        "fr": "D’arc",
+        "es": "D’arc",
+        "zh-Hans": "D’arc"
+      }
+    },
+    {
+      "activity": "D’arc pe Mal",
+      "path": "/media/photos-v03/city-darc-mal.webp",
+      "author": "Autor neprecizat (pagina operatorului D’arc pe Mal)",
+      "source": "https://www.facebook.com/club.darc.timisoara/",
+      "license": "Sursă: site-ul operatorului · licență de reutilizare neprecizată",
+      "rightsStatus": "operator-homepage-unconfirmed",
+      "alt": {
+        "ro": "Terasa D’arc pe Mal și ambarcațiuni pe Bega.",
+        "en": "The D’arc pe Mal terrace and boats on the Bega.",
+        "it": "La terrazza di D’arc pe Mal e imbarcazioni sul Bega.",
+        "fr": "La terrasse de D’arc pe Mal et des bateaux sur la Bega.",
+        "es": "La terraza de D’arc pe Mal y barcos en el Bega.",
+        "zh-Hans": "D’arc pe Mal 的露台与 Bega 河上的船只。"
+      },
+      "caption": {
+        "ro": "Fotografie de prezentare publicată de operator.",
+        "en": "Presentation photograph published by the operator.",
+        "it": "Foto di presentazione pubblicata dal gestore.",
+        "fr": "Photo de présentation publiée par l’établissement.",
+        "es": "Foto de presentación publicada por el local.",
+        "zh-Hans": "运营方发布的展示照片。"
+      }
+    },
+    {
+      "activity": "Atelier d’Experience",
+      "path": "/media/photos-v04/atelier-experience.webp",
+      "author": "Autor neprecizat · fotografie furnizată de utilizator",
+      "source": "/data/v04-photo-provenance.json",
+      "license": "Furnizată de utilizator pentru acest proiect; autorul și licența publică nu sunt precizate.",
+      "rightsStatus": "user-supplied",
+      "alt": {
+        "ro": "Atelier d’Experience",
+        "en": "Atelier d’Experience",
+        "it": "Atelier d’Experience",
+        "fr": "Atelier d’Experience",
+        "es": "Atelier d’Experience",
+        "zh-Hans": "Atelier d’Experience"
+      }
+    },
+    {
+      "activity": "Escape Venue",
+      "path": "/media/photos-v04/escape-venue.webp",
+      "author": "Autor neprecizat · fotografie furnizată de utilizator",
+      "source": "/data/v04-photo-provenance.json",
+      "license": "Furnizată de utilizator pentru acest proiect; autorul și licența publică nu sunt precizate.",
+      "rightsStatus": "user-supplied",
+      "alt": {
+        "ro": "Escape Venue",
+        "en": "Escape Venue",
+        "it": "Escape Venue",
+        "fr": "Escape Venue",
+        "es": "Escape Venue",
+        "zh-Hans": "Escape Venue"
+      }
+    },
+    {
+      "activity": "Tucano",
+      "path": "/media/photos-v04/tucano.webp",
+      "author": "Autor neprecizat · fotografie furnizată de utilizator",
+      "source": "/data/v04-photo-provenance.json",
+      "license": "Furnizată de utilizator pentru acest proiect; autorul și licența publică nu sunt precizate.",
+      "rightsStatus": "user-supplied",
+      "alt": {
+        "ro": "Tucano",
+        "en": "Tucano",
+        "it": "Tucano",
+        "fr": "Tucano",
+        "es": "Tucano",
+        "zh-Hans": "Tucano"
+      }
+    },
+    {
+      "activity": "Starbucks",
+      "path": "/media/photos-v04/starbucks.webp",
+      "author": "Autor neprecizat · fotografie furnizată de utilizator",
+      "source": "/data/v04-photo-provenance.json",
+      "license": "Furnizată de utilizator pentru acest proiect; autorul și licența publică nu sunt precizate.",
+      "rightsStatus": "user-supplied",
+      "alt": {
+        "ro": "Starbucks",
+        "en": "Starbucks",
+        "it": "Starbucks",
+        "fr": "Starbucks",
+        "es": "Starbucks",
+        "zh-Hans": "Starbucks"
+      }
+    },
+    {
+      "activity": "Frenzy",
+      "path": "/media/photos-v04/frenzy.webp",
+      "author": "Autor neprecizat · fotografie furnizată de utilizator",
+      "source": "/data/v04-photo-provenance.json",
+      "license": "Furnizată de utilizator pentru acest proiect; autorul și licența publică nu sunt precizate.",
+      "rightsStatus": "user-supplied",
+      "alt": {
+        "ro": "Frenzy",
+        "en": "Frenzy",
+        "it": "Frenzy",
+        "fr": "Frenzy",
+        "es": "Frenzy",
+        "zh-Hans": "Frenzy"
+      }
+    },
+    {
+      "activity": "Ted’s Coffee",
+      "path": "/media/photos-v04/teds.webp",
+      "author": "Autor neprecizat · fotografie furnizată de utilizator",
+      "source": "/data/v04-photo-provenance.json",
+      "license": "Furnizată de utilizator pentru acest proiect; autorul și licența publică nu sunt precizate.",
+      "rightsStatus": "user-supplied",
+      "alt": {
+        "ro": "Ted’s Coffee",
+        "en": "Ted’s Coffee",
+        "it": "Ted’s Coffee",
+        "fr": "Ted’s Coffee",
+        "es": "Ted’s Coffee",
+        "zh-Hans": "Ted’s Coffee"
+      }
+    },
+    {
+      "activity": "Brewno",
+      "path": "/media/photos-v04/brewno.webp",
+      "author": "Autor neprecizat · fotografie furnizată de utilizator",
+      "source": "/data/v04-photo-provenance.json",
+      "license": "Furnizată de utilizator pentru acest proiect; autorul și licența publică nu sunt precizate.",
+      "rightsStatus": "user-supplied",
+      "alt": {
+        "ro": "Brewno",
+        "en": "Brewno",
+        "it": "Brewno",
+        "fr": "Brewno",
+        "es": "Brewno",
+        "zh-Hans": "Brewno"
+      }
+    },
+    {
+      "activity": "Mercy Coffee",
+      "path": "/media/photos-v04/mercy.webp",
+      "author": "Autor neprecizat · fotografie furnizată de utilizator",
+      "source": "/data/v04-photo-provenance.json",
+      "license": "Furnizată de utilizator pentru acest proiect; autorul și licența publică nu sunt precizate.",
+      "rightsStatus": "user-supplied",
+      "alt": {
+        "ro": "Mercy Coffee",
+        "en": "Mercy Coffee",
+        "it": "Mercy Coffee",
+        "fr": "Mercy Coffee",
+        "es": "Mercy Coffee",
+        "zh-Hans": "Mercy Coffee"
+      }
+    },
+    {
+      "activity": "Comun Cafe Mara",
+      "path": "/media/photos-v04/comun-cafe-mara.webp",
+      "author": "Autor neprecizat · fotografie furnizată de utilizator",
+      "source": "/data/v04-photo-provenance.json",
+      "license": "Furnizată de utilizator pentru acest proiect; autorul și licența publică nu sunt precizate.",
+      "rightsStatus": "user-supplied",
+      "alt": {
+        "ro": "Comun Cafe Mara",
+        "en": "Comun Cafe Mara",
+        "it": "Comun Cafe Mara",
+        "fr": "Comun Cafe Mara",
+        "es": "Comun Cafe Mara",
+        "zh-Hans": "Comun Cafe Mara"
+      }
+    },
+    {
+      "activity": "Street Coffee Roasters",
+      "path": "/media/photos-v04/street-coffee.webp",
+      "author": "Autor neprecizat · fotografie furnizată de utilizator",
+      "source": "/data/v04-photo-provenance.json",
+      "license": "Furnizată de utilizator pentru acest proiect; autorul și licența publică nu sunt precizate.",
+      "rightsStatus": "user-supplied",
+      "alt": {
+        "ro": "Street Coffee Roasters",
+        "en": "Street Coffee Roasters",
+        "it": "Street Coffee Roasters",
+        "fr": "Street Coffee Roasters",
+        "es": "Street Coffee Roasters",
+        "zh-Hans": "Street Coffee Roasters"
+      }
+    },
+    {
+      "activity": "Meron Timișoara",
+      "path": "/media/photos-v04/meron.webp",
+      "author": "Autor neprecizat · fotografie furnizată de utilizator",
+      "source": "/data/v04-photo-provenance.json",
+      "license": "Furnizată de utilizator pentru acest proiect; autorul și licența publică nu sunt precizate.",
+      "rightsStatus": "user-supplied",
+      "alt": {
+        "ro": "Meron Timișoara",
+        "en": "Meron Timișoara",
+        "it": "Meron Timișoara",
+        "fr": "Meron Timișoara",
+        "es": "Meron Timișoara",
+        "zh-Hans": "Meron Timișoara"
+      }
+    },
+    {
+      "activity": "Caffe del Doge",
+      "path": "/media/photos-v04/caffe-doge.webp",
+      "author": "Autor neprecizat · fotografie furnizată de utilizator",
+      "source": "/data/v04-photo-provenance.json",
+      "license": "Furnizată de utilizator pentru acest proiect; autorul și licența publică nu sunt precizate.",
+      "rightsStatus": "user-supplied",
+      "alt": {
+        "ro": "Caffe del Doge",
+        "en": "Caffe del Doge",
+        "it": "Caffe del Doge",
+        "fr": "Caffe del Doge",
+        "es": "Caffe del Doge",
+        "zh-Hans": "Caffe del Doge"
+      }
+    },
+    {
+      "activity": "Senses Specialty Coffee",
+      "path": "/media/photos-v04/senses.webp",
+      "author": "Autor neprecizat · fotografie furnizată de utilizator",
+      "source": "/data/v04-photo-provenance.json",
+      "license": "Furnizată de utilizator pentru acest proiect; autorul și licența publică nu sunt precizate.",
+      "rightsStatus": "user-supplied",
+      "alt": {
+        "ro": "Senses Specialty Coffee",
+        "en": "Senses Specialty Coffee",
+        "it": "Senses Specialty Coffee",
+        "fr": "Senses Specialty Coffee",
+        "es": "Senses Specialty Coffee",
+        "zh-Hans": "Senses Specialty Coffee"
+      }
+    },
+    {
+      "activity": "Zaza",
+      "path": "/media/photos-v04/zaza.webp",
+      "author": "Autor neprecizat · fotografie furnizată de utilizator",
+      "source": "/data/v04-photo-provenance.json",
+      "license": "Furnizată de utilizator pentru acest proiect; autorul și licența publică nu sunt precizate.",
+      "rightsStatus": "user-supplied",
+      "alt": {
+        "ro": "Zaza",
+        "en": "Zaza",
+        "it": "Zaza",
+        "fr": "Zaza",
+        "es": "Zaza",
+        "zh-Hans": "Zaza"
+      }
+    },
+    {
+      "activity": "Vineri 15",
+      "path": "/media/photos-v04/vineri-13.webp",
+      "author": "Autor neprecizat · fotografie furnizată de utilizator",
+      "source": "/data/v04-photo-provenance.json",
+      "license": "Furnizată de utilizator pentru acest proiect; autorul și licența publică nu sunt precizate.",
+      "rightsStatus": "user-supplied",
+      "alt": {
+        "ro": "Vineri 15",
+        "en": "Vineri 15",
+        "it": "Vineri 15",
+        "fr": "Vineri 15",
+        "es": "Vineri 15",
+        "zh-Hans": "Vineri 15"
+      }
+    },
+    {
+      "activity": "Massimo",
+      "path": "/media/photos-v04/massimo.webp",
+      "author": "Autor neprecizat · fotografie furnizată de utilizator",
+      "source": "/data/v04-photo-provenance.json",
+      "license": "Furnizată de utilizator pentru acest proiect; autorul și licența publică nu sunt precizate.",
+      "rightsStatus": "user-supplied",
+      "alt": {
+        "ro": "Massimo",
+        "en": "Massimo",
+        "it": "Massimo",
+        "fr": "Massimo",
+        "es": "Massimo",
+        "zh-Hans": "Massimo"
+      }
+    },
+    {
+      "activity": "Riyo — ramen",
+      "path": "/media/photos-v03/city-rio.webp",
+      "author": "Autor neprecizat (pagina operatorului Riyo Wok Sushi)",
+      "source": "https://riyosushi.ro/",
+      "license": "Sursă: site-ul operatorului · licență de reutilizare neprecizată",
+      "rightsStatus": "operator-homepage-unconfirmed",
+      "alt": {
+        "ro": "Interior prezentat pe pagina Riyo Wok Sushi.",
+        "en": "Interior shown on the Riyo Wok Sushi page.",
+        "it": "Interni mostrati nella pagina di Riyo Wok Sushi.",
+        "fr": "Intérieur présenté sur la page de Riyo Wok Sushi.",
+        "es": "Interior mostrado en la página de Riyo Wok Sushi.",
+        "zh-Hans": "Riyo Wok Sushi 页面展示的室内空间。"
+      },
+      "caption": {
+        "ro": "Fotografie de prezentare publicată de operator.",
+        "en": "Presentation photograph published by the operator.",
+        "it": "Foto di presentazione pubblicata dal gestore.",
+        "fr": "Photo de présentation publiée par l’établissement.",
+        "es": "Foto de presentación publicada por el local.",
+        "zh-Hans": "运营方发布的展示照片。"
+      }
+    },
+    {
+      "activity": "Woktagon",
+      "path": "/media/photos-v04/woktagon.webp",
+      "author": "Autor neprecizat · fotografie furnizată de utilizator",
+      "source": "/data/v04-photo-provenance.json",
+      "license": "Furnizată de utilizator pentru acest proiect; autorul și licența publică nu sunt precizate.",
+      "rightsStatus": "user-supplied",
+      "alt": {
+        "ro": "Woktagon",
+        "en": "Woktagon",
+        "it": "Woktagon",
+        "fr": "Woktagon",
+        "es": "Woktagon",
+        "zh-Hans": "Woktagon"
+      }
+    },
+    {
+      "activity": "Pinocchio — Piața Unirii",
+      "path": "/media/photos-v04/pinocchio.webp",
+      "author": "Autor neprecizat · fotografie furnizată de utilizator",
+      "source": "/data/v04-photo-provenance.json",
+      "license": "Furnizată de utilizator pentru acest proiect; autorul și licența publică nu sunt precizate.",
+      "rightsStatus": "user-supplied",
+      "alt": {
+        "ro": "Pinocchio — Piața Unirii",
+        "en": "Pinocchio — Piața Unirii",
+        "it": "Pinocchio — Piața Unirii",
+        "fr": "Pinocchio — Piața Unirii",
+        "es": "Pinocchio — Piața Unirii",
+        "zh-Hans": "Pinocchio — 联合广场"
+      }
+    },
+    {
+      "activity": "Jack’s",
+      "path": "/media/photos-v03/city-jacks.webp",
+      "author": "Autor neprecizat (pagina operatorului Jack’s)",
+      "source": "https://jacksbistro.ro/",
+      "license": "Sursă: site-ul operatorului · licență de reutilizare neprecizată",
+      "rightsStatus": "operator-homepage-unconfirmed",
+      "alt": {
+        "ro": "Interior prezentat pe pagina Jack’s.",
+        "en": "Interior shown on the Jack’s page.",
+        "it": "Interni mostrati nella pagina di Jack’s.",
+        "fr": "Intérieur présenté sur la page de Jack’s.",
+        "es": "Interior mostrado en la página de Jack’s.",
+        "zh-Hans": "Jack’s 页面展示的室内空间。"
+      },
+      "caption": {
+        "ro": "Fotografie de pe pagina operatorului; filiala fotografiată nu este confirmată.",
+        "en": "Photograph from the operator’s page; the pictured branch is unconfirmed.",
+        "it": "Foto dalla pagina del gestore; la sede fotografata non è confermata.",
+        "fr": "Photo de la page de l’établissement ; la succursale photographiée n’est pas confirmée.",
+        "es": "Foto de la página del operador; la sucursal fotografiada no está confirmada.",
+        "zh-Hans": "照片来自运营方页面；所拍摄的分店尚未确认。"
+      }
+    },
+    {
+      "activity": "Moon Garden",
+      "path": "/media/photos-v03/city-moon-garden.webp",
+      "author": "Autor neprecizat (pagina operatorului Moon Garden)",
+      "source": "https://moongarden.ro/",
+      "license": "Sursă: site-ul operatorului · licență de reutilizare neprecizată",
+      "rightsStatus": "operator-homepage-unconfirmed",
+      "alt": {
+        "ro": "Vedere de sus asupra restaurantului Moon Garden.",
+        "en": "Aerial view of the Moon Garden restaurant.",
+        "it": "Vista aerea del ristorante Moon Garden.",
+        "fr": "Vue aérienne du restaurant Moon Garden.",
+        "es": "Vista aérea del restaurante Moon Garden.",
+        "zh-Hans": "Moon Garden 餐厅的俯视照片。"
+      },
+      "caption": {
+        "ro": "Fotografie de prezentare publicată de operator.",
+        "en": "Presentation photograph published by the operator.",
+        "it": "Foto di presentazione pubblicata dal gestore.",
+        "fr": "Photo de présentation publiée par l’établissement.",
+        "es": "Foto de presentación publicada por el local.",
+        "zh-Hans": "运营方发布的展示照片。"
+      }
+    },
+    {
+      "activity": "Napoleon Pizza",
+      "path": "/media/photos-v04/napoleon.webp",
+      "author": "Autor neprecizat · fotografie furnizată de utilizator",
+      "source": "/data/v04-photo-provenance.json",
+      "license": "Furnizată de utilizator pentru acest proiect; autorul și licența publică nu sunt precizate.",
+      "rightsStatus": "user-supplied",
+      "alt": {
+        "ro": "Napoleon Pizza",
+        "en": "Napoleon Pizza",
+        "it": "Napoleon Pizza",
+        "fr": "Napoleon Pizza",
+        "es": "Napoleon Pizza",
+        "zh-Hans": "Napoleon Pizza"
+      }
+    },
+    {
+      "activity": "Why Pizza",
+      "path": "/media/photos-v04/white-pizza.webp",
+      "author": "Autor neprecizat · fotografie furnizată de utilizator",
+      "source": "/data/v04-photo-provenance.json",
+      "license": "Furnizată de utilizator pentru acest proiect; autorul și licența publică nu sunt precizate.",
+      "rightsStatus": "user-supplied",
+      "alt": {
+        "ro": "Why Pizza",
+        "en": "Why Pizza",
+        "it": "Why Pizza",
+        "fr": "Why Pizza",
+        "es": "Why Pizza",
+        "zh-Hans": "Why Pizza"
+      }
+    },
+    {
+      "activity": "Dei Frati",
+      "path": "/media/photos-v04/dei-frati.webp",
+      "author": "Autor neprecizat · fotografie furnizată de utilizator",
+      "source": "/data/v04-photo-provenance.json",
+      "license": "Furnizată de utilizator pentru acest proiect; autorul și licența publică nu sunt precizate.",
+      "rightsStatus": "user-supplied",
+      "alt": {
+        "ro": "Dei Frati",
+        "en": "Dei Frati",
+        "it": "Dei Frati",
+        "fr": "Dei Frati",
+        "es": "Dei Frati",
+        "zh-Hans": "Dei Frati"
+      }
+    },
+    {
+      "activity": "Del Corso",
+      "path": "/media/photos-v04/del-corso.webp",
+      "author": "Autor neprecizat · fotografie furnizată de utilizator",
+      "source": "/data/v04-photo-provenance.json",
+      "license": "Furnizată de utilizator pentru acest proiect; autorul și licența publică nu sunt precizate.",
+      "rightsStatus": "user-supplied",
+      "alt": {
+        "ro": "Del Corso",
+        "en": "Del Corso",
+        "it": "Del Corso",
+        "fr": "Del Corso",
+        "es": "Del Corso",
+        "zh-Hans": "Del Corso"
+      }
+    },
+    {
+      "activity": "El Maguey",
+      "path": "/media/photos-v04/el-maguey.webp",
+      "author": "Autor neprecizat · fotografie furnizată de utilizator",
+      "source": "/data/v04-photo-provenance.json",
+      "license": "Furnizată de utilizator pentru acest proiect; autorul și licența publică nu sunt precizate.",
+      "rightsStatus": "user-supplied",
+      "alt": {
+        "ro": "El Maguey",
+        "en": "El Maguey",
+        "it": "El Maguey",
+        "fr": "El Maguey",
+        "es": "El Maguey",
+        "zh-Hans": "El Maguey"
+      }
+    },
+    {
+      "activity": "Berăria 700",
+      "path": "/media/photos-v04/beraria.webp",
+      "author": "Autor neprecizat · fotografie furnizată de utilizator",
+      "source": "/data/v04-photo-provenance.json",
+      "license": "Furnizată de utilizator pentru acest proiect; autorul și licența publică nu sunt precizate.",
+      "rightsStatus": "user-supplied",
+      "alt": {
+        "ro": "Berăria 700",
+        "en": "Berăria 700",
+        "it": "Berăria 700",
+        "fr": "Berăria 700",
+        "es": "Berăria 700",
+        "zh-Hans": "Berăria 700"
+      }
+    },
+    {
+      "activity": "Casa Bunicii Garden",
+      "path": "/media/photos-v03/city-casa-bunicii.webp",
+      "author": "Autor neprecizat (pagina operatorului Casa Bunicii Garden)",
+      "source": "https://www.casa-bunicii.ro/",
+      "license": "Sursă: site-ul operatorului · licență de reutilizare neprecizată",
+      "rightsStatus": "operator-homepage-unconfirmed",
+      "alt": {
+        "ro": "Grădina și mesele restaurantului Casa Bunicii Garden, văzute de sus.",
+        "en": "Garden and restaurant tables at Casa Bunicii Garden, viewed from above.",
+        "it": "Giardino e tavoli del ristorante Casa Bunicii Garden, visti dall’alto.",
+        "fr": "Jardin et tables du restaurant Casa Bunicii Garden, vus d’en haut.",
+        "es": "Jardín y mesas del restaurante Casa Bunicii Garden, vistos desde arriba.",
+        "zh-Hans": "从上方拍摄的 Casa Bunicii Garden 花园与餐桌。"
+      },
+      "caption": {
+        "ro": "Fotografie de prezentare publicată de operator.",
+        "en": "Presentation photograph published by the operator.",
+        "it": "Foto di presentazione pubblicata dal gestore.",
+        "fr": "Photo de présentation publiée par l’établissement.",
+        "es": "Foto de presentación publicada por el local.",
+        "zh-Hans": "运营方发布的展示照片。"
+      }
+    },
+    {
+      "activity": "Restaurant ZONE 2",
+      "path": "/media/photos-v04/zone-2.webp",
+      "author": "Autor neprecizat · fotografie furnizată de utilizator",
+      "source": "/data/v04-photo-provenance.json",
+      "license": "Furnizată de utilizator pentru acest proiect; autorul și licența publică nu sunt precizate.",
+      "rightsStatus": "user-supplied",
+      "alt": {
+        "ro": "Restaurant ZONE 2",
+        "en": "Restaurant ZONE 2",
+        "it": "Restaurant ZONE 2",
+        "fr": "Restaurant ZONE 2",
+        "es": "Restaurant ZONE 2",
+        "zh-Hans": "Restaurant ZONE 2"
+      }
+    },
+    {
+      "activity": "DAF Junior",
+      "path": "/media/photos-v03/city-daf-junior.webp",
+      "author": "Autor neprecizat (pagina operatorului DAF Junior)",
+      "source": "https://dafjunior.ro/",
+      "license": "Sursă: site-ul operatorului · licență de reutilizare neprecizată",
+      "rightsStatus": "operator-homepage-unconfirmed",
+      "alt": {
+        "ro": "Interior prezentat pe pagina DAF Junior.",
+        "en": "Interior shown on the DAF Junior page.",
+        "it": "Interni mostrati nella pagina di DAF Junior.",
+        "fr": "Intérieur présenté sur la page de DAF Junior.",
+        "es": "Interior mostrado en la página de DAF Junior.",
+        "zh-Hans": "DAF Junior 页面展示的室内空间。"
+      },
+      "caption": {
+        "ro": "Fotografie de prezentare publicată de operator.",
+        "en": "Presentation photograph published by the operator.",
+        "it": "Foto di presentazione pubblicata dal gestore.",
+        "fr": "Photo de présentation publiée par l’établissement.",
+        "es": "Foto de presentación publicada por el local.",
+        "zh-Hans": "运营方发布的展示照片。"
+      }
+    },
+    {
+      "activity": "Complex Flonta",
+      "path": "/media/photos-v03/city-flonta.webp",
+      "author": "Autor neprecizat (pagina operatorului Complex Flonta)",
+      "source": "https://complex-flonta.ro/",
+      "license": "Sursă: site-ul operatorului · licență de reutilizare neprecizată",
+      "rightsStatus": "operator-homepage-unconfirmed",
+      "alt": {
+        "ro": "Terasa Complex Flonta, lângă apă.",
+        "en": "The Complex Flonta terrace beside the water.",
+        "it": "La terrazza di Complex Flonta, accanto all’acqua.",
+        "fr": "La terrasse de Complex Flonta, au bord de l’eau.",
+        "es": "La terraza de Complex Flonta, junto al agua.",
+        "zh-Hans": "Complex Flonta 的水边露台。"
+      },
+      "caption": {
+        "ro": "Fotografie de prezentare publicată de operator.",
+        "en": "Presentation photograph published by the operator.",
+        "it": "Foto di presentazione pubblicata dal gestore.",
+        "fr": "Photo de présentation publiée par l’établissement.",
+        "es": "Foto de presentación publicada por el local.",
+        "zh-Hans": "运营方发布的展示照片。"
+      }
+    },
+    {
+      "activity": "Muzeul Național de Artă Timișoara",
+      "path": "/media/photos-v04/muzeul-arta.webp",
+      "author": "Autor neprecizat · fotografie furnizată de utilizator",
+      "source": "/data/v04-photo-provenance.json",
+      "license": "Furnizată de utilizator pentru acest proiect; autorul și licența publică nu sunt precizate.",
+      "rightsStatus": "user-supplied",
+      "alt": {
+        "ro": "Muzeul Național de Artă Timișoara",
+        "en": "Timișoara National Museum of Art",
+        "it": "Museo Nazionale d’Arte di Timișoara",
+        "fr": "Musée national d’art de Timișoara",
+        "es": "Museo Nacional de Arte de Timișoara",
+        "zh-Hans": "蒂米什瓦拉国家艺术博物馆"
+      }
+    },
+    {
+      "activity": "Memorialul Revoluției",
+      "path": "/media/photos-v04/memorialul-revolutiei.webp",
+      "author": "Autor neprecizat · fotografie furnizată de utilizator",
+      "source": "/data/v04-photo-provenance.json",
+      "license": "Furnizată de utilizator pentru acest proiect; autorul și licența publică nu sunt precizate.",
+      "rightsStatus": "user-supplied",
+      "alt": {
+        "ro": "Memorialul Revoluției",
+        "en": "Revolution Memorial",
+        "it": "Memoriale della Rivoluzione",
+        "fr": "Mémorial de la Révolution",
+        "es": "Memorial de la Revolución",
+        "zh-Hans": "革命纪念馆"
+      }
+    },
+    {
+      "activity": "Muzeul Național al Banatului — Bastion",
+      "path": "/media/photos/muzeul-banatului.webp",
+      "author": "Marius Catalin Boldeanu",
+      "source": "https://commons.wikimedia.org/wiki/File:Bastionul_Theresia_din_Timisoara_(2).jpg",
+      "license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0",
+      "alt": {
+        "ro": "Muzeul Național al Banatului — Bastion",
+        "en": "National Museum of Banat — Bastion",
+        "it": "Museo Nazionale del Banato — Bastione",
+        "fr": "Musée national du Banat — Bastion",
+        "es": "Museo Nacional del Banato — Bastión",
+        "zh-Hans": "巴纳特国家博物馆 — 堡垒馆址"
+      },
+      "rightsStatus": "licensed"
+    },
+    {
+      "activity": "Muzeul Consumatorului Comunist",
+      "path": "/media/photos-v04/muzeul-comunismului.webp",
+      "author": "Autor neprecizat · fotografie furnizată de utilizator",
+      "source": "/data/v04-photo-provenance.json",
+      "license": "Furnizată de utilizator pentru acest proiect; autorul și licența publică nu sunt precizate.",
+      "rightsStatus": "user-supplied",
+      "alt": {
+        "ro": "Muzeul Consumatorului Comunist",
+        "en": "Communist Consumer Museum",
+        "it": "Museo del Consumatore Comunista",
+        "fr": "Musée du consommateur communiste",
+        "es": "Museo del Consumidor Comunista",
+        "zh-Hans": "共产主义时期消费生活博物馆"
+      }
+    },
+    {
+      "activity": "Jecza Gallery",
+      "path": "/media/photos-v04/jecza.webp",
+      "author": "Autor neprecizat · fotografie furnizată de utilizator",
+      "source": "/data/v04-photo-provenance.json",
+      "license": "Furnizată de utilizator pentru acest proiect; autorul și licența publică nu sunt precizate.",
+      "rightsStatus": "user-supplied",
+      "alt": {
+        "ro": "Jecza Gallery",
+        "en": "Jecza Gallery",
+        "it": "Jecza Gallery",
+        "fr": "Jecza Gallery",
+        "es": "Jecza Gallery",
+        "zh-Hans": "Jecza Gallery"
+      }
+    },
+    {
+      "activity": "Muzeul Apei",
+      "path": "/media/photos-v03/city-muzeul-apei.webp",
+      "author": "Autor neprecizat (pagina operatorului Muzeul Apei)",
+      "source": "https://www.muzeulapei.ro/",
+      "license": "Sursă: site-ul operatorului · licență de reutilizare neprecizată",
+      "rightsStatus": "operator-homepage-unconfirmed",
+      "alt": {
+        "ro": "Vizitatori lângă utilajele expuse la Muzeul Apei.",
+        "en": "Visitors beside the machinery displayed at Muzeul Apei.",
+        "it": "Visitatori accanto ai macchinari esposti al Muzeul Apei.",
+        "fr": "Visiteurs près des machines exposées au Muzeul Apei.",
+        "es": "Visitantes junto a la maquinaria expuesta en Muzeul Apei.",
+        "zh-Hans": "Muzeul Apei 展出的机器与参观者。"
+      },
+      "caption": {
+        "ro": "Fotografie de prezentare publicată de operator.",
+        "en": "Presentation photograph published by the operator.",
+        "it": "Foto di presentazione pubblicata dal gestore.",
+        "fr": "Photo de présentation publiée par l’établissement.",
+        "es": "Foto de presentación publicada por el local.",
+        "zh-Hans": "运营方发布的展示照片。"
+      }
+    },
+    {
+      "activity": "Muzeul Satului Bănățean",
+      "path": "/media/photos-v04/muzeul-satului.webp",
+      "author": "Autor neprecizat · fotografie furnizată de utilizator",
+      "source": "/data/v04-photo-provenance.json",
+      "license": "Furnizată de utilizator pentru acest proiect; autorul și licența publică nu sunt precizate.",
+      "rightsStatus": "user-supplied",
+      "alt": {
+        "ro": "Muzeul Satului Bănățean",
+        "en": "Banat Village Museum",
+        "it": "Museo del Villaggio del Banato",
+        "fr": "Musée du village du Banat",
+        "es": "Museo de la Aldea del Banato",
+        "zh-Hans": "巴纳特乡村博物馆"
+      }
+    },
+    {
+      "activity": "Catedrala Mitropolitană „Sfinții Trei Ierarhi”",
+      "path": "/media/photos-v04/catedrala.webp",
+      "author": "Autor neprecizat · fotografie furnizată de utilizator",
+      "source": "/data/v04-photo-provenance.json",
+      "license": "Furnizată de utilizator pentru acest proiect; autorul și licența publică nu sunt precizate.",
+      "rightsStatus": "user-supplied",
+      "alt": {
+        "ro": "Catedrala Mitropolitană „Sfinții Trei Ierarhi”",
+        "en": "“Three Holy Hierarchs” Metropolitan Cathedral",
+        "it": "Cattedrale metropolitana dei Tre Santi Gerarchi",
+        "fr": "Cathédrale métropolitaine des Trois Saints Hiérarques",
+        "es": "Catedral Metropolitana de los Tres Santos Jerarcas",
+        "zh-Hans": "三圣教父都主教座堂"
+      }
+    },
+    {
+      "activity": "Piața Victoriei",
+      "path": "/media/photos-v04/piata-victoriei.webp",
+      "author": "Autor neprecizat · fotografie furnizată de utilizator",
+      "source": "/data/v04-photo-provenance.json",
+      "license": "Furnizată de utilizator pentru acest proiect; autorul și licența publică nu sunt precizate.",
+      "rightsStatus": "user-supplied",
+      "alt": {
+        "ro": "Piața Victoriei",
+        "en": "Victory Square",
+        "it": "Piazza della Vittoria",
+        "fr": "Place de la Victoire",
+        "es": "Plaza de la Victoria",
+        "zh-Hans": "胜利广场"
+      }
+    },
+    {
+      "activity": "Piața Libertății",
+      "path": "/media/photos-v04/piata-libertatii.webp",
+      "author": "Autor neprecizat · fotografie furnizată de utilizator",
+      "source": "/data/v04-photo-provenance.json",
+      "license": "Furnizată de utilizator pentru acest proiect; autorul și licența publică nu sunt precizate.",
+      "rightsStatus": "user-supplied",
+      "alt": {
+        "ro": "Piața Libertății",
+        "en": "Liberty Square",
+        "it": "Piazza della Libertà",
+        "fr": "Place de la Liberté",
+        "es": "Plaza de la Libertad",
+        "zh-Hans": "自由广场"
+      }
+    },
+    {
+      "activity": "Piața Unirii",
+      "path": "/media/photos-v04/piata-unirii.webp",
+      "author": "Autor neprecizat · fotografie furnizată de utilizator",
+      "source": "/data/v04-photo-provenance.json",
+      "license": "Furnizată de utilizator pentru acest proiect; autorul și licența publică nu sunt precizate.",
+      "rightsStatus": "user-supplied",
+      "alt": {
+        "ro": "Piața Unirii",
+        "en": "Union Square",
+        "it": "Piazza dell’Unione",
+        "fr": "Place de l’Union",
+        "es": "Plaza de la Unión",
+        "zh-Hans": "联合广场"
+      }
+    },
+    {
+      "activity": "Cartierul Cetate",
+      "path": "/media/photos-v04/cetate.webp",
+      "author": "Autor neprecizat · fotografie furnizată de utilizator",
+      "source": "/data/v04-photo-provenance.json",
+      "license": "Furnizată de utilizator pentru acest proiect; autorul și licența publică nu sunt precizate.",
+      "rightsStatus": "user-supplied",
+      "alt": {
+        "ro": "Cartierul Cetate",
+        "en": "Cetate historic district",
+        "it": "Quartiere storico Cetate",
+        "fr": "Quartier historique Cetate",
+        "es": "Barrio histórico Cetate",
+        "zh-Hans": "Cetate 历史街区"
+      }
+    },
+    {
+      "activity": "Biserica Millennium",
+      "path": "/media/photos/millennium.webp",
+      "author": "BuhaM",
+      "source": "https://commons.wikimedia.org/wiki/File:Millennium_Church,_Timi%C8%99oara_02.jpg",
+      "license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0",
+      "alt": {
+        "ro": "Biserica Millennium",
+        "en": "Millennium Church",
+        "it": "Chiesa del Millennio",
+        "fr": "Église Millennium",
+        "es": "Iglesia Millennium",
+        "zh-Hans": "千禧教堂"
+      },
+      "rightsStatus": "licensed"
+    },
+    {
+      "activity": "Muzeul de Transport Public „Corneliu Mikloși”",
+      "path": "/media/photos-v04/muzeul-transportului.webp",
+      "author": "Autor neprecizat · fotografie furnizată de utilizator",
+      "source": "/data/v04-photo-provenance.json",
+      "license": "Furnizată de utilizator pentru acest proiect; autorul și licența publică nu sunt precizate.",
+      "rightsStatus": "user-supplied",
+      "alt": {
+        "ro": "Muzeul de Transport Public „Corneliu Mikloși”",
+        "en": "Corneliu Mikloși Public Transport Museum",
+        "it": "Museo del trasporto pubblico Corneliu Mikloși",
+        "fr": "Musée des transports publics Corneliu Mikloși",
+        "es": "Museo del Transporte Público Corneliu Mikloși",
+        "zh-Hans": "Corneliu Mikloși 公共交通博物馆"
+      }
+    },
+    {
+      "activity": "Castelul Huniade",
+      "path": "/media/photos-v04/castelul-huniade.webp",
+      "author": "Autor neprecizat · fotografie furnizată de utilizator",
+      "source": "/data/v04-photo-provenance.json",
+      "license": "Furnizată de utilizator pentru acest proiect; autorul și licența publică nu sunt precizate.",
+      "rightsStatus": "user-supplied",
+      "alt": {
+        "ro": "Castelul Huniade",
+        "en": "Huniade Castle",
+        "it": "Castello Huniade",
+        "fr": "Château Huniade",
+        "es": "Castillo Huniade",
+        "zh-Hans": "胡尼亚德城堡"
+      }
+    },
+    {
+      "activity": "Palatul Apelor",
+      "path": "/media/photos-v04/palatul-apelor.webp",
+      "author": "Autor neprecizat · fotografie furnizată de utilizator",
+      "source": "/data/v04-photo-provenance.json",
+      "license": "Furnizată de utilizator pentru acest proiect; autorul și licența publică nu sunt precizate.",
+      "rightsStatus": "user-supplied",
+      "alt": {
+        "ro": "Palatul Apelor",
+        "en": "Water Palace",
+        "it": "Palazzo delle Acque",
+        "fr": "Palais des Eaux",
+        "es": "Palacio de las Aguas",
+        "zh-Hans": "水宫"
+      }
+    },
+    {
+      "activity": "Sinagoga Nouă din Fabric",
+      "path": "/media/photos-v04/sinagoga-fabric.webp",
+      "author": "Autor neprecizat · fotografie furnizată de utilizator",
+      "source": "/data/v04-photo-provenance.json",
+      "license": "Furnizată de utilizator pentru acest proiect; autorul și licența publică nu sunt precizate.",
+      "rightsStatus": "user-supplied",
+      "alt": {
+        "ro": "Sinagoga Nouă din Fabric",
+        "en": "Fabric New Synagogue",
+        "it": "Sinagoga Nuova di Fabric",
+        "fr": "Nouvelle synagogue de Fabric",
+        "es": "Sinagoga Nueva de Fabric",
+        "zh-Hans": "Fabric 新犹太会堂"
+      }
+    },
+    {
+      "activity": "Sinagoga din Cetate",
+      "path": "/media/photos-v04/sinagoga-cetate.webp",
+      "author": "Autor neprecizat · fotografie furnizată de utilizator",
+      "source": "/data/v04-photo-provenance.json",
+      "license": "Furnizată de utilizator pentru acest proiect; autorul și licența publică nu sunt precizate.",
+      "rightsStatus": "user-supplied",
+      "alt": {
+        "ro": "Sinagoga din Cetate",
+        "en": "Cetate Synagogue",
+        "it": "Sinagoga di Cetate",
+        "fr": "Synagogue de Cetate",
+        "es": "Sinagoga de Cetate",
+        "zh-Hans": "Cetate 犹太会堂"
+      }
+    },
+    {
+      "activity": "Palatul Ștefania",
+      "path": "/media/photos-v04/palatul-stefania.webp",
+      "author": "Autor neprecizat · fotografie furnizată de utilizator",
+      "source": "/data/v04-photo-provenance.json",
+      "license": "Furnizată de utilizator pentru acest proiect; autorul și licența publică nu sunt precizate.",
+      "rightsStatus": "user-supplied",
+      "alt": {
+        "ro": "Palatul Ștefania",
+        "en": "Ștefania Palace",
+        "it": "Palazzo Ștefania",
+        "fr": "Palais Ștefania",
+        "es": "Palacio Ștefania",
+        "zh-Hans": "Ștefania 宫"
+      }
+    },
+    {
+      "activity": "Casa cu Atlanți — Casa Makri",
+      "path": "/media/photos-v04/casa-cu-atlanti.webp",
+      "author": "Autor neprecizat · fotografie furnizată de utilizator",
+      "source": "/data/v04-photo-provenance.json",
+      "license": "Furnizată de utilizator pentru acest proiect; autorul și licența publică nu sunt precizate.",
+      "rightsStatus": "user-supplied",
+      "alt": {
+        "ro": "Casa cu Atlanți — Casa Makri",
+        "en": "House with Atlantes — Makri House",
+        "it": "Casa degli Atlanti — Casa Makri",
+        "fr": "Maison aux Atlantes — Maison Makri",
+        "es": "Casa de los Atlantes — Casa Makri",
+        "zh-Hans": "阿特拉斯人像之家 — Makri 宅"
+      }
+    },
+    {
+      "activity": "Sinagoga din Iosefin",
+      "path": "/media/photos-v04/sinagoga-iosefin.webp",
+      "author": "Autor neprecizat · fotografie furnizată de utilizator",
+      "source": "/data/v04-photo-provenance.json",
+      "license": "Furnizată de utilizator pentru acest proiect; autorul și licența publică nu sunt precizate.",
+      "rightsStatus": "user-supplied",
+      "alt": {
+        "ro": "Sinagoga din Iosefin",
+        "en": "Iosefin Synagogue",
+        "it": "Sinagoga di Iosefin",
+        "fr": "Synagogue de Iosefin",
+        "es": "Sinagoga de Iosefin",
+        "zh-Hans": "Iosefin 犹太会堂"
+      }
+    }
+  ],
+  "libraries": "License texts in /licenses/",
+  "map": "OpenStreetMap contributors — ODbL; required map attribution remains on the map."
+}
