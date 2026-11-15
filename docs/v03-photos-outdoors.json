@@ -1,0 +1,722 @@
+{
+  "checkedAt": "2026-11-13",
+  "scope": [
+    "adventure",
+    "kids",
+    "nature",
+    "relax"
+  ],
+  "counts": {
+    "missingAtStart": 27,
+    "newLicensedPhotos": 0,
+    "operatorFallbackPhotos": 19,
+    "remaining": 8
+  },
+  "policy": "User explicitly requested operator-start-page imagery when licensed exact images cannot be found. Selected fallback photographs are not claimed to carry a reuse grant. Some exact operator/branch/gallery pages are used to avoid generic homepage logos or wrong branches.",
+  "selected": {
+    "beat-seven": {
+      "photo": {
+        "path": "/media/photos-v03/outdoor-beat-seven.webp",
+        "author": "Autor neprecizat (site-ul operatorului)",
+        "source": "https://beatse7en.ro/",
+        "license": "Sursă: site-ul operatorului · licență de reutilizare neprecizată",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "alt": {
+          "ro": "Jucători pe podeaua LED de la Beat Se7en.",
+          "en": "Players on the LED floor at Beat Se7en.",
+          "it": "Giocatori sul pavimento LED di Beat Se7en.",
+          "fr": "Joueurs sur le sol LED de Beat Se7en.",
+          "es": "Jugadores en el suelo LED de Beat Se7en.",
+          "zh-Hans": "Beat Se7en 的玩家在 LED 地板上游戏。"
+        }
+      },
+      "evidence": {
+        "checkedAt": "2026-11-13",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "userRequestedFallback": true,
+        "sourcePage": "https://beatse7en.ro/",
+        "original": "https://beatse7en.ro/images/game photo 1.jpg",
+        "identity": "Exact operator source; subject visually inspected in operator-pil-sheet contact sheets and matching official page.",
+        "capturedAt": "not supplied",
+        "transformation": "EXIF orientation applied; resized 382×510 to 382×510; WebP quality85; no crop, retouch or generated content.",
+        "originalSha256": "7a8ff485e9372a79bb2275cd3cf79f4ceb2ca1a61748e18ef3def42ad90ad7c4",
+        "sha256": "dc67f1804dad6b2a1a81f346c6d08638eb0dde7a23c0457d513db6ba08432636",
+        "width": 382,
+        "height": 510,
+        "bytes": 28510,
+        "licenseGrantFound": false
+      }
+    },
+    "hype": {
+      "photo": {
+        "path": "/media/photos-v03/outdoor-hype.webp",
+        "author": "Autor neprecizat (site-ul operatorului)",
+        "source": "https://hypeplay.ro/hype-timisoara/",
+        "license": "Sursă: site-ul operatorului · licență de reutilizare neprecizată",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "alt": {
+          "ro": "Zonă cu bureți și echipamente de joacă la Hype Play.",
+          "en": "Foam pit and play equipment at Hype Play.",
+          "it": "Vasca di gommapiuma e giochi da Hype Play.",
+          "fr": "Bac de mousse et équipements chez Hype Play.",
+          "es": "Foso de espuma y juegos de Hype Play.",
+          "zh-Hans": "Hype Play 的海绵池与游乐设施。"
+        }
+      },
+      "evidence": {
+        "checkedAt": "2026-11-13",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "userRequestedFallback": true,
+        "sourcePage": "https://hypeplay.ro/hype-timisoara/",
+        "original": "https://hypeplay.ro/wp-content/uploads/2026/06/CRF29980-1024x683.jpg",
+        "identity": "Exact operator source; subject visually inspected in operator-pil-sheet contact sheets and matching official page.",
+        "capturedAt": "not supplied",
+        "transformation": "EXIF orientation applied; resized 1024×683 to 1024×683; WebP quality85; no crop, retouch or generated content.",
+        "originalSha256": "fe1ecc3be6e2627e0085ba611e9edb1b5999dfdb368ed419c3d04c00fe5c50c7",
+        "sha256": "007b7f54aac80c98e7522ca1267df5b5cac850b0c02f443610c73a28a7abd302",
+        "width": 1024,
+        "height": 683,
+        "bytes": 78698,
+        "licenseGrantFound": false
+      }
+    },
+    "animus": {
+      "photo": {
+        "path": "/media/photos-v03/outdoor-animus.webp",
+        "author": "Autor neprecizat (site-ul operatorului)",
+        "source": "https://animusarena.ro/",
+        "license": "Sursă: site-ul operatorului · licență de reutilizare neprecizată",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "alt": {
+          "ro": "Participanți pe podeaua interactivă din ANIMUS Arena.",
+          "en": "Participants on the interactive floor at ANIMUS Arena.",
+          "it": "Partecipanti sul pavimento interattivo di ANIMUS Arena.",
+          "fr": "Participants sur le sol interactif d’ANIMUS Arena.",
+          "es": "Participantes en el suelo interactivo de ANIMUS Arena.",
+          "zh-Hans": "ANIMUS Arena 的参与者在互动地板上游戏。"
+        }
+      },
+      "evidence": {
+        "checkedAt": "2026-11-13",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "userRequestedFallback": true,
+        "sourcePage": "https://animusarena.ro/",
+        "original": "https://animusarena.ro/__l5e/assets-v1/93570a6b-f76a-4008-b2ad-56e772bbb943/participanti-arena-led-hero-1920.webp",
+        "identity": "Exact operator source; subject visually inspected in operator-pil-sheet contact sheets and matching official page.",
+        "capturedAt": "not supplied",
+        "transformation": "EXIF orientation applied; resized 1920×1280 to 1440×960; WebP quality85; no crop, retouch or generated content.",
+        "originalSha256": "34353a69dc7ccf77f526ec7e2afd4509c05b57ed8c8fa1ffb03110eff38d535f",
+        "sha256": "ec0f2f02bcb19202b1cb3fc0ee977ce623914e18ad626532251228f46b7b782e",
+        "width": 1440,
+        "height": 960,
+        "bytes": 93780,
+        "licenseGrantFound": false
+      }
+    },
+    "red-motor": {
+      "photo": {
+        "path": "/media/photos-v03/outdoor-red-motor.webp",
+        "author": "Autor neprecizat (site-ul operatorului)",
+        "source": "https://www.redmotor.ro/",
+        "license": "Sursă: site-ul operatorului · licență de reutilizare neprecizată",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "alt": {
+          "ro": "Karturi electrice pe circuitul interior Red Motor.",
+          "en": "Electric karts on the Red Motor indoor track.",
+          "it": "Kart elettrici sulla pista coperta Red Motor.",
+          "fr": "Karts électriques sur la piste intérieure Red Motor.",
+          "es": "Karts eléctricos en la pista cubierta Red Motor.",
+          "zh-Hans": "Red Motor 室内赛道上的电动卡丁车。"
+        }
+      },
+      "evidence": {
+        "checkedAt": "2026-11-13",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "userRequestedFallback": true,
+        "sourcePage": "https://www.redmotor.ro/",
+        "original": "https://www.redmotor.ro/img/activitate-redmotor-4-electric-karts-1200.jpeg",
+        "identity": "Exact operator source; subject visually inspected in operator-pil-sheet contact sheets and matching official page.",
+        "capturedAt": "not supplied",
+        "transformation": "EXIF orientation applied; resized 1200×900 to 1200×900; WebP quality85; no crop, retouch or generated content.",
+        "originalSha256": "af4a303823be6bd54cb75c4f9621165cfb4c35b1b2d35c747176c75ef30ecc7b",
+        "sha256": "7b7847e0fc15e4099b57fd4f7aaf43f28a8b1599287c416d09b11ce960c8c9cc",
+        "width": 1200,
+        "height": 900,
+        "bytes": 124700,
+        "licenseGrantFound": false
+      }
+    },
+    "arcade": {
+      "photo": {
+        "path": "/media/photos-v03/outdoor-arcade.webp",
+        "author": "Autor neprecizat (site-ul operatorului)",
+        "source": "https://energy-games.ro/locatie/timisoara-iulius-town/",
+        "license": "Sursă: site-ul operatorului · licență de reutilizare neprecizată",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "alt": {
+          "ro": "Aparate arcade la Energy Games, Iulius Town Timișoara.",
+          "en": "Arcade machines at Energy Games, Iulius Town Timișoara.",
+          "it": "Videogiochi da Energy Games, Iulius Town Timișoara.",
+          "fr": "Bornes d’arcade chez Energy Games, Iulius Town Timișoara.",
+          "es": "Máquinas arcade de Energy Games, Iulius Town Timișoara.",
+          "zh-Hans": "蒂米什瓦拉 Iulius Town 的 Energy Games 街机。"
+        }
+      },
+      "evidence": {
+        "checkedAt": "2026-11-13",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "userRequestedFallback": true,
+        "sourcePage": "https://energy-games.ro/locatie/timisoara-iulius-town/",
+        "original": "https://energy-games.ro/wp-content/uploads/2023/11/Galerie1-4.jpg",
+        "identity": "Selected Galerie1-4.jpg from exact operator branch page /locatie/timisoara-iulius-town/, not Shopping City social-preview hero.",
+        "capturedAt": "not supplied",
+        "transformation": "EXIF orientation applied; resized 769×553 to 769×553; WebP quality85; no crop, retouch or generated content.",
+        "originalSha256": "65efce83517e0d1e7095948c7315c280447cf625c4e48a310fa32dcf7dc11396",
+        "sha256": "c5dc2d3eedfc4f72953fc44ccc404e38953f8064f30c6a4e0520f188558ea4e7",
+        "width": 769,
+        "height": 553,
+        "bytes": 101594,
+        "licenseGrantFound": false
+      }
+    },
+    "amazonia": {
+      "photo": {
+        "path": "/media/photos-v03/outdoor-amazonia.webp",
+        "author": "Autor neprecizat (site-ul operatorului)",
+        "source": "https://www.amazonia.ro/",
+        "license": "Sursă: site-ul operatorului · licență de reutilizare neprecizată",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "alt": {
+          "ro": "Tobogane și piscine exterioare la Amazonia Timișoara.",
+          "en": "Outdoor slides and pools at Amazonia Timișoara.",
+          "it": "Scivoli e piscine all’aperto di Amazonia Timișoara.",
+          "fr": "Toboggans et piscines extérieures d’Amazonia Timișoara.",
+          "es": "Toboganes y piscinas exteriores de Amazonia Timișoara.",
+          "zh-Hans": "蒂米什瓦拉 Amazonia 的室外滑梯与泳池。"
+        }
+      },
+      "evidence": {
+        "checkedAt": "2026-11-13",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "userRequestedFallback": true,
+        "sourcePage": "https://www.amazonia.ro/",
+        "original": "https://www.amazonia.ro/wp-content/uploads/Hero-Anaconda-Slides.jpg",
+        "identity": "Exact operator source; subject visually inspected in operator-pil-sheet contact sheets and matching official page.",
+        "capturedAt": "not supplied",
+        "transformation": "EXIF orientation applied; resized 2970×1756 to 1440×851; WebP quality85; no crop, retouch or generated content.",
+        "originalSha256": "84892aa3715a717286d69aa34007232546f4020cfe1519b1361705e0da6c6d2f",
+        "sha256": "499f470c11e197817f4e41b34ad0cb8b82c1ed84f200ecc09ba35312520ec111",
+        "width": 1440,
+        "height": 851,
+        "bytes": 352376,
+        "licenseGrantFound": false
+      }
+    },
+    "megazone": {
+      "photo": {
+        "path": "/media/photos-v03/outdoor-megazone.webp",
+        "author": "Autor neprecizat (site-ul operatorului)",
+        "source": "https://www.megazonetimisoara.ro/megazone-2",
+        "license": "Sursă: site-ul operatorului · licență de reutilizare neprecizată",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "alt": {
+          "ro": "Jucător cu echipament laser tag în arena Megazone 2.",
+          "en": "Player with laser tag equipment inside Megazone 2.",
+          "it": "Giocatore con attrezzatura laser tag da Megazone 2.",
+          "fr": "Joueur équipé de laser tag dans Megazone 2.",
+          "es": "Jugador con equipo de laser tag en Megazone 2.",
+          "zh-Hans": "Megazone 2 场馆内穿戴激光对战装备的玩家。"
+        }
+      },
+      "evidence": {
+        "checkedAt": "2026-11-13",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "userRequestedFallback": true,
+        "sourcePage": "https://www.megazonetimisoara.ro/megazone-2",
+        "original": "https://www.megazonetimisoara.ro/api/images/Textblocks/20/0466b966a5353fceedaf99f004736ad3",
+        "identity": "Exact operator source; subject visually inspected in operator-pil-sheet contact sheets and matching official page.",
+        "capturedAt": "not supplied",
+        "transformation": "EXIF orientation applied; resized 2000×1331 to 1440×958; WebP quality85; no crop, retouch or generated content.",
+        "originalSha256": "4ca10496d17f2b7b2ca535b54a440cd85e2aff4c27145660e23ab9ee186cee89",
+        "sha256": "18bae47d47fe5d7c3c1a15010c6c020b496c3dae9490316515247f146dc42178",
+        "width": 1440,
+        "height": 958,
+        "bytes": 42762,
+        "licenseGrantFound": false
+      }
+    },
+    "energy-kids": {
+      "photo": {
+        "path": "/media/photos-v03/outdoor-energy-kids.webp",
+        "author": "Autor neprecizat (site-ul operatorului)",
+        "source": "https://energykids.ro/locatii/timisoara-iulius-town/",
+        "license": "Sursă: site-ul operatorului · licență de reutilizare neprecizată",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "alt": {
+          "ro": "Interiorul locului de joacă Energy Kids din Iulius Town.",
+          "en": "Interior of the Energy Kids playground at Iulius Town.",
+          "it": "Interno dell’area giochi Energy Kids di Iulius Town.",
+          "fr": "Intérieur de l’aire de jeux Energy Kids d’Iulius Town.",
+          "es": "Interior de la zona de juegos Energy Kids de Iulius Town.",
+          "zh-Hans": "Iulius Town 的 Energy Kids 游乐区内部。"
+        }
+      },
+      "evidence": {
+        "checkedAt": "2026-11-13",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "userRequestedFallback": true,
+        "sourcePage": "https://energykids.ro/locatii/timisoara-iulius-town/",
+        "original": "https://energykids.ro/wp-content/uploads/2024/02/DSC01733-min-1024x683.jpg",
+        "identity": "Exact operator source; subject visually inspected in operator-pil-sheet contact sheets and matching official page.",
+        "capturedAt": "not supplied",
+        "transformation": "EXIF orientation applied; resized 1024×683 to 1024×683; WebP quality85; no crop, retouch or generated content.",
+        "originalSha256": "0044eeeb16d43095b2aa2927305220745b097140db6ac0e9e6a33a91eb0ea29c",
+        "sha256": "fabf83296d59858899449e4ce0e15ce703680e1151189183e48e71f17fd7aaa1",
+        "width": 1024,
+        "height": 683,
+        "bytes": 100932,
+        "licenseGrantFound": false
+      }
+    },
+    "arena-jocurilor": {
+      "photo": {
+        "path": "/media/photos-v03/outdoor-arena-jocurilor.webp",
+        "author": "Autor neprecizat (site-ul operatorului)",
+        "source": "https://arena-jocurilor.ro/",
+        "license": "Sursă: site-ul operatorului · licență de reutilizare neprecizată",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "alt": {
+          "ro": "Sală colorată pentru copii la Arena Jocurilor.",
+          "en": "Colourful children’s room at Arena Jocurilor.",
+          "it": "Sala colorata per bambini di Arena Jocurilor.",
+          "fr": "Salle colorée pour enfants d’Arena Jocurilor.",
+          "es": "Sala infantil de colores de Arena Jocurilor.",
+          "zh-Hans": "Arena Jocurilor 色彩缤纷的儿童活动室。"
+        }
+      },
+      "evidence": {
+        "checkedAt": "2026-11-13",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "userRequestedFallback": true,
+        "sourcePage": "https://arena-jocurilor.ro/",
+        "original": "https://arena-jocurilor.ro/img1/sala1_1.jpg",
+        "identity": "Exact operator source; subject visually inspected in operator-pil-sheet contact sheets and matching official page.",
+        "capturedAt": "not supplied",
+        "transformation": "EXIF orientation applied; resized 1310×490 to 1310×490; WebP quality85; no crop, retouch or generated content.",
+        "originalSha256": "f13662946dd5a0d3ac1274ef5f0e65141813766314a3a7443d972ee8dfea467c",
+        "sha256": "627e0a9240ca68cf19914424196d7c9539cb56ce2dc157836b5a5cfe2e46f145",
+        "width": 1310,
+        "height": 490,
+        "bytes": 189484,
+        "licenseGrantFound": false
+      }
+    },
+    "noso": {
+      "photo": {
+        "path": "/media/photos-v03/outdoor-noso.webp",
+        "author": "Autor neprecizat (site-ul operatorului)",
+        "source": "https://noso.ro/",
+        "license": "Sursă: site-ul operatorului · licență de reutilizare neprecizată",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "alt": {
+          "ro": "Activitate de grup cu un membru al echipei Noso.",
+          "en": "Group activity with a member of the Noso team.",
+          "it": "Attività di gruppo con un membro del team Noso.",
+          "fr": "Activité de groupe avec un membre de l’équipe Noso.",
+          "es": "Actividad en grupo con un miembro del equipo Noso.",
+          "zh-Hans": "Noso 团队成员带领的团体活动。"
+        }
+      },
+      "evidence": {
+        "checkedAt": "2026-11-13",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "userRequestedFallback": true,
+        "sourcePage": "https://noso.ro/",
+        "original": "https://noso.ro/wp-content/uploads/2023/05/WhatsApp-Image-2023-05-04-at-07.24.fa13.jpg",
+        "identity": "Exact operator source; subject visually inspected in operator-pil-sheet contact sheets and matching official page.",
+        "capturedAt": "not supplied",
+        "transformation": "EXIF orientation applied; resized 1024×577 to 1024×577; WebP quality85; no crop, retouch or generated content.",
+        "originalSha256": "a9007203e7043893421fae235d52738da373e66afb16bce11428ec12496486ff",
+        "sha256": "7f34a5b671001f9661ea0af68211fe6e3e67bbd9af9d78dcc9652646c88a5bcb",
+        "width": 1024,
+        "height": 577,
+        "bytes": 33050,
+        "licenseGrantFound": false
+      }
+    },
+    "planetarium": {
+      "photo": {
+        "path": "/media/photos-v03/outdoor-planetarium.webp",
+        "author": "Autor neprecizat (site-ul operatorului)",
+        "source": "https://physics.uvt.ro/planetariu/",
+        "license": "Sursă: site-ul operatorului · licență de reutilizare neprecizată",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "alt": {
+          "ro": "Proiectorul și scaunele din Planetariul UVT.",
+          "en": "Projector and seating inside the UVT Planetarium.",
+          "it": "Proiettore e posti a sedere nel Planetario UVT.",
+          "fr": "Projecteur et sièges du planétarium UVT.",
+          "es": "Proyector y asientos del Planetario UVT.",
+          "zh-Hans": "UVT 天文馆内的放映机与座椅。"
+        }
+      },
+      "evidence": {
+        "checkedAt": "2026-11-13",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "userRequestedFallback": true,
+        "sourcePage": "https://physics.uvt.ro/planetariu/",
+        "original": "https://physics.uvt.ro/wp-content/uploads/20250404_165603-scaled.jpg",
+        "identity": "Exact operator source; subject visually inspected in operator-pil-sheet contact sheets and matching official page.",
+        "capturedAt": "not supplied",
+        "transformation": "EXIF orientation applied; resized 2560×1920 to 1440×1080; WebP quality85; no crop, retouch or generated content.",
+        "originalSha256": "6939c657b30dc9b5bb67d3ef6610fa98226d119c051d2f0bd26a84d91323072f",
+        "sha256": "9939b84c6f668e4d519c720fef50966763679818094c8857e77746c14002fb41",
+        "width": 1440,
+        "height": 1080,
+        "bytes": 62728,
+        "licenseGrantFound": false
+      }
+    },
+    "bike-serbia": {
+      "photo": {
+        "path": "/media/photos-v03/outdoor-bike-serbia.webp",
+        "author": "Autor neprecizat (Consiliul Județean Timiș)",
+        "source": "https://www.cjtimis.ro/comunicate-de-presa/in-acest-weekend-se-redeschide-punctul-de-trecere-a-frontierei-pe-pista-timisoara-zrenjanin-din-luna-mai-acces-si-pentru-ambarcatiuni/",
+        "license": "Sursă: site-ul operatorului · licență de reutilizare neprecizată",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "alt": {
+          "ro": "Anunț oficial cu fotografie a bicicliștilor pe ruta Timișoara–Zrenjanin.",
+          "en": "Official announcement with a photograph of cyclists on the Timișoara–Zrenjanin route.",
+          "it": "Avviso ufficiale con fotografia di ciclisti sulla rotta Timișoara–Zrenjanin.",
+          "fr": "Annonce officielle avec photographie de cyclistes sur l’itinéraire Timișoara–Zrenjanin.",
+          "es": "Anuncio oficial con fotografía de ciclistas en la ruta Timișoara–Zrenjanin.",
+          "zh-Hans": "附有蒂米什瓦拉—兹雷尼亚宁路线骑行者照片的官方公告。"
+        },
+        "caption": {
+          "ro": "Anunț oficial publicat în martie 2026, cu o fotografie a traseului. Verifică separat condițiile actuale de trecere.",
+          "en": "Official announcement published in March 2026 with a route photograph. Check current crossing conditions separately.",
+          "it": "Avviso ufficiale di marzo 2026 con fotografia del percorso. Verifica separatamente le condizioni attuali di attraversamento.",
+          "fr": "Annonce officielle de mars 2026 avec une photographie du parcours. Vérifiez les conditions actuelles de passage.",
+          "es": "Anuncio oficial de marzo de 2026 con fotografía de la ruta. Consulta por separado las condiciones actuales del paso.",
+          "zh-Hans": "2026 年 3 月发布的官方公告，含路线照片。请另行确认当前通关条件。"
+        }
+      },
+      "evidence": {
+        "checkedAt": "2026-11-13",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "userRequestedFallback": true,
+        "sourcePage": "https://www.cjtimis.ro/comunicate-de-presa/in-acest-weekend-se-redeschide-punctul-de-trecere-a-frontierei-pe-pista-timisoara-zrenjanin-din-luna-mai-acces-si-pentru-ambarcatiuni/",
+        "original": "https://www.cjtimis.ro/wp-content/uploads/2026/03/Biciclete.jpeg",
+        "identity": "County council exact route reopening announcement, publishedMarch2026; poster contains an actual photograph of cyclists beside border officers. Entire announcement preserved and dated in caption.",
+        "capturedAt": "not supplied",
+        "transformation": "EXIF orientation applied; resized 1080×1350 to 1080×1350; WebP quality85; no crop, retouch or generated content.",
+        "originalSha256": "162e89932889b37d9d732d3b107511d61324727c3426b4ba9cf8f06b94749d2b",
+        "sha256": "7e5380b0b43fde8b8cad023fe35a6cc0f57e439f7a7ecca98acc8507fe9367b5",
+        "width": 1080,
+        "height": 1350,
+        "bytes": 173708,
+        "licenseGrantFound": false
+      }
+    },
+    "la-livada": {
+      "photo": {
+        "path": "/media/photos-v03/outdoor-la-livada.webp",
+        "author": "Autor neprecizat (site-ul operatorului)",
+        "source": "https://lalivadabanateana.ro/",
+        "license": "Sursă: site-ul operatorului · licență de reutilizare neprecizată",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "alt": {
+          "ro": "Zonă verde și leagăn la La Livada Bănățeană.",
+          "en": "Green grounds and a swing at La Livada Bănățeană.",
+          "it": "Spazio verde e altalena a La Livada Bănățeană.",
+          "fr": "Espace vert et balançoire à La Livada Bănățeană.",
+          "es": "Zona verde y columpio de La Livada Bănățeană.",
+          "zh-Hans": "La Livada Bănățeană 的绿地与秋千。"
+        }
+      },
+      "evidence": {
+        "checkedAt": "2026-11-13",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "userRequestedFallback": true,
+        "sourcePage": "https://lalivadabanateana.ro/",
+        "original": "https://lalivadabanateana.ro/wp-content/uploads/2023/11/acasa-3-scaled.jpg",
+        "identity": "Exact operator source; subject visually inspected in operator-pil-sheet contact sheets and matching official page.",
+        "capturedAt": "not supplied",
+        "transformation": "EXIF orientation applied; resized 1707×2560 to 960×1440; WebP quality85; no crop, retouch or generated content.",
+        "originalSha256": "d184caa0e498af5cdc43a12b0cb3880f762d58a5814e8ad0273fbb2a9296ca55",
+        "sha256": "a3000bc682246dcf35c539690ba083bf9c8eb0416e2007e40309d68f375c152a",
+        "width": 960,
+        "height": 1440,
+        "bytes": 169470,
+        "licenseGrantFound": false
+      }
+    },
+    "liziera": {
+      "photo": {
+        "path": "/media/photos-v03/outdoor-liziera.webp",
+        "author": "Autor neprecizat (site-ul operatorului)",
+        "source": "https://liziera.com/",
+        "license": "Sursă: site-ul operatorului · licență de reutilizare neprecizată",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "alt": {
+          "ro": "Colț cu scaune și oglindă în pădurea de la L’iziera Park.",
+          "en": "Chairs and a mirror in the woodland at L’iziera Park.",
+          "it": "Sedie e specchio nel bosco di L’iziera Park.",
+          "fr": "Chaises et miroir dans le bois de L’iziera Park.",
+          "es": "Sillas y espejo en el bosque de L’iziera Park.",
+          "zh-Hans": "L’iziera Park 林间的椅子与镜子。"
+        }
+      },
+      "evidence": {
+        "checkedAt": "2026-11-13",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "userRequestedFallback": true,
+        "sourcePage": "https://liziera.com/",
+        "original": "https://liziera.com/wp-content/uploads/2025/04/Liziera-Iulie-2023-60-scaled.jpg",
+        "identity": "Exact operator source; subject visually inspected in operator-pil-sheet contact sheets and matching official page.",
+        "capturedAt": "not supplied",
+        "transformation": "EXIF orientation applied; resized 2560×1707 to 1440×960; WebP quality85; no crop, retouch or generated content.",
+        "originalSha256": "04afb74a36e4f94b562cef3fbdbb8d3ac8141d4703a17e975606d7c3091cb13f",
+        "sha256": "e9e2090a05bf4ece16a9d1b05a52627d04b76890d236984c92367b034f176c8f",
+        "width": 1440,
+        "height": 960,
+        "bytes": 338874,
+        "licenseGrantFound": false
+      }
+    },
+    "pet-yoga": {
+      "photo": {
+        "path": "/media/photos-v03/outdoor-pet-yoga.webp",
+        "author": "Autor neprecizat (site-ul operatorului)",
+        "source": "https://puppyyoga.ro/",
+        "license": "Sursă: site-ul operatorului · licență de reutilizare neprecizată",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "alt": {
+          "ro": "Participantă și cățeluș într-o fotografie de prezentare Puppy Yoga România.",
+          "en": "Participant and puppy in a Puppy Yoga Romania promotional photograph.",
+          "it": "Partecipante e cucciolo in una fotografia di Puppy Yoga Romania.",
+          "fr": "Participante et chiot sur une photographie de Puppy Yoga Romania.",
+          "es": "Participante y cachorro en una fotografía de Puppy Yoga Romania.",
+          "zh-Hans": "Puppy Yoga Romania 宣传照片中的参与者与小狗。"
+        },
+        "caption": {
+          "ro": "Imagine de prezentare a operatorului; nu este confirmată ca fiind realizată la FABER.",
+          "en": "Operator promotional photograph; not confirmed as taken at FABER.",
+          "it": "Fotografia del gestore; non è confermato che sia stata scattata a FABER.",
+          "fr": "Photographie de l’exploitant ; prise de vue à FABER non confirmée.",
+          "es": "Fotografía del operador; no se ha confirmado que se tomara en FABER.",
+          "zh-Hans": "经营方宣传照片；尚未证实拍摄地点为 FABER。"
+        }
+      },
+      "evidence": {
+        "checkedAt": "2026-11-13",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "userRequestedFallback": true,
+        "sourcePage": "https://puppyyoga.ro/",
+        "original": "https://puppyyoga.ro/wp-content/uploads/2026/03/puppy-yoga-av-365_websize.jpg",
+        "identity": "Puppy Yoga Romania official homepage photograph; exact session/city unconfirmed, so public caption explicitly avoids claiming FABER/22Nov event.",
+        "capturedAt": "not supplied",
+        "transformation": "EXIF orientation applied; resized 1066×1600 to 959×1440; WebP quality85; no crop, retouch or generated content.",
+        "originalSha256": "3bd148648c947df64f662f5e68b71a87745585cc75c0fcaf45959c4ff6c4d64e",
+        "sha256": "dac7d6eb4e7b1eed9836b86d42e32cc2f48e037aa4c94c0f84b4b2bf16062c13",
+        "width": 959,
+        "height": 1440,
+        "bytes": 196330,
+        "licenseGrantFound": false
+      }
+    },
+    "dharmaland": {
+      "photo": {
+        "path": "/media/photos-v03/outdoor-dharmaland.webp",
+        "author": "Autor neprecizat (site-ul operatorului)",
+        "source": "https://gymone4spa.ro/",
+        "license": "Sursă: site-ul operatorului · licență de reutilizare neprecizată",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "alt": {
+          "ro": "Piscina interioară Gym One 4 Spa, fostul Dharmaland.",
+          "en": "Indoor pool at Gym One 4 Spa, formerly Dharmaland.",
+          "it": "Piscina coperta di Gym One 4 Spa, già Dharmaland.",
+          "fr": "Piscine intérieure de Gym One 4 Spa, anciennement Dharmaland.",
+          "es": "Piscina cubierta de Gym One 4 Spa, antes Dharmaland.",
+          "zh-Hans": "Gym One 4 Spa（原 Dharmaland）的室内泳池。"
+        }
+      },
+      "evidence": {
+        "checkedAt": "2026-11-13",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "userRequestedFallback": true,
+        "sourcePage": "https://gymone4spa.ro/",
+        "original": "https://gymone4spa.ro/wp-content/uploads/2025/03/SAN01424-HDR-1-2048x1366.jpg",
+        "identity": "Exact operator source; subject visually inspected in operator-pil-sheet contact sheets and matching official page.",
+        "capturedAt": "not supplied",
+        "transformation": "EXIF orientation applied; resized 2048×1366 to 1440×960; WebP quality85; no crop, retouch or generated content.",
+        "originalSha256": "67ebcaeedda0e459380e474d61fcdff4ff7c872a0f0472c028da0906dc770c88",
+        "sha256": "348c562be5153962a4d50d97947f78e2e438d11a60b0864f0be8ba341a216265",
+        "width": 1440,
+        "height": 960,
+        "bytes": 231676,
+        "licenseGrantFound": false
+      }
+    },
+    "grumi": {
+      "photo": {
+        "path": "/media/photos-v03/outdoor-grumi.webp",
+        "author": "Autor neprecizat (site-ul operatorului)",
+        "source": "https://gruni.ro/atelier/",
+        "license": "Sursă: site-ul operatorului · licență de reutilizare neprecizată",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "alt": {
+          "ro": "Intrarea atelierului Gruni, cu ceramică și panou pictat.",
+          "en": "Entrance to the Gruni studio with pottery and a painted sign.",
+          "it": "Ingresso dell’atelier Gruni con ceramiche e insegna dipinta.",
+          "fr": "Entrée de l’atelier Gruni avec céramiques et panneau peint.",
+          "es": "Entrada del taller Gruni con cerámica y cartel pintado.",
+          "zh-Hans": "Gruni 工作室入口的陶器与彩绘招牌。"
+        }
+      },
+      "evidence": {
+        "checkedAt": "2026-11-13",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "userRequestedFallback": true,
+        "sourcePage": "https://gruni.ro/atelier/",
+        "original": "https://gruni.ro/wp-content/uploads/gruni7-1536x1096.jpg",
+        "identity": "Exact operator source; subject visually inspected in operator-pil-sheet contact sheets and matching official page.",
+        "capturedAt": "not supplied",
+        "transformation": "EXIF orientation applied; resized 1536×1096 to 1440×1028; WebP quality85; no crop, retouch or generated content.",
+        "originalSha256": "ef5f17e790fb5a41f177a2a735c5c07fdd50e116c66841ab667148b2bf0d6a20",
+        "sha256": "6b26ecbb65659b9ebbd4a118ea1af6dc519dacc16aa8b690aecc535ca89aa43b",
+        "width": 1440,
+        "height": 1028,
+        "bytes": 262854,
+        "licenseGrantFound": false
+      }
+    },
+    "paintball": {
+      "photo": {
+        "path": "/media/photos-v03/outdoor-paintball.webp",
+        "author": "Autor neprecizat (site-ul operatorului)",
+        "source": "https://www.arenapaintball.ro/poze.html",
+        "license": "Sursă: site-ul operatorului · licență de reutilizare neprecizată",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "alt": {
+          "ro": "Grup de jucători pe terenul Army al Arena Paintball din zona Giroc.",
+          "en": "Group of players at the Arena Paintball Army grounds near Giroc.",
+          "it": "Gruppo di giocatori sul campo Army di Arena Paintball vicino a Giroc.",
+          "fr": "Groupe de joueurs sur le terrain Army d’Arena Paintball près de Giroc.",
+          "es": "Grupo de jugadores en el campo Army de Arena Paintball cerca de Giroc.",
+          "zh-Hans": "Giroc 附近 Arena Paintball Army 场地内的玩家合影。"
+        },
+        "caption": {
+          "ro": "Fotografie din galeria operatorului; data realizării nu este precizată.",
+          "en": "Photograph from the operator’s gallery; capture date unspecified.",
+          "it": "Fotografia della galleria del gestore; data di scatto non indicata.",
+          "fr": "Photographie de la galerie de l’exploitant ; date de prise de vue non précisée.",
+          "es": "Fotografía de la galería del operador; fecha de captura no indicada.",
+          "zh-Hans": "来自经营方图库；拍摄日期未注明。"
+        }
+      },
+      "evidence": {
+        "checkedAt": "2026-11-13",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "userRequestedFallback": true,
+        "sourcePage": "https://www.arenapaintball.ro/poze.html",
+        "original": "https://www.arenapaintball.ro/images/location_0_1.jpg",
+        "identity": "Operator location page identifies only Army grounds in former military training area near Giroc and explicitly links the gallery; gallery photograph shows industrial buildings/paintball participants. Home logo and paint-splash illustration rejected.",
+        "capturedAt": "not supplied",
+        "transformation": "EXIF orientation applied; resized 667×500 to 667×500; WebP quality85; no crop, retouch or generated content.",
+        "originalSha256": "c8e42015cac93f0c66a69eea3aa62eb2157490866972a410c135161b2cfd0507",
+        "sha256": "4f15f3323d983f1e1bc588495b78fe6d80f89daf1fc2dbba39156aecd09f52fb",
+        "width": 667,
+        "height": 500,
+        "bytes": 75624,
+        "licenseGrantFound": false
+      }
+    },
+    "herneacova": {
+      "photo": {
+        "path": "/media/photos-v03/outdoor-herneacova.webp",
+        "author": "Autor neprecizat (site-ul operatorului)",
+        "source": "https://herneacova.ro/279016651_2904048349893273_2193175180094128341_n/",
+        "license": "Sursă: site-ul operatorului · licență de reutilizare neprecizată",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "alt": {
+          "ro": "Trăsură, gazon și clădiri pe Domeniul Herneacova, în fotografia de arhivă a operatorului.",
+          "en": "Carriage, lawns and buildings at Domeniul Herneacova in the operator’s archive photograph.",
+          "it": "Carrozza, prati ed edifici del Domeniul Herneacova nella fotografia d’archivio del gestore.",
+          "fr": "Calèche, pelouses et bâtiments de Domeniul Herneacova sur une photographie d’archive de l’exploitant.",
+          "es": "Carruaje, césped y edificios de Domeniul Herneacova en una fotografía de archivo del operador.",
+          "zh-Hans": "经营方档案照片中的 Domeniul Herneacova 马车、草坪与建筑。"
+        },
+        "caption": {
+          "ro": "Fotografie din arhiva operatorului, încărcată în martie 2024; data fotografierii nu este precizată.",
+          "en": "Operator archive photograph uploaded in March 2024; capture date unspecified.",
+          "it": "Fotografia dell’archivio del gestore, caricata a marzo 2024; data di scatto non indicata.",
+          "fr": "Photographie d’archive de l’exploitant mise en ligne en mars 2024 ; date de prise de vue non précisée.",
+          "es": "Fotografía del archivo del operador subida en marzo de 2024; fecha de captura no indicada.",
+          "zh-Hans": "经营方档案照片，于 2024 年 3 月上传；拍摄日期未注明。"
+        }
+      },
+      "evidence": {
+        "checkedAt": "2026-11-13",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "userRequestedFallback": true,
+        "sourcePage": "https://herneacova.ro/279016651_2904048349893273_2193175180094128341_n/",
+        "original": "https://herneacova.ro/wp-content/uploads/2024/03/279016651_2904048349893273_2193175180094128341_n.jpg",
+        "identity": "Public operator WordPress media attachment ID2314, uploadedMarch2024. Visible estate lawns, horse carriage and buildings. Current homepage is a holding page; selected real estate photograph comes from operator archive, not a village substitute.",
+        "capturedAt": "not supplied",
+        "transformation": "EXIF orientation applied; resized 2048×1364 to 1440×959; WebP quality85; no crop, retouch or generated content.",
+        "originalSha256": "a06a004f7ab1bf851de626c105554b37dd9abbfbc6c4908035d336a32a7e98eb",
+        "sha256": "535d38e8bc7bcb0394db0eb3d5fa58fc5c9d307ceb124ca64e6ca112bc86fe66",
+        "width": 1440,
+        "height": 959,
+        "bytes": 350670,
+        "licenseGrantFound": false,
+        "uploadedAt": "2024-03-12T14:17:08",
+        "metadataSource": "https://herneacova.ro/wp-json/wp/v2/media/2314"
+      }
+    }
+  },
+  "remaining": {
+    "skydiving": {
+      "reason": "Operator homepage and linked tunnel page return403 to direct download; web tool can read page. Root handling."
+    },
+    "bowling": {
+      "reason": "No verified operator-owned homepage found. Available maps/Untappd/event listings are not operator homepage photos; unrelated Gentlemens Poker Club rejected."
+    },
+    "rolers": {
+      "reason": "Official homepage candidate visuals appear heavily synthetic/illustrative or generic disco/skates; no confidently real exact venue photo selected. Homepage brand/cafe illustrations rejected."
+    },
+    "exitgames": {
+      "reason": "Operator public landing page and canonical homepage return403; root handling."
+    },
+    "samantha": {
+      "reason": "Public Linktree exposes a logo/avatar illustration only; no venue photograph. Root handling."
+    },
+    "kids-town": {
+      "reason": "Operator homepage currently empty apart from tracking scripts; no actual photo. Root handling."
+    },
+    "plaja-noua": {
+      "reason": "Public operator Facebook homepage metadata accessible, but image is logo only. No login bypass attempted."
+    },
+    "paradisul-piratilor": {
+      "reason": "Explicitly reserved for root due editorial identity ambiguity."
+    }
+  },
+  "researchArtifacts": "work/v03-photos-outdoors",
+  "licensedCandidateNotSelected": {
+    "beat-seven": {
+      "source": "https://commons.wikimedia.org/wiki/File:Modehaus.jpg",
+      "author": "Monika Nickel (original uploader Elisabeth Packi)",
+      "license": "CC BY-SA3.0 Germany",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/",
+      "capturedAt": "2010-05-24",
+      "VRTticket": "2010071510022738",
+      "reason": "Exact Modex host-building exterior authenticated and inspected; actual current Beat Se7en operator photograph selected after user fallback authorization."
+    }
+  },
+  "coverageResearchNotes": [
+    "Commercial Flickr queries using newly resolved ZeroGravity, Gruni, Herneacova Jumping, Liziera Park, Arena Paintball Giroc and FABER names returned no exact licensed photos.",
+    "Commons name searches cached; rate429 encountered and queries stopped. No unrelated generic photos selected.",
+    "KartaView coverage absent at exact Modoș route entrance(alsoAPI2), LaLivada(alsoAPI2), PlajaNouă, Amazonia,Hype,Megazone,ArenaJocurilor,Herneacova. FABER/Roller nearest frames on different streets rejected. No KartaView image selected."
+  ]
+}

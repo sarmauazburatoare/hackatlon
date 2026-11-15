@@ -1,0 +1,2 @@
+import {defineConfig} from '@playwright/test';
+export default defineConfig({testDir:'tests/e2e',timeout:60000,fullyParallel:false,workers:1,use:{baseURL:'http://127.0.0.1:4174',headless:true,launchOptions:{args:['--use-gl=angle','--use-angle=swiftshader','--enable-webgl','--no-sandbox']}},webServer:{command:'node serve.mjs --port 4174 --no-open',url:'http://127.0.0.1:4174',reuseExistingServer:true},reporter:[['list'],['json',{outputFile:'docs/e2e-results.json'}]]});

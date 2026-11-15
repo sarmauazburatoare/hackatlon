@@ -1,0 +1,65 @@
+{
+  "generatedOn": "2026-11-13",
+  "method": "One-time local neural synthesis from authored multilingual texts, preset synthetic voices; no voice cloning; no runtime API.",
+  "Supertonic-3": {
+    "author": "Supertone",
+    "source": "https://huggingface.co/Supertone/supertonic-3",
+    "revision": "724fb5abbf5502583fb520898d45929e62f02c0b",
+    "sdk": "supertonic1.3.1",
+    "license": "BigScience OpenRAIL-M; output clause6 leaves generated content rights unclaimed by modellicensor",
+    "languages": [
+      "ro",
+      "en",
+      "it",
+      "fr",
+      "es"
+    ],
+    "presetVoices": {
+      "fountain": "F3",
+      "wolf": "F1",
+      "lantern": "M1",
+      "clock": "M3",
+      "roses": "F2",
+      "umbrellas": "F5",
+      "beer": "M2"
+    }
+  },
+  "Kokoro-82M": {
+    "author": "hexgrad",
+    "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+    "revision": "f3ff3571791e39611d31c381e3a41a3af07b4987",
+    "sdk": "kokoro0.9.4,misaki0.9.4",
+    "license": "Apache-2.0 model card declaration",
+    "languages": [
+      "zh-Hans"
+    ],
+    "presetVoices": {
+      "wolf": "zf_xiaobei",
+      "lantern": "zm_yunxi",
+      "clock": "zm_yunxia",
+      "roses": "zf_xiaoyi",
+      "umbrellas": "zf_xiaoxiao",
+      "beer": "zm_yunjian"
+    }
+  },
+  "notRedistributed": "Neural model weights, synthesis engine/runtime and generation venv are not part of site or share archive. Only MP3/VTT/cue metadata and attribution notices.",
+  "quality": "Automated audio decoding, transcript/cue checks and independent ASR samples; no claim of native-speaker human review.",
+  "Kokoro-82M-v1.1-zh": {
+    "author": "hexgrad; permissively supplied Mandarin training voices by LongMaoData",
+    "source": "https://huggingface.co/hexgrad/Kokoro-82M-v1.1-zh",
+    "revision": "01e7505bd6a7a2ac4975463114c3a7650a9f7218",
+    "sdk": "kokoro0.9.4,misaki0.9.4",
+    "license": "Apache-2.0 model card declaration",
+    "languages": [
+      "zh-Hans"
+    ],
+    "presetVoices": {
+      "fountain": "zf_001"
+    }
+  },
+  "corrections": [
+    "Numerals expanded to written spoken forms before synthesis in all6languages; authored captions retain numerals.",
+    "Italian umbrella opening merged with its next sentence for stable short-phrase synthesis.",
+    "Mandarin fountain v1.0voice replaced after two independent ASR models flagged intelligibility; v1.1-zh/zf001 audition matched the full intended first sentence."
+  ]
+}

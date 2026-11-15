@@ -1,0 +1,3945 @@
+{
+  "checkedAt": "2026-11-13T22:11:32.671Z",
+  "base": "http://127.0.0.1:4176",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "scope": "Independent v0.3 production smoke: all nine catalogs with every appearance image scrolled/decoded in three engines; six-language food/cafes and credits checks in Chromium; specified caveats and adventure 3D room.",
+  "build": {
+    "version": "0.3.0",
+    "indexMtime": "2026-11-13T22:10:41.347Z",
+    "indexSha256": "3ab93a9f859a400a76a14eee9fad6cdeb958fbca2b981c5516ff9bd3c0a9a476",
+    "sourceDataSha256": "0b768f60b4c26207cdaf45f02133ee8283b79d9cb031004e86d990a328475f65",
+    "indexUnchanged": true,
+    "referencedAssets": [
+      {
+        "path": "./assets/index-Cf4HjVgM.js",
+        "sha256": "5415df3f3cb03812a3e2e556060e74222bd82d6585ac6bebaccd685da050f556"
+      },
+      {
+        "path": "./assets/index-CUbUSFJs.css",
+        "sha256": "e05fea272cdafd5f37f755a3b5d7036bca6c0907ff299fa7c5e06f607ce3f3e2"
+      }
+    ]
+  },
+  "inventory": {
+    "uniqueEntities": 84,
+    "appearances": 85,
+    "entitiesWithImage": 74,
+    "imageAppearances": 75,
+    "licensedEntities": 22,
+    "operatorUnconfirmedEntities": 52,
+    "distinctImagePaths": 74,
+    "operatorUnconfirmedDistinctPaths": 52,
+    "newV03Files": 53
+  },
+  "results": [
+    {
+      "engine": "chromium",
+      "status": "pass",
+      "initialNetwork": {
+        "requests": [
+          {
+            "phase": "home",
+            "url": "http://127.0.0.1:4176/",
+            "resourceType": "document"
+          },
+          {
+            "phase": "home",
+            "url": "http://127.0.0.1:4176/assets/index-Cf4HjVgM.js",
+            "resourceType": "script"
+          },
+          {
+            "phase": "home",
+            "url": "http://127.0.0.1:4176/assets/index-CUbUSFJs.css",
+            "resourceType": "stylesheet"
+          },
+          {
+            "phase": "home",
+            "url": "http://127.0.0.1:4176/media/entrance.jpg",
+            "resourceType": "image"
+          },
+          {
+            "phase": "home",
+            "url": "http://127.0.0.1:4176/assets/libre-baskerville-latin-400-italic-Dx5Rrf3o.woff2",
+            "resourceType": "font"
+          },
+          {
+            "phase": "home",
+            "url": "http://127.0.0.1:4176/assets/cormorant-garamond-latin-400-italic-Dc_OZ8oc.woff2",
+            "resourceType": "font"
+          },
+          {
+            "phase": "home",
+            "url": "http://127.0.0.1:4176/assets/cormorant-garamond-latin-ext-400-normal-Drx2k2n9.woff2",
+            "resourceType": "font"
+          },
+          {
+            "phase": "home",
+            "url": "http://127.0.0.1:4176/assets/dm-sans-latin-ext-400-normal-BtiwyxMk.woff2",
+            "resourceType": "font"
+          },
+          {
+            "phase": "home",
+            "url": "http://127.0.0.1:4176/assets/dm-sans-latin-400-normal-CW0RaeGs.woff2",
+            "resourceType": "font"
+          },
+          {
+            "phase": "home",
+            "url": "http://127.0.0.1:4176/assets/cormorant-garamond-latin-400-normal-B-1hWBU7.woff2",
+            "resourceType": "font"
+          }
+        ],
+        "mp3Requests": [],
+        "museum3DRequests": [],
+        "overflow": {
+          "viewport": 390,
+          "documentWidth": 390,
+          "documentOverflow": false,
+          "modalWidth": null,
+          "modalScrollWidth": null,
+          "modalClientWidth": null,
+          "modalOverflow": false
+        }
+      },
+      "catalogs": [
+        {
+          "category": "adventure",
+          "appearances": 14,
+          "images": [
+            {
+              "id": "beat-seven",
+              "attributeSrc": "./media/photos-v03/outdoor-beat-seven.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/outdoor-beat-seven.webp",
+              "naturalWidth": 382,
+              "naturalHeight": 510,
+              "alt": "Jucători pe podeaua LED de la Beat Se7en.",
+              "top": 531.1875,
+              "bottom": 749.078125
+            },
+            {
+              "id": "hype",
+              "attributeSrc": "./media/photos-v03/outdoor-hype.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/outdoor-hype.webp",
+              "naturalWidth": 1024,
+              "naturalHeight": 683,
+              "alt": "Zonă cu bureți și echipamente de joacă la Hype Play.",
+              "top": 313.171875,
+              "bottom": 531.0625
+            },
+            {
+              "id": "rolers",
+              "attributeSrc": "./media/photos-v03/root-rolers.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/root-rolers.webp",
+              "naturalWidth": 1280,
+              "naturalHeight": 720,
+              "alt": "Ilustrație de prezentare cu patine cu rotile și lumini colorate.",
+              "top": 312.59375,
+              "bottom": 530.484375
+            },
+            {
+              "id": "animus",
+              "attributeSrc": "./media/photos-v03/outdoor-animus.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/outdoor-animus.webp",
+              "naturalWidth": 1440,
+              "naturalHeight": 960,
+              "alt": "Participanți pe podeaua interactivă din ANIMUS Arena.",
+              "top": 626.578125,
+              "bottom": 844.46875
+            },
+            {
+              "id": "red-motor",
+              "attributeSrc": "./media/photos-v03/outdoor-red-motor.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/outdoor-red-motor.webp",
+              "naturalWidth": 1200,
+              "naturalHeight": 900,
+              "alt": "Karturi electrice pe circuitul interior Red Motor.",
+              "top": 312.5625,
+              "bottom": 530.453125
+            },
+            {
+              "id": "arcade",
+              "attributeSrc": "./media/photos-v03/outdoor-arcade.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/outdoor-arcade.webp",
+              "naturalWidth": 769,
+              "naturalHeight": 553,
+              "alt": "Aparate arcade la Energy Games, Iulius Town Timișoara.",
+              "top": 626.546875,
+              "bottom": 844.4375
+            },
+            {
+              "id": "amazonia",
+              "attributeSrc": "./media/photos-v03/outdoor-amazonia.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/outdoor-amazonia.webp",
+              "naturalWidth": 1440,
+              "naturalHeight": 851,
+              "alt": "Tobogane și piscine exterioare la Amazonia Timișoara.",
+              "top": 313.09375,
+              "bottom": 530.984375
+            },
+            {
+              "id": "exitgames",
+              "attributeSrc": "./media/photos-v03/root-exitgames.jpg",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/root-exitgames.jpg",
+              "naturalWidth": 720,
+              "naturalHeight": 445,
+              "alt": "Personaj Sherlock Holmes într-un decor de investigație, fotografie promoțională Exit Games Timișoara.",
+              "top": 625.640625,
+              "bottom": 843.53125
+            },
+            {
+              "id": "grumi",
+              "attributeSrc": "./media/photos-v03/outdoor-grumi.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/outdoor-grumi.webp",
+              "naturalWidth": 1440,
+              "naturalHeight": 1028,
+              "alt": "Intrarea atelierului Gruni, cu ceramică și panou pictat.",
+              "top": 312.734375,
+              "bottom": 530.625
+            },
+            {
+              "id": "megazone",
+              "attributeSrc": "./media/photos-v03/outdoor-megazone.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/outdoor-megazone.webp",
+              "naturalWidth": 1440,
+              "naturalHeight": 958,
+              "alt": "Jucător cu echipament laser tag în arena Megazone 2.",
+              "top": 626.28125,
+              "bottom": 844.171875
+            },
+            {
+              "id": "paintball",
+              "attributeSrc": "./media/photos-v03/outdoor-paintball.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/outdoor-paintball.webp",
+              "naturalWidth": 667,
+              "naturalHeight": 500,
+              "alt": "Grup de jucători pe terenul Army al Arena Paintball din zona Giroc.",
+              "top": 312.828125,
+              "bottom": 530.71875
+            }
+          ],
+          "caveats": [
+            {
+              "id": "rolers",
+              "language": "ro",
+              "caption": "Imagine promoțională ilustrativă publicată de operator; nu este o fotografie verificată a locației.",
+              "visitHrefs": [
+                "https://rollerdreams.ro/contact/",
+                "https://rollerdreams.ro/contact/"
+              ]
+            }
+          ],
+          "overflow": {
+            "viewport": 390,
+            "documentWidth": 390,
+            "documentOverflow": false,
+            "modalWidth": null,
+            "modalScrollWidth": null,
+            "modalClientWidth": null,
+            "modalOverflow": false
+          }
+        },
+        {
+          "category": "kids",
+          "appearances": 7,
+          "images": [
+            {
+              "id": "parcul-copiilor",
+              "attributeSrc": "./media/photos/parcul-copiilor.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos/parcul-copiilor.webp",
+              "naturalWidth": 960,
+              "naturalHeight": 720,
+              "alt": "Parcul Copiilor",
+              "top": 498.1875,
+              "bottom": 716.078125
+            },
+            {
+              "id": "energy-kids",
+              "attributeSrc": "./media/photos-v03/outdoor-energy-kids.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/outdoor-energy-kids.webp",
+              "naturalWidth": 1024,
+              "naturalHeight": 683,
+              "alt": "Interiorul locului de joacă Energy Kids din Iulius Town.",
+              "top": 312.734375,
+              "bottom": 530.625
+            },
+            {
+              "id": "paradisul-piratilor",
+              "attributeSrc": "./media/photos-v03/paradisul-piratilor.jpg",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/paradisul-piratilor.jpg",
+              "naturalWidth": 1440,
+              "naturalHeight": 698,
+              "alt": "Copii la tunurile cu mingi de burete și sigla Tunurile Piraților, în prezentarea originală a localului.",
+              "top": 626.28125,
+              "bottom": 844.171875
+            },
+            {
+              "id": "arena-jocurilor",
+              "attributeSrc": "./media/photos-v03/outdoor-arena-jocurilor.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/outdoor-arena-jocurilor.webp",
+              "naturalWidth": 1310,
+              "naturalHeight": 490,
+              "alt": "Sală colorată pentru copii la Arena Jocurilor.",
+              "top": 312.703125,
+              "bottom": 530.59375
+            },
+            {
+              "id": "kids-town",
+              "attributeSrc": "./media/photos-v03/root-kids-town.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/root-kids-town.webp",
+              "naturalWidth": 1188,
+              "naturalHeight": 1016,
+              "alt": "Zona de construcții KidsTown, cu piese mari colorate și mese pentru joacă.",
+              "top": 626.25,
+              "bottom": 844.140625
+            },
+            {
+              "id": "noso",
+              "attributeSrc": "./media/photos-v03/outdoor-noso.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/outdoor-noso.webp",
+              "naturalWidth": 1024,
+              "naturalHeight": 577,
+              "alt": "Activitate de grup cu un membru al echipei Noso.",
+              "top": 312.796875,
+              "bottom": 530.6875
+            },
+            {
+              "id": "planetarium",
+              "attributeSrc": "./media/photos-v03/outdoor-planetarium.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/outdoor-planetarium.webp",
+              "naturalWidth": 1440,
+              "naturalHeight": 1080,
+              "alt": "Proiectorul și scaunele din Planetariul UVT.",
+              "top": 625.78125,
+              "bottom": 843.671875
+            }
+          ],
+          "caveats": [
+            {
+              "id": "paradisul-piratilor",
+              "language": "ro",
+              "caption": "Imagine promoțională nedatată a Tunurilor Piraților, atracția originală pentru copii de la Paradisul Piraților. Funcționarea actuală nu este confirmată.",
+              "visitHrefs": []
+            }
+          ],
+          "overflow": {
+            "viewport": 390,
+            "documentWidth": 390,
+            "documentOverflow": false,
+            "modalWidth": null,
+            "modalScrollWidth": null,
+            "modalClientWidth": null,
+            "modalOverflow": false
+          }
+        },
+        {
+          "category": "nature",
+          "appearances": 10,
+          "images": [
+            {
+              "id": "bike-serbia",
+              "attributeSrc": "./media/photos-v03/outdoor-bike-serbia.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/outdoor-bike-serbia.webp",
+              "naturalWidth": 1080,
+              "naturalHeight": 1350,
+              "alt": "Anunț oficial cu fotografie a bicicliștilor pe ruta Timișoara–Zrenjanin.",
+              "top": 531.1875,
+              "bottom": 749.078125
+            },
+            {
+              "id": "la-livada",
+              "attributeSrc": "./media/photos-v03/outdoor-la-livada.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/outdoor-la-livada.webp",
+              "naturalWidth": 960,
+              "naturalHeight": 1440,
+              "alt": "Zonă verde și leagăn la La Livada Bănățeană.",
+              "top": 313.515625,
+              "bottom": 531.40625
+            },
+            {
+              "id": "herneacova",
+              "attributeSrc": "./media/photos-v03/outdoor-herneacova.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/outdoor-herneacova.webp",
+              "naturalWidth": 1440,
+              "naturalHeight": 959,
+              "alt": "Trăsură, gazon și clădiri pe Domeniul Herneacova, în fotografia de arhivă a operatorului.",
+              "top": 312.609375,
+              "bottom": 530.5
+            },
+            {
+              "id": "liziera",
+              "attributeSrc": "./media/photos-v03/outdoor-liziera.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/outdoor-liziera.webp",
+              "naturalWidth": 1440,
+              "naturalHeight": 960,
+              "alt": "Colț cu scaune și oglindă în pădurea de la L’iziera Park.",
+              "top": 626.59375,
+              "bottom": 844.484375
+            },
+            {
+              "id": "parcul-rozelor",
+              "attributeSrc": "./media/photos/parcul-rozelor.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos/parcul-rozelor.webp",
+              "naturalWidth": 960,
+              "naturalHeight": 640,
+              "alt": "Parcul Rozelor",
+              "top": 312.578125,
+              "bottom": 530.46875
+            },
+            {
+              "id": "parcul-botanic",
+              "attributeSrc": "./media/photos/parcul-botanic.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos/parcul-botanic.webp",
+              "naturalWidth": 960,
+              "naturalHeight": 349,
+              "alt": "Parcul Botanic",
+              "top": 626.125,
+              "bottom": 844.015625
+            },
+            {
+              "id": "parcul-civic",
+              "attributeSrc": "./media/photos/parcul-civic.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos/parcul-civic.webp",
+              "naturalWidth": 960,
+              "naturalHeight": 540,
+              "alt": "Parcul Civic",
+              "top": 313.109375,
+              "bottom": 531
+            },
+            {
+              "id": "parcul-castelului",
+              "attributeSrc": "./media/photos-v02/parcul-castelului.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v02/parcul-castelului.webp",
+              "naturalWidth": 1440,
+              "naturalHeight": 1080,
+              "alt": "Alee și gazon în Scuarul Castelului, lângă Castelul Huniade.",
+              "top": 625.65625,
+              "bottom": 843.546875
+            },
+            {
+              "id": "parcul-regina-maria",
+              "attributeSrc": "./media/photos/parcul-regina-maria.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos/parcul-regina-maria.webp",
+              "naturalWidth": 960,
+              "naturalHeight": 640,
+              "alt": "Parcul Regina Maria",
+              "top": 313.203125,
+              "bottom": 531.09375
+            }
+          ],
+          "caveats": [],
+          "overflow": {
+            "viewport": 390,
+            "documentWidth": 390,
+            "documentOverflow": false,
+            "modalWidth": null,
+            "modalScrollWidth": null,
+            "modalClientWidth": null,
+            "modalOverflow": false
+          }
+        },
+        {
+          "category": "relax",
+          "appearances": 4,
+          "images": [
+            {
+              "id": "pet-yoga",
+              "attributeSrc": "./media/photos-v03/outdoor-pet-yoga.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/outdoor-pet-yoga.webp",
+              "naturalWidth": 959,
+              "naturalHeight": 1440,
+              "alt": "Participantă și cățeluș într-o fotografie de prezentare Puppy Yoga România.",
+              "top": 454.09375,
+              "bottom": 671.984375
+            },
+            {
+              "id": "dharmaland",
+              "attributeSrc": "./media/photos-v03/outdoor-dharmaland.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/outdoor-dharmaland.webp",
+              "naturalWidth": 1440,
+              "naturalHeight": 960,
+              "alt": "Piscina interioară Gym One 4 Spa, fostul Dharmaland.",
+              "top": 312.984375,
+              "bottom": 530.875
+            },
+            {
+              "id": "bega-walk",
+              "attributeSrc": "./media/photos/bega-walk.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos/bega-walk.webp",
+              "naturalWidth": 960,
+              "naturalHeight": 718,
+              "alt": "Plimbare pe malul Begăi",
+              "top": 626.53125,
+              "bottom": 844.421875
+            },
+            {
+              "id": "bega-boat",
+              "attributeSrc": "./media/photos/bega-boat.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos/bega-boat.webp",
+              "naturalWidth": 960,
+              "naturalHeight": 720,
+              "alt": "Stația de îmbarcare Ardealul pe Bega",
+              "top": 313.515625,
+              "bottom": 531.40625
+            }
+          ],
+          "caveats": [],
+          "overflow": {
+            "viewport": 390,
+            "documentWidth": 390,
+            "documentOverflow": false,
+            "modalWidth": null,
+            "modalScrollWidth": null,
+            "modalClientWidth": null,
+            "modalOverflow": false
+          }
+        },
+        {
+          "category": "night",
+          "appearances": 7,
+          "images": [
+            {
+              "id": "no-name",
+              "attributeSrc": "./media/photos-v03/city-no-name.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-no-name.webp",
+              "naturalWidth": 960,
+              "naturalHeight": 638,
+              "alt": "Piscina No Name iluminată noaptea, fotografie publicată de operator.",
+              "top": 487.09375,
+              "bottom": 704.984375
+            },
+            {
+              "id": "heaven",
+              "attributeSrc": "./media/photos-v03/city-heaven.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-heaven.webp",
+              "naturalWidth": 1200,
+              "naturalHeight": 800,
+              "alt": "Concert la Heaven, fotografie de arhivă de pe site-ul operatorului.",
+              "top": 313.078125,
+              "bottom": 530.96875
+            },
+            {
+              "id": "fratelli",
+              "attributeSrc": "./media/photos-v02/city-fratelli.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v02/city-fratelli.webp",
+              "naturalWidth": 1280,
+              "naturalHeight": 720,
+              "alt": "Zdob și Zdub în concert la Fratelli Timișoara, februarie 2013.",
+              "top": 626.0625,
+              "bottom": 843.953125
+            },
+            {
+              "id": "darc-mal",
+              "attributeSrc": "./media/photos-v03/city-darc-mal.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-darc-mal.webp",
+              "naturalWidth": 1200,
+              "naturalHeight": 800,
+              "alt": "Terasa D’arc pe Mal și ambarcațiuni pe Bega.",
+              "top": 313.03125,
+              "bottom": 530.921875
+            },
+            {
+              "id": "atelier-experience",
+              "attributeSrc": "./media/photos-v03/city-atelier-experience.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-atelier-experience.webp",
+              "naturalWidth": 568,
+              "naturalHeight": 640,
+              "alt": "Cocktail prezentat de Atelier d’Experience.",
+              "top": 626.015625,
+              "bottom": 843.90625
+            }
+          ],
+          "caveats": [],
+          "overflow": {
+            "viewport": 390,
+            "documentWidth": 390,
+            "documentOverflow": false,
+            "modalWidth": null,
+            "modalScrollWidth": null,
+            "modalClientWidth": null,
+            "modalOverflow": false
+          }
+        },
+        {
+          "category": "cafes",
+          "appearances": 11,
+          "images": [
+            {
+              "id": "tucano",
+              "attributeSrc": "./media/photos-v03/city-tucano.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-tucano.webp",
+              "naturalWidth": 1200,
+              "naturalHeight": 814,
+              "alt": "Fațada și terasa Tucano Coffee Venezuela din Iulius Town, noaptea, în septembrie 2019.",
+              "top": 487.09375,
+              "bottom": 704.984375
+            },
+            {
+              "id": "starbucks",
+              "attributeSrc": "./media/photos-v03/city-starbucks.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-starbucks.webp",
+              "naturalWidth": 740,
+              "naturalHeight": 600,
+              "alt": "Fațada și intrarea Starbucks.",
+              "top": 312.640625,
+              "bottom": 530.53125
+            },
+            {
+              "id": "teds",
+              "attributeSrc": "./media/photos-v03/city-teds.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-teds.webp",
+              "naturalWidth": 1200,
+              "naturalHeight": 480,
+              "alt": "Barista la espressor, fotografie de prezentare Ted’s Coffee.",
+              "top": 312.734375,
+              "bottom": 530.625
+            },
+            {
+              "id": "brewno",
+              "attributeSrc": "./media/photos-v03/city-brewno.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-brewno.webp",
+              "naturalWidth": 800,
+              "naturalHeight": 1200,
+              "alt": "Cafea în fotografia de prezentare Brewno.",
+              "top": 626.28125,
+              "bottom": 844.171875
+            },
+            {
+              "id": "comun-cafe-mara",
+              "attributeSrc": "./media/photos-v03/city-comun-cafe-mara.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-comun-cafe-mara.webp",
+              "naturalWidth": 1200,
+              "naturalHeight": 801,
+              "alt": "Fațada și intrarea Comun Cafe Mara.",
+              "top": 312.8125,
+              "bottom": 530.703125
+            },
+            {
+              "id": "street-coffee",
+              "attributeSrc": "./media/photos-v03/city-street-coffee.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-street-coffee.webp",
+              "naturalWidth": 737,
+              "naturalHeight": 491,
+              "alt": "Fațada și intrarea Street Coffee Roasters.",
+              "top": 625.921875,
+              "bottom": 843.8125
+            },
+            {
+              "id": "meron",
+              "attributeSrc": "./media/photos-v03/city-meron.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-meron.webp",
+              "naturalWidth": 1200,
+              "naturalHeight": 800,
+              "alt": "Espresso într-o ceașcă, fotografie de prezentare Meron.",
+              "top": 313.46875,
+              "bottom": 531.359375
+            },
+            {
+              "id": "caffe-doge",
+              "attributeSrc": "./media/photos-v03/city-caffe-doge.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-caffe-doge.webp",
+              "naturalWidth": 1200,
+              "naturalHeight": 799,
+              "alt": "Cafea în fotografia de prezentare Caffe del Doge.",
+              "top": 626.015625,
+              "bottom": 843.90625
+            },
+            {
+              "id": "senses",
+              "attributeSrc": "./media/photos-v03/city-senses.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-senses.webp",
+              "naturalWidth": 1200,
+              "naturalHeight": 800,
+              "alt": "Pahare și cești Senses Specialty Coffee, cu Piața Unirii în fundal.",
+              "top": 312.5625,
+              "bottom": 530.453125
+            }
+          ],
+          "caveats": [
+            {
+              "id": "tucano",
+              "language": "ro",
+              "caption": "Imagine de arhivă decupată: Tucano Coffee Venezuela, septembrie 2019.",
+              "visitHrefs": [
+                "https://iuliustown.ro/ro/dining/cafenele",
+                "https://iuliustown.ro/ro/dining/cafenele"
+              ]
+            },
+            {
+              "id": "meron",
+              "language": "ro",
+              "caption": "Fotografie de pe pagina rețelei Meron; filiala din Timișoara nu este identificată.",
+              "visitHrefs": [
+                "https://www.meron.coffee/meron-timisoara-2/",
+                "https://www.meron.coffee/meron-timisoara-2/"
+              ]
+            }
+          ],
+          "overflow": {
+            "viewport": 390,
+            "documentWidth": 390,
+            "documentOverflow": false,
+            "modalWidth": null,
+            "modalScrollWidth": null,
+            "modalClientWidth": null,
+            "modalOverflow": false
+          }
+        },
+        {
+          "category": "food",
+          "appearances": 19,
+          "images": [
+            {
+              "id": "paradisul-piratilor",
+              "attributeSrc": "./media/photos-v03/paradisul-piratilor.jpg",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/paradisul-piratilor.jpg",
+              "naturalWidth": 1440,
+              "naturalHeight": 698,
+              "alt": "Copii la tunurile cu mingi de burete și sigla Tunurile Piraților, în prezentarea originală a localului.",
+              "top": 487.09375,
+              "bottom": 704.984375
+            },
+            {
+              "id": "zaza",
+              "attributeSrc": "./media/photos-v03/city-zaza.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-zaza.webp",
+              "naturalWidth": 600,
+              "naturalHeight": 400,
+              "alt": "Preparat prezentat pe pagina Zaza.",
+              "top": 313.515625,
+              "bottom": 531.40625
+            },
+            {
+              "id": "massimo",
+              "attributeSrc": "./media/photos-v03/city-massimo.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-massimo.webp",
+              "naturalWidth": 820,
+              "naturalHeight": 547,
+              "alt": "Preparat prezentat pe pagina Massimo.",
+              "top": 312.609375,
+              "bottom": 530.5
+            },
+            {
+              "id": "rio",
+              "attributeSrc": "./media/photos-v03/city-rio.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-rio.webp",
+              "naturalWidth": 1200,
+              "naturalHeight": 800,
+              "alt": "Interior prezentat pe pagina Riyo Wok Sushi.",
+              "top": 626.15625,
+              "bottom": 844.046875
+            },
+            {
+              "id": "pinocchio",
+              "attributeSrc": "./media/photos-v03/city-pinocchio.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-pinocchio.webp",
+              "naturalWidth": 1200,
+              "naturalHeight": 800,
+              "alt": "Clătită cu ciocolată și căpșuni prezentată de Pinocchio — Piața Libertății.",
+              "top": 313.25,
+              "bottom": 531.140625
+            },
+            {
+              "id": "jacks",
+              "attributeSrc": "./media/photos-v03/city-jacks.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-jacks.webp",
+              "naturalWidth": 480,
+              "naturalHeight": 480,
+              "alt": "Interior prezentat pe pagina Jack’s.",
+              "top": 625.796875,
+              "bottom": 843.6875
+            },
+            {
+              "id": "moon-garden",
+              "attributeSrc": "./media/photos-v03/city-moon-garden.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-moon-garden.webp",
+              "naturalWidth": 1200,
+              "naturalHeight": 675,
+              "alt": "Vedere de sus asupra restaurantului Moon Garden.",
+              "top": 313.34375,
+              "bottom": 531.234375
+            },
+            {
+              "id": "napoleon",
+              "attributeSrc": "./media/photos-v03/city-napoleon.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-napoleon.webp",
+              "naturalWidth": 1200,
+              "naturalHeight": 800,
+              "alt": "Pizza în fotografia principală de pe pagina Napoleon Pizza.",
+              "top": 625.890625,
+              "bottom": 843.78125
+            },
+            {
+              "id": "white-pizza",
+              "attributeSrc": "./media/photos-v03/city-white-pizza.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-white-pizza.webp",
+              "naturalWidth": 1200,
+              "naturalHeight": 800,
+              "alt": "Interior prezentat pe pagina Why Pizza.",
+              "top": 313.4375,
+              "bottom": 531.328125
+            },
+            {
+              "id": "dei-frati",
+              "attributeSrc": "./media/photos-v03/city-dei-frati.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-dei-frati.webp",
+              "naturalWidth": 1200,
+              "naturalHeight": 800,
+              "alt": "Preparate prezentate pe pagina Dei Frati.",
+              "top": 626.546875,
+              "bottom": 844.4375
+            },
+            {
+              "id": "del-corso",
+              "attributeSrc": "./media/photos-v03/city-del-corso.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-del-corso.webp",
+              "naturalWidth": 1200,
+              "naturalHeight": 802,
+              "alt": "Interior prezentat pe pagina Del Corso.",
+              "top": 313.09375,
+              "bottom": 530.984375
+            },
+            {
+              "id": "el-maguey",
+              "attributeSrc": "./media/photos-v03/city-el-maguey.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-el-maguey.webp",
+              "naturalWidth": 1200,
+              "naturalHeight": 568,
+              "alt": "Intrarea El Maguey, cu firmă și steag mexican.",
+              "top": 625.640625,
+              "bottom": 843.53125
+            },
+            {
+              "id": "beraria",
+              "attributeSrc": "./media/photos-v02/city-beraria.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v02/city-beraria.webp",
+              "naturalWidth": 797,
+              "naturalHeight": 531,
+              "alt": "Intrarea și terasa Berăria 700 din Piața 700, iunie 2019.",
+              "top": 313.1875,
+              "bottom": 531.078125
+            },
+            {
+              "id": "casa-bunicii",
+              "attributeSrc": "./media/photos-v03/city-casa-bunicii.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-casa-bunicii.webp",
+              "naturalWidth": 1200,
+              "naturalHeight": 800,
+              "alt": "Grădina și mesele restaurantului Casa Bunicii Garden, văzute de sus.",
+              "top": 625.734375,
+              "bottom": 843.625
+            },
+            {
+              "id": "zone-2",
+              "attributeSrc": "./media/photos-v03/city-zone-2.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-zone-2.webp",
+              "naturalWidth": 1200,
+              "naturalHeight": 675,
+              "alt": "Preparate prezentate pe pagina Restaurant ZONE 2.",
+              "top": 313.28125,
+              "bottom": 531.171875
+            },
+            {
+              "id": "daf-junior",
+              "attributeSrc": "./media/photos-v03/city-daf-junior.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-daf-junior.webp",
+              "naturalWidth": 480,
+              "naturalHeight": 320,
+              "alt": "Interior prezentat pe pagina DAF Junior.",
+              "top": 625.828125,
+              "bottom": 843.71875
+            },
+            {
+              "id": "flonta",
+              "attributeSrc": "./media/photos-v03/city-flonta.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-flonta.webp",
+              "naturalWidth": 1200,
+              "naturalHeight": 625,
+              "alt": "Terasa Complex Flonta, lângă apă.",
+              "top": 313.375,
+              "bottom": 531.265625
+            }
+          ],
+          "caveats": [
+            {
+              "id": "paradisul-piratilor",
+              "language": "ro",
+              "caption": "Imagine promoțională nedatată a Tunurilor Piraților, atracția originală pentru copii de la Paradisul Piraților. Funcționarea actuală nu este confirmată.",
+              "visitHrefs": []
+            }
+          ],
+          "overflow": {
+            "viewport": 390,
+            "documentWidth": 390,
+            "documentOverflow": false,
+            "modalWidth": null,
+            "modalScrollWidth": null,
+            "modalClientWidth": null,
+            "modalOverflow": false
+          }
+        },
+        {
+          "category": "culture",
+          "appearances": 7,
+          "images": [
+            {
+              "id": "muzeul-arta",
+              "attributeSrc": "./media/photos/muzeul-arta.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos/muzeul-arta.webp",
+              "naturalWidth": 960,
+              "naturalHeight": 638,
+              "alt": "Muzeul Național de Artă Timișoara",
+              "top": 487.09375,
+              "bottom": 704.984375
+            },
+            {
+              "id": "memorialul-revolutiei",
+              "attributeSrc": "./media/photos-v02/city-memorialul-revolutiei.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v02/city-memorialul-revolutiei.webp",
+              "naturalWidth": 1280,
+              "naturalHeight": 960,
+              "alt": "Fațada și intrarea Memorialului Revoluției de pe Strada Oituz, Timișoara.",
+              "top": 312.984375,
+              "bottom": 530.875
+            },
+            {
+              "id": "muzeul-banatului",
+              "attributeSrc": "./media/photos/muzeul-banatului.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos/muzeul-banatului.webp",
+              "naturalWidth": 960,
+              "naturalHeight": 537,
+              "alt": "Muzeul Național al Banatului — Bastion",
+              "top": 625.96875,
+              "bottom": 843.859375
+            },
+            {
+              "id": "muzeul-comunismului",
+              "attributeSrc": "./media/photos/muzeul-comunismului.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos/muzeul-comunismului.webp",
+              "naturalWidth": 750,
+              "naturalHeight": 1000,
+              "alt": "Muzeul Consumatorului Comunist",
+              "top": 313.296875,
+              "bottom": 531.1875
+            },
+            {
+              "id": "jecza",
+              "attributeSrc": "./media/photos-v03/city-jecza.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-jecza.webp",
+              "naturalWidth": 600,
+              "naturalHeight": 400,
+              "alt": "Vizitator cu un ghid de expoziție, fotografie publicată de Jecza Gallery.",
+              "top": 625.625,
+              "bottom": 843.515625
+            },
+            {
+              "id": "muzeul-apei",
+              "attributeSrc": "./media/photos-v03/city-muzeul-apei.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-muzeul-apei.webp",
+              "naturalWidth": 1200,
+              "naturalHeight": 800,
+              "alt": "Vizitatori lângă utilajele expuse la Muzeul Apei.",
+              "top": 312.609375,
+              "bottom": 530.5
+            },
+            {
+              "id": "muzeul-satului",
+              "attributeSrc": "./media/photos/muzeul-satului.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos/muzeul-satului.webp",
+              "naturalWidth": 960,
+              "naturalHeight": 720,
+              "alt": "Muzeul Satului Bănățean",
+              "top": 626.59375,
+              "bottom": 844.484375
+            }
+          ],
+          "caveats": [],
+          "overflow": {
+            "viewport": 390,
+            "documentWidth": 390,
+            "documentOverflow": false,
+            "modalWidth": null,
+            "modalScrollWidth": null,
+            "modalClientWidth": null,
+            "modalOverflow": false
+          }
+        },
+        {
+          "category": "history",
+          "appearances": 6,
+          "images": [
+            {
+              "id": "catedrala",
+              "attributeSrc": "./media/photos/catedrala.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos/catedrala.webp",
+              "naturalWidth": 667,
+              "naturalHeight": 1000,
+              "alt": "Catedrala Mitropolitană „Sfinții Trei Ierarhi”",
+              "top": 487.09375,
+              "bottom": 704.984375
+            },
+            {
+              "id": "piata-victoriei",
+              "attributeSrc": "./media/photos/piata-victoriei.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos/piata-victoriei.webp",
+              "naturalWidth": 960,
+              "naturalHeight": 640,
+              "alt": "Piața Victoriei",
+              "top": 313.421875,
+              "bottom": 531.3125
+            },
+            {
+              "id": "piata-libertatii",
+              "attributeSrc": "./media/photos/piata-libertatii.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos/piata-libertatii.webp",
+              "naturalWidth": 960,
+              "naturalHeight": 720,
+              "alt": "Piața Libertății",
+              "top": 625.96875,
+              "bottom": 843.859375
+            },
+            {
+              "id": "piata-unirii",
+              "attributeSrc": "./media/photos/piata-unirii.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos/piata-unirii.webp",
+              "naturalWidth": 960,
+              "naturalHeight": 639,
+              "alt": "Piața Unirii",
+              "top": 313.515625,
+              "bottom": 531.40625
+            },
+            {
+              "id": "cetate",
+              "attributeSrc": "./media/photos/cetate.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos/cetate.webp",
+              "naturalWidth": 960,
+              "naturalHeight": 648,
+              "alt": "Fațadă de pe strada Eugeniu de Savoya, în Cetate",
+              "top": 626.0625,
+              "bottom": 843.953125
+            },
+            {
+              "id": "millennium",
+              "attributeSrc": "./media/photos/millennium.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos/millennium.webp",
+              "naturalWidth": 960,
+              "naturalHeight": 720,
+              "alt": "Biserica Millennium",
+              "top": 312.609375,
+              "bottom": 530.5
+            }
+          ],
+          "caveats": [],
+          "overflow": {
+            "viewport": 390,
+            "documentWidth": 390,
+            "documentOverflow": false,
+            "modalWidth": null,
+            "modalScrollWidth": null,
+            "modalClientWidth": null,
+            "modalOverflow": false
+          }
+        }
+      ],
+      "caveats": [],
+      "localizedChecks": [
+        {
+          "language": "ro",
+          "galleries": [
+            {
+              "category": "food",
+              "overflow": {
+                "viewport": 390,
+                "documentWidth": 390,
+                "documentOverflow": false,
+                "modalWidth": null,
+                "modalScrollWidth": null,
+                "modalClientWidth": null,
+                "modalOverflow": false
+              },
+              "caveats": [
+                {
+                  "id": "paradisul-piratilor",
+                  "language": "ro",
+                  "caption": "Imagine promoțională nedatată a Tunurilor Piraților, atracția originală pentru copii de la Paradisul Piraților. Funcționarea actuală nu este confirmată.",
+                  "visitHrefs": []
+                }
+              ],
+              "axe": {
+                "label": "food-ro axe",
+                "allViolations": [],
+                "seriousOrCritical": []
+              }
+            },
+            {
+              "category": "cafes",
+              "overflow": {
+                "viewport": 390,
+                "documentWidth": 390,
+                "documentOverflow": false,
+                "modalWidth": null,
+                "modalScrollWidth": null,
+                "modalClientWidth": null,
+                "modalOverflow": false
+              },
+              "caveats": [
+                {
+                  "id": "tucano",
+                  "language": "ro",
+                  "caption": "Imagine de arhivă decupată: Tucano Coffee Venezuela, septembrie 2019.",
+                  "visitHrefs": [
+                    "https://iuliustown.ro/ro/dining/cafenele",
+                    "https://iuliustown.ro/ro/dining/cafenele"
+                  ]
+                },
+                {
+                  "id": "meron",
+                  "language": "ro",
+                  "caption": "Fotografie de pe pagina rețelei Meron; filiala din Timișoara nu este identificată.",
+                  "visitHrefs": [
+                    "https://www.meron.coffee/meron-timisoara-2/",
+                    "https://www.meron.coffee/meron-timisoara-2/"
+                  ]
+                }
+              ],
+              "axe": {
+                "label": "cafes-ro axe",
+                "allViolations": [],
+                "seriousOrCritical": []
+              }
+            }
+          ],
+          "credits": {
+            "articleCount": 74,
+            "localizedUnconfirmedRightsCount": 52,
+            "expectedRightsText": "Imagine publicată pe site-ul operatorului; licența de reutilizare nu este precizată.",
+            "overflow": {
+              "viewport": 390,
+              "documentWidth": 390,
+              "documentOverflow": false,
+              "modalWidth": 370,
+              "modalScrollWidth": 368,
+              "modalClientWidth": 368,
+              "modalOverflow": false
+            },
+            "axe": {
+              "label": "credits-ro axe",
+              "allViolations": [],
+              "seriousOrCritical": []
+            }
+          }
+        },
+        {
+          "language": "en",
+          "galleries": [
+            {
+              "category": "food",
+              "overflow": {
+                "viewport": 390,
+                "documentWidth": 390,
+                "documentOverflow": false,
+                "modalWidth": null,
+                "modalScrollWidth": null,
+                "modalClientWidth": null,
+                "modalOverflow": false
+              },
+              "caveats": [
+                {
+                  "id": "paradisul-piratilor",
+                  "language": "en",
+                  "caption": "Undated promotional image of Tunurile Piraților, the original children’s attraction at Paradisul Piraților. Current operation is unconfirmed.",
+                  "visitHrefs": []
+                }
+              ],
+              "axe": {
+                "label": "food-en axe",
+                "allViolations": [],
+                "seriousOrCritical": []
+              }
+            },
+            {
+              "category": "cafes",
+              "overflow": {
+                "viewport": 390,
+                "documentWidth": 390,
+                "documentOverflow": false,
+                "modalWidth": null,
+                "modalScrollWidth": null,
+                "modalClientWidth": null,
+                "modalOverflow": false
+              },
+              "caveats": [
+                {
+                  "id": "tucano",
+                  "language": "en",
+                  "caption": "Cropped archive photograph: Tucano Coffee Venezuela, September 2019.",
+                  "visitHrefs": [
+                    "https://iuliustown.ro/ro/dining/cafenele",
+                    "https://iuliustown.ro/ro/dining/cafenele"
+                  ]
+                },
+                {
+                  "id": "meron",
+                  "language": "en",
+                  "caption": "Photograph from Meron’s brand homepage; the Timișoara branch is not identified.",
+                  "visitHrefs": [
+                    "https://www.meron.coffee/meron-timisoara-2/",
+                    "https://www.meron.coffee/meron-timisoara-2/"
+                  ]
+                }
+              ],
+              "axe": {
+                "label": "cafes-en axe",
+                "allViolations": [],
+                "seriousOrCritical": []
+              }
+            }
+          ],
+          "credits": {
+            "articleCount": 74,
+            "localizedUnconfirmedRightsCount": 52,
+            "expectedRightsText": "Image published on the operator’s website; reuse license not specified.",
+            "overflow": {
+              "viewport": 390,
+              "documentWidth": 390,
+              "documentOverflow": false,
+              "modalWidth": 370,
+              "modalScrollWidth": 368,
+              "modalClientWidth": 368,
+              "modalOverflow": false
+            },
+            "axe": {
+              "label": "credits-en axe",
+              "allViolations": [],
+              "seriousOrCritical": []
+            }
+          }
+        },
+        {
+          "language": "it",
+          "galleries": [
+            {
+              "category": "food",
+              "overflow": {
+                "viewport": 390,
+                "documentWidth": 390,
+                "documentOverflow": false,
+                "modalWidth": null,
+                "modalScrollWidth": null,
+                "modalClientWidth": null,
+                "modalOverflow": false
+              },
+              "caveats": [
+                {
+                  "id": "paradisul-piratilor",
+                  "language": "it",
+                  "caption": "Immagine promozionale senza data di Tunurile Piraților, l’attrazione originaria per bambini di Paradisul Piraților. L’attività attuale non è confermata.",
+                  "visitHrefs": []
+                }
+              ],
+              "axe": {
+                "label": "food-it axe",
+                "allViolations": [],
+                "seriousOrCritical": []
+              }
+            },
+            {
+              "category": "cafes",
+              "overflow": {
+                "viewport": 390,
+                "documentWidth": 390,
+                "documentOverflow": false,
+                "modalWidth": null,
+                "modalScrollWidth": null,
+                "modalClientWidth": null,
+                "modalOverflow": false
+              },
+              "caveats": [
+                {
+                  "id": "tucano",
+                  "language": "it",
+                  "caption": "Foto d’archivio ritagliata: Tucano Coffee Venezuela, settembre 2019.",
+                  "visitHrefs": [
+                    "https://iuliustown.ro/ro/dining/cafenele",
+                    "https://iuliustown.ro/ro/dining/cafenele"
+                  ]
+                },
+                {
+                  "id": "meron",
+                  "language": "it",
+                  "caption": "Foto dalla pagina della rete Meron; la sede di Timișoara non è identificata.",
+                  "visitHrefs": [
+                    "https://www.meron.coffee/meron-timisoara-2/",
+                    "https://www.meron.coffee/meron-timisoara-2/"
+                  ]
+                }
+              ],
+              "axe": {
+                "label": "cafes-it axe",
+                "allViolations": [],
+                "seriousOrCritical": []
+              }
+            }
+          ],
+          "credits": {
+            "articleCount": 74,
+            "localizedUnconfirmedRightsCount": 52,
+            "expectedRightsText": "Immagine pubblicata sul sito del gestore; licenza di riutilizzo non specificata.",
+            "overflow": {
+              "viewport": 390,
+              "documentWidth": 390,
+              "documentOverflow": false,
+              "modalWidth": 370,
+              "modalScrollWidth": 368,
+              "modalClientWidth": 368,
+              "modalOverflow": false
+            },
+            "axe": {
+              "label": "credits-it axe",
+              "allViolations": [],
+              "seriousOrCritical": []
+            }
+          }
+        },
+        {
+          "language": "fr",
+          "galleries": [
+            {
+              "category": "food",
+              "overflow": {
+                "viewport": 390,
+                "documentWidth": 390,
+                "documentOverflow": false,
+                "modalWidth": null,
+                "modalScrollWidth": null,
+                "modalClientWidth": null,
+                "modalOverflow": false
+              },
+              "caveats": [
+                {
+                  "id": "paradisul-piratilor",
+                  "language": "fr",
+                  "caption": "Image promotionnelle non datée de Tunurile Piraților, l’attraction d’origine pour enfants de Paradisul Piraților. Son fonctionnement actuel reste à confirmer.",
+                  "visitHrefs": []
+                }
+              ],
+              "axe": {
+                "label": "food-fr axe",
+                "allViolations": [],
+                "seriousOrCritical": []
+              }
+            },
+            {
+              "category": "cafes",
+              "overflow": {
+                "viewport": 390,
+                "documentWidth": 390,
+                "documentOverflow": false,
+                "modalWidth": null,
+                "modalScrollWidth": null,
+                "modalClientWidth": null,
+                "modalOverflow": false
+              },
+              "caveats": [
+                {
+                  "id": "tucano",
+                  "language": "fr",
+                  "caption": "Photo d’archive recadrée : Tucano Coffee Venezuela, septembre 2019.",
+                  "visitHrefs": [
+                    "https://iuliustown.ro/ro/dining/cafenele",
+                    "https://iuliustown.ro/ro/dining/cafenele"
+                  ]
+                },
+                {
+                  "id": "meron",
+                  "language": "fr",
+                  "caption": "Photo de la page du réseau Meron ; la succursale de Timișoara n’est pas identifiée.",
+                  "visitHrefs": [
+                    "https://www.meron.coffee/meron-timisoara-2/",
+                    "https://www.meron.coffee/meron-timisoara-2/"
+                  ]
+                }
+              ],
+              "axe": {
+                "label": "cafes-fr axe",
+                "allViolations": [],
+                "seriousOrCritical": []
+              }
+            }
+          ],
+          "credits": {
+            "articleCount": 74,
+            "localizedUnconfirmedRightsCount": 52,
+            "expectedRightsText": "Image publiée sur le site de l’exploitant ; licence de réutilisation non précisée.",
+            "overflow": {
+              "viewport": 390,
+              "documentWidth": 390,
+              "documentOverflow": false,
+              "modalWidth": 370,
+              "modalScrollWidth": 368,
+              "modalClientWidth": 368,
+              "modalOverflow": false
+            },
+            "axe": {
+              "label": "credits-fr axe",
+              "allViolations": [],
+              "seriousOrCritical": []
+            }
+          }
+        },
+        {
+          "language": "es",
+          "galleries": [
+            {
+              "category": "food",
+              "overflow": {
+                "viewport": 390,
+                "documentWidth": 390,
+                "documentOverflow": false,
+                "modalWidth": null,
+                "modalScrollWidth": null,
+                "modalClientWidth": null,
+                "modalOverflow": false
+              },
+              "caveats": [
+                {
+                  "id": "paradisul-piratilor",
+                  "language": "es",
+                  "caption": "Imagen promocional sin fecha de Tunurile Piraților, la atracción infantil original de Paradisul Piraților. Su funcionamiento actual no está confirmado.",
+                  "visitHrefs": []
+                }
+              ],
+              "axe": {
+                "label": "food-es axe",
+                "allViolations": [],
+                "seriousOrCritical": []
+              }
+            },
+            {
+              "category": "cafes",
+              "overflow": {
+                "viewport": 390,
+                "documentWidth": 390,
+                "documentOverflow": false,
+                "modalWidth": null,
+                "modalScrollWidth": null,
+                "modalClientWidth": null,
+                "modalOverflow": false
+              },
+              "caveats": [
+                {
+                  "id": "tucano",
+                  "language": "es",
+                  "caption": "Foto de archivo recortada: Tucano Coffee Venezuela, septiembre de 2019.",
+                  "visitHrefs": [
+                    "https://iuliustown.ro/ro/dining/cafenele",
+                    "https://iuliustown.ro/ro/dining/cafenele"
+                  ]
+                },
+                {
+                  "id": "meron",
+                  "language": "es",
+                  "caption": "Foto de la página de la cadena Meron; no se identifica la sucursal de Timișoara.",
+                  "visitHrefs": [
+                    "https://www.meron.coffee/meron-timisoara-2/",
+                    "https://www.meron.coffee/meron-timisoara-2/"
+                  ]
+                }
+              ],
+              "axe": {
+                "label": "cafes-es axe",
+                "allViolations": [],
+                "seriousOrCritical": []
+              }
+            }
+          ],
+          "credits": {
+            "articleCount": 74,
+            "localizedUnconfirmedRightsCount": 52,
+            "expectedRightsText": "Imagen publicada en el sitio del operador; licencia de reutilización no especificada.",
+            "overflow": {
+              "viewport": 390,
+              "documentWidth": 390,
+              "documentOverflow": false,
+              "modalWidth": 370,
+              "modalScrollWidth": 368,
+              "modalClientWidth": 368,
+              "modalOverflow": false
+            },
+            "axe": {
+              "label": "credits-es axe",
+              "allViolations": [],
+              "seriousOrCritical": []
+            }
+          }
+        },
+        {
+          "language": "zh-Hans",
+          "galleries": [
+            {
+              "category": "food",
+              "overflow": {
+                "viewport": 390,
+                "documentWidth": 390,
+                "documentOverflow": false,
+                "modalWidth": null,
+                "modalScrollWidth": null,
+                "modalClientWidth": null,
+                "modalOverflow": false
+              },
+              "caveats": [
+                {
+                  "id": "paradisul-piratilor",
+                  "language": "zh-Hans",
+                  "caption": "Tunurile Piraților 的未注明日期宣传图片，展示 Paradisul Piraților 原有的儿童游乐项目。该项目目前是否仍在运营尚未确认。",
+                  "visitHrefs": []
+                }
+              ],
+              "axe": {
+                "label": "food-zh-Hans axe",
+                "allViolations": [],
+                "seriousOrCritical": []
+              }
+            },
+            {
+              "category": "cafes",
+              "overflow": {
+                "viewport": 390,
+                "documentWidth": 390,
+                "documentOverflow": false,
+                "modalWidth": null,
+                "modalScrollWidth": null,
+                "modalClientWidth": null,
+                "modalOverflow": false
+              },
+              "caveats": [
+                {
+                  "id": "tucano",
+                  "language": "zh-Hans",
+                  "caption": "已裁剪的历史照片：Tucano Coffee Venezuela，2019 年 9 月。",
+                  "visitHrefs": [
+                    "https://iuliustown.ro/ro/dining/cafenele",
+                    "https://iuliustown.ro/ro/dining/cafenele"
+                  ]
+                },
+                {
+                  "id": "meron",
+                  "language": "zh-Hans",
+                  "caption": "照片来自 Meron 品牌主页；未指明蒂米什瓦拉分店。",
+                  "visitHrefs": [
+                    "https://www.meron.coffee/meron-timisoara-2/",
+                    "https://www.meron.coffee/meron-timisoara-2/"
+                  ]
+                }
+              ],
+              "axe": {
+                "label": "cafes-zh-Hans axe",
+                "allViolations": [],
+                "seriousOrCritical": []
+              }
+            }
+          ],
+          "credits": {
+            "articleCount": 74,
+            "localizedUnconfirmedRightsCount": 52,
+            "expectedRightsText": "图片发布于运营方网站，未注明再使用许可。",
+            "overflow": {
+              "viewport": 390,
+              "documentWidth": 390,
+              "documentOverflow": false,
+              "modalWidth": 370,
+              "modalScrollWidth": 368,
+              "modalClientWidth": 368,
+              "modalOverflow": false
+            },
+            "axe": {
+              "label": "credits-zh-Hans axe",
+              "allViolations": [],
+              "seriousOrCritical": []
+            }
+          }
+        }
+      ],
+      "museum": {
+        "canvas": {
+          "width": 358,
+          "height": 430,
+          "cssWidth": 356.8125,
+          "cssHeight": 428
+        },
+        "photoResponses": [
+          {
+            "phase": "museum-adventure",
+            "url": "http://127.0.0.1:4176/media/photos-v03/outdoor-beat-seven.webp",
+            "status": 200,
+            "resourceType": "image"
+          },
+          {
+            "phase": "museum-adventure",
+            "url": "http://127.0.0.1:4176/media/photos-v03/outdoor-hype.webp",
+            "status": 200,
+            "resourceType": "image"
+          },
+          {
+            "phase": "museum-adventure",
+            "url": "http://127.0.0.1:4176/media/photos-v03/root-rolers.webp",
+            "status": 200,
+            "resourceType": "image"
+          },
+          {
+            "phase": "museum-adventure",
+            "url": "http://127.0.0.1:4176/media/photos-v03/outdoor-arcade.webp",
+            "status": 200,
+            "resourceType": "image"
+          },
+          {
+            "phase": "museum-adventure",
+            "url": "http://127.0.0.1:4176/media/photos-v03/outdoor-red-motor.webp",
+            "status": 200,
+            "resourceType": "image"
+          },
+          {
+            "phase": "museum-adventure",
+            "url": "http://127.0.0.1:4176/media/photos-v03/outdoor-animus.webp",
+            "status": 200,
+            "resourceType": "image"
+          },
+          {
+            "phase": "museum-adventure",
+            "url": "http://127.0.0.1:4176/media/photos-v03/outdoor-amazonia.webp",
+            "status": 200,
+            "resourceType": "image"
+          },
+          {
+            "phase": "museum-adventure",
+            "url": "http://127.0.0.1:4176/media/photos-v03/root-exitgames.jpg",
+            "status": 200,
+            "resourceType": "image"
+          },
+          {
+            "phase": "museum-adventure",
+            "url": "http://127.0.0.1:4176/media/photos-v03/outdoor-grumi.webp",
+            "status": 200,
+            "resourceType": "image"
+          },
+          {
+            "phase": "museum-adventure",
+            "url": "http://127.0.0.1:4176/media/photos-v03/outdoor-megazone.webp",
+            "status": 200,
+            "resourceType": "image"
+          },
+          {
+            "phase": "museum-adventure",
+            "url": "http://127.0.0.1:4176/media/photos-v03/outdoor-paintball.webp",
+            "status": 200,
+            "resourceType": "image"
+          }
+        ],
+        "overflow": {
+          "viewport": 390,
+          "documentWidth": 390,
+          "documentOverflow": false,
+          "modalWidth": null,
+          "modalScrollWidth": null,
+          "modalClientWidth": null,
+          "modalOverflow": false
+        }
+      },
+      "pageErrors": [],
+      "consoleErrors": [],
+      "consoleWarnings": [
+        {
+          "phase": "museum-adventure",
+          "message": "[.WebGL-0x114059a0e00]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels"
+        },
+        {
+          "phase": "museum-adventure",
+          "message": "[.WebGL-0x114059a0e00]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels"
+        },
+        {
+          "phase": "museum-adventure",
+          "message": "[.WebGL-0x114059a0e00]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels"
+        },
+        {
+          "phase": "museum-adventure",
+          "message": "[.WebGL-0x114059a0e00]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels (this message will no longer repeat)"
+        }
+      ],
+      "httpFailures": [],
+      "requestFailures": [],
+      "externalRequests": [],
+      "browserVersion": "158.0.8127.18",
+      "observedAppearances": 85,
+      "observedImageDecodes": 75,
+      "observedUniqueImageEntities": 74
+    },
+    {
+      "engine": "firefox",
+      "status": "pass",
+      "initialNetwork": {
+        "requests": [
+          {
+            "phase": "home",
+            "url": "http://127.0.0.1:4176/",
+            "resourceType": "document"
+          },
+          {
+            "phase": "home",
+            "url": "http://127.0.0.1:4176/assets/index-Cf4HjVgM.js",
+            "resourceType": "script"
+          },
+          {
+            "phase": "home",
+            "url": "http://127.0.0.1:4176/assets/index-CUbUSFJs.css",
+            "resourceType": "stylesheet"
+          },
+          {
+            "phase": "home",
+            "url": "http://127.0.0.1:4176/assets/dm-sans-latin-ext-400-normal-BtiwyxMk.woff2",
+            "resourceType": "font"
+          },
+          {
+            "phase": "home",
+            "url": "http://127.0.0.1:4176/media/entrance.jpg",
+            "resourceType": "image"
+          },
+          {
+            "phase": "home",
+            "url": "http://127.0.0.1:4176/favicon.svg",
+            "resourceType": "image"
+          },
+          {
+            "phase": "home",
+            "url": "http://127.0.0.1:4176/assets/libre-baskerville-latin-400-italic-Dx5Rrf3o.woff2",
+            "resourceType": "font"
+          },
+          {
+            "phase": "home",
+            "url": "http://127.0.0.1:4176/assets/cormorant-garamond-latin-400-italic-Dc_OZ8oc.woff2",
+            "resourceType": "font"
+          },
+          {
+            "phase": "home",
+            "url": "http://127.0.0.1:4176/assets/cormorant-garamond-latin-ext-400-normal-Drx2k2n9.woff2",
+            "resourceType": "font"
+          },
+          {
+            "phase": "home",
+            "url": "http://127.0.0.1:4176/assets/dm-sans-latin-400-normal-CW0RaeGs.woff2",
+            "resourceType": "font"
+          },
+          {
+            "phase": "home",
+            "url": "http://127.0.0.1:4176/assets/cormorant-garamond-latin-400-normal-B-1hWBU7.woff2",
+            "resourceType": "font"
+          }
+        ],
+        "mp3Requests": [],
+        "museum3DRequests": [],
+        "overflow": {
+          "viewport": 390,
+          "documentWidth": 390,
+          "documentOverflow": false,
+          "modalWidth": null,
+          "modalScrollWidth": null,
+          "modalClientWidth": null,
+          "modalOverflow": false
+        }
+      },
+      "catalogs": [
+        {
+          "category": "adventure",
+          "appearances": 14,
+          "images": [
+            {
+              "id": "beat-seven",
+              "attributeSrc": "./media/photos-v03/outdoor-beat-seven.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/outdoor-beat-seven.webp",
+              "naturalWidth": 382,
+              "naturalHeight": 510,
+              "alt": "Jucători pe podeaua LED de la Beat Se7en.",
+              "top": 532.2000122070312,
+              "bottom": 750.0833435058594
+            },
+            {
+              "id": "hype",
+              "attributeSrc": "./media/photos-v03/outdoor-hype.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/outdoor-hype.webp",
+              "naturalWidth": 1024,
+              "naturalHeight": 683,
+              "alt": "Zonă cu bureți și echipamente de joacă la Hype Play.",
+              "top": 313.04998779296875,
+              "bottom": 530.9333190917969
+            },
+            {
+              "id": "rolers",
+              "attributeSrc": "./media/photos-v03/root-rolers.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/root-rolers.webp",
+              "naturalWidth": 1280,
+              "naturalHeight": 720,
+              "alt": "Ilustrație de prezentare cu patine cu rotile și lumini colorate.",
+              "top": 313.04998779296875,
+              "bottom": 530.9333190917969
+            },
+            {
+              "id": "animus",
+              "attributeSrc": "./media/photos-v03/outdoor-animus.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/outdoor-animus.webp",
+              "naturalWidth": 1440,
+              "naturalHeight": 960,
+              "alt": "Participanți pe podeaua interactivă din ANIMUS Arena.",
+              "top": 313.04998779296875,
+              "bottom": 530.9333190917969
+            },
+            {
+              "id": "red-motor",
+              "attributeSrc": "./media/photos-v03/outdoor-red-motor.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/outdoor-red-motor.webp",
+              "naturalWidth": 1200,
+              "naturalHeight": 900,
+              "alt": "Karturi electrice pe circuitul interior Red Motor.",
+              "top": 313.04998779296875,
+              "bottom": 530.9333190917969
+            },
+            {
+              "id": "arcade",
+              "attributeSrc": "./media/photos-v03/outdoor-arcade.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/outdoor-arcade.webp",
+              "naturalWidth": 769,
+              "naturalHeight": 553,
+              "alt": "Aparate arcade la Energy Games, Iulius Town Timișoara.",
+              "top": 313.04998779296875,
+              "bottom": 530.9333190917969
+            },
+            {
+              "id": "amazonia",
+              "attributeSrc": "./media/photos-v03/outdoor-amazonia.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/outdoor-amazonia.webp",
+              "naturalWidth": 1440,
+              "naturalHeight": 851,
+              "alt": "Tobogane și piscine exterioare la Amazonia Timișoara.",
+              "top": 313.04998779296875,
+              "bottom": 530.9333190917969
+            },
+            {
+              "id": "exitgames",
+              "attributeSrc": "./media/photos-v03/root-exitgames.jpg",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/root-exitgames.jpg",
+              "naturalWidth": 720,
+              "naturalHeight": 445,
+              "alt": "Personaj Sherlock Holmes într-un decor de investigație, fotografie promoțională Exit Games Timișoara.",
+              "top": 313.04998779296875,
+              "bottom": 530.9333190917969
+            },
+            {
+              "id": "grumi",
+              "attributeSrc": "./media/photos-v03/outdoor-grumi.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/outdoor-grumi.webp",
+              "naturalWidth": 1440,
+              "naturalHeight": 1028,
+              "alt": "Intrarea atelierului Gruni, cu ceramică și panou pictat.",
+              "top": 313.04998779296875,
+              "bottom": 530.9333190917969
+            },
+            {
+              "id": "megazone",
+              "attributeSrc": "./media/photos-v03/outdoor-megazone.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/outdoor-megazone.webp",
+              "naturalWidth": 1440,
+              "naturalHeight": 958,
+              "alt": "Jucător cu echipament laser tag în arena Megazone 2.",
+              "top": 313.04998779296875,
+              "bottom": 530.9333190917969
+            },
+            {
+              "id": "paintball",
+              "attributeSrc": "./media/photos-v03/outdoor-paintball.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/outdoor-paintball.webp",
+              "naturalWidth": 667,
+              "naturalHeight": 500,
+              "alt": "Grup de jucători pe terenul Army al Arena Paintball din zona Giroc.",
+              "top": 313.04998779296875,
+              "bottom": 530.9333190917969
+            }
+          ],
+          "caveats": [
+            {
+              "id": "rolers",
+              "language": "ro",
+              "caption": "Imagine promoțională ilustrativă publicată de operator; nu este o fotografie verificată a locației.",
+              "visitHrefs": [
+                "https://rollerdreams.ro/contact/",
+                "https://rollerdreams.ro/contact/"
+              ]
+            }
+          ],
+          "overflow": {
+            "viewport": 390,
+            "documentWidth": 390,
+            "documentOverflow": false,
+            "modalWidth": null,
+            "modalScrollWidth": null,
+            "modalClientWidth": null,
+            "modalOverflow": false
+          }
+        },
+        {
+          "category": "kids",
+          "appearances": 7,
+          "images": [
+            {
+              "id": "parcul-copiilor",
+              "attributeSrc": "./media/photos/parcul-copiilor.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos/parcul-copiilor.webp",
+              "naturalWidth": 960,
+              "naturalHeight": 720,
+              "alt": "Parcul Copiilor",
+              "top": 499.20001220703125,
+              "bottom": 717.0833435058594
+            },
+            {
+              "id": "energy-kids",
+              "attributeSrc": "./media/photos-v03/outdoor-energy-kids.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/outdoor-energy-kids.webp",
+              "naturalWidth": 1024,
+              "naturalHeight": 683,
+              "alt": "Interiorul locului de joacă Energy Kids din Iulius Town.",
+              "top": 313.04998779296875,
+              "bottom": 530.9333190917969
+            },
+            {
+              "id": "paradisul-piratilor",
+              "attributeSrc": "./media/photos-v03/paradisul-piratilor.jpg",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/paradisul-piratilor.jpg",
+              "naturalWidth": 1440,
+              "naturalHeight": 698,
+              "alt": "Copii la tunurile cu mingi de burete și sigla Tunurile Piraților, în prezentarea originală a localului.",
+              "top": 313.04998779296875,
+              "bottom": 530.9333190917969
+            },
+            {
+              "id": "arena-jocurilor",
+              "attributeSrc": "./media/photos-v03/outdoor-arena-jocurilor.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/outdoor-arena-jocurilor.webp",
+              "naturalWidth": 1310,
+              "naturalHeight": 490,
+              "alt": "Sală colorată pentru copii la Arena Jocurilor.",
+              "top": 313.04998779296875,
+              "bottom": 530.9333190917969
+            },
+            {
+              "id": "kids-town",
+              "attributeSrc": "./media/photos-v03/root-kids-town.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/root-kids-town.webp",
+              "naturalWidth": 1188,
+              "naturalHeight": 1016,
+              "alt": "Zona de construcții KidsTown, cu piese mari colorate și mese pentru joacă.",
+              "top": 313.04998779296875,
+              "bottom": 530.9333190917969
+            },
+            {
+              "id": "noso",
+              "attributeSrc": "./media/photos-v03/outdoor-noso.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/outdoor-noso.webp",
+              "naturalWidth": 1024,
+              "naturalHeight": 577,
+              "alt": "Activitate de grup cu un membru al echipei Noso.",
+              "top": 313.04998779296875,
+              "bottom": 530.9333190917969
+            },
+            {
+              "id": "planetarium",
+              "attributeSrc": "./media/photos-v03/outdoor-planetarium.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/outdoor-planetarium.webp",
+              "naturalWidth": 1440,
+              "naturalHeight": 1080,
+              "alt": "Proiectorul și scaunele din Planetariul UVT.",
+              "top": 313.04998779296875,
+              "bottom": 530.9333190917969
+            }
+          ],
+          "caveats": [
+            {
+              "id": "paradisul-piratilor",
+              "language": "ro",
+              "caption": "Imagine promoțională nedatată a Tunurilor Piraților, atracția originală pentru copii de la Paradisul Piraților. Funcționarea actuală nu este confirmată.",
+              "visitHrefs": []
+            }
+          ],
+          "overflow": {
+            "viewport": 390,
+            "documentWidth": 390,
+            "documentOverflow": false,
+            "modalWidth": null,
+            "modalScrollWidth": null,
+            "modalClientWidth": null,
+            "modalOverflow": false
+          }
+        },
+        {
+          "category": "nature",
+          "appearances": 10,
+          "images": [
+            {
+              "id": "bike-serbia",
+              "attributeSrc": "./media/photos-v03/outdoor-bike-serbia.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/outdoor-bike-serbia.webp",
+              "naturalWidth": 1080,
+              "naturalHeight": 1350,
+              "alt": "Anunț oficial cu fotografie a bicicliștilor pe ruta Timișoara–Zrenjanin.",
+              "top": 532.2000122070312,
+              "bottom": 750.0833435058594
+            },
+            {
+              "id": "la-livada",
+              "attributeSrc": "./media/photos-v03/outdoor-la-livada.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/outdoor-la-livada.webp",
+              "naturalWidth": 960,
+              "naturalHeight": 1440,
+              "alt": "Zonă verde și leagăn la La Livada Bănățeană.",
+              "top": 313.04998779296875,
+              "bottom": 530.9333190917969
+            },
+            {
+              "id": "herneacova",
+              "attributeSrc": "./media/photos-v03/outdoor-herneacova.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/outdoor-herneacova.webp",
+              "naturalWidth": 1440,
+              "naturalHeight": 959,
+              "alt": "Trăsură, gazon și clădiri pe Domeniul Herneacova, în fotografia de arhivă a operatorului.",
+              "top": 313.04998779296875,
+              "bottom": 530.9333190917969
+            },
+            {
+              "id": "liziera",
+              "attributeSrc": "./media/photos-v03/outdoor-liziera.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/outdoor-liziera.webp",
+              "naturalWidth": 1440,
+              "naturalHeight": 960,
+              "alt": "Colț cu scaune și oglindă în pădurea de la L’iziera Park.",
+              "top": 313.04998779296875,
+              "bottom": 530.9333190917969
+            },
+            {
+              "id": "parcul-rozelor",
+              "attributeSrc": "./media/photos/parcul-rozelor.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos/parcul-rozelor.webp",
+              "naturalWidth": 960,
+              "naturalHeight": 640,
+              "alt": "Parcul Rozelor",
+              "top": 313.04998779296875,
+              "bottom": 530.9333190917969
+            },
+            {
+              "id": "parcul-botanic",
+              "attributeSrc": "./media/photos/parcul-botanic.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos/parcul-botanic.webp",
+              "naturalWidth": 960,
+              "naturalHeight": 349,
+              "alt": "Parcul Botanic",
+              "top": 313.04998779296875,
+              "bottom": 530.9333190917969
+            },
+            {
+              "id": "parcul-civic",
+              "attributeSrc": "./media/photos/parcul-civic.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos/parcul-civic.webp",
+              "naturalWidth": 960,
+              "naturalHeight": 540,
+              "alt": "Parcul Civic",
+              "top": 313.04998779296875,
+              "bottom": 530.9333190917969
+            },
+            {
+              "id": "parcul-castelului",
+              "attributeSrc": "./media/photos-v02/parcul-castelului.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v02/parcul-castelului.webp",
+              "naturalWidth": 1440,
+              "naturalHeight": 1080,
+              "alt": "Alee și gazon în Scuarul Castelului, lângă Castelul Huniade.",
+              "top": 313.04998779296875,
+              "bottom": 530.9333190917969
+            },
+            {
+              "id": "parcul-regina-maria",
+              "attributeSrc": "./media/photos/parcul-regina-maria.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos/parcul-regina-maria.webp",
+              "naturalWidth": 960,
+              "naturalHeight": 640,
+              "alt": "Parcul Regina Maria",
+              "top": 313.04998779296875,
+              "bottom": 530.9333190917969
+            }
+          ],
+          "caveats": [],
+          "overflow": {
+            "viewport": 390,
+            "documentWidth": 390,
+            "documentOverflow": false,
+            "modalWidth": null,
+            "modalScrollWidth": null,
+            "modalClientWidth": null,
+            "modalOverflow": false
+          }
+        },
+        {
+          "category": "relax",
+          "appearances": 4,
+          "images": [
+            {
+              "id": "pet-yoga",
+              "attributeSrc": "./media/photos-v03/outdoor-pet-yoga.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/outdoor-pet-yoga.webp",
+              "naturalWidth": 959,
+              "naturalHeight": 1440,
+              "alt": "Participantă și cățeluș într-o fotografie de prezentare Puppy Yoga România.",
+              "top": 455.1000061035156,
+              "bottom": 672.9833374023438
+            },
+            {
+              "id": "dharmaland",
+              "attributeSrc": "./media/photos-v03/outdoor-dharmaland.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/outdoor-dharmaland.webp",
+              "naturalWidth": 1440,
+              "naturalHeight": 960,
+              "alt": "Piscina interioară Gym One 4 Spa, fostul Dharmaland.",
+              "top": 313.04998779296875,
+              "bottom": 530.9333190917969
+            },
+            {
+              "id": "bega-walk",
+              "attributeSrc": "./media/photos/bega-walk.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos/bega-walk.webp",
+              "naturalWidth": 960,
+              "naturalHeight": 718,
+              "alt": "Plimbare pe malul Begăi",
+              "top": 313.04998779296875,
+              "bottom": 530.9333190917969
+            },
+            {
+              "id": "bega-boat",
+              "attributeSrc": "./media/photos/bega-boat.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos/bega-boat.webp",
+              "naturalWidth": 960,
+              "naturalHeight": 720,
+              "alt": "Stația de îmbarcare Ardealul pe Bega",
+              "top": 313.04998779296875,
+              "bottom": 530.9333190917969
+            }
+          ],
+          "caveats": [],
+          "overflow": {
+            "viewport": 390,
+            "documentWidth": 390,
+            "documentOverflow": false,
+            "modalWidth": null,
+            "modalScrollWidth": null,
+            "modalClientWidth": null,
+            "modalOverflow": false
+          }
+        },
+        {
+          "category": "night",
+          "appearances": 7,
+          "images": [
+            {
+              "id": "no-name",
+              "attributeSrc": "./media/photos-v03/city-no-name.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-no-name.webp",
+              "naturalWidth": 960,
+              "naturalHeight": 638,
+              "alt": "Piscina No Name iluminată noaptea, fotografie publicată de operator.",
+              "top": 488.1000061035156,
+              "bottom": 705.9833374023438
+            },
+            {
+              "id": "heaven",
+              "attributeSrc": "./media/photos-v03/city-heaven.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-heaven.webp",
+              "naturalWidth": 1200,
+              "naturalHeight": 800,
+              "alt": "Concert la Heaven, fotografie de arhivă de pe site-ul operatorului.",
+              "top": 313.04998779296875,
+              "bottom": 530.9333190917969
+            },
+            {
+              "id": "fratelli",
+              "attributeSrc": "./media/photos-v02/city-fratelli.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v02/city-fratelli.webp",
+              "naturalWidth": 1280,
+              "naturalHeight": 720,
+              "alt": "Zdob și Zdub în concert la Fratelli Timișoara, februarie 2013.",
+              "top": 313.04998779296875,
+              "bottom": 530.9333190917969
+            },
+            {
+              "id": "darc-mal",
+              "attributeSrc": "./media/photos-v03/city-darc-mal.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-darc-mal.webp",
+              "naturalWidth": 1200,
+              "naturalHeight": 800,
+              "alt": "Terasa D’arc pe Mal și ambarcațiuni pe Bega.",
+              "top": 313.04998779296875,
+              "bottom": 530.9333190917969
+            },
+            {
+              "id": "atelier-experience",
+              "attributeSrc": "./media/photos-v03/city-atelier-experience.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-atelier-experience.webp",
+              "naturalWidth": 568,
+              "naturalHeight": 640,
+              "alt": "Cocktail prezentat de Atelier d’Experience.",
+              "top": 313.04998779296875,
+              "bottom": 530.9333190917969
+            }
+          ],
+          "caveats": [],
+          "overflow": {
+            "viewport": 390,
+            "documentWidth": 390,
+            "documentOverflow": false,
+            "modalWidth": null,
+            "modalScrollWidth": null,
+            "modalClientWidth": null,
+            "modalOverflow": false
+          }
+        },
+        {
+          "category": "cafes",
+          "appearances": 11,
+          "images": [
+            {
+              "id": "tucano",
+              "attributeSrc": "./media/photos-v03/city-tucano.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-tucano.webp",
+              "naturalWidth": 1200,
+              "naturalHeight": 814,
+              "alt": "Fațada și terasa Tucano Coffee Venezuela din Iulius Town, noaptea, în septembrie 2019.",
+              "top": 488.1000061035156,
+              "bottom": 705.9833374023438
+            },
+            {
+              "id": "starbucks",
+              "attributeSrc": "./media/photos-v03/city-starbucks.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-starbucks.webp",
+              "naturalWidth": 740,
+              "naturalHeight": 600,
+              "alt": "Fațada și intrarea Starbucks.",
+              "top": 313.04998779296875,
+              "bottom": 530.9333190917969
+            },
+            {
+              "id": "teds",
+              "attributeSrc": "./media/photos-v03/city-teds.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-teds.webp",
+              "naturalWidth": 1200,
+              "naturalHeight": 480,
+              "alt": "Barista la espressor, fotografie de prezentare Ted’s Coffee.",
+              "top": 313.04998779296875,
+              "bottom": 530.9333190917969
+            },
+            {
+              "id": "brewno",
+              "attributeSrc": "./media/photos-v03/city-brewno.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-brewno.webp",
+              "naturalWidth": 800,
+              "naturalHeight": 1200,
+              "alt": "Cafea în fotografia de prezentare Brewno.",
+              "top": 313.04998779296875,
+              "bottom": 530.9333190917969
+            },
+            {
+              "id": "comun-cafe-mara",
+              "attributeSrc": "./media/photos-v03/city-comun-cafe-mara.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-comun-cafe-mara.webp",
+              "naturalWidth": 1200,
+              "naturalHeight": 801,
+              "alt": "Fațada și intrarea Comun Cafe Mara.",
+              "top": 313.04998779296875,
+              "bottom": 530.9333190917969
+            },
+            {
+              "id": "street-coffee",
+              "attributeSrc": "./media/photos-v03/city-street-coffee.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-street-coffee.webp",
+              "naturalWidth": 737,
+              "naturalHeight": 491,
+              "alt": "Fațada și intrarea Street Coffee Roasters.",
+              "top": 313.04998779296875,
+              "bottom": 530.9333190917969
+            },
+            {
+              "id": "meron",
+              "attributeSrc": "./media/photos-v03/city-meron.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-meron.webp",
+              "naturalWidth": 1200,
+              "naturalHeight": 800,
+              "alt": "Espresso într-o ceașcă, fotografie de prezentare Meron.",
+              "top": 313.04998779296875,
+              "bottom": 530.9333190917969
+            },
+            {
+              "id": "caffe-doge",
+              "attributeSrc": "./media/photos-v03/city-caffe-doge.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-caffe-doge.webp",
+              "naturalWidth": 1200,
+              "naturalHeight": 799,
+              "alt": "Cafea în fotografia de prezentare Caffe del Doge.",
+              "top": 313.04998779296875,
+              "bottom": 530.9333190917969
+            },
+            {
+              "id": "senses",
+              "attributeSrc": "./media/photos-v03/city-senses.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-senses.webp",
+              "naturalWidth": 1200,
+              "naturalHeight": 800,
+              "alt": "Pahare și cești Senses Specialty Coffee, cu Piața Unirii în fundal.",
+              "top": 313.04998779296875,
+              "bottom": 530.9333190917969
+            }
+          ],
+          "caveats": [
+            {
+              "id": "tucano",
+              "language": "ro",
+              "caption": "Imagine de arhivă decupată: Tucano Coffee Venezuela, septembrie 2019.",
+              "visitHrefs": [
+                "https://iuliustown.ro/ro/dining/cafenele",
+                "https://iuliustown.ro/ro/dining/cafenele"
+              ]
+            },
+            {
+              "id": "meron",
+              "language": "ro",
+              "caption": "Fotografie de pe pagina rețelei Meron; filiala din Timișoara nu este identificată.",
+              "visitHrefs": [
+                "https://www.meron.coffee/meron-timisoara-2/",
+                "https://www.meron.coffee/meron-timisoara-2/"
+              ]
+            }
+          ],
+          "overflow": {
+            "viewport": 390,
+            "documentWidth": 390,
+            "documentOverflow": false,
+            "modalWidth": null,
+            "modalScrollWidth": null,
+            "modalClientWidth": null,
+            "modalOverflow": false
+          }
+        },
+        {
+          "category": "food",
+          "appearances": 19,
+          "images": [
+            {
+              "id": "paradisul-piratilor",
+              "attributeSrc": "./media/photos-v03/paradisul-piratilor.jpg",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/paradisul-piratilor.jpg",
+              "naturalWidth": 1440,
+              "naturalHeight": 698,
+              "alt": "Copii la tunurile cu mingi de burete și sigla Tunurile Piraților, în prezentarea originală a localului.",
+              "top": 488.1000061035156,
+              "bottom": 705.9833374023438
+            },
+            {
+              "id": "zaza",
+              "attributeSrc": "./media/photos-v03/city-zaza.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-zaza.webp",
+              "naturalWidth": 600,
+              "naturalHeight": 400,
+              "alt": "Preparat prezentat pe pagina Zaza.",
+              "top": 313.04998779296875,
+              "bottom": 530.9333190917969
+            },
+            {
+              "id": "massimo",
+              "attributeSrc": "./media/photos-v03/city-massimo.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-massimo.webp",
+              "naturalWidth": 820,
+              "naturalHeight": 547,
+              "alt": "Preparat prezentat pe pagina Massimo.",
+              "top": 313.04998779296875,
+              "bottom": 530.9333190917969
+            },
+            {
+              "id": "rio",
+              "attributeSrc": "./media/photos-v03/city-rio.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-rio.webp",
+              "naturalWidth": 1200,
+              "naturalHeight": 800,
+              "alt": "Interior prezentat pe pagina Riyo Wok Sushi.",
+              "top": 313.04998779296875,
+              "bottom": 530.9333190917969
+            },
+            {
+              "id": "pinocchio",
+              "attributeSrc": "./media/photos-v03/city-pinocchio.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-pinocchio.webp",
+              "naturalWidth": 1200,
+              "naturalHeight": 800,
+              "alt": "Clătită cu ciocolată și căpșuni prezentată de Pinocchio — Piața Libertății.",
+              "top": 313.04998779296875,
+              "bottom": 530.9333190917969
+            },
+            {
+              "id": "jacks",
+              "attributeSrc": "./media/photos-v03/city-jacks.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-jacks.webp",
+              "naturalWidth": 480,
+              "naturalHeight": 480,
+              "alt": "Interior prezentat pe pagina Jack’s.",
+              "top": 313.04998779296875,
+              "bottom": 530.9333190917969
+            },
+            {
+              "id": "moon-garden",
+              "attributeSrc": "./media/photos-v03/city-moon-garden.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-moon-garden.webp",
+              "naturalWidth": 1200,
+              "naturalHeight": 675,
+              "alt": "Vedere de sus asupra restaurantului Moon Garden.",
+              "top": 313.04998779296875,
+              "bottom": 530.9333190917969
+            },
+            {
+              "id": "napoleon",
+              "attributeSrc": "./media/photos-v03/city-napoleon.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-napoleon.webp",
+              "naturalWidth": 1200,
+              "naturalHeight": 800,
+              "alt": "Pizza în fotografia principală de pe pagina Napoleon Pizza.",
+              "top": 313.04998779296875,
+              "bottom": 530.9333190917969
+            },
+            {
+              "id": "white-pizza",
+              "attributeSrc": "./media/photos-v03/city-white-pizza.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-white-pizza.webp",
+              "naturalWidth": 1200,
+              "naturalHeight": 800,
+              "alt": "Interior prezentat pe pagina Why Pizza.",
+              "top": 313.04998779296875,
+              "bottom": 530.9333190917969
+            },
+            {
+              "id": "dei-frati",
+              "attributeSrc": "./media/photos-v03/city-dei-frati.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-dei-frati.webp",
+              "naturalWidth": 1200,
+              "naturalHeight": 800,
+              "alt": "Preparate prezentate pe pagina Dei Frati.",
+              "top": 313.04998779296875,
+              "bottom": 530.9333190917969
+            },
+            {
+              "id": "del-corso",
+              "attributeSrc": "./media/photos-v03/city-del-corso.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-del-corso.webp",
+              "naturalWidth": 1200,
+              "naturalHeight": 802,
+              "alt": "Interior prezentat pe pagina Del Corso.",
+              "top": 313.04998779296875,
+              "bottom": 530.9333190917969
+            },
+            {
+              "id": "el-maguey",
+              "attributeSrc": "./media/photos-v03/city-el-maguey.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-el-maguey.webp",
+              "naturalWidth": 1200,
+              "naturalHeight": 568,
+              "alt": "Intrarea El Maguey, cu firmă și steag mexican.",
+              "top": 313.04998779296875,
+              "bottom": 530.9333190917969
+            },
+            {
+              "id": "beraria",
+              "attributeSrc": "./media/photos-v02/city-beraria.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v02/city-beraria.webp",
+              "naturalWidth": 797,
+              "naturalHeight": 531,
+              "alt": "Intrarea și terasa Berăria 700 din Piața 700, iunie 2019.",
+              "top": 313.04998779296875,
+              "bottom": 530.9333190917969
+            },
+            {
+              "id": "casa-bunicii",
+              "attributeSrc": "./media/photos-v03/city-casa-bunicii.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-casa-bunicii.webp",
+              "naturalWidth": 1200,
+              "naturalHeight": 800,
+              "alt": "Grădina și mesele restaurantului Casa Bunicii Garden, văzute de sus.",
+              "top": 313.04998779296875,
+              "bottom": 530.9333190917969
+            },
+            {
+              "id": "zone-2",
+              "attributeSrc": "./media/photos-v03/city-zone-2.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-zone-2.webp",
+              "naturalWidth": 1200,
+              "naturalHeight": 675,
+              "alt": "Preparate prezentate pe pagina Restaurant ZONE 2.",
+              "top": 313.04998779296875,
+              "bottom": 530.9333190917969
+            },
+            {
+              "id": "daf-junior",
+              "attributeSrc": "./media/photos-v03/city-daf-junior.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-daf-junior.webp",
+              "naturalWidth": 480,
+              "naturalHeight": 320,
+              "alt": "Interior prezentat pe pagina DAF Junior.",
+              "top": 313.04998779296875,
+              "bottom": 530.9333190917969
+            },
+            {
+              "id": "flonta",
+              "attributeSrc": "./media/photos-v03/city-flonta.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-flonta.webp",
+              "naturalWidth": 1200,
+              "naturalHeight": 625,
+              "alt": "Terasa Complex Flonta, lângă apă.",
+              "top": 313.04998779296875,
+              "bottom": 530.9333190917969
+            }
+          ],
+          "caveats": [
+            {
+              "id": "paradisul-piratilor",
+              "language": "ro",
+              "caption": "Imagine promoțională nedatată a Tunurilor Piraților, atracția originală pentru copii de la Paradisul Piraților. Funcționarea actuală nu este confirmată.",
+              "visitHrefs": []
+            }
+          ],
+          "overflow": {
+            "viewport": 390,
+            "documentWidth": 390,
+            "documentOverflow": false,
+            "modalWidth": null,
+            "modalScrollWidth": null,
+            "modalClientWidth": null,
+            "modalOverflow": false
+          }
+        },
+        {
+          "category": "culture",
+          "appearances": 7,
+          "images": [
+            {
+              "id": "muzeul-arta",
+              "attributeSrc": "./media/photos/muzeul-arta.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos/muzeul-arta.webp",
+              "naturalWidth": 960,
+              "naturalHeight": 638,
+              "alt": "Muzeul Național de Artă Timișoara",
+              "top": 488.1000061035156,
+              "bottom": 705.9833374023438
+            },
+            {
+              "id": "memorialul-revolutiei",
+              "attributeSrc": "./media/photos-v02/city-memorialul-revolutiei.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v02/city-memorialul-revolutiei.webp",
+              "naturalWidth": 1280,
+              "naturalHeight": 960,
+              "alt": "Fațada și intrarea Memorialului Revoluției de pe Strada Oituz, Timișoara.",
+              "top": 313.04998779296875,
+              "bottom": 530.9333190917969
+            },
+            {
+              "id": "muzeul-banatului",
+              "attributeSrc": "./media/photos/muzeul-banatului.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos/muzeul-banatului.webp",
+              "naturalWidth": 960,
+              "naturalHeight": 537,
+              "alt": "Muzeul Național al Banatului — Bastion",
+              "top": 313.04998779296875,
+              "bottom": 530.9333190917969
+            },
+            {
+              "id": "muzeul-comunismului",
+              "attributeSrc": "./media/photos/muzeul-comunismului.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos/muzeul-comunismului.webp",
+              "naturalWidth": 750,
+              "naturalHeight": 1000,
+              "alt": "Muzeul Consumatorului Comunist",
+              "top": 313.04998779296875,
+              "bottom": 530.9333190917969
+            },
+            {
+              "id": "jecza",
+              "attributeSrc": "./media/photos-v03/city-jecza.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-jecza.webp",
+              "naturalWidth": 600,
+              "naturalHeight": 400,
+              "alt": "Vizitator cu un ghid de expoziție, fotografie publicată de Jecza Gallery.",
+              "top": 313.04998779296875,
+              "bottom": 530.9333190917969
+            },
+            {
+              "id": "muzeul-apei",
+              "attributeSrc": "./media/photos-v03/city-muzeul-apei.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-muzeul-apei.webp",
+              "naturalWidth": 1200,
+              "naturalHeight": 800,
+              "alt": "Vizitatori lângă utilajele expuse la Muzeul Apei.",
+              "top": 313.04998779296875,
+              "bottom": 530.9333190917969
+            },
+            {
+              "id": "muzeul-satului",
+              "attributeSrc": "./media/photos/muzeul-satului.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos/muzeul-satului.webp",
+              "naturalWidth": 960,
+              "naturalHeight": 720,
+              "alt": "Muzeul Satului Bănățean",
+              "top": 313.04998779296875,
+              "bottom": 530.9333190917969
+            }
+          ],
+          "caveats": [],
+          "overflow": {
+            "viewport": 390,
+            "documentWidth": 390,
+            "documentOverflow": false,
+            "modalWidth": null,
+            "modalScrollWidth": null,
+            "modalClientWidth": null,
+            "modalOverflow": false
+          }
+        },
+        {
+          "category": "history",
+          "appearances": 6,
+          "images": [
+            {
+              "id": "catedrala",
+              "attributeSrc": "./media/photos/catedrala.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos/catedrala.webp",
+              "naturalWidth": 667,
+              "naturalHeight": 1000,
+              "alt": "Catedrala Mitropolitană „Sfinții Trei Ierarhi”",
+              "top": 488.1000061035156,
+              "bottom": 705.9833374023438
+            },
+            {
+              "id": "piata-victoriei",
+              "attributeSrc": "./media/photos/piata-victoriei.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos/piata-victoriei.webp",
+              "naturalWidth": 960,
+              "naturalHeight": 640,
+              "alt": "Piața Victoriei",
+              "top": 313.04998779296875,
+              "bottom": 530.9333190917969
+            },
+            {
+              "id": "piata-libertatii",
+              "attributeSrc": "./media/photos/piata-libertatii.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos/piata-libertatii.webp",
+              "naturalWidth": 960,
+              "naturalHeight": 720,
+              "alt": "Piața Libertății",
+              "top": 313.04998779296875,
+              "bottom": 530.9333190917969
+            },
+            {
+              "id": "piata-unirii",
+              "attributeSrc": "./media/photos/piata-unirii.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos/piata-unirii.webp",
+              "naturalWidth": 960,
+              "naturalHeight": 639,
+              "alt": "Piața Unirii",
+              "top": 313.04998779296875,
+              "bottom": 530.9333190917969
+            },
+            {
+              "id": "cetate",
+              "attributeSrc": "./media/photos/cetate.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos/cetate.webp",
+              "naturalWidth": 960,
+              "naturalHeight": 648,
+              "alt": "Fațadă de pe strada Eugeniu de Savoya, în Cetate",
+              "top": 313.04998779296875,
+              "bottom": 530.9333190917969
+            },
+            {
+              "id": "millennium",
+              "attributeSrc": "./media/photos/millennium.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos/millennium.webp",
+              "naturalWidth": 960,
+              "naturalHeight": 720,
+              "alt": "Biserica Millennium",
+              "top": 313.04998779296875,
+              "bottom": 530.9333190917969
+            }
+          ],
+          "caveats": [],
+          "overflow": {
+            "viewport": 390,
+            "documentWidth": 390,
+            "documentOverflow": false,
+            "modalWidth": null,
+            "modalScrollWidth": null,
+            "modalClientWidth": null,
+            "modalOverflow": false
+          }
+        }
+      ],
+      "caveats": [],
+      "localizedChecks": [],
+      "museum": {
+        "canvas": {
+          "width": 358,
+          "height": 430,
+          "cssWidth": 356.79998779296875,
+          "cssHeight": 428
+        },
+        "photoResponses": [
+          {
+            "phase": "museum-adventure",
+            "url": "http://127.0.0.1:4176/media/photos-v03/outdoor-beat-seven.webp",
+            "status": 200,
+            "resourceType": "image"
+          },
+          {
+            "phase": "museum-adventure",
+            "url": "http://127.0.0.1:4176/media/photos-v03/outdoor-hype.webp",
+            "status": 200,
+            "resourceType": "image"
+          },
+          {
+            "phase": "museum-adventure",
+            "url": "http://127.0.0.1:4176/media/photos-v03/outdoor-animus.webp",
+            "status": 200,
+            "resourceType": "image"
+          },
+          {
+            "phase": "museum-adventure",
+            "url": "http://127.0.0.1:4176/media/photos-v03/root-rolers.webp",
+            "status": 200,
+            "resourceType": "image"
+          },
+          {
+            "phase": "museum-adventure",
+            "url": "http://127.0.0.1:4176/media/photos-v03/outdoor-amazonia.webp",
+            "status": 200,
+            "resourceType": "image"
+          },
+          {
+            "phase": "museum-adventure",
+            "url": "http://127.0.0.1:4176/media/photos-v03/outdoor-red-motor.webp",
+            "status": 200,
+            "resourceType": "image"
+          },
+          {
+            "phase": "museum-adventure",
+            "url": "http://127.0.0.1:4176/media/photos-v03/root-exitgames.jpg",
+            "status": 200,
+            "resourceType": "image"
+          },
+          {
+            "phase": "museum-adventure",
+            "url": "http://127.0.0.1:4176/media/photos-v03/outdoor-arcade.webp",
+            "status": 200,
+            "resourceType": "image"
+          },
+          {
+            "phase": "museum-adventure",
+            "url": "http://127.0.0.1:4176/media/photos-v03/outdoor-megazone.webp",
+            "status": 200,
+            "resourceType": "image"
+          },
+          {
+            "phase": "museum-adventure",
+            "url": "http://127.0.0.1:4176/media/photos-v03/outdoor-grumi.webp",
+            "status": 200,
+            "resourceType": "image"
+          },
+          {
+            "phase": "museum-adventure",
+            "url": "http://127.0.0.1:4176/media/photos-v03/outdoor-paintball.webp",
+            "status": 200,
+            "resourceType": "image"
+          }
+        ],
+        "overflow": {
+          "viewport": 390,
+          "documentWidth": 390,
+          "documentOverflow": false,
+          "modalWidth": null,
+          "modalScrollWidth": null,
+          "modalClientWidth": null,
+          "modalOverflow": false
+        }
+      },
+      "pageErrors": [],
+      "consoleErrors": [],
+      "consoleWarnings": [],
+      "httpFailures": [],
+      "requestFailures": [],
+      "externalRequests": [],
+      "browserVersion": "159.0",
+      "observedAppearances": 85,
+      "observedImageDecodes": 75,
+      "observedUniqueImageEntities": 74
+    },
+    {
+      "engine": "webkit",
+      "status": "pass",
+      "initialNetwork": {
+        "requests": [
+          {
+            "phase": "home",
+            "url": "http://127.0.0.1:4176/",
+            "resourceType": "document"
+          },
+          {
+            "phase": "home",
+            "url": "http://127.0.0.1:4176/assets/index-Cf4HjVgM.js",
+            "resourceType": "script"
+          },
+          {
+            "phase": "home",
+            "url": "http://127.0.0.1:4176/assets/index-CUbUSFJs.css",
+            "resourceType": "stylesheet"
+          },
+          {
+            "phase": "home",
+            "url": "http://127.0.0.1:4176/assets/dm-sans-latin-ext-400-normal-BtiwyxMk.woff2",
+            "resourceType": "font"
+          },
+          {
+            "phase": "home",
+            "url": "http://127.0.0.1:4176/media/entrance.jpg",
+            "resourceType": "image"
+          },
+          {
+            "phase": "home",
+            "url": "http://127.0.0.1:4176/assets/libre-baskerville-latin-400-italic-Dx5Rrf3o.woff2",
+            "resourceType": "font"
+          },
+          {
+            "phase": "home",
+            "url": "http://127.0.0.1:4176/assets/cormorant-garamond-latin-400-italic-Dc_OZ8oc.woff2",
+            "resourceType": "font"
+          },
+          {
+            "phase": "home",
+            "url": "http://127.0.0.1:4176/assets/cormorant-garamond-latin-ext-400-normal-Drx2k2n9.woff2",
+            "resourceType": "font"
+          },
+          {
+            "phase": "home",
+            "url": "http://127.0.0.1:4176/assets/cormorant-garamond-latin-400-normal-B-1hWBU7.woff2",
+            "resourceType": "font"
+          },
+          {
+            "phase": "home",
+            "url": "http://127.0.0.1:4176/assets/dm-sans-latin-400-normal-CW0RaeGs.woff2",
+            "resourceType": "font"
+          }
+        ],
+        "mp3Requests": [],
+        "museum3DRequests": [],
+        "overflow": {
+          "viewport": 390,
+          "documentWidth": 390,
+          "documentOverflow": false,
+          "modalWidth": null,
+          "modalScrollWidth": null,
+          "modalClientWidth": null,
+          "modalOverflow": false
+        }
+      },
+      "catalogs": [
+        {
+          "category": "adventure",
+          "appearances": 14,
+          "images": [
+            {
+              "id": "beat-seven",
+              "attributeSrc": "./media/photos-v03/outdoor-beat-seven.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/outdoor-beat-seven.webp",
+              "naturalWidth": 382,
+              "naturalHeight": 510,
+              "alt": "Jucători pe podeaua LED de la Beat Se7en.",
+              "top": 531.1875,
+              "bottom": 749.078125
+            },
+            {
+              "id": "hype",
+              "attributeSrc": "./media/photos-v03/outdoor-hype.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/outdoor-hype.webp",
+              "naturalWidth": 1024,
+              "naturalHeight": 683,
+              "alt": "Zonă cu bureți și echipamente de joacă la Hype Play.",
+              "top": 312.171875,
+              "bottom": 530.0625
+            },
+            {
+              "id": "rolers",
+              "attributeSrc": "./media/photos-v03/root-rolers.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/root-rolers.webp",
+              "naturalWidth": 1280,
+              "naturalHeight": 720,
+              "alt": "Ilustrație de prezentare cu patine cu rotile și lumini colorate.",
+              "top": 312.59375,
+              "bottom": 530.484375
+            },
+            {
+              "id": "animus",
+              "attributeSrc": "./media/photos-v03/outdoor-animus.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/outdoor-animus.webp",
+              "naturalWidth": 1440,
+              "naturalHeight": 960,
+              "alt": "Participanți pe podeaua interactivă din ANIMUS Arena.",
+              "top": 625.578125,
+              "bottom": 843.46875
+            },
+            {
+              "id": "red-motor",
+              "attributeSrc": "./media/photos-v03/outdoor-red-motor.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/outdoor-red-motor.webp",
+              "naturalWidth": 1200,
+              "naturalHeight": 900,
+              "alt": "Karturi electrice pe circuitul interior Red Motor.",
+              "top": 312.5625,
+              "bottom": 530.453125
+            },
+            {
+              "id": "arcade",
+              "attributeSrc": "./media/photos-v03/outdoor-arcade.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/outdoor-arcade.webp",
+              "naturalWidth": 769,
+              "naturalHeight": 553,
+              "alt": "Aparate arcade la Energy Games, Iulius Town Timișoara.",
+              "top": 625.546875,
+              "bottom": 843.4375
+            },
+            {
+              "id": "amazonia",
+              "attributeSrc": "./media/photos-v03/outdoor-amazonia.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/outdoor-amazonia.webp",
+              "naturalWidth": 1440,
+              "naturalHeight": 851,
+              "alt": "Tobogane și piscine exterioare la Amazonia Timișoara.",
+              "top": 313.09375,
+              "bottom": 530.984375
+            },
+            {
+              "id": "exitgames",
+              "attributeSrc": "./media/photos-v03/root-exitgames.jpg",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/root-exitgames.jpg",
+              "naturalWidth": 720,
+              "naturalHeight": 445,
+              "alt": "Personaj Sherlock Holmes într-un decor de investigație, fotografie promoțională Exit Games Timișoara.",
+              "top": 625.640625,
+              "bottom": 843.53125
+            },
+            {
+              "id": "grumi",
+              "attributeSrc": "./media/photos-v03/outdoor-grumi.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/outdoor-grumi.webp",
+              "naturalWidth": 1440,
+              "naturalHeight": 1028,
+              "alt": "Intrarea atelierului Gruni, cu ceramică și panou pictat.",
+              "top": 312.734375,
+              "bottom": 530.625
+            },
+            {
+              "id": "megazone",
+              "attributeSrc": "./media/photos-v03/outdoor-megazone.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/outdoor-megazone.webp",
+              "naturalWidth": 1440,
+              "naturalHeight": 958,
+              "alt": "Jucător cu echipament laser tag în arena Megazone 2.",
+              "top": 625.28125,
+              "bottom": 843.171875
+            },
+            {
+              "id": "paintball",
+              "attributeSrc": "./media/photos-v03/outdoor-paintball.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/outdoor-paintball.webp",
+              "naturalWidth": 667,
+              "naturalHeight": 500,
+              "alt": "Grup de jucători pe terenul Army al Arena Paintball din zona Giroc.",
+              "top": 312.828125,
+              "bottom": 530.71875
+            }
+          ],
+          "caveats": [
+            {
+              "id": "rolers",
+              "language": "ro",
+              "caption": "Imagine promoțională ilustrativă publicată de operator; nu este o fotografie verificată a locației.",
+              "visitHrefs": [
+                "https://rollerdreams.ro/contact/",
+                "https://rollerdreams.ro/contact/"
+              ]
+            }
+          ],
+          "overflow": {
+            "viewport": 390,
+            "documentWidth": 390,
+            "documentOverflow": false,
+            "modalWidth": null,
+            "modalScrollWidth": null,
+            "modalClientWidth": null,
+            "modalOverflow": false
+          }
+        },
+        {
+          "category": "kids",
+          "appearances": 7,
+          "images": [
+            {
+              "id": "parcul-copiilor",
+              "attributeSrc": "./media/photos/parcul-copiilor.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos/parcul-copiilor.webp",
+              "naturalWidth": 960,
+              "naturalHeight": 720,
+              "alt": "Parcul Copiilor",
+              "top": 498.1875,
+              "bottom": 716.078125
+            },
+            {
+              "id": "energy-kids",
+              "attributeSrc": "./media/photos-v03/outdoor-energy-kids.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/outdoor-energy-kids.webp",
+              "naturalWidth": 1024,
+              "naturalHeight": 683,
+              "alt": "Interiorul locului de joacă Energy Kids din Iulius Town.",
+              "top": 312.734375,
+              "bottom": 530.625
+            },
+            {
+              "id": "paradisul-piratilor",
+              "attributeSrc": "./media/photos-v03/paradisul-piratilor.jpg",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/paradisul-piratilor.jpg",
+              "naturalWidth": 1440,
+              "naturalHeight": 698,
+              "alt": "Copii la tunurile cu mingi de burete și sigla Tunurile Piraților, în prezentarea originală a localului.",
+              "top": 625.28125,
+              "bottom": 843.171875
+            },
+            {
+              "id": "arena-jocurilor",
+              "attributeSrc": "./media/photos-v03/outdoor-arena-jocurilor.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/outdoor-arena-jocurilor.webp",
+              "naturalWidth": 1310,
+              "naturalHeight": 490,
+              "alt": "Sală colorată pentru copii la Arena Jocurilor.",
+              "top": 312.703125,
+              "bottom": 530.59375
+            },
+            {
+              "id": "kids-town",
+              "attributeSrc": "./media/photos-v03/root-kids-town.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/root-kids-town.webp",
+              "naturalWidth": 1188,
+              "naturalHeight": 1016,
+              "alt": "Zona de construcții KidsTown, cu piese mari colorate și mese pentru joacă.",
+              "top": 625.25,
+              "bottom": 843.140625
+            },
+            {
+              "id": "noso",
+              "attributeSrc": "./media/photos-v03/outdoor-noso.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/outdoor-noso.webp",
+              "naturalWidth": 1024,
+              "naturalHeight": 577,
+              "alt": "Activitate de grup cu un membru al echipei Noso.",
+              "top": 312.796875,
+              "bottom": 530.6875
+            },
+            {
+              "id": "planetarium",
+              "attributeSrc": "./media/photos-v03/outdoor-planetarium.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/outdoor-planetarium.webp",
+              "naturalWidth": 1440,
+              "naturalHeight": 1080,
+              "alt": "Proiectorul și scaunele din Planetariul UVT.",
+              "top": 625.78125,
+              "bottom": 843.671875
+            }
+          ],
+          "caveats": [
+            {
+              "id": "paradisul-piratilor",
+              "language": "ro",
+              "caption": "Imagine promoțională nedatată a Tunurilor Piraților, atracția originală pentru copii de la Paradisul Piraților. Funcționarea actuală nu este confirmată.",
+              "visitHrefs": []
+            }
+          ],
+          "overflow": {
+            "viewport": 390,
+            "documentWidth": 390,
+            "documentOverflow": false,
+            "modalWidth": null,
+            "modalScrollWidth": null,
+            "modalClientWidth": null,
+            "modalOverflow": false
+          }
+        },
+        {
+          "category": "nature",
+          "appearances": 10,
+          "images": [
+            {
+              "id": "bike-serbia",
+              "attributeSrc": "./media/photos-v03/outdoor-bike-serbia.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/outdoor-bike-serbia.webp",
+              "naturalWidth": 1080,
+              "naturalHeight": 1350,
+              "alt": "Anunț oficial cu fotografie a bicicliștilor pe ruta Timișoara–Zrenjanin.",
+              "top": 531.1875,
+              "bottom": 749.078125
+            },
+            {
+              "id": "la-livada",
+              "attributeSrc": "./media/photos-v03/outdoor-la-livada.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/outdoor-la-livada.webp",
+              "naturalWidth": 960,
+              "naturalHeight": 1440,
+              "alt": "Zonă verde și leagăn la La Livada Bănățeană.",
+              "top": 312.515625,
+              "bottom": 530.40625
+            },
+            {
+              "id": "herneacova",
+              "attributeSrc": "./media/photos-v03/outdoor-herneacova.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/outdoor-herneacova.webp",
+              "naturalWidth": 1440,
+              "naturalHeight": 959,
+              "alt": "Trăsură, gazon și clădiri pe Domeniul Herneacova, în fotografia de arhivă a operatorului.",
+              "top": 312.609375,
+              "bottom": 530.5
+            },
+            {
+              "id": "liziera",
+              "attributeSrc": "./media/photos-v03/outdoor-liziera.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/outdoor-liziera.webp",
+              "naturalWidth": 1440,
+              "naturalHeight": 960,
+              "alt": "Colț cu scaune și oglindă în pădurea de la L’iziera Park.",
+              "top": 625.59375,
+              "bottom": 843.484375
+            },
+            {
+              "id": "parcul-rozelor",
+              "attributeSrc": "./media/photos/parcul-rozelor.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos/parcul-rozelor.webp",
+              "naturalWidth": 960,
+              "naturalHeight": 640,
+              "alt": "Parcul Rozelor",
+              "top": 312.578125,
+              "bottom": 530.46875
+            },
+            {
+              "id": "parcul-botanic",
+              "attributeSrc": "./media/photos/parcul-botanic.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos/parcul-botanic.webp",
+              "naturalWidth": 960,
+              "naturalHeight": 349,
+              "alt": "Parcul Botanic",
+              "top": 625.125,
+              "bottom": 843.015625
+            },
+            {
+              "id": "parcul-civic",
+              "attributeSrc": "./media/photos/parcul-civic.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos/parcul-civic.webp",
+              "naturalWidth": 960,
+              "naturalHeight": 540,
+              "alt": "Parcul Civic",
+              "top": 313.109375,
+              "bottom": 531
+            },
+            {
+              "id": "parcul-castelului",
+              "attributeSrc": "./media/photos-v02/parcul-castelului.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v02/parcul-castelului.webp",
+              "naturalWidth": 1440,
+              "naturalHeight": 1080,
+              "alt": "Alee și gazon în Scuarul Castelului, lângă Castelul Huniade.",
+              "top": 625.65625,
+              "bottom": 843.546875
+            },
+            {
+              "id": "parcul-regina-maria",
+              "attributeSrc": "./media/photos/parcul-regina-maria.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos/parcul-regina-maria.webp",
+              "naturalWidth": 960,
+              "naturalHeight": 640,
+              "alt": "Parcul Regina Maria",
+              "top": 312.203125,
+              "bottom": 530.09375
+            }
+          ],
+          "caveats": [],
+          "overflow": {
+            "viewport": 390,
+            "documentWidth": 390,
+            "documentOverflow": false,
+            "modalWidth": null,
+            "modalScrollWidth": null,
+            "modalClientWidth": null,
+            "modalOverflow": false
+          }
+        },
+        {
+          "category": "relax",
+          "appearances": 4,
+          "images": [
+            {
+              "id": "pet-yoga",
+              "attributeSrc": "./media/photos-v03/outdoor-pet-yoga.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/outdoor-pet-yoga.webp",
+              "naturalWidth": 959,
+              "naturalHeight": 1440,
+              "alt": "Participantă și cățeluș într-o fotografie de prezentare Puppy Yoga România.",
+              "top": 454.09375,
+              "bottom": 671.984375
+            },
+            {
+              "id": "dharmaland",
+              "attributeSrc": "./media/photos-v03/outdoor-dharmaland.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/outdoor-dharmaland.webp",
+              "naturalWidth": 1440,
+              "naturalHeight": 960,
+              "alt": "Piscina interioară Gym One 4 Spa, fostul Dharmaland.",
+              "top": 312.984375,
+              "bottom": 530.875
+            },
+            {
+              "id": "bega-walk",
+              "attributeSrc": "./media/photos/bega-walk.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos/bega-walk.webp",
+              "naturalWidth": 960,
+              "naturalHeight": 718,
+              "alt": "Plimbare pe malul Begăi",
+              "top": 625.53125,
+              "bottom": 843.421875
+            },
+            {
+              "id": "bega-boat",
+              "attributeSrc": "./media/photos/bega-boat.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos/bega-boat.webp",
+              "naturalWidth": 960,
+              "naturalHeight": 720,
+              "alt": "Stația de îmbarcare Ardealul pe Bega",
+              "top": 312.515625,
+              "bottom": 530.40625
+            }
+          ],
+          "caveats": [],
+          "overflow": {
+            "viewport": 390,
+            "documentWidth": 390,
+            "documentOverflow": false,
+            "modalWidth": null,
+            "modalScrollWidth": null,
+            "modalClientWidth": null,
+            "modalOverflow": false
+          }
+        },
+        {
+          "category": "night",
+          "appearances": 7,
+          "images": [
+            {
+              "id": "no-name",
+              "attributeSrc": "./media/photos-v03/city-no-name.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-no-name.webp",
+              "naturalWidth": 960,
+              "naturalHeight": 638,
+              "alt": "Piscina No Name iluminată noaptea, fotografie publicată de operator.",
+              "top": 487.09375,
+              "bottom": 704.984375
+            },
+            {
+              "id": "heaven",
+              "attributeSrc": "./media/photos-v03/city-heaven.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-heaven.webp",
+              "naturalWidth": 1200,
+              "naturalHeight": 800,
+              "alt": "Concert la Heaven, fotografie de arhivă de pe site-ul operatorului.",
+              "top": 313.078125,
+              "bottom": 530.96875
+            },
+            {
+              "id": "fratelli",
+              "attributeSrc": "./media/photos-v02/city-fratelli.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v02/city-fratelli.webp",
+              "naturalWidth": 1280,
+              "naturalHeight": 720,
+              "alt": "Zdob și Zdub în concert la Fratelli Timișoara, februarie 2013.",
+              "top": 626.0625,
+              "bottom": 843.953125
+            },
+            {
+              "id": "darc-mal",
+              "attributeSrc": "./media/photos-v03/city-darc-mal.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-darc-mal.webp",
+              "naturalWidth": 1200,
+              "naturalHeight": 800,
+              "alt": "Terasa D’arc pe Mal și ambarcațiuni pe Bega.",
+              "top": 313.03125,
+              "bottom": 530.921875
+            },
+            {
+              "id": "atelier-experience",
+              "attributeSrc": "./media/photos-v03/city-atelier-experience.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-atelier-experience.webp",
+              "naturalWidth": 568,
+              "naturalHeight": 640,
+              "alt": "Cocktail prezentat de Atelier d’Experience.",
+              "top": 626.015625,
+              "bottom": 843.90625
+            }
+          ],
+          "caveats": [],
+          "overflow": {
+            "viewport": 390,
+            "documentWidth": 390,
+            "documentOverflow": false,
+            "modalWidth": null,
+            "modalScrollWidth": null,
+            "modalClientWidth": null,
+            "modalOverflow": false
+          }
+        },
+        {
+          "category": "cafes",
+          "appearances": 11,
+          "images": [
+            {
+              "id": "tucano",
+              "attributeSrc": "./media/photos-v03/city-tucano.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-tucano.webp",
+              "naturalWidth": 1200,
+              "naturalHeight": 814,
+              "alt": "Fațada și terasa Tucano Coffee Venezuela din Iulius Town, noaptea, în septembrie 2019.",
+              "top": 487.09375,
+              "bottom": 704.984375
+            },
+            {
+              "id": "starbucks",
+              "attributeSrc": "./media/photos-v03/city-starbucks.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-starbucks.webp",
+              "naturalWidth": 740,
+              "naturalHeight": 600,
+              "alt": "Fațada și intrarea Starbucks.",
+              "top": 312.640625,
+              "bottom": 530.53125
+            },
+            {
+              "id": "teds",
+              "attributeSrc": "./media/photos-v03/city-teds.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-teds.webp",
+              "naturalWidth": 1200,
+              "naturalHeight": 480,
+              "alt": "Barista la espressor, fotografie de prezentare Ted’s Coffee.",
+              "top": 312.734375,
+              "bottom": 530.625
+            },
+            {
+              "id": "brewno",
+              "attributeSrc": "./media/photos-v03/city-brewno.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-brewno.webp",
+              "naturalWidth": 800,
+              "naturalHeight": 1200,
+              "alt": "Cafea în fotografia de prezentare Brewno.",
+              "top": 625.28125,
+              "bottom": 843.171875
+            },
+            {
+              "id": "comun-cafe-mara",
+              "attributeSrc": "./media/photos-v03/city-comun-cafe-mara.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-comun-cafe-mara.webp",
+              "naturalWidth": 1200,
+              "naturalHeight": 801,
+              "alt": "Fațada și intrarea Comun Cafe Mara.",
+              "top": 312.8125,
+              "bottom": 530.703125
+            },
+            {
+              "id": "street-coffee",
+              "attributeSrc": "./media/photos-v03/city-street-coffee.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-street-coffee.webp",
+              "naturalWidth": 737,
+              "naturalHeight": 491,
+              "alt": "Fațada și intrarea Street Coffee Roasters.",
+              "top": 625.921875,
+              "bottom": 843.8125
+            },
+            {
+              "id": "meron",
+              "attributeSrc": "./media/photos-v03/city-meron.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-meron.webp",
+              "naturalWidth": 1200,
+              "naturalHeight": 800,
+              "alt": "Espresso într-o ceașcă, fotografie de prezentare Meron.",
+              "top": 312.46875,
+              "bottom": 530.359375
+            },
+            {
+              "id": "caffe-doge",
+              "attributeSrc": "./media/photos-v03/city-caffe-doge.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-caffe-doge.webp",
+              "naturalWidth": 1200,
+              "naturalHeight": 799,
+              "alt": "Cafea în fotografia de prezentare Caffe del Doge.",
+              "top": 626.015625,
+              "bottom": 843.90625
+            },
+            {
+              "id": "senses",
+              "attributeSrc": "./media/photos-v03/city-senses.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-senses.webp",
+              "naturalWidth": 1200,
+              "naturalHeight": 800,
+              "alt": "Pahare și cești Senses Specialty Coffee, cu Piața Unirii în fundal.",
+              "top": 312.5625,
+              "bottom": 530.453125
+            }
+          ],
+          "caveats": [
+            {
+              "id": "tucano",
+              "language": "ro",
+              "caption": "Imagine de arhivă decupată: Tucano Coffee Venezuela, septembrie 2019.",
+              "visitHrefs": [
+                "https://iuliustown.ro/ro/dining/cafenele",
+                "https://iuliustown.ro/ro/dining/cafenele"
+              ]
+            },
+            {
+              "id": "meron",
+              "language": "ro",
+              "caption": "Fotografie de pe pagina rețelei Meron; filiala din Timișoara nu este identificată.",
+              "visitHrefs": [
+                "https://www.meron.coffee/meron-timisoara-2/",
+                "https://www.meron.coffee/meron-timisoara-2/"
+              ]
+            }
+          ],
+          "overflow": {
+            "viewport": 390,
+            "documentWidth": 390,
+            "documentOverflow": false,
+            "modalWidth": null,
+            "modalScrollWidth": null,
+            "modalClientWidth": null,
+            "modalOverflow": false
+          }
+        },
+        {
+          "category": "food",
+          "appearances": 19,
+          "images": [
+            {
+              "id": "paradisul-piratilor",
+              "attributeSrc": "./media/photos-v03/paradisul-piratilor.jpg",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/paradisul-piratilor.jpg",
+              "naturalWidth": 1440,
+              "naturalHeight": 698,
+              "alt": "Copii la tunurile cu mingi de burete și sigla Tunurile Piraților, în prezentarea originală a localului.",
+              "top": 487.09375,
+              "bottom": 704.984375
+            },
+            {
+              "id": "zaza",
+              "attributeSrc": "./media/photos-v03/city-zaza.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-zaza.webp",
+              "naturalWidth": 600,
+              "naturalHeight": 400,
+              "alt": "Preparat prezentat pe pagina Zaza.",
+              "top": 312.515625,
+              "bottom": 530.40625
+            },
+            {
+              "id": "massimo",
+              "attributeSrc": "./media/photos-v03/city-massimo.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-massimo.webp",
+              "naturalWidth": 820,
+              "naturalHeight": 547,
+              "alt": "Preparat prezentat pe pagina Massimo.",
+              "top": 312.609375,
+              "bottom": 530.5
+            },
+            {
+              "id": "rio",
+              "attributeSrc": "./media/photos-v03/city-rio.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-rio.webp",
+              "naturalWidth": 1200,
+              "naturalHeight": 800,
+              "alt": "Interior prezentat pe pagina Riyo Wok Sushi.",
+              "top": 625.15625,
+              "bottom": 843.046875
+            },
+            {
+              "id": "pinocchio",
+              "attributeSrc": "./media/photos-v03/city-pinocchio.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-pinocchio.webp",
+              "naturalWidth": 1200,
+              "naturalHeight": 800,
+              "alt": "Clătită cu ciocolată și căpșuni prezentată de Pinocchio — Piața Libertății.",
+              "top": 312.25,
+              "bottom": 530.140625
+            },
+            {
+              "id": "jacks",
+              "attributeSrc": "./media/photos-v03/city-jacks.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-jacks.webp",
+              "naturalWidth": 480,
+              "naturalHeight": 480,
+              "alt": "Interior prezentat pe pagina Jack’s.",
+              "top": 625.796875,
+              "bottom": 843.6875
+            },
+            {
+              "id": "moon-garden",
+              "attributeSrc": "./media/photos-v03/city-moon-garden.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-moon-garden.webp",
+              "naturalWidth": 1200,
+              "naturalHeight": 675,
+              "alt": "Vedere de sus asupra restaurantului Moon Garden.",
+              "top": 312.34375,
+              "bottom": 530.234375
+            },
+            {
+              "id": "napoleon",
+              "attributeSrc": "./media/photos-v03/city-napoleon.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-napoleon.webp",
+              "naturalWidth": 1200,
+              "naturalHeight": 800,
+              "alt": "Pizza în fotografia principală de pe pagina Napoleon Pizza.",
+              "top": 625.890625,
+              "bottom": 843.78125
+            },
+            {
+              "id": "white-pizza",
+              "attributeSrc": "./media/photos-v03/city-white-pizza.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-white-pizza.webp",
+              "naturalWidth": 1200,
+              "naturalHeight": 800,
+              "alt": "Interior prezentat pe pagina Why Pizza.",
+              "top": 312.4375,
+              "bottom": 530.328125
+            },
+            {
+              "id": "dei-frati",
+              "attributeSrc": "./media/photos-v03/city-dei-frati.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-dei-frati.webp",
+              "naturalWidth": 1200,
+              "naturalHeight": 800,
+              "alt": "Preparate prezentate pe pagina Dei Frati.",
+              "top": 625.546875,
+              "bottom": 843.4375
+            },
+            {
+              "id": "del-corso",
+              "attributeSrc": "./media/photos-v03/city-del-corso.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-del-corso.webp",
+              "naturalWidth": 1200,
+              "naturalHeight": 802,
+              "alt": "Interior prezentat pe pagina Del Corso.",
+              "top": 313.09375,
+              "bottom": 530.984375
+            },
+            {
+              "id": "el-maguey",
+              "attributeSrc": "./media/photos-v03/city-el-maguey.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-el-maguey.webp",
+              "naturalWidth": 1200,
+              "naturalHeight": 568,
+              "alt": "Intrarea El Maguey, cu firmă și steag mexican.",
+              "top": 625.640625,
+              "bottom": 843.53125
+            },
+            {
+              "id": "beraria",
+              "attributeSrc": "./media/photos-v02/city-beraria.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v02/city-beraria.webp",
+              "naturalWidth": 797,
+              "naturalHeight": 531,
+              "alt": "Intrarea și terasa Berăria 700 din Piața 700, iunie 2019.",
+              "top": 312.1875,
+              "bottom": 530.078125
+            },
+            {
+              "id": "casa-bunicii",
+              "attributeSrc": "./media/photos-v03/city-casa-bunicii.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-casa-bunicii.webp",
+              "naturalWidth": 1200,
+              "naturalHeight": 800,
+              "alt": "Grădina și mesele restaurantului Casa Bunicii Garden, văzute de sus.",
+              "top": 625.734375,
+              "bottom": 843.625
+            },
+            {
+              "id": "zone-2",
+              "attributeSrc": "./media/photos-v03/city-zone-2.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-zone-2.webp",
+              "naturalWidth": 1200,
+              "naturalHeight": 675,
+              "alt": "Preparate prezentate pe pagina Restaurant ZONE 2.",
+              "top": 312.28125,
+              "bottom": 530.171875
+            },
+            {
+              "id": "daf-junior",
+              "attributeSrc": "./media/photos-v03/city-daf-junior.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-daf-junior.webp",
+              "naturalWidth": 480,
+              "naturalHeight": 320,
+              "alt": "Interior prezentat pe pagina DAF Junior.",
+              "top": 625.828125,
+              "bottom": 843.71875
+            },
+            {
+              "id": "flonta",
+              "attributeSrc": "./media/photos-v03/city-flonta.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-flonta.webp",
+              "naturalWidth": 1200,
+              "naturalHeight": 625,
+              "alt": "Terasa Complex Flonta, lângă apă.",
+              "top": 312.375,
+              "bottom": 530.265625
+            }
+          ],
+          "caveats": [
+            {
+              "id": "paradisul-piratilor",
+              "language": "ro",
+              "caption": "Imagine promoțională nedatată a Tunurilor Piraților, atracția originală pentru copii de la Paradisul Piraților. Funcționarea actuală nu este confirmată.",
+              "visitHrefs": []
+            }
+          ],
+          "overflow": {
+            "viewport": 390,
+            "documentWidth": 390,
+            "documentOverflow": false,
+            "modalWidth": null,
+            "modalScrollWidth": null,
+            "modalClientWidth": null,
+            "modalOverflow": false
+          }
+        },
+        {
+          "category": "culture",
+          "appearances": 7,
+          "images": [
+            {
+              "id": "muzeul-arta",
+              "attributeSrc": "./media/photos/muzeul-arta.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos/muzeul-arta.webp",
+              "naturalWidth": 960,
+              "naturalHeight": 638,
+              "alt": "Muzeul Național de Artă Timișoara",
+              "top": 487.09375,
+              "bottom": 704.984375
+            },
+            {
+              "id": "memorialul-revolutiei",
+              "attributeSrc": "./media/photos-v02/city-memorialul-revolutiei.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v02/city-memorialul-revolutiei.webp",
+              "naturalWidth": 1280,
+              "naturalHeight": 960,
+              "alt": "Fațada și intrarea Memorialului Revoluției de pe Strada Oituz, Timișoara.",
+              "top": 312.984375,
+              "bottom": 530.875
+            },
+            {
+              "id": "muzeul-banatului",
+              "attributeSrc": "./media/photos/muzeul-banatului.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos/muzeul-banatului.webp",
+              "naturalWidth": 960,
+              "naturalHeight": 537,
+              "alt": "Muzeul Național al Banatului — Bastion",
+              "top": 625.96875,
+              "bottom": 843.859375
+            },
+            {
+              "id": "muzeul-comunismului",
+              "attributeSrc": "./media/photos/muzeul-comunismului.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos/muzeul-comunismului.webp",
+              "naturalWidth": 750,
+              "naturalHeight": 1000,
+              "alt": "Muzeul Consumatorului Comunist",
+              "top": 312.296875,
+              "bottom": 530.1875
+            },
+            {
+              "id": "jecza",
+              "attributeSrc": "./media/photos-v03/city-jecza.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-jecza.webp",
+              "naturalWidth": 600,
+              "naturalHeight": 400,
+              "alt": "Vizitator cu un ghid de expoziție, fotografie publicată de Jecza Gallery.",
+              "top": 625.625,
+              "bottom": 843.515625
+            },
+            {
+              "id": "muzeul-apei",
+              "attributeSrc": "./media/photos-v03/city-muzeul-apei.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos-v03/city-muzeul-apei.webp",
+              "naturalWidth": 1200,
+              "naturalHeight": 800,
+              "alt": "Vizitatori lângă utilajele expuse la Muzeul Apei.",
+              "top": 312.609375,
+              "bottom": 530.5
+            },
+            {
+              "id": "muzeul-satului",
+              "attributeSrc": "./media/photos/muzeul-satului.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos/muzeul-satului.webp",
+              "naturalWidth": 960,
+              "naturalHeight": 720,
+              "alt": "Muzeul Satului Bănățean",
+              "top": 625.59375,
+              "bottom": 843.484375
+            }
+          ],
+          "caveats": [],
+          "overflow": {
+            "viewport": 390,
+            "documentWidth": 390,
+            "documentOverflow": false,
+            "modalWidth": null,
+            "modalScrollWidth": null,
+            "modalClientWidth": null,
+            "modalOverflow": false
+          }
+        },
+        {
+          "category": "history",
+          "appearances": 6,
+          "images": [
+            {
+              "id": "catedrala",
+              "attributeSrc": "./media/photos/catedrala.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos/catedrala.webp",
+              "naturalWidth": 667,
+              "naturalHeight": 1000,
+              "alt": "Catedrala Mitropolitană „Sfinții Trei Ierarhi”",
+              "top": 487.09375,
+              "bottom": 704.984375
+            },
+            {
+              "id": "piata-victoriei",
+              "attributeSrc": "./media/photos/piata-victoriei.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos/piata-victoriei.webp",
+              "naturalWidth": 960,
+              "naturalHeight": 640,
+              "alt": "Piața Victoriei",
+              "top": 312.421875,
+              "bottom": 530.3125
+            },
+            {
+              "id": "piata-libertatii",
+              "attributeSrc": "./media/photos/piata-libertatii.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos/piata-libertatii.webp",
+              "naturalWidth": 960,
+              "naturalHeight": 720,
+              "alt": "Piața Libertății",
+              "top": 625.96875,
+              "bottom": 843.859375
+            },
+            {
+              "id": "piata-unirii",
+              "attributeSrc": "./media/photos/piata-unirii.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos/piata-unirii.webp",
+              "naturalWidth": 960,
+              "naturalHeight": 639,
+              "alt": "Piața Unirii",
+              "top": 312.515625,
+              "bottom": 530.40625
+            },
+            {
+              "id": "cetate",
+              "attributeSrc": "./media/photos/cetate.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos/cetate.webp",
+              "naturalWidth": 960,
+              "naturalHeight": 648,
+              "alt": "Fațadă de pe strada Eugeniu de Savoya, în Cetate",
+              "top": 626.0625,
+              "bottom": 843.953125
+            },
+            {
+              "id": "millennium",
+              "attributeSrc": "./media/photos/millennium.webp",
+              "resolvedSrc": "http://127.0.0.1:4176/media/photos/millennium.webp",
+              "naturalWidth": 960,
+              "naturalHeight": 720,
+              "alt": "Biserica Millennium",
+              "top": 312.609375,
+              "bottom": 530.5
+            }
+          ],
+          "caveats": [],
+          "overflow": {
+            "viewport": 390,
+            "documentWidth": 390,
+            "documentOverflow": false,
+            "modalWidth": null,
+            "modalScrollWidth": null,
+            "modalClientWidth": null,
+            "modalOverflow": false
+          }
+        }
+      ],
+      "caveats": [],
+      "localizedChecks": [],
+      "museum": {
+        "canvas": {
+          "width": 358,
+          "height": 430,
+          "cssWidth": 356.8125,
+          "cssHeight": 428
+        },
+        "photoResponses": [
+          {
+            "phase": "museum-adventure",
+            "url": "http://127.0.0.1:4176/media/photos-v03/outdoor-beat-seven.webp",
+            "status": 200,
+            "resourceType": "image"
+          },
+          {
+            "phase": "museum-adventure",
+            "url": "http://127.0.0.1:4176/media/photos-v03/outdoor-hype.webp",
+            "status": 200,
+            "resourceType": "image"
+          },
+          {
+            "phase": "museum-adventure",
+            "url": "http://127.0.0.1:4176/media/photos-v03/root-rolers.webp",
+            "status": 200,
+            "resourceType": "image"
+          },
+          {
+            "phase": "museum-adventure",
+            "url": "http://127.0.0.1:4176/media/photos-v03/outdoor-animus.webp",
+            "status": 200,
+            "resourceType": "image"
+          },
+          {
+            "phase": "museum-adventure",
+            "url": "http://127.0.0.1:4176/media/photos-v03/outdoor-amazonia.webp",
+            "status": 200,
+            "resourceType": "image"
+          },
+          {
+            "phase": "museum-adventure",
+            "url": "http://127.0.0.1:4176/media/photos-v03/root-exitgames.jpg",
+            "status": 200,
+            "resourceType": "image"
+          },
+          {
+            "phase": "museum-adventure",
+            "url": "http://127.0.0.1:4176/media/photos-v03/outdoor-grumi.webp",
+            "status": 200,
+            "resourceType": "image"
+          },
+          {
+            "phase": "museum-adventure",
+            "url": "http://127.0.0.1:4176/media/photos-v03/outdoor-red-motor.webp",
+            "status": 200,
+            "resourceType": "image"
+          },
+          {
+            "phase": "museum-adventure",
+            "url": "http://127.0.0.1:4176/media/photos-v03/outdoor-arcade.webp",
+            "status": 200,
+            "resourceType": "image"
+          },
+          {
+            "phase": "museum-adventure",
+            "url": "http://127.0.0.1:4176/media/photos-v03/outdoor-paintball.webp",
+            "status": 200,
+            "resourceType": "image"
+          },
+          {
+            "phase": "museum-adventure",
+            "url": "http://127.0.0.1:4176/media/photos-v03/outdoor-megazone.webp",
+            "status": 200,
+            "resourceType": "image"
+          }
+        ],
+        "overflow": {
+          "viewport": 390,
+          "documentWidth": 390,
+          "documentOverflow": false,
+          "modalWidth": null,
+          "modalScrollWidth": null,
+          "modalClientWidth": null,
+          "modalOverflow": false
+        }
+      },
+      "pageErrors": [],
+      "consoleErrors": [],
+      "consoleWarnings": [],
+      "httpFailures": [],
+      "requestFailures": [],
+      "externalRequests": [],
+      "browserVersion": "27.2",
+      "observedAppearances": 85,
+      "observedImageDecodes": 75,
+      "observedUniqueImageEntities": 74
+    }
+  ],
+  "screenshots": [
+    "work/final-qa/v03-paradis-kids.png",
+    "work/final-qa/v03-gallery-cafes.png",
+    "work/final-qa/v03-credits-ro.png"
+  ],
+  "completedAt": "2026-11-13T22:11:54.380Z",
+  "summary": {
+    "engines": 3,
+    "passed": 3,
+    "failed": 0,
+    "observedAppearanceDecodes": 225,
+    "observedAppearances": 255,
+    "galleryLanguageScans": 12,
+    "creditsLanguageScans": 6,
+    "pageErrors": 0,
+    "consoleErrors": 0,
+    "httpFailures": 0,
+    "requestFailures": 0,
+    "externalRequests": 0,
+    "seriousOrCriticalAxeViolations": 0,
+    "galleryOverflowFailures": 0,
+    "creditsOverflowFailures": 0,
+    "catalogRoutesScanned": 27,
+    "adventure3DRoomsPassed": 3,
+    "museumPhotoResponses": 33
+  },
+  "temporaryServer": {
+    "owned": true,
+    "port": 4176,
+    "stopped": true,
+    "listeningAfterStop": false,
+    "stopMethod": "SIGINT via owned exec session"
+  },
+  "verificationNotes": [
+    "Initial serious Axe contrast finding in .activity small was reported to the root agent before product edits. Root changed the text color to #675d4d, rebuilt, and froze production. This report measures that final build.",
+    "The full pre-fix evidence is preserved under work/final-qa/v03-browser-smoke-before-contrast-fix.json and excluded from final pass counts.",
+    "No product source, photos or audio were edited by this QA agent.",
+    "Chromium reported four software-WebGL ReadPixels performance warnings. Firefox and WebKit reported no console warnings. All page/console error, HTTP failure, failed-request and external-request counts are zero."
+  ],
+  "visualReview": {
+    "performed": true,
+    "screenshots": [
+      "work/final-qa/v03-paradis-kids.png",
+      "work/final-qa/v03-gallery-cafes.png",
+      "work/final-qa/v03-credits-ro.png"
+    ],
+    "observations": [
+      "Representative cafes gallery renders the Meron image and visible branch-unconfirmed caption without clipping.",
+      "Credits modal fits the mobile viewport; operator-image reuse terms are visible and explicit. All six language variants are also covered by DOM/Axe checks.",
+      "Paradis card visibly identifies the undated original attraction and unconfirmed current operation, and shows a destination-confirmation note with no visit link."
+    ]
+  }
+}

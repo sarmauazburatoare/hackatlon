@@ -1,0 +1,33 @@
+{
+  "entrance": {
+    "file": "/media/entrance.jpg",
+    "creator": "OpenAI ImageGen",
+    "date": "2026-11-13",
+    "prompt": "Original warm ivory/grey painterly oil sky on aged linen, one soft dove silhouette at upper right, calm negative space, no text or existing painting recreation. Landscape 16:9.",
+    "role": "Decorative original illustration; never used as venue photo"
+  },
+  "fonts": {
+    "Cormorant Garamond": "SIL OFL, replacement for unavailable Le Jour mark",
+    "Libre Baskerville Italic": "SIL OFL, greeting",
+    "DM Sans": "SIL OFL, interface",
+    "Chinese fallback": "Noto Sans SC, PingFang SC, Microsoft YaHei, system sans-serif; no downloaded font required"
+  },
+  "models": {
+    "creator": "Procedural geometry in src/museum*.ts",
+    "notes": "Stylized original interpretations, not surveyed replicas. Child sculpture omitted because identity unconfirmed."
+  },
+  "deviations": [
+    "Original painterly background rather than unlicensed embedded PDF painting",
+    "Libre Cormorant letterforms replace unavailable Le Jour fonts",
+    "Heritage models are stylized low-poly interpretations",
+    "Narration uses local synthetic preset voices; no personal voice cloning.",
+    "Homepage controls use a darker warm taupe fill for white-text contrast; title receives a local tonal adjustment and shadow, without darkening the entire background",
+    "Keyboard navigation uses Q/E plus arrow/WASD; mouse look uses dragging instead of pointer lock",
+    "Native ViewTransitions provide destination-ready crossfades; a bitmap source overlay provides a fallback"
+  ],
+  "v03OperatorImages": {
+    "policy": "Use operator homepage images when no licensed exact image was found, per explicit user instruction.",
+    "rights": "Operator publication is recorded separately from verified reuse licenses.",
+    "registry": "docs/editorial.json and docs/v03-photos-*.json"
+  }
+}

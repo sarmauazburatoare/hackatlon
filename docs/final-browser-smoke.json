@@ -1,0 +1,23 @@
+{
+  "date": "2026-11-13T20:49:01.309Z",
+  "results": [
+    {
+      "name": "chromium",
+      "errors": [],
+      "failed": [],
+      "modalSerious": []
+    },
+    {
+      "name": "firefox",
+      "errors": [],
+      "failed": [],
+      "modalSerious": []
+    },
+    {
+      "name": "webkit",
+      "errors": [],
+      "failed": [],
+      "modalSerious": []
+    }
+  ]
+}

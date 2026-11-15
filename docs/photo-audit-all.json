@@ -1,0 +1,852 @@
+{
+  "beat-seven": {
+    "query": "Beat Se7en Timisoara",
+    "checkedAt": "2026-11-13",
+    "candidates": []
+  },
+  "hype": {
+    "query": "Hype Play by Kiddo Timisoara",
+    "checkedAt": "2026-11-13",
+    "candidates": []
+  },
+  "skydiving": {
+    "query": "Skydiving Simulator Timisoara",
+    "checkedAt": "2026-11-13",
+    "candidates": []
+  },
+  "bowling": {
+    "query": "Bowling — Gentlemen’s Social Club Timisoara",
+    "checkedAt": "2026-11-13",
+    "candidates": []
+  },
+  "rolers": {
+    "query": "Rolers Dreams Timisoara",
+    "checkedAt": "2026-11-13",
+    "candidates": [
+      {
+        "title": "File:ConcertCSDTimisoara.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:ConcertCSDTimisoara.jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/ConcertCSDTimisoara.jpg/960px-ConcertCSDTimisoara.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "author": "Alexandra Sachelarie",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Carla's Dreams in a concert held in Timişoara"
+      },
+      {
+        "title": "File:OJ C 202505035 of 2025 - FI Finnish.pdf",
+        "source": "https://commons.wikimedia.org/wiki/File:OJ_C_202505035_of_2025_-_FI_Finnish.pdf",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/OJ_C_202505035_of_2025_-_FI_Finnish.pdf/page1-960px-OJ_C_202505035_of_2025_-_FI_Finnish.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "author": "Publications Office of the European Union",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "description": "Official Journal of the European Union - C_202505035 of 18 September 2025 - Finnish edition"
+      }
+    ]
+  },
+  "animus": {
+    "query": "Animus — Floor Is Lava Timisoara",
+    "checkedAt": "2026-11-13",
+    "candidates": []
+  },
+  "red-motor": {
+    "query": "Red Motor Timisoara",
+    "checkedAt": "2026-11-13",
+    "candidates": [
+      {
+        "title": "File:OJ C 202404047 of 2024 - HR Croatian.pdf",
+        "source": "https://commons.wikimedia.org/wiki/File:OJ_C_202404047_of_2024_-_HR_Croatian.pdf",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/OJ_C_202404047_of_2024_-_HR_Croatian.pdf/page1-960px-OJ_C_202404047_of_2024_-_HR_Croatian.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "author": "Publications Office of the European Union",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "description": "Official Journal of the European Union - C_202404047 of 5 July 2024 - Croatian edition"
+      },
+      {
+        "title": "File:OJ C 202404047 of 2024 - SL Slovenian.pdf",
+        "source": "https://commons.wikimedia.org/wiki/File:OJ_C_202404047_of_2024_-_SL_Slovenian.pdf",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/OJ_C_202404047_of_2024_-_SL_Slovenian.pdf/page1-960px-OJ_C_202404047_of_2024_-_SL_Slovenian.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "author": "Publications Office of the European Union",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "description": "Official Journal of the European Union - C_202404047 of 5 July 2024 - Slovenian edition"
+      }
+    ]
+  },
+  "arcade": {
+    "query": "Arcade — Iulius Mall Timisoara",
+    "checkedAt": "2026-11-13",
+    "candidates": []
+  },
+  "amazonia": {
+    "query": "Amazonia Timisoara",
+    "checkedAt": "2026-11-13",
+    "candidates": []
+  },
+  "exitgames": {
+    "query": "Exitgames Timisoara",
+    "checkedAt": "2026-11-13",
+    "candidates": []
+  },
+  "samantha": {
+    "query": "Samantha’s House Timisoara",
+    "checkedAt": "2026-11-13",
+    "candidates": []
+  },
+  "grumi": {
+    "query": "Olărit — Grumi Timisoara",
+    "checkedAt": "2026-11-13",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  "megazone": {
+    "query": "Megazone — Laser Tag Timisoara",
+    "checkedAt": "2026-11-13",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  "paintball": {
+    "query": "Paintball Timisoara",
+    "checkedAt": "2026-11-13",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  "parcul-copiilor": {
+    "query": "Parcul Copiilor Timisoara",
+    "checkedAt": "2026-11-13",
+    "candidates": [
+      {
+        "title": "File:Parcul Copiilor - panoramio.jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Parcul_Copiilor_-_panoramio.jpg/960px-Parcul_Copiilor_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "original": "https://upload.wikimedia.org/wikipedia/commons/0/06/Parcul_Copiilor_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "source": "https://commons.wikimedia.org/wiki/File:Parcul_Copiilor_-_panoramio.jpg",
+        "author": "Mister No",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "description": "Parcul Copiilor",
+        "categories": "Children's Park,Timișoara|Panoramio files uploaded by Panoramio upload bot|Panoramio images reviewed by trusted users|Photos from Panoramio|Media needing category review as of 23 March 2017|Files with coordinates missing SDC location of creation|Romania photographs taken on 2013-10-04|Photos from Panoramio ID 5152111"
+      },
+      {
+        "title": "File:Parcul Copiilor - panoramio (3).jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Parcul_Copiilor_-_panoramio_%283%29.jpg/960px-Parcul_Copiilor_-_panoramio_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "original": "https://upload.wikimedia.org/wikipedia/commons/8/80/Parcul_Copiilor_-_panoramio_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "source": "https://commons.wikimedia.org/wiki/File:Parcul_Copiilor_-_panoramio_(3).jpg",
+        "author": "Mister No",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "description": "Parcul Copiilor",
+        "categories": "Children's Park,Timișoara|Panoramio files uploaded by Panoramio upload bot|Panoramio images reviewed by trusted users|Photos from Panoramio|Media needing category review as of 23 March 2017|Files with coordinates missing SDC location of creation|Romania photographs taken on 2013-10-04|Photos from Panoramio ID 5152111"
+      }
+    ]
+  },
+  "energy-kids": {
+    "query": "Energy Kids — Iulius Mall Timisoara",
+    "checkedAt": "2026-11-13",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  "paradisul-piratilor": {
+    "query": "Paradisul Piraților Timisoara",
+    "checkedAt": "2026-11-13",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  "arena-jocurilor": {
+    "query": "Arena Jocurilor SRL Timisoara",
+    "checkedAt": "2026-11-13",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  "kids-town": {
+    "query": "Kids Town Timisoara",
+    "checkedAt": "2026-11-13",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  "noso": {
+    "query": "Noso Timisoara",
+    "checkedAt": "2026-11-13",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  "planetarium": {
+    "query": "Planetarium — UVT Timisoara",
+    "checkedAt": "2026-11-13",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  "bike-serbia": {
+    "query": "Pista de bicicletă spre Serbia / Zrenjanin Timisoara",
+    "checkedAt": "2026-11-13",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  "la-livada": {
+    "query": "La Livada Timisoara",
+    "checkedAt": "2026-11-13",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  "plaja-noua": {
+    "query": "Plaja Nouă Timisoara",
+    "checkedAt": "2026-11-13",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  "herneacova": {
+    "query": "Herneacova Timisoara",
+    "checkedAt": "2026-11-13",
+    "candidates": [
+      {
+        "title": "File:Herneacova, Timiș 01.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Herneacova%2C_Timi%C8%99_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "original": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Herneacova%2C_Timi%C8%99_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "source": "https://commons.wikimedia.org/wiki/File:Herneacova,_Timi%C8%99_01.jpg",
+        "author": "Herneacovean",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "description": "ro:Herneacova, Timiș"
+      },
+      {
+        "title": "File:Herneacova1.JPG",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Herneacova1.JPG/960px-Herneacova1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "original": "https://upload.wikimedia.org/wikipedia/commons/6/62/Herneacova1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "source": "https://commons.wikimedia.org/wiki/File:Herneacova1.JPG",
+        "author": "iulia i.",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "description": "view of the church in Herneacova"
+      },
+      {
+        "title": "File:Herneacova3.JPG",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Herneacova3.JPG/960px-Herneacova3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "original": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Herneacova3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "source": "https://commons.wikimedia.org/wiki/File:Herneacova3.JPG",
+        "author": "Herneacovean",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "description": "surroundings of Herneacova"
+      }
+    ]
+  },
+  "liziera": {
+    "query": "L’iziera Park Timisoara",
+    "checkedAt": "2026-11-13",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  "parcul-rozelor": {
+    "query": "Parcul Rozelor Timisoara",
+    "checkedAt": "2026-11-13",
+    "candidates": [
+      {
+        "title": "File:Parcul Rozelor Timisoara - entrance.jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Parcul_Rozelor_Timisoara_-_entrance.jpg/960px-Parcul_Rozelor_Timisoara_-_entrance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "original": "https://upload.wikimedia.org/wikipedia/commons/2/20/Parcul_Rozelor_Timisoara_-_entrance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "source": "https://commons.wikimedia.org/wiki/File:Parcul_Rozelor_Timisoara_-_entrance.jpg",
+        "author": "Turbojet",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Park of Roses, Timisoara, Romania - entrance",
+        "categories": "Taken with Canon EOS 700D|Park of Roses, Timișoara|Self-published work"
+      },
+      {
+        "title": "File:Parcul Rozelor Timisoara - roses.jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Parcul_Rozelor_Timisoara_-_roses.jpg/960px-Parcul_Rozelor_Timisoara_-_roses.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "original": "https://upload.wikimedia.org/wikipedia/commons/4/40/Parcul_Rozelor_Timisoara_-_roses.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "source": "https://commons.wikimedia.org/wiki/File:Parcul_Rozelor_Timisoara_-_roses.jpg",
+        "author": "Turbojet",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Park of Roses, Timisoara, Romania - roses",
+        "categories": "Taken with Canon EOS 700D|Park of Roses, Timișoara|Self-published work|Unidentified pink Rosa cultivars"
+      }
+    ]
+  },
+  "parcul-botanic": {
+    "query": "Parcul Botanic Timisoara",
+    "checkedAt": "2026-11-13",
+    "candidates": [
+      {
+        "title": "File:Botanical Garden in Timisoara (1).jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Botanical_Garden_in_Timisoara_%281%29.jpg/960px-Botanical_Garden_in_Timisoara_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "original": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Botanical_Garden_in_Timisoara_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "source": "https://commons.wikimedia.org/wiki/File:Botanical_Garden_in_Timisoara_(1).jpg",
+        "author": "Tournasol7",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "description": "Botanical Garden in Timișoara, Timiș County, Romania",
+        "categories": "Botanical Garden, Timișoara|Self-published work|Romania photographs taken on 2023-11-09|Files with coordinates missing SDC location of creation|2023 in Timișoara"
+      },
+      {
+        "title": "File:Botanical Garden in Timisoara (2).jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Botanical_Garden_in_Timisoara_%282%29.jpg/960px-Botanical_Garden_in_Timisoara_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "original": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Botanical_Garden_in_Timisoara_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "source": "https://commons.wikimedia.org/wiki/File:Botanical_Garden_in_Timisoara_(2).jpg",
+        "author": "Tournasol7",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "description": "Botanical Garden in Timișoara, Timiș County, Romania",
+        "categories": "Botanical Garden, Timișoara|Self-published work|Romania photographs taken on 2023-11-09|Files with coordinates missing SDC location of creation|2023 in Timișoara"
+      }
+    ]
+  },
+  "parcul-civic": {
+    "query": "Parcul Civic Timisoara",
+    "checkedAt": "2026-11-13",
+    "candidates": [
+      {
+        "title": "File:Cetate, Timișoara, Romania - panoramio (1).jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Cetate%2C_Timi%C8%99oara%2C_Romania_-_panoramio_%281%29.jpg/960px-Cetate%2C_Timi%C8%99oara%2C_Romania_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "original": "https://upload.wikimedia.org/wikipedia/commons/7/70/Cetate%2C_Timi%C8%99oara%2C_Romania_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "source": "https://commons.wikimedia.org/wiki/File:Cetate,_Timi%C8%99oara,_Romania_-_panoramio_(1).jpg",
+        "author": "Mister No",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "description": "The Flower Clock in Cetate neighborhood, Timisoara, Romania",
+        "categories": "Civic Park, Timișoara|Cetate, Timișoara|Panoramio files uploaded by Panoramio upload bot|Panoramio images reviewed by trusted users|Photos from Panoramio|Romania photographs taken on 2012-06-23|Files with coordinates missing SDC location of creation|Photos from Panoramio ID 5152111"
+      },
+      {
+        "title": "File:Civic Park, Timișoara.jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Civic_Park%2C_Timi%C8%99oara.jpg/960px-Civic_Park%2C_Timi%C8%99oara.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "original": "https://upload.wikimedia.org/wikipedia/commons/d/df/Civic_Park%2C_Timi%C8%99oara.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "source": "https://commons.wikimedia.org/wiki/File:Civic_Park,_Timi%C8%99oara.jpg",
+        "author": "Ionlizarazu",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Civic Park, Timișoara (park in Romania)",
+        "categories": "Civic Park, Timișoara|Self-published work|Uploaded with Mobile/Android|Photographs taken on 2022-08-08"
+      }
+    ]
+  },
+  "parcul-castelului": {
+    "query": "Parcul Castelului Timisoara",
+    "checkedAt": "2026-11-13",
+    "candidates": [
+      {
+        "title": "File:Castel-Banloc.jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Castel-Banloc.jpg/960px-Castel-Banloc.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "original": "https://upload.wikimedia.org/wikipedia/commons/6/67/Castel-Banloc.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "source": "https://commons.wikimedia.org/wiki/File:Castel-Banloc.jpg",
+        "author": "AntoniusPlaian",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Ilustrată tipărită după o fotografie de Kugel Karoly din Timișoara, cu fațada de nord a castelului și o parte din angajații domeniului. În prim plan stânga se observă una din statuile ce decorau parcul castelului.",
+        "categories": "Self-published work|All media needing categories as of 2026|Media needing categories as of 19 May 2026"
+      },
+      {
+        "title": "File:Monitorul Oficial al României. Partea 1 1948-06-05, nr. 129.pdf",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Monitorul_Oficial_al_Rom%C3%A2niei._Partea_1_1948-06-05%2C_nr._129.pdf/page1-960px-Monitorul_Oficial_al_Rom%C3%A2niei._Partea_1_1948-06-05%2C_nr._129.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "original": "https://upload.wikimedia.org/wikipedia/commons/8/80/Monitorul_Oficial_al_Rom%C3%A2niei._Partea_1_1948-06-05%2C_nr._129.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "source": "https://commons.wikimedia.org/wiki/File:Monitorul_Oficial_al_Rom%C3%A2niei._Partea_1_1948-06-05,_nr._129.pdf",
+        "author": "Romanian government; scan by Biblioteca Metropolitană București",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "description": "Monitorul Oficial al României. Partea 1, no. 129, year 116",
+        "categories": "PD-RO-exempt (documents)|Monitorul Oficial June 1948"
+      }
+    ]
+  },
+  "parcul-regina-maria": {
+    "query": "Parcul Regina Maria Timisoara",
+    "checkedAt": "2026-11-13",
+    "candidates": [
+      {
+        "title": "File:Timișoara - Parcul „Regina Maria” (43013587180).jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Timi%C8%99oara_-_Parcul_%E2%80%9ERegina_Maria%E2%80%9D_%2843013587180%29.jpg/960px-Timi%C8%99oara_-_Parcul_%E2%80%9ERegina_Maria%E2%80%9D_%2843013587180%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "original": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Timi%C8%99oara_-_Parcul_%E2%80%9ERegina_Maria%E2%80%9D_%2843013587180%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "source": "https://commons.wikimedia.org/wiki/File:Timi%C8%99oara_-_Parcul_%E2%80%9ERegina_Maria%E2%80%9D_(43013587180).jpg",
+        "author": "Fred Romero from Paris, France",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "description": "Fabric - Bulevardul 3 August 1919\n\nQueen Maria Park.",
+        "categories": "Taken with Canon EOS 100D|Uploads by Matlin|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Romania photographs taken on 2018-08-05|Photographs by Fred Romero|Sculptures in Timișoara|Queen Marie Park, Timișoara"
+      },
+      {
+        "title": "File:Timișoara - Parcul „Regina Maria” (43914196125).jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Timi%C8%99oara_-_Parcul_%E2%80%9ERegina_Maria%E2%80%9D_%2843914196125%29.jpg/960px-Timi%C8%99oara_-_Parcul_%E2%80%9ERegina_Maria%E2%80%9D_%2843914196125%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "original": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Timi%C8%99oara_-_Parcul_%E2%80%9ERegina_Maria%E2%80%9D_%2843914196125%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "source": "https://commons.wikimedia.org/wiki/File:Timi%C8%99oara_-_Parcul_%E2%80%9ERegina_Maria%E2%80%9D_(43914196125).jpg",
+        "author": "Fred Romero from Paris, France",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "description": "Fabric - Bulevardul 3 August 1919\n\nQueen Maria Park main entrance.",
+        "categories": "Taken with Canon EOS 100D|Uploads by Matlin|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Romania photographs taken on 2018-08-05|Photographs by Fred Romero|Queen Marie Park, Timișoara"
+      }
+    ]
+  },
+  "pet-yoga": {
+    "query": "Pet Yoga Timisoara",
+    "checkedAt": "2026-11-13",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  "dharmaland": {
+    "query": "Dharmaland Timisoara",
+    "checkedAt": "2026-11-13",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  "bega-walk": {
+    "query": "Plimbare pe malul Begăi Timisoara",
+    "checkedAt": "2026-11-13",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  "bega-boat": {
+    "query": "Plimbare cu vaporașul pe Bega Timisoara",
+    "checkedAt": "2026-11-13",
+    "candidates": [
+      {
+        "title": "File:Stație vaporetto Ardealul.jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Sta%C8%9Bie_vaporetto_Ardealul.jpg/960px-Sta%C8%9Bie_vaporetto_Ardealul.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "original": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Sta%C8%9Bie_vaporetto_Ardealul.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "source": "https://commons.wikimedia.org/wiki/File:Sta%C8%9Bie_vaporetto_Ardealul.jpg",
+        "author": "Mihai mircea moise",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Stația Ardealul, cu Podul feroiar Modoș în spate",
+        "categories": "Bridges in Timișoara|Bega Canal (Timișoara)|Self-published work"
+      },
+      {
+        "title": "File:Timisoara (222731983).jpeg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Timisoara_%28222731983%29.jpeg/960px-Timisoara_%28222731983%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "original": "https://upload.wikimedia.org/wikipedia/commons/2/24/Timisoara_%28222731983%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "source": "https://commons.wikimedia.org/wiki/File:Timisoara_(222731983).jpeg",
+        "author": "Dmitrii Bulan",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "description": "500px provided description: Timisoara [#piazza ,#capital ,#san pietro ,#european ,#tiber ,#gamla stan ,#belfry ,#campanile ,#danzig ,#vaporetto ,#maggiore ,#pincio]",
+        "categories": "CC-Zero|Brück House, Timișoara|Baroque Palace, Timișoara|Photos imported with import-500px"
+      }
+    ]
+  },
+  "no-name": {
+    "query": "No Name Timisoara",
+    "checkedAt": "2026-11-13",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  "heaven": {
+    "query": "Heaven Timisoara",
+    "checkedAt": "2026-11-13",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  "fratelli": {
+    "query": "Fratelli Timisoara",
+    "checkedAt": "2026-11-13",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  "darc": {
+    "query": "D’arc Timisoara",
+    "checkedAt": "2026-11-13",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  "darc-mal": {
+    "query": "D’arc pe Mal Timisoara",
+    "checkedAt": "2026-11-13",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  "atelier-experience": {
+    "query": "Atelier d’Experience Timisoara",
+    "checkedAt": "2026-11-13",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  "escape-venue": {
+    "query": "Escape Venue Timisoara",
+    "checkedAt": "2026-11-13",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  "tucano": {
+    "query": "Tucano Timisoara",
+    "checkedAt": "2026-11-13",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  "starbucks": {
+    "query": "Starbucks Timisoara",
+    "checkedAt": "2026-11-13",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  "frenzy": {
+    "query": "Frenzy Timisoara",
+    "checkedAt": "2026-11-13",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  "teds": {
+    "query": "Ted’s Coffee Timisoara",
+    "checkedAt": "2026-11-13",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  "brewno": {
+    "query": "Brewno Timisoara",
+    "checkedAt": "2026-11-13",
+    "candidates": []
+  },
+  "mercy": {
+    "query": "Mercy Coffee Timisoara",
+    "checkedAt": "2026-11-13",
+    "candidates": []
+  },
+  "comun-cafe-mara": {
+    "query": "Comun Cafe Mara Timisoara",
+    "checkedAt": "2026-11-13",
+    "candidates": [
+      {
+        "title": "File:Monitorul Oficial al României. Partea 1 1945-11-19, nr. 265.pdf",
+        "source": "https://commons.wikimedia.org/wiki/File:Monitorul_Oficial_al_Rom%C3%A2niei._Partea_1_1945-11-19,_nr._265.pdf",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Monitorul_Oficial_al_Rom%C3%A2niei._Partea_1_1945-11-19%2C_nr._265.pdf/page1-960px-Monitorul_Oficial_al_Rom%C3%A2niei._Partea_1_1945-11-19%2C_nr._265.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "author": "Romanian government; scan by Biblioteca Metropolitană București",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "description": "Monitorul Oficial al României. Partea 1, no. 265, year 113"
+      },
+      {
+        "title": "File:Monitorul Oficial al României. Partea a 2-a 1945-06-07, nr. 127.pdf",
+        "source": "https://commons.wikimedia.org/wiki/File:Monitorul_Oficial_al_Rom%C3%A2niei._Partea_a_2-a_1945-06-07,_nr._127.pdf",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Monitorul_Oficial_al_Rom%C3%A2niei._Partea_a_2-a_1945-06-07%2C_nr._127.pdf/page1-960px-Monitorul_Oficial_al_Rom%C3%A2niei._Partea_a_2-a_1945-06-07%2C_nr._127.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "author": "Romanian government; scan by Biblioteca Metropolitană București",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "description": "Monitorul Oficial al României. Partea a 2-a, no. 127, year 113"
+      }
+    ]
+  },
+  "street-coffee": {
+    "query": "Street Coffee Roasters Timisoara",
+    "checkedAt": "2026-11-13",
+    "candidates": [
+      {
+        "title": "File:OJ C 154 of 2015 - EN English.pdf",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/OJ_C_154_of_2015_-_EN_English.pdf/page1-960px-OJ_C_154_of_2015_-_EN_English.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "original": "https://upload.wikimedia.org/wikipedia/commons/2/20/OJ_C_154_of_2015_-_EN_English.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "source": "https://commons.wikimedia.org/wiki/File:OJ_C_154_of_2015_-_EN_English.pdf",
+        "author": "Publications Office of the European Union",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "description": "Official Journal of the European Union - C 154 of 9 May 2015 - English edition"
+      },
+      {
+        "title": "File:Spitalul Clinic Județean de Urgență „Pius Brînzeu” din Timișoara (2023) - img 05.jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Spitalul_Clinic_Jude%C8%9Bean_de_Urgen%C8%9B%C4%83_%E2%80%9EPius_Br%C3%AEnzeu%E2%80%9D_din_Timi%C8%99oara_%282023%29_-_img_05.jpg/960px-Spitalul_Clinic_Jude%C8%9Bean_de_Urgen%C8%9B%C4%83_%E2%80%9EPius_Br%C3%AEnzeu%E2%80%9D_din_Timi%C8%99oara_%282023%29_-_img_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "original": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Spitalul_Clinic_Jude%C8%9Bean_de_Urgen%C8%9B%C4%83_%E2%80%9EPius_Br%C3%AEnzeu%E2%80%9D_din_Timi%C8%99oara_%282023%29_-_img_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "source": "https://commons.wikimedia.org/wiki/File:Spitalul_Clinic_Jude%C8%9Bean_de_Urgen%C8%9B%C4%83_%E2%80%9EPius_Br%C3%AEnzeu%E2%80%9D_din_Timi%C8%99oara_(2023)_-_img_05.jpg",
+        "author": "Chainwit.",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Coffee store, Timiş County Emergency Clinical Hospital \"Pius Brînzeu\", Timișoara"
+      },
+      {
+        "title": "File:Каталог сталне поставке примењене уметности.pdf",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/%D0%9A%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3_%D1%81%D1%82%D0%B0%D0%BB%D0%BD%D0%B5_%D0%BF%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B5_%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%9A%D0%B5%D0%BD%D0%B5_%D1%83%D0%BC%D0%B5%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B8.pdf/page1-960px-%D0%9A%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3_%D1%81%D1%82%D0%B0%D0%BB%D0%BD%D0%B5_%D0%BF%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B5_%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%9A%D0%B5%D0%BD%D0%B5_%D1%83%D0%BC%D0%B5%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B8.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "original": "https://upload.wikimedia.org/wikipedia/commons/2/20/%D0%9A%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3_%D1%81%D1%82%D0%B0%D0%BB%D0%BD%D0%B5_%D0%BF%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B5_%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%9A%D0%B5%D0%BD%D0%B5_%D1%83%D0%BC%D0%B5%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B8.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "source": "https://commons.wikimedia.org/wiki/File:%D0%9A%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3_%D1%81%D1%82%D0%B0%D0%BB%D0%BD%D0%B5_%D0%BF%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B5_%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%9A%D0%B5%D0%BD%D0%B5_%D1%83%D0%BC%D0%B5%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B8.pdf",
+        "author": "аутор текста и концепције сталне поставке Милева Шијаковић",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "Каталог сталне поставке примењене уметности"
+      }
+    ]
+  },
+  "meron": {
+    "query": "Meron Timișoara Timisoara",
+    "checkedAt": "2026-11-13",
+    "candidates": [
+      {
+        "title": "File:Monitorul Oficial al României. Partea I 2009-02-05, nr. 70.pdf",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Monitorul_Oficial_al_Rom%C3%A2niei._Partea_I_2009-02-05%2C_nr._70.pdf/page1-960px-Monitorul_Oficial_al_Rom%C3%A2niei._Partea_I_2009-02-05%2C_nr._70.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "original": "https://upload.wikimedia.org/wikipedia/commons/0/07/Monitorul_Oficial_al_Rom%C3%A2niei._Partea_I_2009-02-05%2C_nr._70.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "source": "https://commons.wikimedia.org/wiki/File:Monitorul_Oficial_al_Rom%C3%A2niei._Partea_I_2009-02-05,_nr._70.pdf",
+        "author": "Romanian government",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "description": "Monitorul Oficial, no. 70/2009"
+      }
+    ]
+  },
+  "caffe-doge": {
+    "query": "Caffe del Doge Timisoara",
+    "checkedAt": "2026-11-13",
+    "candidates": []
+  },
+  "senses": {
+    "query": "Senses Specialty Coffee Timisoara",
+    "checkedAt": "2026-11-13",
+    "candidates": []
+  },
+  "zaza": {
+    "query": "Zaza Timisoara",
+    "checkedAt": "2026-11-13",
+    "candidates": []
+  },
+  "vineri-13": {
+    "query": "Vineri 13 Timisoara",
+    "checkedAt": "2026-11-13",
+    "candidates": [
+      {
+        "title": "File:Monitorul Oficial al României. Partea a 2-a 1945-01-13, nr. 010.pdf",
+        "source": "https://commons.wikimedia.org/wiki/File:Monitorul_Oficial_al_Rom%C3%A2niei._Partea_a_2-a_1945-01-13,_nr._010.pdf",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Monitorul_Oficial_al_Rom%C3%A2niei._Partea_a_2-a_1945-01-13%2C_nr._010.pdf/page1-960px-Monitorul_Oficial_al_Rom%C3%A2niei._Partea_a_2-a_1945-01-13%2C_nr._010.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "author": "Romanian government; scan by Biblioteca Metropolitană București",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "description": "Monitorul Oficial al României. Partea a 2-a, no. 010, year 113"
+      },
+      {
+        "title": "File:Monitorul Primăriei București 1929-01-13, nr. 02.pdf",
+        "source": "https://commons.wikimedia.org/wiki/File:Monitorul_Prim%C4%83riei_Bucure%C8%99ti_1929-01-13,_nr._02.pdf",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Monitorul_Prim%C4%83riei_Bucure%C8%99ti_1929-01-13%2C_nr._02.pdf/page1-960px-Monitorul_Prim%C4%83riei_Bucure%C8%99ti_1929-01-13%2C_nr._02.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "author": "Bucharest City Hall; scan by Biblioteca Metropolitană București",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "description": "Monitorul Primăriei București, no. 02, year 28"
+      }
+    ]
+  },
+  "massimo": {
+    "query": "Massimo Timisoara",
+    "checkedAt": "2026-11-13",
+    "candidates": [
+      {
+        "title": "File:OJ L No. 30 of 2012 - DA Danish.pdf",
+        "source": "https://commons.wikimedia.org/wiki/File:OJ_L_No._30_of_2012_-_DA_Danish.pdf",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/OJ_L_No._30_of_2012_-_DA_Danish.pdf/page1-960px-OJ_L_No._30_of_2012_-_DA_Danish.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "author": "Publications Office of the European Union",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "description": "Official Journal of the European Union - L 30 of 2 February 2012 - Danish edition"
+      },
+      {
+        "title": "File:OJ L No. 30 of 2012 - EN English.pdf",
+        "source": "https://commons.wikimedia.org/wiki/File:OJ_L_No._30_of_2012_-_EN_English.pdf",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/OJ_L_No._30_of_2012_-_EN_English.pdf/page1-960px-OJ_L_No._30_of_2012_-_EN_English.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "author": "Publications Office of the European Union",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "description": "Official Journal of the European Union - L 30 of 2 February 2012 - English edition"
+      }
+    ]
+  },
+  "rio": {
+    "query": "Rio — ramen Timisoara",
+    "checkedAt": "2026-11-13",
+    "candidates": [
+      {
+        "title": "File:Monitorul Oficial al României. Partea 1 1946-03-23, nr. 070.pdf",
+        "source": "https://commons.wikimedia.org/wiki/File:Monitorul_Oficial_al_Rom%C3%A2niei._Partea_1_1946-03-23,_nr._070.pdf",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Monitorul_Oficial_al_Rom%C3%A2niei._Partea_1_1946-03-23%2C_nr._070.pdf/page1-960px-Monitorul_Oficial_al_Rom%C3%A2niei._Partea_1_1946-03-23%2C_nr._070.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "author": "Romanian government; scan by Biblioteca Metropolitană București",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "description": "Monitorul Oficial al României. Partea 1, no. 070, year 114"
+      }
+    ]
+  },
+  "woktagon": {
+    "query": "Woktagon Timisoara",
+    "checkedAt": "2026-11-13",
+    "candidates": []
+  },
+  "pinocchio": {
+    "query": "Pinocchio — Piața Libertății Timisoara",
+    "checkedAt": "2026-11-13",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  "jacks": {
+    "query": "Jack’s Timisoara",
+    "checkedAt": "2026-11-13",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  "moon-garden": {
+    "query": "Moon Garden Timisoara",
+    "checkedAt": "2026-11-13",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  "napoleon": {
+    "query": "Napoleon Pizza Timisoara",
+    "checkedAt": "2026-11-13",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  "white-pizza": {
+    "query": "White Pizza Timisoara",
+    "checkedAt": "2026-11-13",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  "dei-frati": {
+    "query": "Dei Frati Timisoara",
+    "checkedAt": "2026-11-13",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  "del-corso": {
+    "query": "Del Corso Timisoara",
+    "checkedAt": "2026-11-13",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  "el-maguey": {
+    "query": "El Maguey Timisoara",
+    "checkedAt": "2026-11-13",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  "beraria": {
+    "query": "Berăria Timisoara",
+    "checkedAt": "2026-11-13",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  "casa-bunicii": {
+    "query": "Casa Bunicii Garden Timisoara",
+    "checkedAt": "2026-11-13",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  "zone-2": {
+    "query": "Restaurant ZONE 2 Timisoara",
+    "checkedAt": "2026-11-13",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  "daf-junior": {
+    "query": "DAF Junior Timisoara",
+    "checkedAt": "2026-11-13",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  "flonta": {
+    "query": "Complex Flonta Timisoara",
+    "checkedAt": "2026-11-13",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  "muzeul-arta": {
+    "query": "Muzeul Național de Artă Timișoara Timisoara",
+    "checkedAt": "2026-11-13",
+    "candidates": [
+      {
+        "title": "File:Art Museum Timisoara.jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Art_Museum_Timisoara.jpg/960px-Art_Museum_Timisoara.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "original": "https://upload.wikimedia.org/wikipedia/commons/1/14/Art_Museum_Timisoara.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "source": "https://commons.wikimedia.org/wiki/File:Art_Museum_Timisoara.jpg",
+        "author": "LuminitaM",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "Muzeul de Arta Timisoara",
+        "categories": "Taken with Nikon D40|Baroque Palace, Timișoara|Self-published work|Cultural heritage monuments in Romania with known IDs"
+      },
+      {
+        "title": "File:Timișoara - Palatul Vechii Prefecturi (44188365354).jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Timi%C8%99oara_-_Palatul_Vechii_Prefecturi_%2844188365354%29.jpg/960px-Timi%C8%99oara_-_Palatul_Vechii_Prefecturi_%2844188365354%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "original": "https://upload.wikimedia.org/wikipedia/commons/2/27/Timi%C8%99oara_-_Palatul_Vechii_Prefecturi_%2844188365354%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "source": "https://commons.wikimedia.org/wiki/File:Timi%C8%99oara_-_Palatul_Vechii_Prefecturi_(44188365354).jpg",
+        "author": "Fred Romero from Paris, France",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "description": "Cetate - Piața Unirii\nThe Baroque Palace, also known as Presidential Palace, Prefectura Veche (Old Prefecture) or House of the County.\nThe palace contains two former buildings, the Mining Office (built in 1733) and the Heereskasse (built in 1735), and was built between 1752 and 1754 as a county house (government building) modeled on the Kinsky Palace in Vienna and designed in Baroque style by the Austrian architect Franz Anton Hillebrandt.\n\nThe building was recently completely renovated and since 1984, it has housed the Museum of Art (Muzeul de Arta) of the city.",
+        "categories": "Baroque Palace, Timișoara|Uploads by Matlin|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Romania photographs taken on 2018-08-05|Photographs by Fred Romero"
+      }
+    ]
+  },
+  "memorialul-revolutiei": {
+    "query": "Memorialul Revoluției Timisoara",
+    "checkedAt": "2026-11-13",
+    "candidates": [
+      {
+        "title": "File:Memorial to the Romanian Revolution of 1989 in Timișoara.jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Memorial_to_the_Romanian_Revolution_of_1989_in_Timi%C8%99oara.jpg/960px-Memorial_to_the_Romanian_Revolution_of_1989_in_Timi%C8%99oara.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "original": "https://upload.wikimedia.org/wikipedia/commons/2/25/Memorial_to_the_Romanian_Revolution_of_1989_in_Timi%C8%99oara.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "source": "https://commons.wikimedia.org/wiki/File:Memorial_to_the_Romanian_Revolution_of_1989_in_Timi%C8%99oara.jpg",
+        "author": "FromMorningToMidnight",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "description": "Memorial to the Romanian Revolution of 1989, which overthrew Communist president Nicolae Ceaușescu, in Timișoara."
+      },
+      {
+        "title": "File:Spitalul Clinic Județean de Urgență „Pius Brînzeu” din Timișoara (2023) - img 06.jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Spitalul_Clinic_Jude%C8%9Bean_de_Urgen%C8%9B%C4%83_%E2%80%9EPius_Br%C3%AEnzeu%E2%80%9D_din_Timi%C8%99oara_%282023%29_-_img_06.jpg/960px-Spitalul_Clinic_Jude%C8%9Bean_de_Urgen%C8%9B%C4%83_%E2%80%9EPius_Br%C3%AEnzeu%E2%80%9D_din_Timi%C8%99oara_%282023%29_-_img_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "original": "https://upload.wikimedia.org/wikipedia/commons/0/06/Spitalul_Clinic_Jude%C8%9Bean_de_Urgen%C8%9B%C4%83_%E2%80%9EPius_Br%C3%AEnzeu%E2%80%9D_din_Timi%C8%99oara_%282023%29_-_img_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "source": "https://commons.wikimedia.org/wiki/File:Spitalul_Clinic_Jude%C8%9Bean_de_Urgen%C8%9B%C4%83_%E2%80%9EPius_Br%C3%AEnzeu%E2%80%9D_din_Timi%C8%99oara_(2023)_-_img_06.jpg",
+        "author": "Chainwit.",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Memorial Plaque of The 1989 Revolution, Timiş County Emergency Clinical Hospital \"Pius Brînzeu\", Timișoara"
+      },
+      {
+        "title": "File:Timișoara students' demands, October 30, 1956.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Timi%C8%99oara_students%27_demands%2C_October_30%2C_1956.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "original": "https://upload.wikimedia.org/wikipedia/commons/1/14/Timi%C8%99oara_students%27_demands%2C_October_30%2C_1956.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "source": "https://commons.wikimedia.org/wiki/File:Timi%C8%99oara_students%27_demands,_October_30,_1956.png",
+        "author": "Collective of students; handwriting by Teodor Stanca",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "description": "Demands listed by striking students of the various Timișoara colleges, before their movement was quashed by Romanian communist authorities. These are:\"1) Russian as a foreign language to be terminated or made optional2) Open session [for each course]3) Marxism and Political Economy to be made compulsory for [only] two years, and possibly moved to secondary schools4) Physical Education to be made optional5) Peasant students should receive scholarships regardless of their material wealth6) Freedom of the press and free speech7) A reduction of cafeteria prices to 150 lei8) If no answer is sent for the next 3 days, down to Saturday, we shall refrain from attending classes on Monday and subsequent days.\""
+      }
+    ]
+  },
+  "muzeul-banatului": {
+    "query": "Muzeul Național al Banatului — Bastion Timisoara",
+    "checkedAt": "2026-11-13",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  "muzeul-comunismului": {
+    "query": "Muzeul Consumatorului Comunist Timisoara",
+    "checkedAt": "2026-11-13",
+    "candidates": [
+      {
+        "title": "File:2023 April - Muzeul Consumatorului Comunist din Timișoara 10.jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/2023_April_-_Muzeul_Consumatorului_Comunist_din_Timi%C8%99oara_10.jpg/960px-2023_April_-_Muzeul_Consumatorului_Comunist_din_Timi%C8%99oara_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "original": "https://upload.wikimedia.org/wikipedia/commons/4/4a/2023_April_-_Muzeul_Consumatorului_Comunist_din_Timi%C8%99oara_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "source": "https://commons.wikimedia.org/wiki/File:2023_April_-_Muzeul_Consumatorului_Comunist_din_Timi%C8%99oara_10.jpg",
+        "author": "Chainwit.",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Museum of the Communist Consumer\nTimișoara, Romania"
+      },
+      {
+        "title": "File:Communist fire safety poster at the Museum of the Communist Consumer.jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Communist_fire_safety_poster_at_the_Museum_of_the_Communist_Consumer.jpg/960px-Communist_fire_safety_poster_at_the_Museum_of_the_Communist_Consumer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "original": "https://upload.wikimedia.org/wikipedia/commons/3/35/Communist_fire_safety_poster_at_the_Museum_of_the_Communist_Consumer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "source": "https://commons.wikimedia.org/wiki/File:Communist_fire_safety_poster_at_the_Museum_of_the_Communist_Consumer.jpg",
+        "author": "FromMorningToMidnight",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "description": "Communist fire safety poster at the Museum of the Communist Consumer in Timișoara, Romania."
+      },
+      {
+        "title": "File:Communist safety poster at the Museum of the Communist Consumer.jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Communist_safety_poster_at_the_Museum_of_the_Communist_Consumer.jpg/960px-Communist_safety_poster_at_the_Museum_of_the_Communist_Consumer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "original": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Communist_safety_poster_at_the_Museum_of_the_Communist_Consumer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "source": "https://commons.wikimedia.org/wiki/File:Communist_safety_poster_at_the_Museum_of_the_Communist_Consumer.jpg",
+        "author": "FromMorningToMidnight",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "description": "Communist safety poster at the Museum of the Communist Consumer in Timișoara, Romania."
+      }
+    ]
+  },
+  "jecza": {
+    "query": "Jecza Gallery Timisoara",
+    "checkedAt": "2026-11-13",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  "muzeul-apei": {
+    "query": "Muzeul Apei Timisoara",
+    "checkedAt": "2026-11-13",
+    "candidates": [
+      {
+        "title": "File:Sierra Madre News 1922-05-12 (IA csie 000817).pdf",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Sierra_Madre_News_1922-05-12_%28IA_csie_000817%29.pdf/page1-960px-Sierra_Madre_News_1922-05-12_%28IA_csie_000817%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "original": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Sierra_Madre_News_1922-05-12_%28IA_csie_000817%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "source": "https://commons.wikimedia.org/wiki/File:Sierra_Madre_News_1922-05-12_(IA_csie_000817).pdf",
+        "author": "",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "description": "Note: Blurred, faded, or ripped text inherent to original newspaper / microfilm.\nThe Sierra Madre News is the longest, continuous running newspaper in the City of Sierra Madre. It was published from October 1906 to June 1999. The newspaper was published by R. T. Cowles and yearly subscriptions cost $1.50. Successive editors include: C.W. Hill, George Morgridge, L.R. Goshorn. Clifford C. Ward, Peter Ward, Edgar W. Jenkinson, William F. Thomas, Ed E. Herwig, R. Robert Evans, Jannene G. Reed, and Michael De Wees. The paper was printed with a hand press, and then a two-revolution cylinder press, and starting in 1947 a 52-inch Miehle flat bed double revolution press, and finally using the offset method.\nFor additional information see <a href=\"https://californiarevealed.org/islandora/object/cavpp%3A148299\" rel=\"nofollow\">California Revealed</a>.\nSubjects: californiarevealed; Newspaper--Local editions; Local history; California--Newspapers; Newspapers; Sierra Madre (Calif.)--Newspapers; Sierra Madre (Calif)--History, Local"
+      }
+    ]
+  },
+  "muzeul-satului": {
+    "query": "Muzeul Satului Bănățean Timisoara",
+    "checkedAt": "2026-11-13",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  "catedrala": {
+    "query": "Catedrala Mitropolitană „Sfinții Trei Ierarhi” Timisoara",
+    "checkedAt": "2026-11-13",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  "piata-victoriei": {
+    "query": "Piața Victoriei Timisoara",
+    "checkedAt": "2026-11-13",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  "piata-libertatii": {
+    "query": "Piața Libertății Timisoara",
+    "checkedAt": "2026-11-13",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  "piata-unirii": {
+    "query": "Piața Unirii Timisoara",
+    "checkedAt": "2026-11-13",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  "cetate": {
+    "query": "Cartierul Cetate Timisoara",
+    "checkedAt": "2026-11-13",
+    "error": "HTTP Error 429: Too Many Requests"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "recordId": "paradisul-piratilor",
+  "status": "operator-fallback-candidate-verified",
+  "path": "/media/photos-v03/paradisul-piratilor.jpg",
+  "filePath": "public/media/photos-v03/paradisul-piratilor.jpg",
+  "width": 1440,
+  "height": 698,
+  "mimeType": "image/jpeg",
+  "bytes": 150897,
+  "sha256": "64c6d106269407310f99901ba9b6e80a95d91a2c040efea2c67ce6f0a520f7d4",
+  "rightsStatus": "operator-homepage-unconfirmed",
+  "license": null,
+  "licenseUrl": null,
+  "reuseGrantVerified": false,
+  "creator": null,
+  "rightsNote": "Operator website fallback authorised by the user after no licensed exact photograph was found. Public hosting is not represented as a CC licence, permission grant, or public-domain status.",
+  "source": {
+    "originalPageUrl": "https://www.paradisulpiratilor.ro/tunurile-piratilor",
+    "currentRetainedPageUrl": "https://www.megazonebites.ro/tunurile-piratilor",
+    "actualAssetUrl": "https://www.megazonebites.ro/images/tunurile_piratilor.jpg",
+    "retrievedAt": "2026-11-13T21:54:11Z",
+    "originalSha256": "26903a071bacce0b603eb8574a2d1d7a22cd2d70aa85c5327d0e22c69a3244b2",
+    "originalBytes": 210081,
+    "originalWidth": 1650,
+    "originalHeight": 800,
+    "cachePath": "work/v03-paradis/tunurile-piratilor.jpg",
+    "httpStatus": 200,
+    "httpLastModified": "2023-03-08T08:11:15Z",
+    "httpMetadataCache": "work/v03-paradis/tunurile-piratilor.headers.txt",
+    "captureDate": null,
+    "publishedReferenceAsset": "https://www.megazonebites.ro/frontend-0-1-76/js/chunk-2d0daec9.025469ee.js",
+    "referenceCache": "work/v03-paradis/chunk-2d0daec9.025469ee.js",
+    "referenceLocator": "Tunurile Piraților page component image src: $images + /tunurile_piratilor.jpg"
+  },
+  "identityEvidence": [
+    "The public legacy Tunurile Piraților page component references this exact image filename.",
+    "The same page component explicitly identifies the attraction as associated with restaurant Paradisul Piraților.",
+    "Visual inspection confirms original Tunurile Piraților branding and the foam-ball cannon-game scene described by the historical operator copy.",
+    "This is not a current Megazone Bites food photograph or a photograph of the separately named Megazone Kids playground."
+  ],
+  "displayLimits": [
+    "Display with a historical/undated caption and an explicit current-operation-unconfirmed notice.",
+    "Do not use the image to imply present admission, a currently open playground, or legal continuity with Megazone.",
+    "The server modification date is not a verified photograph capture or publication date."
+  ],
+  "caption": {
+    "ro": "Imagine promoțională nedatată a Tunurilor Piraților, atracția originală pentru copii de la Paradisul Piraților. Funcționarea actuală nu este confirmată.",
+    "en": "Undated promotional image of Tunurile Piraților, the original children’s attraction at Paradisul Piraților. Current operation is unconfirmed.",
+    "it": "Immagine promozionale senza data di Tunurile Piraților, l’attrazione originaria per bambini di Paradisul Piraților. L’attività attuale non è confermata.",
+    "fr": "Image promotionnelle non datée de Tunurile Piraților, l’attraction d’origine pour enfants de Paradisul Piraților. Son fonctionnement actuel reste à confirmer.",
+    "es": "Imagen promocional sin fecha de Tunurile Piraților, la atracción infantil original de Paradisul Piraților. Su funcionamiento actual no está confirmado.",
+    "zh-Hans": "Tunurile Piraților 的未注明日期宣传图片，展示 Paradisul Piraților 原有的儿童游乐项目。该项目目前是否仍在运营尚未确认。"
+  },
+  "alt": {
+    "ro": "Copii la tunurile cu mingi de burete și sigla Tunurile Piraților, în prezentarea originală a localului.",
+    "en": "Children at foam-ball cannons with the Tunurile Piraților logo in the venue’s original promotional image.",
+    "it": "Bambini ai cannoni con palline di gommapiuma e logo Tunurile Piraților nella promozione originale del locale.",
+    "fr": "Enfants aux canons à balles en mousse et logo Tunurile Piraților dans la présentation d’origine du lieu.",
+    "es": "Niños junto a cañones de bolas de espuma y el logotipo de Tunurile Piraților en la promoción original del local.",
+    "zh-Hans": "场所原宣传图片中的儿童泡沫球炮和 Tunurile Piraților 标志。"
+  },
+  "processing": {
+    "tool": "ffmpeg 8.1.2",
+    "transform": "Scale whole composition from 1650×800 to 1440×698 and encode JPEG at q:v 3; no crop, retouching, or generative changes.",
+    "formatReason": "Available ffmpeg lacks libwebp encoder. Parent explicitly approved JPEG fallback.",
+    "visuallyInspectedOriginal": true,
+    "visuallyInspectedOutput": true
+  },
+  "validation": {
+    "imageDecodedByFfprobe": true,
+    "codec": "mjpeg",
+    "outputDimensionsConfirmed": [
+      1440,
+      698
+    ],
+    "originalAndOutputVisuallyMatch": true
+  },
+  "catalogOperationStatus": "unknown",
+  "sourceFilesEdited": false,
+  "outreachMade": false
+}

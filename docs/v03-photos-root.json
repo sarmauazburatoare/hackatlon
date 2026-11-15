@@ -1,0 +1,79 @@
+{
+  "selected": {
+    "kids-town": {
+      "photo": {
+        "path": "/media/photos-v03/root-kids-town.webp",
+        "author": "Megazone KidsTown (fotograf neprecizat)",
+        "source": "https://www.megazonetimisoara.ro/megazone-kidstown",
+        "license": "Site-ul operatorului · licență de reutilizare neprecizată",
+        "alt": {
+          "ro": "Zona de construcții KidsTown, cu piese mari colorate și mese pentru joacă.",
+          "en": "KidsTown building-play area with large colorful blocks and play tables.",
+          "it": "Area costruzioni di KidsTown con grandi blocchi colorati e tavoli da gioco.",
+          "fr": "Espace de construction de KidsTown avec de grands blocs colorés et des tables de jeu.",
+          "es": "Zona de construcción de KidsTown con grandes bloques de colores y mesas de juego.",
+          "zh-Hans": "KidsTown 的积木游戏区，设有大型彩色积木和游戏桌。"
+        }
+      },
+      "rightsStatus": "operator-homepage-unconfirmed",
+      "evidence": {
+        "checkedAt": "2026-11-13",
+        "sourcePage": "https://www.megazonetimisoara.ro/megazone-kidstown",
+        "sourceAsset": "https://www.megazonetimisoara.ro/api/images/Textblocks/72/97e1fbf939a6888329702c72933dfff8",
+        "apiPayload": "https://www.megazonetimisoara.ro/api/init",
+        "apiLocator": "textnodes[id=72], Megazone Kidstown Slider, _gallery.main",
+        "branchIdentity": "Operator location id3 and Kidstown footer identify Dr.NicolaePaulescu3; image belongs to Kidstown-specific gallery, not Lipovei Kids.",
+        "captureDate": null,
+        "publishedNodeModifiedAt": "2024-06-28 15:19:39",
+        "originalSha256": "e3c26c211cb8c7906f4d7026e810c42ae0f66ef4750149d882daf3876027d86a",
+        "sha256": "cda7e7fc4edf708d27859e95d03f0469be7691dd3a009a2272f96e0ba9ef6b52",
+        "width": 1188,
+        "height": 1016,
+        "transformation": "Resized without upscaling, WebP quality85; full composition retained.",
+        "visualInspection": "Original and optimized image show colorful building/play room; no image overlay was added.",
+        "reuseGrantVerified": false,
+        "authorization": "User requested operator homepage image fallback when no licensed exact image found."
+      }
+    },
+    "rolers": {
+      "photo": {
+        "path": "/media/photos-v03/root-rolers.webp",
+        "author": "Roller Dreams (creator neprecizat)",
+        "source": "https://rollerdreams.ro/",
+        "license": "Site-ul operatorului · licență de reutilizare neprecizată",
+        "alt": {
+          "ro": "Ilustrație de prezentare cu patine cu rotile și lumini colorate.",
+          "en": "Promotional illustration of roller skates and colorful lights.",
+          "it": "Illustrazione promozionale con pattini a rotelle e luci colorate.",
+          "fr": "Illustration promotionnelle avec des patins à roulettes et des lumières colorées.",
+          "es": "Ilustración promocional con patines y luces de colores.",
+          "zh-Hans": "带有轮滑鞋和彩色灯光的宣传插图。"
+        },
+        "caption": {
+          "ro": "Imagine promoțională ilustrativă publicată de operator; nu este o fotografie verificată a locației.",
+          "en": "Illustrative promotional image published by the operator; this is not a verified photograph of the venue.",
+          "it": "Immagine promozionale illustrativa pubblicata dal gestore; non è una fotografia verificata del locale.",
+          "fr": "Image promotionnelle illustrative publiée par l’exploitant ; il ne s’agit pas d’une photographie vérifiée du lieu.",
+          "es": "Imagen promocional ilustrativa publicada por el operador; no es una fotografía verificada del local.",
+          "zh-Hans": "运营方发布的宣传示意图片，并非经核实的场所实景照片。"
+        },
+        "illustrative": true
+      },
+      "rightsStatus": "operator-homepage-unconfirmed",
+      "evidence": {
+        "checkedAt": "2026-11-14",
+        "sourceAsset": "https://rollerdreams.ro/wp-content/uploads/2024/09/homepage-slider-roller-dreams.jpg",
+        "sceneType": "Illustrative homepage banner; not a verified venue photograph. Creation method not established.",
+        "userRequestedFallback": true,
+        "reuseGrantVerified": false,
+        "originalSha256": "faa3e8ffd84f6655fbce0b98f4d64a5c8bc4da89121207a48019c3a7faee3c5c",
+        "sha256": "ca31e331b71d0fd568d63d5ba720548aeb631e6c3b3ddcf2f37f853671846c15",
+        "width": 1280,
+        "height": 720,
+        "bytes": 56214,
+        "transformation": "Resized without upscaling; converted to WebP82, full composition retained. No generated content added."
+      }
+    }
+  },
+  "unresolved": {}
+}

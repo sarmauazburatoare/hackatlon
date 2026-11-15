@@ -1,0 +1,71 @@
+{
+  "selected": {
+    "exitgames": {
+      "photo": {
+        "path": "/media/photos-v03/root-exitgames.jpg",
+        "author": "Publicată de Exit Games Timișoara; fotograf neprecizat",
+        "source": "https://exitgames.ro/new/",
+        "license": "Site-ul operatorului · licență de reutilizare neprecizată",
+        "alt": {
+          "ro": "Personaj Sherlock Holmes într-un decor de investigație, fotografie promoțională Exit Games Timișoara.",
+          "en": "A Sherlock Holmes character in a detective setting, an Exit Games Timișoara promotional photograph.",
+          "it": "Un personaggio di Sherlock Holmes in un ambiente investigativo, fotografia promozionale di Exit Games Timișoara.",
+          "fr": "Un personnage de Sherlock Holmes dans un décor d’enquête, photographie promotionnelle d’Exit Games Timișoara.",
+          "es": "Un personaje de Sherlock Holmes en un decorado de investigación, fotografía promocional de Exit Games Timișoara.",
+          "zh-Hans": "福尔摩斯角色置身侦探主题布景中，图片由蒂米什瓦拉 Exit Games 用于宣传。"
+        },
+        "caption": {
+          "ro": "Fotografie promoțională a temei Sherlock, publicată de Exit Games Timișoara.",
+          "en": "Promotional photograph for the Sherlock theme, published by Exit Games Timișoara.",
+          "it": "Fotografia promozionale del tema Sherlock, pubblicata da Exit Games Timișoara.",
+          "fr": "Photographie promotionnelle du thème Sherlock, publiée par Exit Games Timișoara.",
+          "es": "Fotografía promocional del tema Sherlock, publicada por Exit Games Timișoara.",
+          "zh-Hans": "由蒂米什瓦拉 Exit Games 发布的福尔摩斯主题宣传照片。"
+        }
+      },
+      "rightsStatus": "operator-homepage-unconfirmed",
+      "evidence": {
+        "sourceassetURL": "https://exitgames.ro/new/img/hero/sherlock-720.webp",
+        "identityverification": "The current official /new/ landing page names Exit Games Timisoara and Constantin Brâncoveanu 53, Timișoara. Its hero image link resolves to this asset, and its Sherlock room page links the same themed promotional photo. The room page describes the armchair, fireplace and investigation desk details. Visual inspection shows a staged Sherlock character in an actual furnished detective set; this is a promotional photo rather than a complete view of the venue. Other official room hero photos use the same actor, supporting operator-specific production rather than a generic stock substitute. Photographer and reuse rights are not specified.",
+        "identityURLs": [
+          "https://exitgames.ro/new/",
+          "https://exitgames.ro/room/11/sherlock"
+        ],
+        "date": "2026-11-14",
+        "hash": "sha256:0007529b357b16bf0e3c01a7de979ac413ae605f97f632f005fd892965e3761f",
+        "sourceHash": "sha256:841a1cfa6d3b6071c31a91d41e8f71962218844d8ef6a2080bb8b1af4f56e920",
+        "dimensions": [
+          720,
+          445
+        ],
+        "visualInspection": "2026-11-14; personally inspected the downloaded image. A man in a deerstalker hat and coat with a pipe sits in a furnished detective room. No watermark or stock mark is visible. Staged promotional framing is explicit in the caption.",
+        "reuseLicenseVerified": false
+      }
+    }
+  },
+  "unresolved": {
+    "skydiving": "Zero Gravity Center is identified by its official homepage and booking subdomain at Calea Speranței 10, Ghiroda. The main domain and www alias returned HTTP 403 for page and image downloads, including the official linked photo https://zerogravitycenter.ro/wp-content/uploads/zbor-tunel-de-vant-cu-instructor.webp. The public booking shell and JS were readable, but its normal public settings/navigation API requests returned 406 and exposed no verified photograph. No login, CAPTCHA or access controls were bypassed, and no generic wind-tunnel image was substituted.",
+    "samantha": "Official Linktree links the public Facebook and Instagram accounts and booking PDF. Downloaded/visually inspected the Facebook OG image: it is a logo/illustrated haunted-house composite, rejected. The operator-linked PDF was downloaded and rendered: it is an opening-hours/prices poster over a fabric/ghost background, not a verified venue photograph, rejected. Public social page HTML exposed no other usable venue photo without login. The currently identified location is Calea Stan Vidrighin 18, floor 1; older Petru Maior 2 imagery was not substituted.",
+    "bowling": "The exact venue is Gentlemen’s Social Club at Shopping City, Calea Șagului 100, confirmed by the current ESN event and exact map place ID. No owned website or official tenant photo for Gentlemen’s Social Club was found. The mall public homepage and current tenant catalog were reviewed; neither supplied an exact attributable photograph of this venue. Unverified directory/customer images and photos of other bowling locations were not substituted."
+  },
+  "checkedSources": {
+    "skydiving": [
+      "https://zerogravitycenter.ro/",
+      "https://zerogravitycenter.ro/tunel-de-vant",
+      "https://booking.zerogravitycenter.ro/en/flight-club"
+    ],
+    "samantha": [
+      "https://linktr.ee/samanthasescapehouse",
+      "https://www.facebook.com/samanthasescapehouse",
+      "https://www.instagram.com/samanthasescapehouse/",
+      "https://drive.google.com/file/d/1RezHU2F3GOPe6yqE8yoLgUS1WT5wFMPf/view",
+      "https://escapebeacon.com/ro/timisoara/samantha-s-escape-house"
+    ],
+    "bowling": [
+      "https://www.shoppingcitytm.ro/",
+      "https://www.shoppingcitytm.ro/magazine/magazine",
+      "https://www.gomry.com/event/Bowling-QUoZIaEAsrZe94p2DRAt",
+      "https://am-gasit.ro/gentlemens-social-club-str-calea-sagului-100-300426-timisoara/"
+    ]
+  }
+}

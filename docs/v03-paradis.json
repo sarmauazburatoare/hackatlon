@@ -1,0 +1,311 @@
+{
+  "schemaVersion": 1,
+  "recordId": "paradisul-piratilor",
+  "researchedAt": "2026-11-13T21:53:32Z",
+  "retrievalDate": "2026-11-13",
+  "scope": "Public read-only identity and operation verification; no outreach or transaction.",
+  "decision": {
+    "historicalVenueIdentityEstablished": true,
+    "historicalVenueName": "Paradisul Piraților",
+    "historicalAddress": "Aleea Studenților, Cantina 4C, Timișoara",
+    "currentOperationUnderOriginalName": "unknown",
+    "currentOriginalPlaygroundOperation": "unknown",
+    "legalOperatorContinuity": "unverified",
+    "commercialWebMigration": "observed",
+    "recommendation": "Retain the original entity and both categories as a historically identified venue with unknown present availability. Keep it excluded from visit recommendations. Do not silently substitute Megazone Bites or Megazone Kids.",
+    "catalogRetention": {
+      "id": "paradisul-piratilor",
+      "categories": [
+        "kids",
+        "food"
+      ],
+      "venueVerified": false,
+      "status": "unknown",
+      "minors": "unknown",
+      "visitUrl": null,
+      "coordinates": null
+    },
+    "catalogRetentionNote": "venueVerified:false is conservative because the existing field is not explicitly historical. Historical identity is established independently; this is not evidence that the original venue is currently open."
+  },
+  "primaryEvidence": [
+    {
+      "id": "historical-directory",
+      "url": "https://www.timisoara-info.ro/infocentru/alimentatie",
+      "kind": "municipal tourism directory",
+      "directFacts": [
+        "The directory associates the Paradisul Piraților name with Aleea Studenților, Cantina 4C, and legacy telephone +40 256 200 809."
+      ],
+      "sourcePublicationDate": null,
+      "limit": "Undated legacy listing; retrieval recency does not establish current opening."
+    },
+    {
+      "id": "historical-isu",
+      "url": "https://www.isutimis.ro/images/Prevenire/Avizare_Autorizare/AUTORIZATII_SECURITATE_LA_INCENDIU_1996-2017.pdf",
+      "kind": "official historical fire-authorisation register",
+      "page": 6,
+      "row": 135,
+      "authorisationDate": "2016-03-23",
+      "authorisationNumber": "545/16/SU-TM",
+      "directFacts": [
+        "The historical register identifies SC Paradisul Piraților SRL at Aleea Studenților, Cantina 4C, as a restaurant and children’s party venue."
+      ],
+      "limit": "Historical identity/use evidence only; no claim about present authorisation validity or operation. Web screenshot retrieval failed; text extraction was available."
+    },
+    {
+      "id": "legacy-redirect",
+      "url": "https://www.paradisulpiratilor.ro/povestea-noastra",
+      "kind": "operator-controlled HTTP response",
+      "directFacts": [
+        "The old story-page URL returned HTTP 301 to https://www.megazonebites.ro/; the destination returned HTTP 200."
+      ],
+      "limit": "Proves web routing, not transfer of ownership, relocation, or continuation of children’s facilities."
+    },
+    {
+      "id": "bites-public-data",
+      "url": "https://www.megazonebites.ro/api/init",
+      "kind": "anonymous public initial page data used by the current site",
+      "directFacts": [
+        "Current published contact/address data points to Megazone in Lipovei rather than the original student-complex address.",
+        "The current site still configures its Facebook link to the old ParadisulPiratilor page."
+      ],
+      "exactFields": {
+        "categories.frontpage.children.byLabel": {
+          "orar": {
+            "value": "11:00 - 21:00",
+            "modifiedAtAsPublished": "2026-06-06 18:59:51"
+          },
+          "facebook": {
+            "value": "https://www.facebook.com/ParadisulPiratilor/",
+            "modifiedAtAsPublished": "2025-10-21 04:20:16"
+          },
+          "phone": {
+            "value": "+40 731 041 756",
+            "modifiedAtAsPublished": "2026-05-24 15:42:03"
+          },
+          "adresa": {
+            "value": "Ion Ionescu de la Brad 15, Megazone, Timisoara",
+            "modifiedAtAsPublished": "2026-05-24 15:41:17"
+          }
+        },
+        "categories.EMAILS.children.byLabel": {
+          "new-order-email-admin": {
+            "value": "bites@megazonetimisoara.ro",
+            "modifiedAtAsPublished": "2026-05-27 09:58:28"
+          },
+          "contact-us": {
+            "value": "office@megazonetimisoara.ro",
+            "modifiedAtAsPublished": "2026-05-28 12:28:48"
+          }
+        }
+      },
+      "limit": "The orar field labels a delivery interval, not restaurant or playground opening hours. modified_at values are website field metadata with no timezone stated; they are not operation or migration dates. The ordering site was not tested by placing an order."
+    },
+    {
+      "id": "bites-terms",
+      "url": "https://www.megazonebites.ro/termeni-si-conditii",
+      "assetUrl": "https://www.megazonebites.ro/frontend-0-1-76/js/chunk-2d0d83f6.2e57de03.js",
+      "kind": "public client asset for terms route",
+      "directFacts": [
+        "The delivered terms asset names PROZAX SRL, registered under J35/1725/2005, at Varsovia 22–24, Timișoara.",
+        "The same asset mixes Megazone/Grand Delivery language with references to Paradisul Piraților and Aleea Studenților 4C.",
+        "Its food-order terms require the person ordering to be at least 18."
+      ],
+      "httpLastModified": "2026-06-12T08:42:06Z",
+      "effectiveDate": null,
+      "verifiedVersionHistory": false,
+      "limit": "HTTP asset modification is not a legal effective date. Mixed legacy wording weakens its value as evidence of current legal succession. Food-order age restriction is not a playground admission rule."
+    },
+    {
+      "id": "legacy-assets",
+      "urls": [
+        "https://www.megazonebites.ro/frontend-0-1-76/js/chunk-2d22d7d7.6c581b5e.js",
+        "https://www.megazonebites.ro/frontend-0-1-76/js/chunk-2d0daec9.025469ee.js"
+      ],
+      "kind": "legacy content still bundled by current site",
+      "directFacts": [
+        "Story and Tunurile Piraților page assets remain retrievable and describe the old restaurant/children’s cannon-game attraction."
+      ],
+      "limit": "Persistent bundled copy without a current operating notice cannot establish continued original-site service."
+    },
+    {
+      "id": "megazone-current-playground",
+      "url": "https://www.megazonetimisoara.ro/megazone-kids",
+      "dataUrl": "https://www.megazonetimisoara.ro/api/init",
+      "kind": "current operator visitor and package data",
+      "directFacts": [
+        "Megazone Kids is advertised at Strada Ion Ionescu de la Brad 15, in BEGA Lipovei; entrance is described as between DM and Sinsay.",
+        "A current visitor block advertises ages 0–8, adult accompaniment in the play area for children under 4, walk-ins with advance reservation advised, minute-based charging and free adult entry.",
+        "Published standard play package is 30 lei per child/hour; the weekday morning/early-afternoon offer is 25 lei per child/hour, Monday–Thursday 10:00–16:00.",
+        "The named playground contact is +40 774 937 102."
+      ],
+      "locators": {
+        "locationId": 4,
+        "locationSlug": "megazone-kids",
+        "locationModifiedAtAsPublished": "2024-12-28 08:48:37",
+        "visitorTextnodeId": 104,
+        "visitorTextnodeModifiedAtAsPublished": "2026-09-02 22:45:10",
+        "heroTextnodeId": 42,
+        "heroModifiedAtAsPublished": "2026-09-02 22:27:20",
+        "contactTextnodeId": 101,
+        "contactModifiedAtAsPublished": "2025-08-24 20:57:10",
+        "packetIds": [
+          66,
+          69
+        ]
+      },
+      "hoursConflict": "The Kids contact block says daily 10:00–21:30; footer and telephone/reservation blocks say daily 10:00–22:00. Do not publish a single closing time without resolving this conflict.",
+      "limit": "This is a separately named and addressed playground. The data does not say it is the relocated original Paradisul/Tunurile attraction. Published packages and schedules are not a live capacity or same-day opening guarantee."
+    }
+  ],
+  "inferences": [
+    {
+      "claim": "The former Paradisul web presence has been repurposed into Megazone Bites food ordering.",
+      "confidence": "strong commercial/website inference",
+      "basis": [
+        "legacy-redirect",
+        "bites-public-data",
+        "bites-terms",
+        "legacy-assets"
+      ],
+      "notEstablished": [
+        "same legal operator",
+        "formal succession",
+        "original venue closure",
+        "original restaurant relocation",
+        "continuation or relocation of Tunurile Piraților"
+      ]
+    },
+    {
+      "claim": "Megazone Bites and Megazone’s Lipovei operation share current contact infrastructure.",
+      "confidence": "strong",
+      "basis": [
+        "bites-public-data",
+        "megazone-current-playground"
+      ],
+      "limit": "Shared address and the Megazone 2 phone associate the brands commercially; they do not establish the original restaurant’s current operation."
+    }
+  ],
+  "unresolved": [
+    "Whether the Aleea Studenților restaurant is currently trading under its original name.",
+    "Whether its original play facilities still operate and on what admission conditions.",
+    "A dated operator statement confirming closure, relocation, rebrand, or legal succession.",
+    "A current original-site visit address/contact, opening schedule, booking route, admission fees or minor policy."
+  ],
+  "proposedDescription": {
+    "ro": "Paradisul Piraților este numele istoric al restaurantului de pe Aleea Studenților, Cantina 4C. Site-ul vechi redirecționează acum către Megazone Bites; funcționarea restaurantului inițial și a locului său de joacă nu este confirmată.",
+    "en": "Paradisul Piraților is the historical name of the restaurant at Aleea Studenților, Cantina 4C. Its former website now redirects to Megazone Bites; operation of the original restaurant and its playground is unconfirmed.",
+    "it": "Paradisul Piraților è il nome storico del ristorante in Aleea Studenților, Cantina 4C. Il vecchio sito ora rimanda a Megazone Bites; l’attività del ristorante originario e della sua area giochi non è confermata.",
+    "fr": "Paradisul Piraților est le nom historique du restaurant situé Aleea Studenților, Cantina 4C. Son ancien site redirige désormais vers Megazone Bites ; le fonctionnement du restaurant d’origine et de son aire de jeux reste à confirmer.",
+    "es": "Paradisul Piraților es el nombre histórico del restaurante de Aleea Studenților, Cantina 4C. Su antigua web ahora redirige a Megazone Bites; no está confirmado que el restaurante original y su zona de juegos sigan funcionando.",
+    "zh-Hans": "Paradisul Piraților 是 Aleea Studenților、Cantina 4C 餐厅的历史名称。原网站现已跳转至 Megazone Bites；原餐厅及其儿童游乐区是否仍在营业尚未确认。"
+  },
+  "photo": {
+    "status": "operator-homepage-unconfirmed",
+    "licensedAsset": false,
+    "commonsExactSearchTotalHits": 0,
+    "query": "\"Paradisul Piratilor\"",
+    "apiUrl": "https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Paradisul%20Piratilor%22&format=json",
+    "limit": "Later user-authorized operator-photo fallback includes the original Tunurile Piraților promotional image with unconfirmed reuse terms; no CC grant is claimed. Current operation remains unconfirmed.",
+    "operatorFallbackEvidence": "v03-photo-paradis.json"
+  },
+  "limitations": [
+    "No email, call, direct message, form submission, reservation, or purchase was made.",
+    "Facebook public page retrieval returned a temporary-block screen; no recent first-party social announcement was verified.",
+    "No primary corporate-register extract linking legal entities or current site transfer was obtained.",
+    "No web-field modified_at, server Last-Modified, crawl date or directory refresh date is treated as an opening/rebranding date.",
+    "No source files or existing documents were edited."
+  ],
+  "cacheManifest": [
+    {
+      "url": "https://www.paradisulpiratilor.ro/povestea-noastra",
+      "cachePath": "work/v03-paradis/legacy-redirect.html",
+      "retrievedAt": "2026-11-13T21:51:35Z",
+      "sha256": "024ee389c0658d6f5ee9bd74e88239050a03b247c566d43e8ff45a61b4a7be9d",
+      "bytes": 4112
+    },
+    {
+      "url": "https://www.paradisulpiratilor.ro/povestea-noastra",
+      "cachePath": "work/v03-paradis/legacy-redirect.headers.txt",
+      "retrievedAt": "2026-11-13T21:51:35Z",
+      "sha256": "62f4946258b5d1b912371e806c62ceb387663fd0bb878388e633804c604033ec",
+      "bytes": 460
+    },
+    {
+      "url": "https://www.megazonebites.ro/",
+      "cachePath": "work/v03-paradis/megazonebites.html",
+      "retrievedAt": "2026-11-13T21:48:41Z",
+      "sha256": "024ee389c0658d6f5ee9bd74e88239050a03b247c566d43e8ff45a61b4a7be9d",
+      "bytes": 4112
+    },
+    {
+      "url": "https://www.megazonebites.ro/api/init",
+      "cachePath": "work/v03-paradis/bites-init.json",
+      "retrievedAt": "2026-11-13T21:49:17Z",
+      "sha256": "54230c6a57785e4d8c61f720fb92c0bb5376f2e4045f39aaeaf0fc50d176a8ef",
+      "bytes": 20819
+    },
+    {
+      "url": "https://www.megazonebites.ro/frontend-0-1-76/js/chunk-2d0d83f6.2e57de03.js",
+      "cachePath": "work/v03-paradis/chunk-2d0d83f6.2e57de03.js",
+      "retrievedAt": "2026-11-13T21:49:39Z",
+      "sha256": "5cc320512595826b7e65eb8a648666e7c303c13efdb17b1fe23b197c6483c9d1",
+      "bytes": 15347
+    },
+    {
+      "url": "https://www.megazonebites.ro/frontend-0-1-76/js/chunk-2d0d83f6.2e57de03.js",
+      "cachePath": "work/v03-paradis/bites-terms.headers.txt",
+      "retrievedAt": "2026-11-13T21:51:36Z",
+      "sha256": "eb219d6a7cd10362428984ce6e849413bf4ce106b760b8ed042eed713124280e",
+      "bytes": 337
+    },
+    {
+      "url": "https://www.megazonebites.ro/frontend-0-1-76/js/chunk-2d22d7d7.6c581b5e.js",
+      "cachePath": "work/v03-paradis/chunk-2d22d7d7.6c581b5e.js",
+      "retrievedAt": "2026-11-13T21:49:38Z",
+      "sha256": "98a73f29b86675e5e0e4c06514a40a156ae44bc02a1d06fd1c5bd4684505642f",
+      "bytes": 5310
+    },
+    {
+      "url": "https://www.megazonebites.ro/frontend-0-1-76/js/chunk-2d0daec9.025469ee.js",
+      "cachePath": "work/v03-paradis/chunk-2d0daec9.025469ee.js",
+      "retrievedAt": "2026-11-13T21:49:37Z",
+      "sha256": "a4d69b234fbaa86e80277e050a1aa7750f915ed35b95b75aab8e48393bebd60a",
+      "bytes": 3768
+    },
+    {
+      "url": "https://www.megazonetimisoara.ro/megazone-kids",
+      "cachePath": "work/v03-paradis/megazone-kids.html",
+      "retrievedAt": "2026-11-13T21:48:54Z",
+      "sha256": "035797c441e2721692e31d99a07fc0ca84d8ed762c425a7c50bd82d491c29324",
+      "bytes": 2912
+    },
+    {
+      "url": "https://www.megazonetimisoara.ro/api/init",
+      "cachePath": "work/v03-paradis/megazone-init.json",
+      "retrievedAt": "2026-11-13T21:51:03Z",
+      "sha256": "887459963bb02ffd25606ca61373d27a8c5c313cd9a0824e2ad03ab0dc05549b",
+      "bytes": 252568
+    },
+    {
+      "url": "https://www.timisoara-info.ro/infocentru/alimentatie",
+      "cachePath": "work/v03-paradis/institutional-directory.html",
+      "retrievedAt": "2026-11-13T21:51:50Z",
+      "sha256": "ba316b23dfe895a12e6a4a41b070b1c3fae232be06a5d5a0c9be207c8b03498f",
+      "bytes": 336398
+    },
+    {
+      "url": "https://www.isutimis.ro/images/Prevenire/Avizare_Autorizare/AUTORIZATII_SECURITATE_LA_INCENDIU_1996-2017.pdf",
+      "cachePath": "work/v03-paradis/isu-1996-2017.pdf",
+      "retrievedAt": "2026-11-13T21:52:14Z",
+      "sha256": "935cb494b8f881244c02f7dbdd6b4e1e81dbd4a59ff495ed911e09a530024241",
+      "bytes": 558573
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Paradisul%20Piratilor%22&format=json",
+      "cachePath": "work/v03-paradis/commons-search.json",
+      "retrievedAt": "2026-11-13T21:51:23Z",
+      "sha256": "688d401ed6447a04b61b8b5aea327e975f2f69ec5596d800d49a0b230236ea4b",
+      "bytes": 71
+    }
+  ]
+}

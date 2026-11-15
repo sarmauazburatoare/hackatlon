@@ -1,0 +1,64 @@
+{
+  "version": "0.3.0",
+  "date": "2026-11-14",
+  "stage": "verified release",
+  "productionFiles": 189,
+  "unitTestsPassed": 54,
+  "browserTestsPassed": 18,
+  "newImages": 53,
+  "imagesAvailable": 74,
+  "licensedImages": 22,
+  "operatorImagesReuseUnconfirmed": 52,
+  "missingImages": 10,
+  "audioFilesByteIdenticalToV02": 42,
+  "compactArchive": "Timisoara-local-v0.3.zip",
+  "sourceArchive": "Timisoara-surse-v0.3.zip",
+  "externalFinalManifest": "../Timisoara-v0.3-verification.json",
+  "localDeployment": "http://localhost:8000/",
+  "limits": [
+    "10 photographs still unavailable",
+    "52 operator images have unconfirmed reuse terms",
+    "Paradisul Piraților current operation unconfirmed",
+    "Native-speaker signoff pending",
+    "Physical Windows launcher not executed"
+  ],
+  "focusedBrowserEnginesPassed": 3,
+  "catalogImageDecodes": 225,
+  "galleryAndCreditsLanguageScans": 18,
+  "targetedFinalCSSChecksPassed": 2,
+  "archiveChecks": {
+    "compactAndSourceCRC": "passed",
+    "productionFilesMatchingSHA256": 189,
+    "sourceFilesMatchingSHA256": 20,
+    "macLauncherExecutableFlag": true
+  },
+  "serverChecks": [
+    {
+      "name": "Node",
+      "extractedCompact": true,
+      "productionResourcesHTTP200MatchingSHA256": 189,
+      "ranges206": true,
+      "invalidRange416": true,
+      "head200": true,
+      "roPlayback": true,
+      "pausedEnglishSemanticResume": true,
+      "errors": [],
+      "httpFailures": [],
+      "externalRequests": []
+    },
+    {
+      "name": "Python",
+      "extractedCompact": true,
+      "productionResourcesHTTP200MatchingSHA256": 189,
+      "ranges206": true,
+      "invalidRange416": true,
+      "head200": true,
+      "roPlayback": true,
+      "pausedEnglishSemanticResume": true,
+      "errors": [],
+      "httpFailures": [],
+      "externalRequests": []
+    }
+  ],
+  "hashPolicy": "Final ZIP hashes are external to avoid self-reference; extraction is checked again after final report packaging."
+}

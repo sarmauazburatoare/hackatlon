@@ -1,0 +1,1459 @@
+{
+  "checkedAt": "2026-11-13",
+  "scope": "All 36 previously unconfirmed inventory IDs plus 5 checked identities with unknown operating status; exact names/IDs preserved. Research-only patch; root applies selectively.",
+  "counts": {
+    "candidateRecords": 41,
+    "previouslyUnconfirmed": 36,
+    "newIdentityDestinationConfirmations": 35,
+    "unresolvedOriginalDestinations": 1,
+    "newPublishedOperatingDestinations": 28,
+    "unknownOperatingStatusRecords": 11,
+    "confirmedSeasonalClosureRecords": 1
+  },
+  "resolvedIDs": [
+    "skydiving",
+    "bowling",
+    "arcade",
+    "samantha",
+    "arena-jocurilor",
+    "bike-serbia",
+    "plaja-noua",
+    "parcul-castelului",
+    "dharmaland",
+    "no-name",
+    "heaven",
+    "darc-mal",
+    "atelier-experience",
+    "escape-venue",
+    "frenzy",
+    "mercy",
+    "comun-cafe-mara",
+    "caffe-doge",
+    "senses",
+    "massimo",
+    "woktagon",
+    "jacks",
+    "napoleon",
+    "dei-frati",
+    "el-maguey",
+    "zone-2",
+    "kids-town",
+    "vineri-13",
+    "rio",
+    "white-pizza",
+    "grumi",
+    "beraria",
+    "pinocchio",
+    "paintball",
+    "pet-yoga"
+  ],
+  "unresolvedIDs": [
+    "paradisul-piratilor"
+  ],
+  "policy": "identityResolved and venue.verified concern identification of a concrete destination, not real-time opening. Unknown and seasonal closure remain explicit. Map URLs sourced from operators/booking or current named-venue listings; no inferred coordinates or surveyed accessible entrances. Where confidence is weaker, limits explicitly state it. Root should keep status unknown records out of active recommendations.",
+  "records": {
+    "skydiving": {
+      "identityResolved": true,
+      "venue": {
+        "verified": true,
+        "address": "Calea Speranței 10, Ghiroda, Timiș",
+        "url": "https://zerogravitycenter.ro/",
+        "linkType": "official",
+        "status": "open",
+        "minors": "yes",
+        "minimumAge": 4,
+        "name": "Zero Gravity Center — tunel de vânt",
+        "sources": [
+          "https://zerogravitycenter.ro/",
+          "https://booking.zerogravitycenter.ro/en/flight-club"
+        ],
+        "verifiedAt": "2026-11-13"
+      },
+      "sources": [
+        "https://zerogravitycenter.ro/",
+        "https://booking.zerogravitycenter.ro/en/flight-club"
+      ],
+      "observedFacts": [
+        "Operator lists its wind tunnel, current hours and address. The homepage says flying starts at age 4. The booking site lists the same number 10 address under Strada Speranței."
+      ],
+      "unresolvedReason": null,
+      "limits": "Minimum age 4 published by operator. Instructor-led experience; no blanket medical suitability or adult-accompaniment rule inferred. Exact entrance and coordinates not surveyed.",
+      "description": {
+        "ro": "Încearcă zborul în tunelul de vânt de la Zero Gravity Center, Ghiroda. Rezervare și verificarea condițiilor de siguranță obligatorii.",
+        "en": "Try the wind tunnel at Zero Gravity Center in Ghiroda. Book and check the safety requirements before visiting.",
+        "it": "Prova il tunnel del vento di Zero Gravity Center a Ghiroda. Prenota e verifica i requisiti di sicurezza.",
+        "fr": "Essayez la soufflerie de Zero Gravity Center à Ghiroda. Réservez et vérifiez les conditions de sécurité.",
+        "es": "Prueba el túnel de viento de Zero Gravity Center en Ghiroda. Reserva y consulta los requisitos de seguridad.",
+        "zh-Hans": "在 Ghiroda 的 Zero Gravity Center 体验风洞飞行。请提前预约并确认安全要求。"
+      }
+    },
+    "bowling": {
+      "identityResolved": true,
+      "venue": {
+        "verified": true,
+        "address": "Calea Șagului 100, Shopping City Timișoara",
+        "url": "https://www.google.com/maps/search/?api=1&query=Gentlemen+Social+Club&query_place_id=ChIJ6dDmfYZdRUcR4ZYUMW0Wapw",
+        "linkType": "map",
+        "status": "open",
+        "minors": "unknown",
+        "sources": [
+          "https://www.gomry.com/event/Bowling-QUoZIaEAsrZe94p2DRAt",
+          "https://www.shoppingcitytm.ro/contact",
+          "https://am-gasit.ro/gentlemens-social-club-str-calea-sagului-100-300426-timisoara/"
+        ],
+        "verifiedAt": "2026-11-13"
+      },
+      "sources": [
+        "https://www.gomry.com/event/Bowling-QUoZIaEAsrZe94p2DRAt",
+        "https://www.shoppingcitytm.ro/contact",
+        "https://am-gasit.ro/gentlemens-social-club-str-calea-sagului-100-300426-timisoara/"
+      ],
+      "observedFacts": [
+        "ESN Timișoara organizer published a bowling event for 24 September 2026 explicitly at Gentlemen’s Social Club in Shopping City, with the exact Google Maps place ID. Shopping City confirms its number 100 address."
+      ],
+      "unresolvedReason": null,
+      "limits": "Published visitor information, not a live opening guarantee. No general admission rule for minors inferred. Coordinates omitted where no exact venue point was verified.",
+      "description": {
+        "ro": "Bowling la Gentlemen’s Social Club, în Shopping City. Confirmă rezervarea și condițiile pentru copii înainte de vizită.",
+        "en": "Bowling at Gentlemen’s Social Club in Shopping City. Confirm reservations and children’s admission before visiting.",
+        "it": "Bowling al Gentlemen’s Social Club di Shopping City. Verifica prenotazione e accesso dei bambini.",
+        "fr": "Bowling au Gentlemen’s Social Club de Shopping City. Vérifiez la réservation et les conditions pour les enfants.",
+        "es": "Bolos en Gentlemen’s Social Club, en Shopping City. Confirma la reserva y el acceso de menores.",
+        "zh-Hans": "在 Shopping City 的 Gentlemen’s Social Club 打保龄球。请确认预约和儿童入场规定。"
+      }
+    },
+    "arcade": {
+      "identityResolved": true,
+      "venue": {
+        "verified": true,
+        "address": "Piața Consiliul Europei 2, Iulius Town, etaj, Timișoara",
+        "url": "https://energy-games.ro/locatie/timisoara-iulius-town/",
+        "linkType": "official",
+        "status": "open",
+        "minors": "yes",
+        "adultRequired": true,
+        "name": "Energy Games Arcade — Iulius Town",
+        "sources": [
+          "https://energy-games.ro/locatie/timisoara-iulius-town/",
+          "https://iuliustown.ro/ro/entertainment"
+        ],
+        "verifiedAt": "2026-11-13"
+      },
+      "sources": [
+        "https://energy-games.ro/locatie/timisoara-iulius-town/",
+        "https://iuliustown.ro/ro/entertainment"
+      ],
+      "observedFacts": [
+        "Operator and mall identify Energy Games Arcade at Iulius Town. Operator requires accompanying-adult consent and continuous supervision for children up to 14."
+      ],
+      "unresolvedReason": null,
+      "limits": "Adult supervision explicitly required up to 14; adultRequired is conservatively true because the data model has no age-conditioned supervision field. Individual machine rules still apply.",
+      "description": {
+        "ro": "Jocuri arcade la Energy Games, în Iulius Town. Copiii până la 14 ani au nevoie de acordul și supravegherea adultului însoțitor.",
+        "en": "Arcade games at Energy Games in Iulius Town. Children up to 14 need the accompanying adult’s consent and supervision.",
+        "it": "Giochi arcade da Energy Games a Iulius Town. Fino a 14 anni servono consenso e supervisione dell’adulto accompagnatore.",
+        "fr": "Jeux d’arcade chez Energy Games à Iulius Town. Jusqu’à 14 ans, accord et surveillance de l’adulte accompagnateur sont requis.",
+        "es": "Juegos recreativos en Energy Games de Iulius Town. Hasta los 14 años se requieren consentimiento y supervisión del adulto acompañante.",
+        "zh-Hans": "在 Iulius Town 的 Energy Games 玩街机。14 岁及以下儿童须经陪同成人同意并全程监督。"
+      }
+    },
+    "samantha": {
+      "identityResolved": true,
+      "venue": {
+        "verified": true,
+        "address": "Calea Stan Vidrighin 18, etaj 1, Timișoara",
+        "url": "https://linktr.ee/samanthasescapehouse",
+        "linkType": "official",
+        "status": "open",
+        "minors": "unknown",
+        "sources": [
+          "https://linktr.ee/samanthasescapehouse",
+          "https://drive.google.com/file/d/1RezHU2F3GOPe6yqE8yoLgUS1WT5wFMPf/view",
+          "https://escapebeacon.com/ro/timisoara/samantha-s-escape-house"
+        ],
+        "verifiedAt": "2026-11-13"
+      },
+      "sources": [
+        "https://linktr.ee/samanthasescapehouse",
+        "https://drive.google.com/file/d/1RezHU2F3GOPe6yqE8yoLgUS1WT5wFMPf/view",
+        "https://escapebeacon.com/ro/timisoara/samantha-s-escape-house"
+      ],
+      "observedFacts": [
+        "Operator Linktree links a public booking PDF with current phone +40 725 351 469 and Thursday–Sunday schedule. EscapeBeacon associates that same phone with Calea Stan Vidrighin 18, floor 1. Older directories list Petru Maior 2 and a different phone; that older address is not used."
+      ],
+      "unresolvedReason": null,
+      "limits": "Primary operator PDF provides booking phone and hours but no address or minor policy. Address is corroborated by the matching current booking phone in specialist venue listing; older conflicting address explicitly rejected. Coordinates omitted.",
+      "description": {
+        "ro": "Samantha’s Escape House propune scenarii de evadare horror. Rezervă direct și confirmă vârsta minimă și locația înainte de plecare.",
+        "en": "Samantha’s Escape House offers horror escape scenarios. Book directly and confirm the minimum age and location before leaving.",
+        "it": "Samantha’s Escape House propone scenari di fuga horror. Prenota direttamente e conferma età minima e sede.",
+        "fr": "Samantha’s Escape House propose des scénarios d’évasion horrifiques. Réservez directement et confirmez l’âge minimum et l’adresse.",
+        "es": "Samantha’s Escape House ofrece juegos de escape de terror. Reserva directamente y confirma la edad mínima y la ubicación.",
+        "zh-Hans": "Samantha’s Escape House 提供恐怖主题密室体验。请直接预约并确认最低年龄和地址。"
+      }
+    },
+    "grumi": {
+      "identityResolved": true,
+      "venue": {
+        "verified": true,
+        "name": "Olărit — Gruni",
+        "address": "Strada Gheorghe Lazăr 26, spațiul 7, Halele Fructus, Timișoara",
+        "url": "https://gruni-for-fun.ro/produs/atelier-de-olarit-pentru-incepatori/",
+        "linkType": "official",
+        "status": "unknown",
+        "minors": "yes",
+        "sources": [
+          "https://gruni.ro/atelier/",
+          "https://gruni-for-fun.ro/produs/atelier-de-olarit-pentru-incepatori/",
+          "https://gruni-for-fun.ro/oferta-ateliere-de-ceramica/",
+          "https://gruni-for-fun.ro/calendar/"
+        ],
+        "verifiedAt": "2026-11-13",
+        "minimumAge": 11
+      },
+      "sources": [
+        "https://gruni.ro/atelier/",
+        "https://gruni-for-fun.ro/produs/atelier-de-olarit-pentru-incepatori/",
+        "https://gruni-for-fun.ro/oferta-ateliere-de-ceramica/",
+        "https://gruni-for-fun.ro/calendar/"
+      ],
+      "observedFacts": [
+        "User explicitly confirmed Grumi means Gruni. Official pottery course gives Gheorghe Lazăr 26, space 7, and admission for adults/children over 10 with advance booking. Current workshop listing marks this course sold out; exact next available session is unresolved."
+      ],
+      "unresolvedReason": null,
+      "limits": "User-confirmed identity. Exact pottery course, not a ceramic-painting event elsewhere. Source says children over 10; integer minimumAge 11 is conservative. Course currently marked sold out; status stays unknown until an available dated session is established. General showroom opening is not treated as pottery-session availability. No adult-accompaniment rule inferred.",
+      "name": {
+        "ro": "Olărit — Gruni",
+        "en": "Pottery — Gruni",
+        "it": "Ceramica — Gruni",
+        "fr": "Poterie — Gruni",
+        "es": "Alfarería — Gruni",
+        "zh-Hans": "陶艺 — Gruni"
+      },
+      "description": {
+        "ro": "Încearcă roata olarului la Gruni, pe Gheorghe Lazăr 26. Atelierul este pentru adulți și copii peste 10 ani; rezervarea este necesară.",
+        "en": "Try the pottery wheel at Gruni on Gheorghe Lazăr 26. The workshop welcomes adults and children over 10; booking is required.",
+        "it": "Prova il tornio da Gruni, in Gheorghe Lazăr 26. Il laboratorio è per adulti e bambini sopra i 10 anni; prenotazione obbligatoria.",
+        "fr": "Essayez le tour de potier chez Gruni, au 26 Gheorghe Lazăr. Atelier pour adultes et enfants de plus de 10 ans, sur réservation.",
+        "es": "Prueba el torno de alfarero en Gruni, en Gheorghe Lazăr 26. Taller para adultos y mayores de 10 años, con reserva.",
+        "zh-Hans": "在 Gheorghe Lazăr 26 的 Gruni 体验陶轮制作。课程面向成人及 10 岁以上儿童，须提前预约。"
+      },
+      "identityProvenance": {
+        "type": "userconfirmedidentity",
+        "confirmedAt": "2026-11-13",
+        "originalInventoryName": "Olărit — Grumi",
+        "confirmedIdentity": "Pottery — Gruni"
+      }
+    },
+    "paintball": {
+      "identityResolved": true,
+      "venue": {
+        "verified": true,
+        "name": "Paintball — Arena Paintball",
+        "address": "Bulevardul Aviației, fostul teren militar Army, Giroc, Timiș",
+        "url": "https://www.arenapaintball.ro/locatii.html",
+        "linkType": "official",
+        "status": "open",
+        "minors": "unknown",
+        "sources": [
+          "https://www.arenapaintball.ro/locatii.html",
+          "https://www.arenapaintball.ro/contact.html",
+          "https://www.waze.com/ro/live-map/directions/ro/tm/giroc/arena-paintball-timisoara?to=place.ChIJqRCwW59dRUcRI2TTXvQZ-kA"
+        ],
+        "verifiedAt": "2026-11-13"
+      },
+      "sources": [
+        "https://www.arenapaintball.ro/locatii.html",
+        "https://www.arenapaintball.ro/contact.html",
+        "https://www.waze.com/ro/live-map/directions/ro/tm/giroc/arena-paintball-timisoara?to=place.ChIJqRCwW59dRUcRI2TTXvQZ-kA"
+      ],
+      "observedFacts": [
+        "User expressly authorized choosing a suitable verified local paintball provider because no original operator was known. Selected Arena Paintball’s official Army field near Giroc; operator requires at least 10 participants. Waze matches operator website/phone and locates it on Bulevardul Aviației."
+      ],
+      "unresolvedReason": null,
+      "limits": "Transparent user-authorized suggestion, not a claim of original intended operator. Published contact/booking information supports operation. Exact booking, field gate and safety requirements must be confirmed. No current operator minimum age or minor policy found; minors stays unknown.",
+      "name": {
+        "ro": "Paintball — Arena Paintball",
+        "en": "Paintball — Arena Paintball",
+        "it": "Paintball — Arena Paintball",
+        "fr": "Paintball — Arena Paintball",
+        "es": "Paintball — Arena Paintball",
+        "zh-Hans": "彩弹 — Arena Paintball"
+      },
+      "description": {
+        "ro": "Propunere: paintball la Arena Paintball, terenul Army din Giroc. Rezervarea este pentru grupuri de minimum 10; confirmă siguranța și accesul.",
+        "en": "Suggested option: Arena Paintball’s Army field in Giroc. Groups need at least 10 people; confirm bookings, safety and admission.",
+        "it": "Proposta: campo Army di Arena Paintball a Giroc. Gruppi di almeno 10 persone; conferma prenotazione, sicurezza e accesso.",
+        "fr": "Suggestion : terrain Army d’Arena Paintball à Giroc. Groupes d’au moins 10 personnes ; confirmez réservation, sécurité et accès.",
+        "es": "Propuesta: campo Army de Arena Paintball en Giroc. Grupos de al menos 10; confirma reserva, seguridad y acceso.",
+        "zh-Hans": "推荐选项：Giroc 的 Arena Paintball Army 场地。团体至少 10 人；请确认预约、安全要求和入场规定。"
+      },
+      "identityProvenance": {
+        "type": "usersuggestionauthorized",
+        "confirmedAt": "2026-11-13",
+        "originalInventoryName": "Paintball",
+        "confirmedIdentity": "Paintball — Arena Paintball",
+        "authorization": "User did not know original operator and expressly authorized selecting a verified local suggestion."
+      }
+    },
+    "paradisul-piratilor": {
+      "identityResolved": false,
+      "venue": {
+        "verified": false,
+        "status": "unknown",
+        "minors": "unknown",
+        "address": "Aleea Studenților, Cantina 4C, Timișoara",
+        "sources": [
+          "https://www.paradisulpiratilor.ro/povestea-noastra",
+          "https://www.megazonebites.ro/",
+          "https://www.timisoara-info.ro/infocentru/alimentatie"
+        ],
+        "verifiedAt": "2026-11-13"
+      },
+      "sources": [
+        "https://www.paradisulpiratilor.ro/povestea-noastra",
+        "https://www.megazonebites.ro/",
+        "https://www.timisoara-info.ro/infocentru/alimentatie"
+      ],
+      "observedFacts": [
+        "Institutional directory and indexed former official page identify the restaurant at Aleea Studenților, Cantina 4C. Direct retrieval of the former operator URL on 13 November 2026 redirects to Megazone Bites."
+      ],
+      "unresolvedReason": "Current operation under the original name and continuity of children’s facilities are unconfirmed; redirect is not sufficient authority to replace the inventory entity.",
+      "limits": "Published visitor information, not a live opening guarantee. No general admission rule for minors inferred. Coordinates omitted where no exact venue point was verified."
+    },
+    "arena-jocurilor": {
+      "identityResolved": true,
+      "venue": {
+        "verified": true,
+        "address": "Strada Divizia 9 Cavalerie 19, etaj 2, Timișoara",
+        "url": "https://arena-jocurilor.ro/contact.html",
+        "linkType": "official",
+        "status": "open",
+        "minors": "yes",
+        "sources": [
+          "https://arena-jocurilor.ro/contact.html",
+          "https://arena-jocurilor.ro/",
+          "https://www.waze.com/live-map/directions/arena-jocurilor-str.-divizia-9-cavalerie-19-timisoara?to=place.w.13894090.139137505.9092848"
+        ],
+        "verifiedAt": "2026-11-13"
+      },
+      "sources": [
+        "https://arena-jocurilor.ro/contact.html",
+        "https://arena-jocurilor.ro/",
+        "https://www.waze.com/live-map/directions/arena-jocurilor-str.-divizia-9-cavalerie-19-timisoara?to=place.w.13894090.139137505.9092848"
+      ],
+      "observedFacts": [
+        "Operator publishes exact floor/address, children’s parties, playground and opening-hours pages. Waze matches number 19 and operator phone."
+      ],
+      "unresolvedReason": null,
+      "limits": "Published visitor information, not a live opening guarantee. No general admission rule for minors inferred. Coordinates omitted where no exact venue point was verified.",
+      "description": {
+        "ro": "Joacă și petreceri pentru copii la Arena Jocurilor, pe Divizia 9 Cavalerie. Confirmă rezervarea și regulile echipamentelor.",
+        "en": "Children’s play and parties at Arena Jocurilor on Divizia 9 Cavalerie. Confirm bookings and equipment rules.",
+        "it": "Giochi e feste per bambini da Arena Jocurilor, in Divizia 9 Cavalerie. Verifica prenotazione e regole delle attrezzature.",
+        "fr": "Jeux et fêtes pour enfants à Arena Jocurilor, rue Divizia 9 Cavalerie. Vérifiez réservation et règles des équipements.",
+        "es": "Juegos y fiestas infantiles en Arena Jocurilor, en Divizia 9 Cavalerie. Confirma la reserva y las normas de los equipos.",
+        "zh-Hans": "在 Divizia 9 Cavalerie 街的 Arena Jocurilor 玩耍或举办儿童派对。请确认预约和设施使用规则。"
+      }
+    },
+    "kids-town": {
+      "identityResolved": true,
+      "venue": {
+        "verified": true,
+        "status": "open",
+        "minors": "yes",
+        "url": "https://www.megazonetimisoara.ro/megazone-kidstown",
+        "linkType": "official",
+        "sources": [
+          "https://www.megazonetimisoara.ro/megazone-kidstown",
+          "https://visit-timis.ro/kidstown-by-megazone-en",
+          "https://www.megazonetimisoara.ro/megazone-kidstown/contact"
+        ],
+        "verifiedAt": "2026-11-13",
+        "name": "KidsTown by Megazone",
+        "address": "Strada Doctor Nicolae Paulescu 3, Timișoara"
+      },
+      "sources": [
+        "https://www.megazonetimisoara.ro/megazone-kidstown",
+        "https://visit-timis.ro/kidstown-by-megazone-en",
+        "https://www.megazonetimisoara.ro/megazone-kidstown/contact"
+      ],
+      "observedFacts": [
+        "Rendered current official Megazone Kidstown page confirms Dr. Nicolae Paulescu 3 and daily playground operation. It explicitly says playground only, no parties. Adults enter free. Body and footer give conflicting closing times (22:00 versus 21:00), so no exact closing time is propagated."
+      ],
+      "unresolvedReason": null,
+      "limits": "Official rendered visitor page directly establishes the number 3 branch and children’s play. No universal minimum age or adult-accompaniment rule found; equipment-specific rules still apply. Do not advertise birthday parties here. Current operator terms page contains placeholder text, so no safety-specific age/supervision claims were taken from it.",
+      "description": {
+        "ro": "KidsTown by Megazone este un loc de joacă pe Nicolae Paulescu 3. Aici nu se organizează petreceri; confirmă regulile înainte de vizită.",
+        "en": "KidsTown by Megazone is a playground at Nicolae Paulescu 3. It does not host parties; check the rules before visiting.",
+        "it": "KidsTown by Megazone è uno spazio giochi in Nicolae Paulescu 3. Non organizza feste; verifica le regole prima della visita.",
+        "fr": "KidsTown by Megazone est un espace de jeux au 3 Nicolae Paulescu. Il n’organise pas de fêtes ; vérifiez les règles.",
+        "es": "KidsTown by Megazone es un espacio de juegos en Nicolae Paulescu 3. No organiza fiestas; consulta las normas antes de ir.",
+        "zh-Hans": "KidsTown by Megazone 是位于 Nicolae Paulescu 3 的儿童游乐场，不举办派对。到访前请确认使用规则。"
+      }
+    },
+    "bike-serbia": {
+      "identityResolved": true,
+      "venue": {
+        "verified": true,
+        "address": "Pista de pe digul Begăi; acces din zona Podului Modoș / strada Ion Român, Timișoara",
+        "url": "https://www.cjtimis.ro/comunicate-de-presa/in-acest-weekend-se-redeschide-punctul-de-trecere-a-frontierei-pe-pista-timisoara-zrenjanin-din-luna-mai-acces-si-pentru-ambarcatiuni/",
+        "linkType": "official",
+        "status": "unknown",
+        "minors": "unknown",
+        "sources": [
+          "https://www.cjtimis.ro/comunicate-de-presa/in-acest-weekend-se-redeschide-punctul-de-trecere-a-frontierei-pe-pista-timisoara-zrenjanin-din-luna-mai-acces-si-pentru-ambarcatiuni/",
+          "https://www.cjtimis.ro/wp-content/uploads/2020/07/PATJ-Timis-Volumul-III-Zone-protejate-turism.pdf",
+          "https://www.cjtimis.ro/infocjt/admin/upload/f98q476m3pjy.pdf"
+        ],
+        "verifiedAt": "2026-11-13"
+      },
+      "sources": [
+        "https://www.cjtimis.ro/comunicate-de-presa/in-acest-weekend-se-redeschide-punctul-de-trecere-a-frontierei-pe-pista-timisoara-zrenjanin-din-luna-mai-acces-si-pentru-ambarcatiuni/",
+        "https://www.cjtimis.ro/wp-content/uploads/2020/07/PATJ-Timis-Volumul-III-Zone-protejate-turism.pdf",
+        "https://www.cjtimis.ro/infocjt/admin/upload/f98q476m3pjy.pdf"
+      ],
+      "observedFacts": [
+        "County Council identifies the Timișoara–Zrenjanin route on the Bega embankment and limited 2026 border-opening dates. County planning document places its start near Podul Modoș/strada Ion Român; maintenance/reconstruction evidence prevents asserting unrestricted passage."
+      ],
+      "unresolvedReason": null,
+      "limits": "Route identity and representative start established; no surveyed access coordinate. Border opening is temporary on announced dates; no November 13 cross-border availability established. Route works/condition and minors’ border documents must be checked separately."
+    },
+    "plaja-noua": {
+      "identityResolved": true,
+      "venue": {
+        "verified": true,
+        "address": "DJ591C, Sânmihaiu Român / zona Utvin, Timiș",
+        "url": "https://www.facebook.com/laplajanoua/",
+        "linkType": "official",
+        "status": "unknown",
+        "minors": "unknown",
+        "name": "La Plaja Nouă",
+        "sources": [
+          "https://www.facebook.com/laplajanoua/",
+          "https://bestmarkets.ro/en/la-plaja-noua/"
+        ],
+        "verifiedAt": "2026-11-13"
+      },
+      "sources": [
+        "https://www.facebook.com/laplajanoua/",
+        "https://bestmarkets.ro/en/la-plaja-noua/"
+      ],
+      "observedFacts": [
+        "Operator social metadata identifies La Plaja Nouă outdoor weddings/events in Sânmihaiu Român; provider-written venue page gives DJ591C and describes summer operation."
+      ],
+      "unresolvedReason": null,
+      "limits": "Exact locality/operator identity established; provider calls it a summer/event location. November public access, specific activity admission and exact gate coordinate not established.",
+      "description": {
+        "ro": "La Plaja Nouă este o locație în aer liber în zona Sânmihaiu Român. Confirmă accesul public și sezonul direct.",
+        "en": "La Plaja Nouă is an outdoor venue near Sânmihaiu Român. Confirm public access and the season directly.",
+        "it": "La Plaja Nouă è uno spazio all’aperto presso Sânmihaiu Român. Conferma accesso pubblico e stagione.",
+        "fr": "La Plaja Nouă est un lieu de plein air près de Sânmihaiu Român. Confirmez l’accès public et la saison.",
+        "es": "La Plaja Nouă es un recinto al aire libre cerca de Sânmihaiu Român. Confirma el acceso público y la temporada.",
+        "zh-Hans": "La Plaja Nouă 是 Sânmihaiu Român 附近的户外场地。请直接确认开放季节和公众入场安排。"
+      }
+    },
+    "parcul-castelului": {
+      "identityResolved": true,
+      "venue": {
+        "verified": true,
+        "address": "În jurul Castelului Huniade, Piața Iancu Huniade, Timișoara",
+        "url": "https://hcl.civicul.ro/view-hcl/hcl_533_08.12.2015/attachment/007_ANEXA_NR.1_LISTA_DENUMIRI_PARCURI_SCUARURI.pdf",
+        "linkType": "official",
+        "status": "open",
+        "minors": "yes",
+        "sources": [
+          "https://assets.primariatm.ro/fcc31563-72a6-4e5c-9610-2562cfb00ce9",
+          "https://hcl.civicul.ro/view-hcl/hcl_533_08.12.2015/attachment/007_ANEXA_NR.1_LISTA_DENUMIRI_PARCURI_SCUARURI.pdf",
+          "https://hcl.usr.ro/timisoara/2023/h229"
+        ],
+        "verifiedAt": "2026-11-13"
+      },
+      "sources": [
+        "https://assets.primariatm.ro/fcc31563-72a6-4e5c-9610-2562cfb00ce9",
+        "https://hcl.civicul.ro/view-hcl/hcl_533_08.12.2015/attachment/007_ANEXA_NR.1_LISTA_DENUMIRI_PARCURI_SCUARURI.pdf",
+        "https://hcl.usr.ro/timisoara/2023/h229"
+      ],
+      "observedFacts": [
+        "Municipal naming records identify the green area around Huniade Castle as Scuarul Castelului; later municipal green-space inventory locates it at Castelul Huniade. Original inventory shorthand is retained and official name explained."
+      ],
+      "unresolvedReason": null,
+      "limits": "Public green-space identity established, not a confirmation of castle-interior access, equipment suitability or an accessible entrance. No exact point surveyed.",
+      "description": {
+        "ro": "Explorează spațiul verde din jurul Castelului Huniade, denumit oficial Scuarul Castelului. Accesul în castel se verifică separat.",
+        "en": "Explore the green space around Huniade Castle, officially Scuarul Castelului. Castle admission must be checked separately.",
+        "it": "Esplora il verde intorno al Castello Huniade, ufficialmente Scuarul Castelului. Verifica separatamente l’accesso al castello.",
+        "fr": "Découvrez l’espace vert autour du château Huniade, officiellement Scuarul Castelului. Vérifiez séparément l’accès au château.",
+        "es": "Explora la zona verde del castillo Huniade, oficialmente Scuarul Castelului. Consulta por separado el acceso al castillo.",
+        "zh-Hans": "探索 Huniade 城堡周围的绿地，其正式名称为 Scuarul Castelului。城堡内部的开放情况须另行确认。"
+      }
+    },
+    "pet-yoga": {
+      "identityResolved": true,
+      "venue": {
+        "verified": true,
+        "name": "Pet Yoga — Puppy Yoga la FABER",
+        "address": "FABER, Splaiul Peneș Curcanul 4–5, Timișoara",
+        "url": "https://puppyyoga.ro/programari/",
+        "linkType": "official",
+        "status": "open",
+        "minors": "yes",
+        "sources": [
+          "https://puppyyoga.ro/programari/",
+          "https://puppyyoga.ro/termeni-si-conditii/",
+          "https://faber.ro/ro/contact/",
+          "https://yogafit.ro/blog/ce-se-intampla-cand-aduci-catei-pe-saltea/"
+        ],
+        "verifiedAt": "2026-11-13",
+        "minimumAge": 14
+      },
+      "sources": [
+        "https://puppyyoga.ro/programari/",
+        "https://puppyyoga.ro/termeni-si-conditii/",
+        "https://faber.ro/ro/contact/",
+        "https://yogafit.ro/blog/ce-se-intampla-cand-aduci-catei-pe-saltea/"
+      ],
+      "observedFacts": [
+        "User authorized a verified local Pet Yoga suggestion without requiring the unknown former operator. Current rendered official booking calendar lists Puppy Yoga Timișoara at FABER on 22 November 2026, 14:00 available and 15:00 full when checked. Operator rules admit ages 14+ to standard sessions; separate KIDS events admit ages 7–14 only with an adult. FABER official contact confirms Splaiul Peneș Curcanul 4–5."
+      ],
+      "unresolvedReason": null,
+      "limits": "Specific scheduled event, not daily walk-in access. No reservation was made; remaining places can change. Standard 14+ rule applies to selected Timișoara event; no KIDS-labelled Timișoara session confirmed. Recheck official calendar and retire dated recommendation after 22 November 2026. Website 18+ terms are not substituted for event participation ages.",
+      "name": {
+        "ro": "Pet Yoga — Puppy Yoga la FABER",
+        "en": "Pet Yoga — Puppy Yoga at FABER",
+        "it": "Pet Yoga — Puppy Yoga da FABER",
+        "fr": "Pet Yoga — Puppy Yoga à FABER",
+        "es": "Pet Yoga — Puppy Yoga en FABER",
+        "zh-Hans": "宠物瑜伽 — FABER 小狗瑜伽"
+      },
+      "description": {
+        "ro": "Propunere: Puppy Yoga la FABER, pe 22 noiembrie 2026, numai cu rezervare. Sesiunile standard sunt pentru persoane de minimum 14 ani.",
+        "en": "Suggested option: Puppy Yoga at FABER on 22 November 2026, by reservation only. Standard sessions are for ages 14 and over.",
+        "it": "Proposta: Puppy Yoga da FABER il 22 novembre 2026, solo su prenotazione. Sessioni standard dai 14 anni.",
+        "fr": "Suggestion : Puppy Yoga à FABER le 22 novembre 2026, sur réservation. Séances standard à partir de 14 ans.",
+        "es": "Propuesta: Puppy Yoga en FABER el 22 de noviembre de 2026, con reserva. Sesiones estándar a partir de 14 años.",
+        "zh-Hans": "推荐选项：2026 年 11 月 22 日在 FABER 举行的小狗瑜伽，须预约。普通课程仅限 14 岁及以上人士。"
+      },
+      "identityProvenance": {
+        "type": "usersuggestionauthorized",
+        "confirmedAt": "2026-11-13",
+        "originalInventoryName": "Pet Yoga",
+        "confirmedIdentity": "Pet Yoga — Puppy Yoga at FABER",
+        "authorization": "User did not know original operator and expressly authorized selecting a verified local suggestion."
+      },
+      "eventDates": [
+        "2026-11-22"
+      ],
+      "reviewAfter": "2026-11-22",
+      "availabilityCheckedAt": "2026-11-13"
+    },
+    "dharmaland": {
+      "identityResolved": true,
+      "venue": {
+        "verified": true,
+        "address": "Strada Memorandului 76–80, Timișoara",
+        "url": "https://gymone4spa.ro/programare/",
+        "linkType": "official",
+        "status": "open",
+        "minors": "unknown",
+        "sources": [
+          "https://gymone4spa.ro/programare/",
+          "https://gymone4spa.ro/spa/",
+          "https://gymone4spa.ro/contact-2/"
+        ],
+        "verifiedAt": "2026-11-13"
+      },
+      "sources": [
+        "https://gymone4spa.ro/programare/",
+        "https://gymone4spa.ro/spa/",
+        "https://gymone4spa.ro/contact-2/"
+      ],
+      "observedFacts": [
+        "Current operator explicitly calls its booking page “Programări la Dharmaland” and spa “SPA-ul Dharmaland”; publishes Memorandului 76–80, hours and live booking options. Old dharmaland.ro is suspended, not evidence of the physical spa closing."
+      ],
+      "unresolvedReason": null,
+      "limits": "Published visitor information, not a live opening guarantee. No general admission rule for minors inferred. Coordinates omitted where no exact venue point was verified.",
+      "description": {
+        "ro": "Dharmaland, la Gymone4spa, oferă piscină interioară, saune și servicii de relaxare. Verifică rezervarea și condițiile fiecărui serviciu.",
+        "en": "Dharmaland at Gymone4spa offers an indoor pool, saunas and relaxation services. Check bookings and each service’s conditions.",
+        "it": "Dharmaland, presso Gymone4spa, offre piscina coperta, saune e servizi relax. Verifica prenotazione e condizioni del servizio.",
+        "fr": "Dharmaland, chez Gymone4spa, propose piscine intérieure, saunas et services de détente. Vérifiez réservation et conditions du service.",
+        "es": "Dharmaland, en Gymone4spa, ofrece piscina cubierta, saunas y servicios de relajación. Consulta reservas y condiciones de cada servicio.",
+        "zh-Hans": "Gymone4spa 的 Dharmaland 提供室内泳池、桑拿和放松服务。请确认预约及各项服务的使用条件。"
+      }
+    },
+    "no-name": {
+      "identityResolved": true,
+      "venue": {
+        "verified": true,
+        "address": "Bulevardul Doctor Iosif Bulbuca 11, Timișoara",
+        "url": "https://www.facebook.com/clubnonametm/",
+        "linkType": "official",
+        "status": "unknown",
+        "minors": "unknown",
+        "sources": [
+          "https://www.facebook.com/clubnonametm/",
+          "https://www.timisoreni.ro/despre/club-no-name/",
+          "https://www.fest.ro/ro/timisoara/locuri/beraria-park/no-name"
+        ],
+        "verifiedAt": "2026-11-13"
+      },
+      "sources": [
+        "https://www.facebook.com/clubnonametm/",
+        "https://www.timisoreni.ro/despre/club-no-name/",
+        "https://www.fest.ro/ro/timisoara/locuri/beraria-park/no-name"
+      ],
+      "observedFacts": [
+        "Official social page identifies no name in Timișoara. Local directory places it at Bulbuca 11; older listings use Liviu Rebreanu 11 or 15."
+      ],
+      "unresolvedReason": null,
+      "limits": "Identity established; current door address and event schedule should be reconfirmed because older listings conflict. No blanket 18+ or child-admission rule inferred."
+    },
+    "heaven": {
+      "identityResolved": true,
+      "venue": {
+        "verified": true,
+        "address": "Strada Ripensia 40, Timișoara",
+        "url": "https://heaventimisoara.ro/heaven-club/",
+        "linkType": "official",
+        "status": "open",
+        "minors": "unknown",
+        "sources": [
+          "https://heaventimisoara.ro/heaven-club/",
+          "https://heaventimisoara.ro/contact/",
+          "https://www.livetickets.ro/evenimente/heaven",
+          "https://www.isutimis.ro/images/AVIZARE_-AUTORIZARE/2024/Anexa-12131-OIG-evidenta-autorizatii_2018---30.06.2024.pdf"
+        ],
+        "verifiedAt": "2026-11-13"
+      },
+      "sources": [
+        "https://heaventimisoara.ro/heaven-club/",
+        "https://heaventimisoara.ro/contact/",
+        "https://www.livetickets.ro/evenimente/heaven",
+        "https://www.isutimis.ro/images/AVIZARE_-AUTORIZARE/2024/Anexa-12131-OIG-evidenta-autorizatii_2018---30.06.2024.pdf"
+      ],
+      "observedFacts": [
+        "Official club website and its map establish identity. Fire-service record places Club Heaven at Aleea Ripensia 40. Ticketing operator lists forthcoming November/December 2026 events. Different events have different ages; one 18+ event does not establish a blanket venue rule."
+      ],
+      "unresolvedReason": null,
+      "limits": "Published visitor information, not a live opening guarantee. No general admission rule for minors inferred. Coordinates omitted where no exact venue point was verified."
+    },
+    "darc-mal": {
+      "identityResolved": true,
+      "venue": {
+        "verified": true,
+        "address": "Malul Begăi, lângă Podul Mitropolit Andrei Șaguna / Podul Tinereții, Timișoara",
+        "url": "https://m.iabilet.ro/bilete-d-arc-pe-mal-venue-6483/",
+        "linkType": "map",
+        "status": "unknown",
+        "minors": "unknown",
+        "sources": [
+          "https://m.iabilet.ro/bilete-d-arc-pe-mal-venue-6483/",
+          "https://www.timisoreni.ro/despre/d-arc-pe-mal/",
+          "https://www.onevent.ro/evenimente/nidal-pe-mal-2/"
+        ],
+        "verifiedAt": "2026-11-13"
+      },
+      "sources": [
+        "https://m.iabilet.ro/bilete-d-arc-pe-mal-venue-6483/",
+        "https://www.timisoreni.ro/despre/d-arc-pe-mal/",
+        "https://www.onevent.ro/evenimente/nidal-pe-mal-2/"
+      ],
+      "observedFacts": [
+        "Ticket operator identifies the exact D’arc pe Mal venue by Pod Mitropolit Andrei Șaguna and matching operator phone. May 2026 event organizer is D’arc Timișoara; do not substitute the indoor Piața Unirii branch."
+      ],
+      "unresolvedReason": null,
+      "limits": "Exact riverbank branch distinguished from Piața Unirii. No upcoming event on ticket-venue page; November terrace operation/age rules unconfirmed. URL is an event venue page, not a guessed operator website."
+    },
+    "atelier-experience": {
+      "identityResolved": true,
+      "venue": {
+        "verified": true,
+        "address": "Strada Dimitrie Cantemir 1, Timișoara",
+        "url": "https://www.google.com/maps/dir/?api=1&destination=45.75512280,21.22798400",
+        "linkType": "map",
+        "status": "unknown",
+        "minors": "unknown",
+        "sources": [
+          "https://restaurantguru.com/Atelier-dexperience-Timisoara",
+          "https://zilesinopti.ro/2025/02/24/unde-bei-paloma-cocktail-2025/"
+        ],
+        "verifiedAt": "2026-11-13"
+      },
+      "sources": [
+        "https://restaurantguru.com/Atelier-dexperience-Timisoara",
+        "https://zilesinopti.ro/2025/02/24/unde-bei-paloma-cocktail-2025/"
+      ],
+      "observedFacts": [
+        "Current venue listing and named-venue map destination identify the cocktail bar at Dimitrie Cantemir 1. Editorial description confirms this specific bar opened in summer 2024."
+      ],
+      "unresolvedReason": null,
+      "limits": "Identity/address supported by current venue/map listing and editorial source; current operator schedule and minor rules unavailable. No coordinates accepted as first-party or independently verified map geometry."
+    },
+    "escape-venue": {
+      "identityResolved": true,
+      "venue": {
+        "verified": true,
+        "address": "Strada Pictor Ion Zaicu 26, Timișoara",
+        "url": "https://www.facebook.com/escape.venue/",
+        "linkType": "official",
+        "status": "unknown",
+        "minors": "unknown",
+        "sources": [
+          "https://dutchculture.nl/en/organisation/escape-venue",
+          "https://timisoara.cylex.ro/firma/escape%2Bvenue-1341395.html",
+          "https://ra.co/clubs/129426",
+          "https://restaurantguru.com/Escape-Venue-Timisoara"
+        ],
+        "verifiedAt": "2026-11-13"
+      },
+      "sources": [
+        "https://dutchculture.nl/en/organisation/escape-venue",
+        "https://timisoara.cylex.ro/firma/escape%2Bvenue-1341395.html",
+        "https://ra.co/clubs/129426",
+        "https://restaurantguru.com/Escape-Venue-Timisoara"
+      ],
+      "observedFacts": [
+        "DutchCulture identifies the venue and operator Facebook. Current listings point to Pictor Ion Zaicu 26; Resident Advisor retains older Gheorghe Lazăr 26. Neither provides an active upcoming event."
+      ],
+      "unresolvedReason": null,
+      "limits": "Exact inventory identity established, but conflicting old/new addresses prevent treating a current event location as guaranteed. No general minors rule established."
+    },
+    "frenzy": {
+      "identityResolved": true,
+      "venue": {
+        "verified": true,
+        "address": "Piața Victoriei 7, Timișoara",
+        "url": "https://www.instagram.com/frenzy.specialtycoffee/",
+        "linkType": "official",
+        "status": "open",
+        "minors": "unknown",
+        "sources": [
+          "https://curated.spot/en/spot/frenzy-specialty-coffee-shop/",
+          "https://maps.google.com/?cid=18223216652637309210",
+          "https://www.instagram.com/frenzy.specialtycoffee/"
+        ],
+        "verifiedAt": "2026-11-13"
+      },
+      "sources": [
+        "https://curated.spot/en/spot/frenzy-specialty-coffee-shop/",
+        "https://maps.google.com/?cid=18223216652637309210",
+        "https://www.instagram.com/frenzy.specialtycoffee/"
+      ],
+      "observedFacts": [
+        "Operator Instagram bio directly confirms Piața Victoriei 7, Timișoara. Google Places-backed profile provides the same address, exact map CID, operator account and weekly hours."
+      ],
+      "unresolvedReason": null,
+      "limits": "Exact operator bio and number 7 branch verified directly. No published minor-specific admission rules; coordinates omitted."
+    },
+    "mercy": {
+      "identityResolved": true,
+      "venue": {
+        "verified": true,
+        "address": "Strada Florimund Mercy 4, Timișoara",
+        "url": "https://www.google.com/maps/dir/?api=1&destination=45.75700200,21.22891920",
+        "linkType": "map",
+        "status": "open",
+        "minors": "unknown",
+        "sources": [
+          "https://restaurantguru.com/Mercy-Coffee-Timisoara",
+          "https://firmania.ro/timisoara/mercy-coffee-397918"
+        ],
+        "verifiedAt": "2026-11-13"
+      },
+      "sources": [
+        "https://restaurantguru.com/Mercy-Coffee-Timisoara",
+        "https://firmania.ro/timisoara/mercy-coffee-397918"
+      ],
+      "observedFacts": [
+        "Matching named-venue listing, map destination and updated directory place Mercy Coffee at Florimund Mercy 4, with the same phone and weekly hours."
+      ],
+      "unresolvedReason": null,
+      "limits": "Identity/address corroborated by current named-venue listing and map destination. No official standalone operator site or minor policy found; listing coordinates not promoted to verified survey points."
+    },
+    "comun-cafe-mara": {
+      "identityResolved": true,
+      "venue": {
+        "verified": true,
+        "address": "Calea Circumvalațiunii 1, City of Mara, Timișoara",
+        "url": "https://comun.cafe/about/",
+        "linkType": "official",
+        "status": "open",
+        "minors": "unknown",
+        "sources": [
+          "https://comun.cafe/about/",
+          "https://comun.cafe/contact/"
+        ],
+        "verifiedAt": "2026-11-13"
+      },
+      "sources": [
+        "https://comun.cafe/about/",
+        "https://comun.cafe/contact/"
+      ],
+      "observedFacts": [
+        "Official operator explicitly names City of Mara, gives Calea Circumvalațiunii 1 and daily opening hours. The Mara branch is distinguished from other historical Común locations."
+      ],
+      "unresolvedReason": null,
+      "limits": "Published visitor information, not a live opening guarantee. No general admission rule for minors inferred. Coordinates omitted where no exact venue point was verified.",
+      "description": {
+        "ro": "Cafea de specialitate și patiserie la Común Cafe Mara, în City of Mara, pe Calea Circumvalațiunii 1.",
+        "en": "Specialty coffee and pastries at Común Cafe Mara, in City of Mara on Calea Circumvalațiunii 1.",
+        "it": "Caffè specialty e pasticceria da Común Cafe Mara, nel complesso City of Mara, Calea Circumvalațiunii 1.",
+        "fr": "Café de spécialité et pâtisseries chez Común Cafe Mara, dans City of Mara, Calea Circumvalațiunii 1.",
+        "es": "Café de especialidad y bollería en Común Cafe Mara, en City of Mara, Calea Circumvalațiunii 1.",
+        "zh-Hans": "在 City of Mara 的 Común Cafe Mara 品尝精品咖啡和糕点，地址为 Calea Circumvalațiunii 1。"
+      }
+    },
+    "caffe-doge": {
+      "identityResolved": true,
+      "venue": {
+        "verified": true,
+        "address": "Calea Sever Bocu 2, Galeria 1, Timișoara",
+        "url": "https://www.facebook.com/caffedeldogeromania/",
+        "linkType": "official",
+        "status": "open",
+        "minors": "unknown",
+        "sources": [
+          "https://www.facebook.com/caffedeldogeromania/",
+          "https://www.timisoreni.ro/despre/caffe-del-doge/"
+        ],
+        "verifiedAt": "2026-11-13"
+      },
+      "sources": [
+        "https://www.facebook.com/caffedeldogeromania/",
+        "https://www.timisoreni.ro/despre/caffe-del-doge/"
+      ],
+      "observedFacts": [
+        "Official social page identifies Caffe del Doge Timișoara. Local venue listing links that exact operator account and locates the cafe/bistro in Galeria 1, Calea Sever Bocu 2, with daily hours."
+      ],
+      "unresolvedReason": null,
+      "limits": "Published visitor information, not a live opening guarantee. No general admission rule for minors inferred. Coordinates omitted where no exact venue point was verified."
+    },
+    "senses": {
+      "identityResolved": true,
+      "venue": {
+        "verified": true,
+        "address": "Strada Matei Corvin 4, Timișoara",
+        "url": "https://www.facebook.com/sensescoffee.ro/",
+        "linkType": "official",
+        "status": "open",
+        "minors": "unknown",
+        "sources": [
+          "https://www.facebook.com/sensescoffee.ro/",
+          "https://www.restaurants10.com/RO/Timisoara/714044261797630/Senses-Specialty-Coffee-Timisoara"
+        ],
+        "verifiedAt": "2026-11-13"
+      },
+      "sources": [
+        "https://www.facebook.com/sensescoffee.ro/",
+        "https://www.restaurants10.com/RO/Timisoara/714044261797630/Senses-Specialty-Coffee-Timisoara"
+      ],
+      "observedFacts": [
+        "Former numeric operator Facebook account redirects to sensescoffee.ro and publishes weekday/weekend hours in metadata. June 2026 operator posts mirrored by the venue listing repeatedly specify Matei Corvin 4."
+      ],
+      "unresolvedReason": null,
+      "limits": "Exact operator account resolved, mirrored operator posts provide number 4 branch. An offer for pupils is not a complete minors admission policy, so minors remains unknown."
+    },
+    "vineri-13": {
+      "identityResolved": true,
+      "venue": {
+        "verified": true,
+        "name": "Vineri 15",
+        "address": "Bulevardul Vasile Pârvan 9, Timișoara",
+        "url": "https://www.facebook.com/vineri15/",
+        "linkType": "official",
+        "status": "open",
+        "minors": "unknown",
+        "sources": [
+          "https://visit-timis.ro/vineri-15-en",
+          "https://www.facebook.com/vineri15/",
+          "https://ialoc.ro/restaurante-timisoara/vineri-15-rezervari-1956"
+        ],
+        "verifiedAt": "2026-11-13"
+      },
+      "sources": [
+        "https://visit-timis.ro/vineri-15-en",
+        "https://www.facebook.com/vineri15/",
+        "https://ialoc.ro/restaurante-timisoara/vineri-15-rezervari-1956"
+      ],
+      "observedFacts": [
+        "User explicitly confirmed Vineri 13 means Vineri 15. County tourism page identifies Vineri 15, operator Facebook and current visitor hours; booking partner gives Vasile Pârvan 9."
+      ],
+      "unresolvedReason": null,
+      "limits": "User-confirmed intended identity; original stable ID retained. Published visitor hours support operation, not a same-day guarantee. No general minor admission policy or surveyed entrance/coordinate established.",
+      "name": {
+        "ro": "Vineri 15",
+        "en": "Vineri 15",
+        "it": "Vineri 15",
+        "fr": "Vineri 15",
+        "es": "Vineri 15",
+        "zh-Hans": "Vineri 15"
+      },
+      "description": {
+        "ro": "Oprește-te la Vineri 15, restaurant și terasă pe Bulevardul Vasile Pârvan. Confirmă masa și programul înainte de vizită.",
+        "en": "Stop at Vineri 15, a restaurant and terrace on Bulevardul Vasile Pârvan. Confirm your table and opening hours.",
+        "it": "Fermati da Vineri 15, ristorante con terrazza sul Bulevardul Vasile Pârvan. Conferma tavolo e orari.",
+        "fr": "Faites une pause chez Vineri 15, restaurant avec terrasse sur Bulevardul Vasile Pârvan. Confirmez table et horaires.",
+        "es": "Haz una parada en Vineri 15, restaurante con terraza en Bulevardul Vasile Pârvan. Confirma mesa y horario.",
+        "zh-Hans": "在 Bulevardul Vasile Pârvan 的 Vineri 15 餐厅及露台稍作停留。请确认订位和营业时间。"
+      },
+      "identityProvenance": {
+        "type": "userconfirmedidentity",
+        "confirmedAt": "2026-11-13",
+        "originalInventoryName": "Vineri 13",
+        "confirmedIdentity": "Vineri 15"
+      }
+    },
+    "massimo": {
+      "identityResolved": true,
+      "venue": {
+        "verified": true,
+        "address": "Strada Johann Wolfgang von Goethe 2, Timișoara",
+        "url": "https://www.facebook.com/massimotimisoara/",
+        "linkType": "official",
+        "status": "open",
+        "minors": "unknown",
+        "sources": [
+          "https://www.facebook.com/massimotimisoara/",
+          "https://www.timisoreni.ro/despre/la-mia-cucina-da-massimo/",
+          "https://kompas.ro/afaceri/timisoara/restaurante/massimo"
+        ],
+        "verifiedAt": "2026-11-13"
+      },
+      "sources": [
+        "https://www.facebook.com/massimotimisoara/",
+        "https://www.timisoreni.ro/despre/la-mia-cucina-da-massimo/",
+        "https://kompas.ro/afaceri/timisoara/restaurante/massimo"
+      ],
+      "observedFacts": [
+        "Operator account identifies Massimo Timișoara/Segafredo concept. Linked local listing and updated 30 August 2026 directory agree on Goethe 2. welcometomassimo.com is a Brașov restaurant and is expressly not used."
+      ],
+      "unresolvedReason": null,
+      "limits": "Published visitor information, not a live opening guarantee. No general admission rule for minors inferred. Coordinates omitted where no exact venue point was verified."
+    },
+    "rio": {
+      "identityResolved": true,
+      "venue": {
+        "verified": true,
+        "name": "Riyo — ramen",
+        "address": "Strada Mărășești 12, Timișoara",
+        "url": "https://riyosushi.ro/",
+        "linkType": "official",
+        "status": "open",
+        "minors": "unknown",
+        "sources": [
+          "https://riyosushi.ro/",
+          "https://riyosushi.ro/wp-content/uploads/2024/01/Meniu-Riyo-2024-Valori.pdf"
+        ],
+        "verifiedAt": "2026-11-13"
+      },
+      "sources": [
+        "https://riyosushi.ro/",
+        "https://riyosushi.ro/wp-content/uploads/2024/01/Meniu-Riyo-2024-Valori.pdf"
+      ],
+      "observedFacts": [
+        "User explicitly confirmed Rio means Riyo. Official Riyo Wok & Sushi website gives Mărășești 12 and Tuesday–Sunday service. Its own published menu includes pork ramen. This is the ramen-matching branch; Riyo Chinese Fusion at Enrico Carusso 3 is distinct and is not selected."
+      ],
+      "unresolvedReason": null,
+      "limits": "User-confirmed identity and primary menu support ramen at Wok & Sushi, Mărășești 12. Published menu dates from 2024, so dish availability needs current confirmation. No restaurant minors policy inferred from website ordering-age terms; no coordinates asserted.",
+      "name": {
+        "ro": "Riyo — ramen",
+        "en": "Riyo — ramen",
+        "it": "Riyo — ramen",
+        "fr": "Riyo — ramen",
+        "es": "Riyo — ramen",
+        "zh-Hans": "Riyo — 拉面"
+      },
+      "description": {
+        "ro": "Descoperă ramenul la Riyo Wok & Sushi, pe Mărășești 12. Consultă meniul actual și rezervarea direct la restaurant.",
+        "en": "Try ramen at Riyo Wok & Sushi on Mărășești 12. Check the current menu and reservations directly with the restaurant.",
+        "it": "Prova il ramen da Riyo Wok & Sushi, in Mărășești 12. Consulta menu e prenotazioni direttamente al ristorante.",
+        "fr": "Goûtez le ramen chez Riyo Wok & Sushi, au 12 Mărășești. Consultez le menu et les réservations directement.",
+        "es": "Prueba ramen en Riyo Wok & Sushi, en Mărășești 12. Consulta el menú actual y las reservas directamente.",
+        "zh-Hans": "在 Mărășești 12 的 Riyo Wok & Sushi 品尝拉面。请直接向餐厅查询最新菜单和订位。"
+      },
+      "identityProvenance": {
+        "type": "userconfirmedidentity",
+        "confirmedAt": "2026-11-13",
+        "originalInventoryName": "Rio — ramen",
+        "confirmedIdentity": "Riyo — ramen"
+      }
+    },
+    "woktagon": {
+      "identityResolved": true,
+      "venue": {
+        "verified": true,
+        "address": "Strada Gheorghe Lazăr 8, Timișoara",
+        "url": "https://www.woktagon.ro/contact",
+        "linkType": "official",
+        "status": "open",
+        "minors": "unknown",
+        "sources": [
+          "https://www.woktagon.ro/contact",
+          "https://www.firmadeaur.ro/company/woktagon-2797250"
+        ],
+        "verifiedAt": "2026-11-13"
+      },
+      "sources": [
+        "https://www.woktagon.ro/contact",
+        "https://www.firmadeaur.ro/company/woktagon-2797250"
+      ],
+      "observedFacts": [
+        "Official indexed contact page explicitly supplies Gheorghe Lazăr 8, phone +40 771 758 517 and weekly hours. Direct retrieval redirects to a Google Sites sign-in; indexed visitor details are therefore distinguished from live retrieval."
+      ],
+      "unresolvedReason": null,
+      "limits": "Exact address from indexed official contact page; direct page retrieval required sign-in, so schedule freshness is limited. No minor policy found."
+    },
+    "pinocchio": {
+      "identityResolved": true,
+      "venue": {
+        "verified": true,
+        "name": "Pinocchio — Piața Unirii",
+        "address": "Piața Unirii, Timișoara",
+        "url": "https://www.clatite-pinochio.ro/contact",
+        "linkType": "official",
+        "status": "open",
+        "minors": "unknown",
+        "sources": [
+          "https://www.clatite-pinochio.ro/contact",
+          "https://www.clatite-pinochio.ro/despre-noi",
+          "https://www.cartogiraffe.com/rom%C3%A2nia/timi%C8%99/timi%C8%99oara/pia%C8%9Ba%2Bunirii/"
+        ],
+        "verifiedAt": "2026-11-13"
+      },
+      "sources": [
+        "https://www.clatite-pinochio.ro/contact",
+        "https://www.clatite-pinochio.ro/despre-noi",
+        "https://www.cartogiraffe.com/rom%C3%A2nia/timi%C8%99/timi%C8%99oara/pia%C8%9Ba%2Bunirii/"
+      ],
+      "observedFacts": [
+        "User confirmed the intended Unirii location, correcting the original Libertății label. Current operator contact page and named embedded map identify La Pinocchio in Piața Unirii, with daily hours. User mentioned number 12, while current map directories list number 2 and operator publishes no number; no unsupported number is asserted."
+      ],
+      "unresolvedReason": null,
+      "limits": "User-confirmed square/operator identity. Address intentionally omits street number: user supplied 12, map listings give 2, official contact omits it. Use operator contact map/phone for exact arrival. No general minor rule inferred.",
+      "name": {
+        "ro": "Pinocchio — Piața Unirii",
+        "en": "Pinocchio — Piața Unirii",
+        "it": "Pinocchio — Piața Unirii",
+        "fr": "Pinocchio — Piața Unirii",
+        "es": "Pinocchio — Piața Unirii",
+        "zh-Hans": "Pinocchio — 联合广场"
+      },
+      "description": {
+        "ro": "La Pinocchio din Piața Unirii servește pizza, paste și clătite. Confirmă masa și meniul actual direct la restaurant.",
+        "en": "La Pinocchio in Piața Unirii serves pizza, pasta and pancakes. Confirm your table and the current menu directly.",
+        "it": "La Pinocchio in Piața Unirii serve pizza, pasta e crêpe. Conferma direttamente tavolo e menu attuale.",
+        "fr": "La Pinocchio, Piața Unirii, sert pizzas, pâtes et crêpes. Confirmez directement votre table et le menu actuel.",
+        "es": "La Pinocchio, en Piața Unirii, sirve pizza, pasta y crepes. Confirma la mesa y el menú actual directamente.",
+        "zh-Hans": "联合广场的 La Pinocchio 提供披萨、意面和可丽饼。请直接确认订位和最新菜单。"
+      },
+      "identityProvenance": {
+        "type": "userconfirmedidentity",
+        "confirmedAt": "2026-11-13",
+        "originalInventoryName": "Pinocchio — Piața Libertății",
+        "confirmedIdentity": "Pinocchio — Piața Unirii",
+        "authorization": "User identified the intended venue."
+      }
+    },
+    "jacks": {
+      "identityResolved": true,
+      "venue": {
+        "verified": true,
+        "address": "Strada Vasile Alecsandri 7, Old Town, Timișoara",
+        "url": "https://jacksbistro.ro/locatii/",
+        "linkType": "official",
+        "status": "open",
+        "minors": "unknown",
+        "name": "Jack’s Bistro — Old Town",
+        "sources": [
+          "https://jacksbistro.ro/locatii/",
+          "https://jacksbistro.ro/contact/",
+          "https://horeo.ro/brand/jack-s-bistro-sifyxjxi"
+        ],
+        "verifiedAt": "2026-11-13"
+      },
+      "sources": [
+        "https://jacksbistro.ro/locatii/",
+        "https://jacksbistro.ro/contact/",
+        "https://horeo.ro/brand/jack-s-bistro-sifyxjxi"
+      ],
+      "observedFacts": [
+        "Official site distinguishes Old Town and VOX, links branch-specific menus/reservations and publishes hours. Operator-branded employer page identifies Old Town at Vasile Alecsandri 7 and VOX at Calea Torontalului 69. Old Town is the explicit representative selection."
+      ],
+      "unresolvedReason": null,
+      "limits": "Old Town selected explicitly; VOX not substituted or collapsed. No published minor policy found."
+    },
+    "napoleon": {
+      "identityResolved": true,
+      "venue": {
+        "verified": true,
+        "address": "Aleea Studenților 5, Timișoara",
+        "url": "https://napoleon.ro/",
+        "linkType": "official",
+        "status": "open",
+        "minors": "unknown",
+        "name": "Napoleon — Complex",
+        "sources": [
+          "https://napoleon.ro/",
+          "https://pizzanapoleon.ro/"
+        ],
+        "verifiedAt": "2026-11-13"
+      },
+      "sources": [
+        "https://napoleon.ro/",
+        "https://pizzanapoleon.ro/"
+      ],
+      "observedFacts": [
+        "Current official ordering/branch locator identifies NAPOLEON COMPLEX at Aleea Studenților 5 and separately lists other branches. Complex is the explicit representative branch."
+      ],
+      "unresolvedReason": null,
+      "limits": "Complex branch selected explicitly from operator locator. Delivery estimate is not a visitor travel time; no minors rule inferred."
+    },
+    "white-pizza": {
+      "identityResolved": true,
+      "venue": {
+        "verified": true,
+        "name": "Why Pizza",
+        "address": "Strada Vasile Alecsandri 2, Timișoara",
+        "url": "https://www.whypizza.ro/",
+        "linkType": "official",
+        "status": "open",
+        "minors": "unknown",
+        "sources": [
+          "https://www.whypizza.ro/",
+          "https://www.whypizza.ro/despre-noi"
+        ],
+        "verifiedAt": "2026-11-13"
+      },
+      "sources": [
+        "https://www.whypizza.ro/",
+        "https://www.whypizza.ro/despre-noi"
+      ],
+      "observedFacts": [
+        "User explicitly confirmed White Pizza means Why Pizza. Official operator gives Vasile Alecsandri 2, daily hours and its pizza al taglio concept."
+      ],
+      "unresolvedReason": null,
+      "limits": "User-confirmed identity; no unrelated white-pizza menu item substituted. Operator describes children and parents among customers but publishes no explicit age/supervision policy; minors remains unknown. Coordinates not surveyed.",
+      "name": {
+        "ro": "Why Pizza",
+        "en": "Why Pizza",
+        "it": "Why Pizza",
+        "fr": "Why Pizza",
+        "es": "Why Pizza",
+        "zh-Hans": "Why Pizza"
+      },
+      "description": {
+        "ro": "Încearcă pizza al taglio, în stil roman, la Why Pizza pe Vasile Alecsandri 2. Consultă oferta actuală direct.",
+        "en": "Try Roman-style pizza al taglio at Why Pizza on Vasile Alecsandri 2. Check the current selection directly.",
+        "it": "Prova la pizza al taglio in stile romano da Why Pizza, in Vasile Alecsandri 2. Consulta l’offerta attuale.",
+        "fr": "Goûtez la pizza romaine al taglio chez Why Pizza, au 2 Vasile Alecsandri. Consultez la sélection du jour.",
+        "es": "Prueba pizza al taglio de estilo romano en Why Pizza, en Vasile Alecsandri 2. Consulta la oferta actual.",
+        "zh-Hans": "在 Vasile Alecsandri 2 的 Why Pizza 品尝罗马风格的切块披萨。请查询当天供应。"
+      },
+      "identityProvenance": {
+        "type": "userconfirmedidentity",
+        "confirmedAt": "2026-11-13",
+        "originalInventoryName": "White Pizza",
+        "confirmedIdentity": "Why Pizza"
+      }
+    },
+    "dei-frati": {
+      "identityResolved": true,
+      "venue": {
+        "verified": true,
+        "address": "Strada Vasile Alecsandri 3, Timișoara",
+        "url": "https://www.deifratitm.ro/",
+        "linkType": "official",
+        "status": "open",
+        "minors": "unknown",
+        "sources": [
+          "https://www.deifratitm.ro/",
+          "https://www.timisoara-info.ro/infocentru/alimentatie",
+          "https://bookingham.ro/timisoara/restaurante/dei-frati-timisoara/2594"
+        ],
+        "verifiedAt": "2026-11-13"
+      },
+      "sources": [
+        "https://www.deifratitm.ro/",
+        "https://www.timisoara-info.ro/infocentru/alimentatie",
+        "https://bookingham.ro/timisoara/restaurante/dei-frati-timisoara/2594"
+      ],
+      "observedFacts": [
+        "Operator website identifies Dei Frati Timișoara and table reservations. Municipal tourism directory and booking partner independently agree on Vasile Alecsandri 3. Operator footer has placeholder phone 0256 123 456, which must not be propagated."
+      ],
+      "unresolvedReason": null,
+      "limits": "Timișoara branch, not Brașov. Placeholder phone from operator site explicitly rejected. No minor-specific admission rule inferred."
+    },
+    "el-maguey": {
+      "identityResolved": true,
+      "venue": {
+        "verified": true,
+        "address": "Strada Eugeniu de Savoya 18, Timișoara",
+        "url": "https://elmaguey.ro/timisoara/",
+        "linkType": "official",
+        "status": "open",
+        "minors": "unknown",
+        "sources": [
+          "https://elmaguey.ro/timisoara/",
+          "https://www.timisoara-info.ro/infocentru/alimentatie",
+          "https://bookingham.ro/timisoara/restaurante/el-maguey/1715"
+        ],
+        "verifiedAt": "2026-11-13"
+      },
+      "sources": [
+        "https://elmaguey.ro/timisoara/",
+        "https://www.timisoara-info.ro/infocentru/alimentatie",
+        "https://bookingham.ro/timisoara/restaurante/el-maguey/1715"
+      ],
+      "observedFacts": [
+        "Official operator has distinct Timișoara/București pages, restaurant description, number +40 723 436 780 and embedded named-venue map. Tourism directory and booking partner agree on Savoya 18."
+      ],
+      "unresolvedReason": null,
+      "limits": "Published visitor information, not a live opening guarantee. No general admission rule for minors inferred. Coordinates omitted where no exact venue point was verified."
+    },
+    "beraria": {
+      "identityResolved": true,
+      "venue": {
+        "verified": true,
+        "name": "Berăria 700",
+        "address": "Piața 700, Timișoara",
+        "url": "https://www.beraria700.ro/Rezervari.html",
+        "linkType": "official",
+        "status": "open",
+        "minors": "unknown",
+        "sources": [
+          "https://www.beraria700.ro/Rezervari.html",
+          "https://www.beraria700.ro/info/78/Despre-noi.html"
+        ],
+        "verifiedAt": "2026-11-13"
+      },
+      "sources": [
+        "https://www.beraria700.ro/Rezervari.html",
+        "https://www.beraria700.ro/info/78/Despre-noi.html"
+      ],
+      "observedFacts": [
+        "User explicitly identified Berăria as Berăria 700. Operator publishes Piața 700, daily hours and direct table reservations. Berăria Bastion and Curtea Berarilor are not substituted."
+      ],
+      "unresolvedReason": null,
+      "limits": "User-confirmed exact operator. Official visitor address is Piața 700; no survey-grade entrance point or general minor admission policy established.",
+      "name": {
+        "ro": "Berăria 700",
+        "en": "Berăria 700",
+        "it": "Berăria 700",
+        "fr": "Berăria 700",
+        "es": "Berăria 700",
+        "zh-Hans": "Berăria 700"
+      },
+      "description": {
+        "ro": "Descoperă bucătăria românească la Berăria 700, în Piața 700. Consultă meniul și rezervă masa direct la restaurant.",
+        "en": "Explore Romanian cooking at Berăria 700 in Piața 700. Check the menu and reserve directly with the restaurant.",
+        "it": "Scopri la cucina romena da Berăria 700, in Piața 700. Consulta il menu e prenota direttamente.",
+        "fr": "Découvrez la cuisine roumaine chez Berăria 700, Piața 700. Consultez le menu et réservez directement.",
+        "es": "Descubre la cocina rumana en Berăria 700, en Piața 700. Consulta el menú y reserva directamente.",
+        "zh-Hans": "在 Piața 700 的 Berăria 700 品尝罗马尼亚菜。请直接向餐厅查询菜单和订位。"
+      },
+      "identityProvenance": {
+        "type": "userconfirmedidentity",
+        "confirmedAt": "2026-11-13",
+        "originalInventoryName": "Berăria",
+        "confirmedIdentity": "Berăria 700",
+        "authorization": "User identified the intended venue."
+      }
+    },
+    "zone-2": {
+      "identityResolved": true,
+      "venue": {
+        "verified": true,
+        "address": "Calea Urseni 16, Giroc, Timiș",
+        "url": "https://www.zonecafe.ro/",
+        "linkType": "official",
+        "status": "open",
+        "minors": "unknown",
+        "sources": [
+          "https://www.zonecafe.ro/",
+          "https://www.smart-menu.ro/zone2",
+          "https://bookingham.ro/timisoara/restaurante/restaurant-zone-2-timisoara/2874",
+          "https://www.google.com/maps/search/?api=1&query=Restaurant+ZONE+2&query_place_id=ChIJM9S7ItFfRUcR-8HwkDV8k_c"
+        ],
+        "verifiedAt": "2026-11-13"
+      },
+      "sources": [
+        "https://www.zonecafe.ro/",
+        "https://www.smart-menu.ro/zone2",
+        "https://bookingham.ro/timisoara/restaurante/restaurant-zone-2-timisoara/2874",
+        "https://www.google.com/maps/search/?api=1&query=Restaurant+ZONE+2&query_place_id=ChIJM9S7ItFfRUcR-8HwkDV8k_c"
+      ],
+      "observedFacts": [
+        "Official ZONE 1 & ZONE2 website links a branch-specific smart-menu.ro/zone2 reservation route. Booking partner identifies Restaurant ZONE2 at Calea Urseni 16 and exact Google Maps place ID. Website’s Uranus 29 delivery address belongs to the shared ordering operation and is not substituted for ZONE2."
+      ],
+      "unresolvedReason": null,
+      "limits": "Exact ZONE2 branch matched through operator-linked booking route and named Google Maps place ID. Shared delivery footer at Uranus 29 intentionally not used."
+    },
+    "herneacova": {
+      "identityResolved": true,
+      "venue": {
+        "verified": true,
+        "address": "Domeniul Herneacova, Herneacova, Timiș",
+        "url": "https://herneacova.ro/",
+        "linkType": "official",
+        "status": "unknown",
+        "minors": "unknown",
+        "sources": [
+          "https://herneacova.ro/",
+          "https://visit-timis.ro/domeniul-herneacova",
+          "https://visit-timis.ro/parcul-de-aventura-herneacova"
+        ],
+        "verifiedAt": "2026-11-13"
+      },
+      "sources": [
+        "https://herneacova.ro/",
+        "https://visit-timis.ro/domeniul-herneacova",
+        "https://visit-timis.ro/parcul-de-aventura-herneacova"
+      ],
+      "observedFacts": [
+        "Current operator page is “Coming Soon”, exposing only reservations email and phone +40 740 235 989. County visitor pages establish the estate but do not resolve current November activity access."
+      ],
+      "unresolvedReason": null,
+      "limits": "Checked again; current operating state genuinely unresolved. Website maintenance cannot establish closure. Neither general minor eligibility nor any specific attraction rule asserted."
+    },
+    "liziera": {
+      "identityResolved": true,
+      "venue": {
+        "verified": true,
+        "address": "Pădurea Bistra, lângă Ghiroda, Timiș",
+        "url": "https://liziera.com/",
+        "linkType": "official",
+        "status": "unknown",
+        "minors": "yes",
+        "sources": [
+          "https://liziera.com/"
+        ],
+        "verifiedAt": "2026-11-13"
+      },
+      "sources": [
+        "https://liziera.com/"
+      ],
+      "observedFacts": [
+        "Operator explicitly offers activities for all ages, a children’s playground, school celebrations and children’s birthdays. No dated November schedule/open-season notice found."
+      ],
+      "unresolvedReason": null,
+      "limits": "Child/family access to general grounds is operator-published; separate attraction restrictions still apply. November seasonal operation and exact entrance remain unconfirmed."
+    },
+    "bega-boat": {
+      "identityResolved": true,
+      "venue": {
+        "verified": true,
+        "address": "Canalul Bega, stațiile STPT din Timișoara",
+        "url": "https://stpt.ro/",
+        "linkType": "official",
+        "status": "closed",
+        "minors": "unknown",
+        "sources": [
+          "https://stpt.ro/vaporasele-stpt-isi-incheie-sezonul-de-navigatie-pe-canalul-bega/"
+        ],
+        "verifiedAt": "2026-11-13"
+      },
+      "sources": [
+        "https://stpt.ro/vaporasele-stpt-isi-incheie-sezonul-de-navigatie-pe-canalul-bega/"
+      ],
+      "observedFacts": [
+        "Official STPT notice dated 22 October 2026 says Friday 23 October was the last sailing day and boats stop from 24 October 2026."
+      ],
+      "unresolvedReason": null,
+      "limits": "Closed for the 2026 navigation season as of 13 November; not permanent closure. Operator plans return in spring 2027; exact reopening date not announced.",
+      "description": {
+        "ro": "Sezonul STPT de navigație pe Bega s-a încheiat pe 23 octombrie 2026. Verifică anunțul de reluare înainte de a planifica îmbarcarea.",
+        "en": "The STPT Bega navigation season ended on 23 October 2026. Check for a reopening announcement before planning to board.",
+        "it": "La stagione STPT sul Bega è terminata il 23 ottobre 2026. Verifica l’annuncio di ripresa prima di pianificare l’imbarco.",
+        "fr": "La saison STPT sur la Bega s’est achevée le 23 octobre 2026. Vérifiez l’annonce de reprise avant de prévoir l’embarquement.",
+        "es": "La temporada de STPT en el Bega terminó el 23 de octubre de 2026. Consulta el anuncio de reapertura antes de embarcar.",
+        "zh-Hans": "STPT 的 Bega 河航季已于 2026 年 10 月 23 日结束。计划乘船前请查看恢复运营公告。"
+      }
+    },
+    "flonta": {
+      "identityResolved": true,
+      "venue": {
+        "verified": true,
+        "address": "Complex Flonta, Giroc, Timiș",
+        "url": "https://complex-flonta.ro/descopera/restaurantul/",
+        "linkType": "official",
+        "status": "unknown",
+        "minors": "unknown",
+        "sources": [
+          "https://complex-flonta.ro/descopera/restaurantul/"
+        ],
+        "verifiedAt": "2026-11-13"
+      },
+      "sources": [
+        "https://complex-flonta.ro/descopera/restaurantul/"
+      ],
+      "observedFacts": [
+        "Operator still describes its à-la-carte restaurant as running from spring to autumn. This does not establish November walk-in availability."
+      ],
+      "unresolvedReason": null,
+      "limits": "Seasonal access remains genuinely unresolved; events/catering or booking forms do not prove November restaurant opening. No specific entrance/minor policy confirmed."
+    },
+    "muzeul-comunismului": {
+      "identityResolved": true,
+      "venue": {
+        "verified": true,
+        "address": "Strada Arhitect László Székely 1, Timișoara",
+        "url": "https://www.facebook.com/muzeuconsumatorcomunist/",
+        "linkType": "official",
+        "status": "open",
+        "minors": "unknown",
+        "sources": [
+          "https://visit-timisoara.com/ro/muzee/",
+          "https://romaniatourism.com/timisoara.html"
+        ],
+        "verifiedAt": "2026-11-13"
+      },
+      "sources": [
+        "https://visit-timisoara.com/ro/muzee/",
+        "https://romaniatourism.com/timisoara.html"
+      ],
+      "observedFacts": [
+        "Official city tourism museum directory currently lists the museum at Székely 1 with operator contact; national tourism visitor page publishes regular opening hours/free admission."
+      ],
+      "unresolvedReason": null,
+      "limits": "Visitor information supports normal operation; individual same-day opening remains subject to operator. No child age/supervision policy on primary institution pages, so minors remains unknown."
+    }
+  },
+  "unresolvedOperatingStatusIDs": [
+    "grumi",
+    "paradisul-piratilor",
+    "bike-serbia",
+    "plaja-noua",
+    "no-name",
+    "darc-mal",
+    "atelier-experience",
+    "escape-venue",
+    "herneacova",
+    "liziera",
+    "flonta"
+  ],
+  "candidateCorrectionsNotApplied": {},
+  "coordinateResearch": "Exact Google Maps place IDs matched bowling and ZONE2; other published points were viewport centers or directory coordinates, so no new lat/lon asserted. OSM Overpass main endpoint failed TLS; two public mirrors timed out. These failures are not converted into fabricated coordinates.",
+  "identityCorrectionsApplied": {
+    "type": "userconfirmedidentity",
+    "confirmedAt": "2026-11-13",
+    "IDs": [
+      "grumi",
+      "vineri-13",
+      "rio",
+      "white-pizza",
+      "pinocchio",
+      "beraria"
+    ],
+    "note": "User explicitly confirmed all four intended name corrections; stable activity IDs retained."
+  },
+  "suggestedOperatorsApplied": {
+    "type": "usersuggestionauthorized",
+    "confirmedAt": "2026-11-13",
+    "IDs": [
+      "paintball",
+      "pet-yoga"
+    ],
+    "note": "User expressly permitted choosing verified local suggestions because original operators were unknown."
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "version": "0.2.0",
+  "date": "2026-11-13",
+  "stage": "verified release",
+  "productionFiles": 136,
+  "unitTestsPassed": 54,
+  "browserTestsPassed": 18,
+  "focusedEnginesPassed": [
+    "Chromium",
+    "Firefox",
+    "WebKit"
+  ],
+  "audioFiles": 42,
+  "archiveChecks": {
+    "crc": "passed for compact and source",
+    "extractedCompactProductionFilesMatchingSHA256": 136,
+    "extractedSourceProductionFilesMatchingSHA256": 136,
+    "extractedSourceCodeFilesMatchingSHA256": 20,
+    "macLauncherExecutableFlag": true
+  },
+  "serverChecks": [
+    {
+      "name": "Node",
+      "extractedCompact": true,
+      "productionResourcesHTTP200MatchingSHA256": 136,
+      "ranges206": true,
+      "invalidRange416": true,
+      "head200": true,
+      "roPlayback": true,
+      "pausedEnglishSemanticResume": true,
+      "errors": [],
+      "httpFailures": [],
+      "externalRequests": []
+    },
+    {
+      "name": "Python",
+      "extractedCompact": true,
+      "productionResourcesHTTP200MatchingSHA256": 136,
+      "ranges206": true,
+      "invalidRange416": true,
+      "head200": true,
+      "roPlayback": true,
+      "pausedEnglishSemanticResume": true,
+      "errors": [],
+      "httpFailures": [],
+      "externalRequests": []
+    }
+  ],
+  "compactArchive": "Timisoara-local-v0.2.zip",
+  "sourceArchive": "Timisoara-surse-v0.2.zip",
+  "externalFinalManifest": "../Timisoara-v0.2-verification.json",
+  "localDeployment": "http://localhost:8000/",
+  "limits": [
+    "Physical Windows launcher not executed",
+    "Native speaker audio signoff pending",
+    "63 photo permissions/images pending",
+    "Paradisul Piraților identity unresolved"
+  ],
+  "hashPolicy": "Final ZIP byte hashes are outside archives to avoid self-reference; extraction is checked again after final report packaging."
+}

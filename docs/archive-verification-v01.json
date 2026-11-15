@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-13",
+  "compactArchive": {
+    "name": "Timisoara-local-v0.1.zip",
+    "sha256": "5e5b55f062ace7125b26a59f31e021a9c27accbc1c56f4cb221309793f7d1dcd",
+    "crc": "passed",
+    "extractedProductionFilesMatchingSHA256": 44,
+    "macLauncherExecutableFlag": true
+  },
+  "browserCheck": {
+    "pythonExtractedServer": true,
+    "historyCount": 6,
+    "museumCanvas": true,
+    "localDeliveryHTTP": 200,
+    "failures": [],
+    "errors": [],
+    "externalRequestsBeforeFinalURL": []
+  },
+  "localDeployment": "http://localhost:8000/",
+  "limits": [
+    "Windows launcher supplied but not run on a physical Windows system",
+    "Python extraction and HTTP serving tested on this Mac",
+    "Physical internet disconnection not performed; no runtime outbound requests observed"
+  ]
+}

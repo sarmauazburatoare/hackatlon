@@ -1,0 +1,912 @@
+{
+  "checkedAt": "2026-11-13",
+  "scope": [
+    "adventure",
+    "kids",
+    "nature",
+    "relax"
+  ],
+  "counts": {
+    "uniqueActivities": 35,
+    "existingLicensedRetained": 7,
+    "missingAtStart": 28,
+    "newLicensedSelected": 1,
+    "unresolved": 27
+  },
+  "policy": "Only exact authenticated venue/site photography with commercial-compatible license or explicit redistribution permission is selected. Publication, press-release credit, institutional authorship and search license filters alone do not supply a rights grant. Operator candidates stay outside public assets.",
+  "selected": {
+    "parcul-castelului": {
+      "photo": {
+        "path": "/media/photos-v02/parcul-castelului.webp",
+        "author": "Vacant0",
+        "source": "https://commons.wikimedia.org/wiki/File:Huniade_Castle,_Timi%C8%99oara,_August_2022.jpg",
+        "license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0",
+        "alt": {
+          "ro": "Alee și gazon în Scuarul Castelului, lângă Castelul Huniade.",
+          "en": "Path and lawn in Castle Park beside Huniade Castle.",
+          "it": "Sentiero e prato del Parco del Castello accanto al Castello Huniade.",
+          "fr": "Allée et pelouse du parc du Château, à côté du château Huniade.",
+          "es": "Sendero y césped del Parque del Castillo, junto al castillo Huniade.",
+          "zh-Hans": "匈雅提城堡旁城堡公园内的小径与草坪。"
+        }
+      },
+      "evidence": {
+        "checkedAt": "2026-11-13",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Huniade_Castle,_Timi%C8%99oara,_August_2022.jpg",
+        "original": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Huniade_Castle%2C_Timi%C8%99oara%2C_August_2022.jpg",
+        "photographer": "Vacant0",
+        "capturedAt": "2022-08-27",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "commonsRevision": "https://commons.wikimedia.org/w/index.php?title=File:Huniade_Castle,_Timi%C8%99oara,_August_2022.jpg&oldid=992530150",
+        "siteIdentitySources": [
+          "https://hcl.usr.ro/timisoara/2007/h493",
+          "https://hcl.usr.ro/timisoara/2015/h533",
+          "https://www.mypacer.com/parks/198662/parcul-castelului-timisoara"
+        ],
+        "siteIdentity": "Municipal naming records place Scuarul Castelului around Huniade Castle. The selected photograph visibly shows the path and lawn immediately beside that castle. Caption explicitly describes this exterior context, not an interior or another park.",
+        "visualInspection": "Original/960px preview and final WebP inspected. Exact castle exterior and adjacent park lawn/path; no generated content. Small background monument is incidental.",
+        "transformation": "Resized 4032×3024 original to 1440×1080, converted to WebP quality85; no crop or retouch. Transformation notice and original CC BY-SA4.0 license must accompany distribution.",
+        "width": 1440,
+        "height": 1080,
+        "bytes": 389564,
+        "sha256": "21fef07230faf48249380ced2294286e7bb10f528a132be801702892cb885b99"
+      },
+      "confidence": "high"
+    }
+  },
+  "unresolved": {
+    "beat-seven": {
+      "status": "permission-pending",
+      "checkedAt": "2026-11-13",
+      "checkedUrls": [
+        "https://beatse7en.com/",
+        "https://www.flickr.com/search/?text=Beat+Se7en+Timisoara&license=4%2C5%2C9%2C10%2C11%2C12",
+        "https://commons.wikimedia.org/w/index.php?search=Beat+Se7en+Timisoara&title=Special%3AMediaSearch&type=image",
+        "https://api.openverse.org/v1/images/?q=Beat+Se7en&license_type=commercial&page_size=20"
+      ],
+      "reason": "Operator/institution page researched; no explicit license or permission allowing commercial redistribution of exact venue/site photographs found. Commons and commercially licensed Flickr searches did not yield a verified exact photo. Image publication alone is not permission.",
+      "operatorChecks": [
+        {
+          "url": "https://beatse7en.com/",
+          "status": null,
+          "error": "<urlopen error timed out>"
+        }
+      ],
+      "commonsQuery": "Beat Se7en Timisoara",
+      "commonsCandidateTitles": [],
+      "commonsError": null,
+      "flickrCommercialSearch": {
+        "query": "Beat Se7en Timisoara",
+        "total": 0,
+        "error": null
+      },
+      "permissionPendingCandidates": []
+    },
+    "hype": {
+      "status": "permission-pending",
+      "checkedAt": "2026-11-13",
+      "checkedUrls": [
+        "https://hypeplay.ro/hype-timisoara/contact/",
+        "https://www.flickr.com/search/?text=Hype+Play+by+Kiddo+Timisoara&license=4%2C5%2C9%2C10%2C11%2C12",
+        "https://commons.wikimedia.org/w/index.php?search=Hype+Play+by+Kiddo+Timisoara&title=Special%3AMediaSearch&type=image"
+      ],
+      "reason": "Operator/institution page researched; no explicit license or permission allowing commercial redistribution of exact venue/site photographs found. Commons and commercially licensed Flickr searches did not yield a verified exact photo. Image publication alone is not permission.",
+      "operatorChecks": [
+        {
+          "url": "https://hypeplay.ro/hype-timisoara/contact/",
+          "status": 200,
+          "error": null
+        }
+      ],
+      "commonsQuery": "Hype Play by Kiddo Timisoara",
+      "commonsCandidateTitles": [],
+      "commonsError": "HTTP Error 429: Too Many Requests",
+      "flickrCommercialSearch": {
+        "query": "Hype Play by Kiddo Timisoara",
+        "total": 0,
+        "error": null
+      },
+      "permissionPendingCandidates": [
+        {
+          "sourcePage": "https://hypeplay.ro/hype-timisoara/contact/",
+          "imageUrl": "https://hypeplay.ro/wp-content/uploads/2026/05/Pin-Romexpo.png",
+          "licenseStatus": "permission-pending",
+          "author": "not established",
+          "note": "Unlicensed candidate URL only; not downloaded into public assets. Exact branch/subject must be confirmed before any permission-based use."
+        }
+      ]
+    },
+    "skydiving": {
+      "status": "permission-pending",
+      "checkedAt": "2026-11-13",
+      "checkedUrls": [
+        "https://www.flickr.com/search/?text=Skydiving+Simulator+Timisoara&license=4%2C5%2C9%2C10%2C11%2C12",
+        "https://commons.wikimedia.org/w/index.php?search=Skydiving+Simulator+Timisoara&title=Special%3AMediaSearch&type=image",
+        "https://zerogravitycenter.ro/",
+        "https://cdn.romania-insider.com/business/romanias-first-indoor-skydiving-simulator-opens-near-timisoara"
+      ],
+      "reason": "Zero Gravity Center identified as likely exact operator in Ghiroda. Official site has all-rights-reserved footer. Press-release credit on a news photograph does not grant guide/ZIP redistribution permission.",
+      "operatorChecks": [],
+      "commonsQuery": "Skydiving Simulator Timisoara",
+      "commonsCandidateTitles": [],
+      "commonsError": "HTTP Error 429: Too Many Requests",
+      "flickrCommercialSearch": {
+        "query": "Skydiving Simulator Timisoara",
+        "total": 0,
+        "error": null
+      },
+      "permissionPendingCandidates": []
+    },
+    "bowling": {
+      "status": "permission-pending",
+      "checkedAt": "2026-11-13",
+      "checkedUrls": [
+        "https://www.flickr.com/search/?text=Bowling+Gentlemen%E2%80%99s+Social+Club+Timisoara&license=4%2C5%2C9%2C10%2C11%2C12",
+        "https://commons.wikimedia.org/w/index.php?search=Bowling+%E2%80%94+Gentlemen%E2%80%99s+Social+Club+Timisoara&title=Special%3AMediaSearch&type=image",
+        "https://cuescore.com/gentlemenssocialclub",
+        "https://untappd.com/v/gentlemen-s-social-club/14051370"
+      ],
+      "reason": "Matching club found, but no operator-issued commercial image reuse grant or independently licensed exact bowling venue photograph found. Do not substitute a different bowling club.",
+      "operatorChecks": [],
+      "commonsQuery": "Bowling — Gentlemen’s Social Club Timisoara",
+      "commonsCandidateTitles": [],
+      "commonsError": "HTTP Error 429: Too Many Requests",
+      "flickrCommercialSearch": {
+        "query": "Bowling Gentlemen’s Social Club Timisoara",
+        "total": 0,
+        "error": null
+      },
+      "permissionPendingCandidates": []
+    },
+    "rolers": {
+      "status": "permission-pending",
+      "checkedAt": "2026-11-13",
+      "checkedUrls": [
+        "https://rollerdreams.ro/contact/",
+        "https://www.flickr.com/search/?text=Rolers+Dreams+Timisoara&license=4%2C5%2C9%2C10%2C11%2C12",
+        "https://commons.wikimedia.org/w/index.php?search=Rolers+Dreams+Timisoara&title=Special%3AMediaSearch&type=image"
+      ],
+      "reason": "Operator/institution page researched; no explicit license or permission allowing commercial redistribution of exact venue/site photographs found. Commons and commercially licensed Flickr searches did not yield a verified exact photo. Image publication alone is not permission.",
+      "operatorChecks": [
+        {
+          "url": "https://rollerdreams.ro/contact/",
+          "status": 200,
+          "error": null
+        }
+      ],
+      "commonsQuery": "Rolers Dreams Timisoara",
+      "commonsCandidateTitles": [
+        "File:ConcertCSDTimisoara.jpg",
+        "File:OJ C 202505035 of 2025 - FI Finnish.pdf",
+        "File:OJ C 202505035 of 2025 - SK Slovak.pdf",
+        "File:OJ C 202505035 of 2025 - ES Spanish.pdf",
+        "File:OJ C 202505035 of 2025 - HU Hungarian.pdf"
+      ],
+      "commonsError": null,
+      "flickrCommercialSearch": {
+        "query": "Rolers Dreams Timisoara",
+        "total": 0,
+        "error": null
+      },
+      "permissionPendingCandidates": [
+        {
+          "sourcePage": "https://rollerdreams.ro/contact/",
+          "imageUrl": "https://rollerdreams.ro/wp-content/uploads/2024/09/4101.jpg",
+          "licenseStatus": "permission-pending",
+          "author": "not established",
+          "note": "Unlicensed candidate URL only; not downloaded into public assets. Exact branch/subject must be confirmed before any permission-based use."
+        }
+      ]
+    },
+    "animus": {
+      "status": "permission-pending",
+      "checkedAt": "2026-11-13",
+      "checkedUrls": [
+        "https://animusarena.ro/en/what-is-animus",
+        "https://www.flickr.com/search/?text=Animus+Floor+Is+Lava+Timisoara&license=4%2C5%2C9%2C10%2C11%2C12",
+        "https://commons.wikimedia.org/w/index.php?search=Animus+Floor+Is+Lava+Timisoara&title=Special%3AMediaSearch&type=image"
+      ],
+      "reason": "Operator/institution page researched; no explicit license or permission allowing commercial redistribution of exact venue/site photographs found. Commons and commercially licensed Flickr searches did not yield a verified exact photo. Image publication alone is not permission.",
+      "operatorChecks": [
+        {
+          "url": "https://animusarena.ro/en/what-is-animus",
+          "status": 200,
+          "error": null
+        }
+      ],
+      "commonsQuery": "Animus Floor Is Lava Timisoara",
+      "commonsCandidateTitles": [],
+      "commonsError": null,
+      "flickrCommercialSearch": {
+        "query": "Animus Floor Is Lava Timisoara",
+        "total": 0,
+        "error": null
+      },
+      "permissionPendingCandidates": []
+    },
+    "red-motor": {
+      "status": "permission-pending",
+      "checkedAt": "2026-11-13",
+      "checkedUrls": [
+        "https://www.redmotor.ro/",
+        "https://www.flickr.com/search/?text=Red+Motor+Timisoara&license=4%2C5%2C9%2C10%2C11%2C12",
+        "https://commons.wikimedia.org/w/index.php?search=Red+Motor+Timisoara&title=Special%3AMediaSearch&type=image"
+      ],
+      "reason": "Operator/institution page researched; no explicit license or permission allowing commercial redistribution of exact venue/site photographs found. Commons and commercially licensed Flickr searches did not yield a verified exact photo. Image publication alone is not permission.",
+      "operatorChecks": [
+        {
+          "url": "https://www.redmotor.ro/",
+          "status": 200,
+          "error": null
+        }
+      ],
+      "commonsQuery": "Red Motor Timisoara",
+      "commonsCandidateTitles": [
+        "File:OJ C 202404047 of 2024 - SL Slovenian.pdf",
+        "File:OJ C 202404047 of 2024 - HR Croatian.pdf",
+        "File:Monitorul Oficial al României. Partea a 2-a 1944-06-17, nr. 139.pdf",
+        "File:Monitorul Oficial al României. Partea a 2-a 1946-09-22, nr. 220.pdf",
+        "File:Monitorul Oficial al României. Partea a 2-a 1949-01-12, nr. 009.pdf"
+      ],
+      "commonsError": null,
+      "flickrCommercialSearch": {
+        "query": "Red Motor Timisoara",
+        "total": 0,
+        "error": null
+      },
+      "permissionPendingCandidates": [
+        {
+          "sourcePage": "https://www.redmotor.ro/",
+          "imageUrl": "https://www.redmotor.ro/img/redmotor-curs-pilotaj-480.jpeg",
+          "licenseStatus": "permission-pending",
+          "author": "not established",
+          "note": "Unlicensed candidate URL only; not downloaded into public assets. Exact branch/subject must be confirmed before any permission-based use."
+        }
+      ]
+    },
+    "arcade": {
+      "status": "permission-pending",
+      "checkedAt": "2026-11-13",
+      "checkedUrls": [
+        "https://www.flickr.com/search/?text=Arcade+Iulius+Mall+Timisoara&license=4%2C5%2C9%2C10%2C11%2C12",
+        "https://commons.wikimedia.org/w/index.php?search=Arcade+Iulius+Mall+Timisoara&title=Special%3AMediaSearch&type=image",
+        "https://energy-games.ro/locatie/timisoara-iulius-town/",
+        "https://iuliustown.ro/ro/entertainment"
+      ],
+      "reason": "Official Energy Games and mall pages identify the Iulius Town arcade. Gallery includes images across multiple locations and bears operator copyright; no commercial redistribution license found. Branch-specific permission needed.",
+      "operatorChecks": [],
+      "commonsQuery": "Arcade Iulius Mall Timisoara",
+      "commonsCandidateTitles": [],
+      "commonsError": null,
+      "flickrCommercialSearch": {
+        "query": "Arcade Iulius Mall Timisoara",
+        "total": 0,
+        "error": null
+      },
+      "permissionPendingCandidates": []
+    },
+    "amazonia": {
+      "status": "permission-pending",
+      "checkedAt": "2026-11-13",
+      "checkedUrls": [
+        "https://www.amazonia.ro/bilete/",
+        "https://www.amazonia.ro/regulament-intern/",
+        "https://www.flickr.com/search/?text=Amazonia+Timisoara&license=4%2C5%2C9%2C10%2C11%2C12",
+        "https://commons.wikimedia.org/w/index.php?search=Amazonia+Timisoara&title=Special%3AMediaSearch&type=image",
+        "https://api.openverse.org/v1/images/?q=Amazonia+Timisoara&license_type=commercial&page_size=20"
+      ],
+      "reason": "Operator/institution page researched; no explicit license or permission allowing commercial redistribution of exact venue/site photographs found. Commons and commercially licensed Flickr searches did not yield a verified exact photo. Image publication alone is not permission.",
+      "operatorChecks": [
+        {
+          "url": "https://www.amazonia.ro/bilete/",
+          "status": 200,
+          "error": null
+        },
+        {
+          "url": "https://www.amazonia.ro/regulament-intern/",
+          "status": 200,
+          "error": null
+        }
+      ],
+      "commonsQuery": "Amazonia Timisoara",
+      "commonsCandidateTitles": [],
+      "commonsError": null,
+      "flickrCommercialSearch": {
+        "query": "Amazonia Timisoara",
+        "total": 0,
+        "error": null
+      },
+      "permissionPendingCandidates": [
+        {
+          "sourcePage": "https://www.amazonia.ro/bilete/",
+          "imageUrl": "https://www.amazonia.ro/wp-content/uploads/icons8-close-50.png",
+          "licenseStatus": "permission-pending",
+          "author": "not established",
+          "note": "Unlicensed candidate URL only; not downloaded into public assets. Exact branch/subject must be confirmed before any permission-based use."
+        },
+        {
+          "sourcePage": "https://www.amazonia.ro/regulament-intern/",
+          "imageUrl": "https://www.amazonia.ro/wp-content/uploads/Group-4814_2x-min.webp",
+          "licenseStatus": "permission-pending",
+          "author": "not established",
+          "note": "Unlicensed candidate URL only; not downloaded into public assets. Exact branch/subject must be confirmed before any permission-based use."
+        }
+      ]
+    },
+    "exitgames": {
+      "status": "permission-pending",
+      "checkedAt": "2026-11-13",
+      "checkedUrls": [
+        "https://exitgames.ro/public/ro",
+        "https://www.flickr.com/search/?text=Exitgames+Timisoara&license=4%2C5%2C9%2C10%2C11%2C12",
+        "https://commons.wikimedia.org/w/index.php?search=Exitgames+Timisoara&title=Special%3AMediaSearch&type=image"
+      ],
+      "reason": "Operator/institution page researched; no explicit license or permission allowing commercial redistribution of exact venue/site photographs found. Commons and commercially licensed Flickr searches did not yield a verified exact photo. Image publication alone is not permission.",
+      "operatorChecks": [
+        {
+          "url": "https://exitgames.ro/public/ro",
+          "status": null,
+          "error": "HTTP Error 403: Forbidden"
+        }
+      ],
+      "commonsQuery": "Exitgames Timisoara",
+      "commonsCandidateTitles": [],
+      "commonsError": "HTTP Error 429: Too Many Requests",
+      "flickrCommercialSearch": {
+        "query": "Exitgames Timisoara",
+        "total": 0,
+        "error": null
+      },
+      "permissionPendingCandidates": []
+    },
+    "samantha": {
+      "status": "permission-pending",
+      "checkedAt": "2026-11-13",
+      "checkedUrls": [
+        "https://www.flickr.com/search/?text=Samantha%E2%80%99s+House+Timisoara&license=4%2C5%2C9%2C10%2C11%2C12",
+        "https://commons.wikimedia.org/w/index.php?search=Samantha%E2%80%99s+House+Timisoara&title=Special%3AMediaSearch&type=image",
+        "https://linktr.ee/samanthasescapehouse",
+        "https://timisoara.cylex.ro/firma/samantha%27s%2Bescape%2Bhouse-1265881.html"
+      ],
+      "reason": "Official Linktree/social identity found. No image reuse grant found; third-party venue listings disagree on address, so neither listing photographs nor generic escape-room photos accepted.",
+      "operatorChecks": [],
+      "commonsQuery": "Samantha’s House Timisoara",
+      "commonsCandidateTitles": [],
+      "commonsError": "HTTP Error 429: Too Many Requests",
+      "flickrCommercialSearch": {
+        "query": "Samantha’s House Timisoara",
+        "total": 0,
+        "error": null
+      },
+      "permissionPendingCandidates": []
+    },
+    "grumi": {
+      "status": "exact-identity-or-license-unresolved",
+      "checkedAt": "2026-11-13",
+      "checkedUrls": [
+        "https://www.flickr.com/search/?text=Ol%C4%83rit+Grumi+Timisoara&license=4%2C5%2C9%2C10%2C11%2C12",
+        "https://commons.wikimedia.org/w/index.php?search=Ol%C4%83rit+%E2%80%94+Grumi+Timisoara&title=Special%3AMediaSearch&type=image"
+      ],
+      "reason": "Exact pottery operator was not identified reliably by name, including spelling and diacritic variants. Commons/Flickr searches did not return exact licensed venue media; no workshop substitute accepted.",
+      "operatorChecks": [],
+      "commonsQuery": "Olărit — Grumi Timisoara",
+      "commonsCandidateTitles": [],
+      "commonsError": "HTTP Error 429: Too Many Requests",
+      "flickrCommercialSearch": {
+        "query": "Olărit Grumi Timisoara",
+        "total": 0,
+        "error": null
+      },
+      "permissionPendingCandidates": []
+    },
+    "megazone": {
+      "status": "permission-pending",
+      "checkedAt": "2026-11-13",
+      "checkedUrls": [
+        "https://www.megazonetimisoara.ro/megazone-2",
+        "https://www.flickr.com/search/?text=Megazone+Laser+Tag+Timisoara&license=4%2C5%2C9%2C10%2C11%2C12",
+        "https://commons.wikimedia.org/w/index.php?search=Megazone+%E2%80%94+Laser+Tag+Timisoara&title=Special%3AMediaSearch&type=image"
+      ],
+      "reason": "Operator/institution page researched; no explicit license or permission allowing commercial redistribution of exact venue/site photographs found. Commons and commercially licensed Flickr searches did not yield a verified exact photo. Image publication alone is not permission.",
+      "operatorChecks": [
+        {
+          "url": "https://www.megazonetimisoara.ro/megazone-2",
+          "status": 200,
+          "error": null
+        }
+      ],
+      "commonsQuery": "Megazone — Laser Tag Timisoara",
+      "commonsCandidateTitles": [],
+      "commonsError": "HTTP Error 429: Too Many Requests",
+      "flickrCommercialSearch": {
+        "query": "Megazone Laser Tag Timisoara",
+        "total": 0,
+        "error": null
+      },
+      "permissionPendingCandidates": [
+        {
+          "sourcePage": "https://www.megazonetimisoara.ro/megazone-2",
+          "imageUrl": "https://www.megazonetimisoara.ro/api/images/megazone-2/home-hero_parallax_background.jpg?v2",
+          "licenseStatus": "permission-pending",
+          "author": "not established",
+          "note": "Unlicensed candidate URL only; not downloaded into public assets. Exact branch/subject must be confirmed before any permission-based use."
+        }
+      ]
+    },
+    "paintball": {
+      "status": "permission-pending",
+      "checkedAt": "2026-11-13",
+      "checkedUrls": [
+        "https://www.flickr.com/search/?text=Paintball+Timisoara&license=4%2C5%2C9%2C10%2C11%2C12",
+        "https://commons.wikimedia.org/w/index.php?search=Paintball+Timisoara&title=Special%3AMediaSearch&type=image",
+        "https://www.arenapaintball.ro/"
+      ],
+      "reason": "Arena Paintball is a plausible local operator, but the inventory gives only a generic activity name. No independently licensed exact site photograph or operator redistribution grant found. Operator identity needs editorial confirmation before selecting a photo.",
+      "operatorChecks": [],
+      "commonsQuery": "Paintball Timisoara",
+      "commonsCandidateTitles": [],
+      "commonsError": "HTTP Error 429: Too Many Requests",
+      "flickrCommercialSearch": {
+        "query": "Paintball Timisoara",
+        "total": 0,
+        "error": null
+      },
+      "permissionPendingCandidates": []
+    },
+    "energy-kids": {
+      "status": "permission-pending",
+      "checkedAt": "2026-11-13",
+      "checkedUrls": [
+        "https://energykids.ro/locatii/timisoara-iulius-town/",
+        "https://www.iuliustown.ro/ro/entertainment/energy-kids-family-center",
+        "https://www.flickr.com/search/?text=Energy+Kids+Iulius+Mall+Timisoara&license=4%2C5%2C9%2C10%2C11%2C12",
+        "https://commons.wikimedia.org/w/index.php?search=Energy+Kids+%E2%80%94+Iulius+Mall+Timisoara&title=Special%3AMediaSearch&type=image",
+        "https://api.openverse.org/v1/images/?q=Energy+Kids+Timisoara&license_type=commercial&page_size=20"
+      ],
+      "reason": "Operator/institution page researched; no explicit license or permission allowing commercial redistribution of exact venue/site photographs found. Commons and commercially licensed Flickr searches did not yield a verified exact photo. Image publication alone is not permission.",
+      "operatorChecks": [
+        {
+          "url": "https://energykids.ro/locatii/timisoara-iulius-town/",
+          "status": 200,
+          "error": null
+        },
+        {
+          "url": "https://www.iuliustown.ro/ro/entertainment/energy-kids-family-center",
+          "status": 200,
+          "error": null
+        }
+      ],
+      "commonsQuery": "Energy Kids — Iulius Mall Timisoara",
+      "commonsCandidateTitles": [],
+      "commonsError": "HTTP Error 429: Too Many Requests",
+      "flickrCommercialSearch": {
+        "query": "Energy Kids Iulius Mall Timisoara",
+        "total": 0,
+        "error": null
+      },
+      "permissionPendingCandidates": [
+        {
+          "sourcePage": "https://energykids.ro/locatii/timisoara-iulius-town/",
+          "imageUrl": "https://energykids.ro/wp-content/uploads/2024/02/DSC01733-min-1024x683.jpg",
+          "licenseStatus": "permission-pending",
+          "author": "not established",
+          "note": "Unlicensed candidate URL only; not downloaded into public assets. Exact branch/subject must be confirmed before any permission-based use."
+        },
+        {
+          "sourcePage": "https://www.iuliustown.ro/ro/entertainment/energy-kids-family-center",
+          "imageUrl": "https://www.iuliustown.ro/images/adresa-sus.png",
+          "licenseStatus": "permission-pending",
+          "author": "not established",
+          "note": "Unlicensed candidate URL only; not downloaded into public assets. Exact branch/subject must be confirmed before any permission-based use."
+        }
+      ]
+    },
+    "paradisul-piratilor": {
+      "status": "permission-pending",
+      "checkedAt": "2026-11-13",
+      "checkedUrls": [
+        "https://www.paradisulpiratilor.ro/povestea-noastra",
+        "https://www.flickr.com/search/?text=Paradisul+Pira%C8%9Bilor+Timisoara&license=4%2C5%2C9%2C10%2C11%2C12",
+        "https://commons.wikimedia.org/w/index.php?search=Paradisul+Pira%C8%9Bilor+Timisoara&title=Special%3AMediaSearch&type=image",
+        "https://api.openverse.org/v1/images/?q=Paradisul+Piratilor&license_type=commercial&page_size=20"
+      ],
+      "reason": "Operator/institution page researched; no explicit license or permission allowing commercial redistribution of exact venue/site photographs found. Commons and commercially licensed Flickr searches did not yield a verified exact photo. Image publication alone is not permission.",
+      "operatorChecks": [
+        {
+          "url": "https://www.paradisulpiratilor.ro/povestea-noastra",
+          "status": 200,
+          "error": null
+        }
+      ],
+      "commonsQuery": "Paradisul Piraților Timisoara",
+      "commonsCandidateTitles": [],
+      "commonsError": "HTTP Error 429: Too Many Requests",
+      "flickrCommercialSearch": {
+        "query": "Paradisul Piraților Timisoara",
+        "total": 0,
+        "error": null
+      },
+      "permissionPendingCandidates": []
+    },
+    "arena-jocurilor": {
+      "status": "permission-pending",
+      "checkedAt": "2026-11-13",
+      "checkedUrls": [
+        "https://www.flickr.com/search/?text=Arena+Jocurilor+SRL+Timisoara&license=4%2C5%2C9%2C10%2C11%2C12",
+        "https://commons.wikimedia.org/w/index.php?search=Arena+Jocurilor+SRL+Timisoara&title=Special%3AMediaSearch&type=image",
+        "https://arena-jocurilor.ro/",
+        "https://arena-jocurilor.ro/contact.html"
+      ],
+      "reason": "Official site confirms the Timișoara play venue and contains a photo gallery; footer reserves all rights. No commercially redistributable image license found.",
+      "operatorChecks": [],
+      "commonsQuery": "Arena Jocurilor SRL Timisoara",
+      "commonsCandidateTitles": [],
+      "commonsError": "HTTP Error 429: Too Many Requests",
+      "flickrCommercialSearch": {
+        "query": "Arena Jocurilor SRL Timisoara",
+        "total": 0,
+        "error": null
+      },
+      "permissionPendingCandidates": []
+    },
+    "kids-town": {
+      "status": "permission-pending",
+      "checkedAt": "2026-11-13",
+      "checkedUrls": [
+        "https://www.flickr.com/search/?text=Kids+Town+Timisoara&license=4%2C5%2C9%2C10%2C11%2C12",
+        "https://commons.wikimedia.org/w/index.php?search=Kids+Town+Timisoara&title=Special%3AMediaSearch&type=image",
+        "https://www.kidstown.ro/",
+        "https://www.megazonetimisoara.ro/megazone-kidstown/",
+        "https://www.clubulcopiilor.ro/locatie/kids-town/"
+      ],
+      "reason": "The Kids Town domain redirects to the operator Megazone page, which currently exposes a Facebook image only. No image redistribution permission found; third-party listing photographs are not treated as licensed.",
+      "operatorChecks": [],
+      "commonsQuery": "Kids Town Timisoara",
+      "commonsCandidateTitles": [],
+      "commonsError": "HTTP Error 429: Too Many Requests",
+      "flickrCommercialSearch": {
+        "query": "Kids Town Timisoara",
+        "total": 0,
+        "error": null
+      },
+      "permissionPendingCandidates": []
+    },
+    "noso": {
+      "status": "permission-pending",
+      "checkedAt": "2026-11-13",
+      "checkedUrls": [
+        "https://noso.ro/",
+        "https://www.flickr.com/search/?text=Noso+Timisoara&license=4%2C5%2C9%2C10%2C11%2C12",
+        "https://commons.wikimedia.org/w/index.php?search=Noso+Timisoara&title=Special%3AMediaSearch&type=image",
+        "https://api.openverse.org/v1/images/?q=Noso+Timisoara&license_type=commercial&page_size=20"
+      ],
+      "reason": "Operator/institution page researched; no explicit license or permission allowing commercial redistribution of exact venue/site photographs found. Commons and commercially licensed Flickr searches did not yield a verified exact photo. Image publication alone is not permission.",
+      "operatorChecks": [
+        {
+          "url": "https://noso.ro/",
+          "status": 200,
+          "error": null
+        }
+      ],
+      "commonsQuery": "Noso Timisoara",
+      "commonsCandidateTitles": [],
+      "commonsError": "HTTP Error 429: Too Many Requests",
+      "flickrCommercialSearch": {
+        "query": "Noso Timisoara",
+        "total": 0,
+        "error": null
+      },
+      "permissionPendingCandidates": [
+        {
+          "sourcePage": "https://noso.ro/",
+          "imageUrl": "https://noso.ro/wp-content/uploads/2023/05/Screenshot-2023-05-14-125447.png",
+          "licenseStatus": "permission-pending",
+          "author": "not established",
+          "note": "Unlicensed candidate URL only; not downloaded into public assets. Exact branch/subject must be confirmed before any permission-based use."
+        }
+      ]
+    },
+    "planetarium": {
+      "status": "permission-pending",
+      "checkedAt": "2026-11-13",
+      "checkedUrls": [
+        "https://physics.uvt.ro/planetariu/",
+        "https://www.flickr.com/search/?text=Planetarium+UVT+Timisoara&license=4%2C5%2C9%2C10%2C11%2C12",
+        "https://commons.wikimedia.org/w/index.php?search=Planetarium+%E2%80%94+UVT+Timisoara&title=Special%3AMediaSearch&type=image",
+        "https://api.openverse.org/v1/images/?q=planetariu+Timisoara&license_type=commercial&page_size=20"
+      ],
+      "reason": "Operator/institution page researched; no explicit license or permission allowing commercial redistribution of exact venue/site photographs found. Commons and commercially licensed Flickr searches did not yield a verified exact photo. Image publication alone is not permission.",
+      "operatorChecks": [
+        {
+          "url": "https://physics.uvt.ro/planetariu/",
+          "status": 200,
+          "error": null
+        }
+      ],
+      "commonsQuery": "Planetarium — UVT Timisoara",
+      "commonsCandidateTitles": [],
+      "commonsError": "HTTP Error 429: Too Many Requests",
+      "flickrCommercialSearch": {
+        "query": "Planetarium UVT Timisoara",
+        "total": 0,
+        "error": null
+      },
+      "permissionPendingCandidates": [
+        {
+          "sourcePage": "https://physics.uvt.ro/planetariu/",
+          "imageUrl": "https://physics.uvt.ro/wp-content/uploads/2023/04/FIZICA-02-e1682680635291-300x163.png",
+          "licenseStatus": "permission-pending",
+          "author": "not established",
+          "note": "Unlicensed candidate URL only; not downloaded into public assets. Exact branch/subject must be confirmed before any permission-based use."
+        }
+      ]
+    },
+    "bike-serbia": {
+      "status": "permission-pending",
+      "checkedAt": "2026-11-13",
+      "checkedUrls": [
+        "https://visit-timisoara.com/ro/o-zi-in-timisoara/",
+        "https://www.flickr.com/search/?text=Bega+Serbia&license=4%2C5%2C9%2C10%2C11%2C12",
+        "https://commons.wikimedia.org/w/index.php?search=Pista+de+biciclet%C4%83+spre+Serbia+%2F+Zrenjanin+Timisoara&title=Special%3AMediaSearch&type=image",
+        "https://www.ecf.com/media/resources/2024/Using_EU_funds_to_promote_cycling_2024_07.pdf",
+        "https://commons.wikimedia.org/wiki/File:Biking_near_bega_in_Timisoara.jpg",
+        "https://api.openverse.org/v1/images/?q=Bega+Serbia&license_type=commercial&page_size=20",
+        "https://www.flickr.com/search/?text=pista+Bega&license=4%2C5%2C9%2C10%2C11%2C12",
+        "https://www.flickr.com/search/?text=Utvin&license=4%2C5%2C9%2C10%2C11%2C12",
+        "https://www.flickr.com/search/?text=Sanmihaiu+Roman&license=4%2C5%2C9%2C10%2C11%2C12"
+      ],
+      "reason": "Exact downstream cross-border cycle route researched. Commons cycling photo is a 2010 city-centre Bega view, not proven to show the route beginning near Modoș; rejected. Flickr matches were a church, a Copenhagen model railway and a Swedish factory, all rejected. Institutional report has copyright notice and no explicit photo reuse grant.",
+      "operatorChecks": [
+        {
+          "url": "https://visit-timisoara.com/ro/o-zi-in-timisoara/",
+          "status": null,
+          "error": "HTTP Error 403: Forbidden"
+        }
+      ],
+      "commonsQuery": "Pista de bicicletă spre Serbia / Zrenjanin Timisoara",
+      "commonsCandidateTitles": [],
+      "commonsError": "HTTP Error 429: Too Many Requests",
+      "flickrCommercialSearch": {
+        "query": "Bega Serbia",
+        "total": 1,
+        "error": null
+      },
+      "permissionPendingCandidates": []
+    },
+    "la-livada": {
+      "status": "permission-pending",
+      "checkedAt": "2026-11-13",
+      "checkedUrls": [
+        "https://lalivadabanateana.ro/",
+        "https://www.flickr.com/search/?text=Livada+Bega&license=4%2C5%2C9%2C10%2C11%2C12",
+        "https://commons.wikimedia.org/w/index.php?search=La+Livada+Timisoara&title=Special%3AMediaSearch&type=image",
+        "https://api.openverse.org/v1/images/?q=livada+Timisoara&license_type=commercial&page_size=20"
+      ],
+      "reason": "Operator/institution page researched; no explicit license or permission allowing commercial redistribution of exact venue/site photographs found. Commons and commercially licensed Flickr searches did not yield a verified exact photo. Image publication alone is not permission.",
+      "operatorChecks": [
+        {
+          "url": "https://lalivadabanateana.ro/",
+          "status": 200,
+          "error": null
+        }
+      ],
+      "commonsQuery": "La Livada Timisoara",
+      "commonsCandidateTitles": [],
+      "commonsError": "HTTP Error 429: Too Many Requests",
+      "flickrCommercialSearch": {
+        "query": "Livada Bega",
+        "total": 0,
+        "error": null
+      },
+      "permissionPendingCandidates": [
+        {
+          "sourcePage": "https://lalivadabanateana.ro/",
+          "imageUrl": "https://lalivadabanateana.ro/wp-content/uploads/2023/11/acasa-3-683x1024.jpg",
+          "licenseStatus": "permission-pending",
+          "author": "not established",
+          "note": "Unlicensed candidate URL only; not downloaded into public assets. Exact branch/subject must be confirmed before any permission-based use."
+        }
+      ]
+    },
+    "plaja-noua": {
+      "status": "permission-pending",
+      "checkedAt": "2026-11-13",
+      "checkedUrls": [
+        "https://www.flickr.com/search/?text=Plaja+Noua&license=4%2C5%2C9%2C10%2C11%2C12",
+        "https://commons.wikimedia.org/w/index.php?search=Plaja+Nou%C4%83+Timisoara&title=Special%3AMediaSearch&type=image",
+        "https://bestmarkets.ro/en/la-plaja-noua/",
+        "https://www.soimiisportului.ro/profile-201863-la-plaja-noua",
+        "https://www.facebook.com/laplajanoua"
+      ],
+      "reason": "Local park identity and operator social page found, but no commercial image redistribution grant found. Third-party event images have their own photographers/rights; no generic lake/beach substitute accepted.",
+      "operatorChecks": [],
+      "commonsQuery": "Plaja Nouă Timisoara",
+      "commonsCandidateTitles": [],
+      "commonsError": "HTTP Error 429: Too Many Requests",
+      "flickrCommercialSearch": {
+        "query": "Plaja Noua",
+        "total": 0,
+        "error": null
+      },
+      "permissionPendingCandidates": []
+    },
+    "herneacova": {
+      "status": "permission-pending",
+      "checkedAt": "2026-11-13",
+      "checkedUrls": [
+        "https://www.herneacova.ro/",
+        "https://visit-timis.ro/domeniul-herneacova",
+        "https://visit-timis.ro/parcul-de-aventura-herneacova",
+        "https://www.flickr.com/search/?text=Herneacova&license=4%2C5%2C9%2C10%2C11%2C12",
+        "https://commons.wikimedia.org/w/index.php?search=Herneacova+Timisoara&title=Special%3AMediaSearch&type=image",
+        "https://commons.wikimedia.org/wiki/Category:Herneacova,_Timi%C8%99",
+        "https://commons.wikimedia.org/wiki/File:Herneacova1.JPG",
+        "https://api.openverse.org/v1/images/?q=Herneacova&license_type=commercial&page_size=20"
+      ],
+      "reason": "Commons village category contains village/church imagery, not an authenticated view of Domeniul Herneacova. Church image CC0 does not satisfy exact estate requirement. Operator/tourism pages found but no commercial reuse permission.",
+      "operatorChecks": [
+        {
+          "url": "https://www.herneacova.ro/",
+          "status": 200,
+          "error": null
+        },
+        {
+          "url": "https://visit-timis.ro/domeniul-herneacova",
+          "status": 200,
+          "error": null
+        },
+        {
+          "url": "https://visit-timis.ro/parcul-de-aventura-herneacova",
+          "status": 200,
+          "error": null
+        }
+      ],
+      "commonsQuery": "Herneacova Timisoara",
+      "commonsCandidateTitles": [],
+      "commonsError": "HTTP Error 429: Too Many Requests",
+      "flickrCommercialSearch": {
+        "query": "Herneacova",
+        "total": 0,
+        "error": null
+      },
+      "permissionPendingCandidates": []
+    },
+    "liziera": {
+      "status": "permission-pending",
+      "checkedAt": "2026-11-13",
+      "checkedUrls": [
+        "https://liziera.com/",
+        "https://www.flickr.com/search/?text=Liziera&license=4%2C5%2C9%2C10%2C11%2C12",
+        "https://commons.wikimedia.org/w/index.php?search=L%E2%80%99iziera+Park+Timisoara&title=Special%3AMediaSearch&type=image",
+        "https://api.openverse.org/v1/images/?q=Liziera&license_type=commercial&page_size=20"
+      ],
+      "reason": "Operator/institution page researched; no explicit license or permission allowing commercial redistribution of exact venue/site photographs found. Commons and commercially licensed Flickr searches did not yield a verified exact photo. Image publication alone is not permission.",
+      "operatorChecks": [
+        {
+          "url": "https://liziera.com/",
+          "status": 200,
+          "error": null
+        }
+      ],
+      "commonsQuery": "L’iziera Park Timisoara",
+      "commonsCandidateTitles": [],
+      "commonsError": "HTTP Error 429: Too Many Requests",
+      "flickrCommercialSearch": {
+        "query": "Liziera",
+        "total": 0,
+        "error": null
+      },
+      "permissionPendingCandidates": [
+        {
+          "sourcePage": "https://liziera.com/",
+          "imageUrl": "https://liziera.com/wp-content/uploads/2025/04/478919286_598335246299655_6198726520199412862_n-600x540.jpg",
+          "licenseStatus": "permission-pending",
+          "author": "not established",
+          "note": "Unlicensed candidate URL only; not downloaded into public assets. Exact branch/subject must be confirmed before any permission-based use."
+        }
+      ]
+    },
+    "pet-yoga": {
+      "status": "permission-pending",
+      "checkedAt": "2026-11-13",
+      "checkedUrls": [
+        "https://www.flickr.com/search/?text=Pet+Yoga+Timisoara&license=4%2C5%2C9%2C10%2C11%2C12",
+        "https://commons.wikimedia.org/w/index.php?search=Pet+Yoga+Timisoara&title=Special%3AMediaSearch&type=image",
+        "https://petyogaromania.com/",
+        "https://petscats.ro/pet-yoga-un-curent-care-capata-popularitate-si-in-romania-antreprenoare-din-domeniu-am-dorit-sa-oferim-o-sansa-si-animalelor-abandonate-care-pot-fi-adoptate-dupa-sesiunile-de-yoga/",
+        "https://yogafit.ro/en/"
+      ],
+      "reason": "Interviews identify Pet Yoga Romania and credit the operator for photos. Website inaccessible during check; neither press image credit nor another instructor’s yoga pictures grant commercial guide redistribution permission. No exact licensed session image found.",
+      "operatorChecks": [],
+      "commonsQuery": "Pet Yoga Timisoara",
+      "commonsCandidateTitles": [
+        "File:Monitorul Oficial al României. Partea 1 1946-07-29, nr. 173.pdf"
+      ],
+      "commonsError": null,
+      "flickrCommercialSearch": {
+        "query": "Pet Yoga Timisoara",
+        "total": 0,
+        "error": null
+      },
+      "permissionPendingCandidates": []
+    },
+    "dharmaland": {
+      "status": "permission-pending",
+      "checkedAt": "2026-11-13",
+      "checkedUrls": [
+        "https://www.flickr.com/search/?text=Dharmaland+Timisoara&license=4%2C5%2C9%2C10%2C11%2C12",
+        "https://commons.wikimedia.org/w/index.php?search=Dharmaland+Timisoara&title=Special%3AMediaSearch&type=image",
+        "https://www.rida.ro/proiecte/dharma-land/",
+        "https://artualstudio.ro/portofoliu-design/dharmaspa",
+        "https://www.fresha.com/en-GB/a/dharmaland-timisoara-strada-memorandului-76-h9ea7su1/all-offer"
+      ],
+      "reason": "Exact Timișoara spa identified in architect portfolio, with photography credited to Stan Laura. No commercial redistribution grant found for portfolio photographs. Australian Dharmaland Festival and generic spa photos excluded.",
+      "operatorChecks": [],
+      "commonsQuery": "Dharmaland Timisoara",
+      "commonsCandidateTitles": [],
+      "commonsError": null,
+      "flickrCommercialSearch": {
+        "query": "Dharmaland Timisoara",
+        "total": 0,
+        "error": null
+      },
+      "permissionPendingCandidates": [
+        {
+          "sourcePage": "https://artualstudio.ro/portofoliu-design/dharmaspa",
+          "author": "Stan Laura (as credited by RIDA)",
+          "licenseStatus": "permission-pending",
+          "note": "Exact interior portfolio images; written photographer/operator reuse permission required."
+        }
+      ]
+    }
+  },
+  "retainedExisting": {
+    "parcul-copiilor": {
+      "status": "retained-existing-photo",
+      "source": "https://commons.wikimedia.org/wiki/File:Parcul_Copiilor_-_panoramio.jpg",
+      "license": "CC BY 3.0 · https://creativecommons.org/licenses/by/3.0"
+    },
+    "parcul-rozelor": {
+      "status": "retained-existing-photo",
+      "source": "https://commons.wikimedia.org/wiki/File:Parcul_Rozelor_Timisoara_-_entrance.jpg",
+      "license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "parcul-botanic": {
+      "status": "retained-existing-photo",
+      "source": "https://commons.wikimedia.org/wiki/File:Botanical_Garden_in_Timisoara_(1).jpg",
+      "license": "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0"
+    },
+    "parcul-civic": {
+      "status": "retained-existing-photo",
+      "source": "https://commons.wikimedia.org/wiki/File:Civic_Park,_Timi%C8%99oara.jpg",
+      "license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "parcul-regina-maria": {
+      "status": "retained-existing-photo",
+      "source": "https://commons.wikimedia.org/wiki/File:Timi%C8%99oara_-_Parcul_%E2%80%9ERegina_Maria%E2%80%9D_(43013587180).jpg",
+      "license": "CC BY 2.0 · https://creativecommons.org/licenses/by/2.0"
+    },
+    "bega-walk": {
+      "status": "retained-existing-photo",
+      "source": "https://commons.wikimedia.org/wiki/File:Bega_noaptea_in_Timisoara_Podul_Tineretii.JPG",
+      "license": "Public domain"
+    },
+    "bega-boat": {
+      "status": "retained-existing-photo",
+      "source": "https://commons.wikimedia.org/wiki/File:Sta%C8%9Bie_vaporetto_Ardealul.jpg",
+      "license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  "researchLimitations": [
+    "Openverse public API returned403 for all11 queries; Commons, web search and Flickr commercial-license filtered searches continued.",
+    "Commons broad venue queries sometimes returned unrelated documents; these were not accepted.",
+    "Flickr searches cover CC BY, CC BY-SA, CC0 and Public Domain licenses (IDs4,5,9,10,11,12); every nonzero scoped result was unrelated.",
+    "The older exact Castle Park photo by Stanciu Radu Eduard foregrounds a modern sculpture and was not selected; the2022 park/castle exterior view was used instead."
+  ],
+  "artifacts": {
+    "detailedResearch": "work/photos-outdoors/research-all.json",
+    "flickrResearch": "work/photos-outdoors/flickr-results.json",
+    "openverseErrors": "work/photos-outdoors/openverse-results.json",
+    "commonsSelectedMetadata": "work/photos-outdoors/castle-candidates.json"
+  }
+}

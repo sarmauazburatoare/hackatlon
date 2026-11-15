@@ -1,0 +1,22 @@
+[
+  {
+    "route": "/",
+    "violations": []
+  },
+  {
+    "route": "/#/catalog",
+    "violations": []
+  },
+  {
+    "route": "/#/catalog/history",
+    "violations": []
+  },
+  {
+    "route": "/#/wheel/2d",
+    "violations": []
+  },
+  {
+    "route": "/#/museum",
+    "violations": []
+  }
+]

@@ -1,0 +1,984 @@
+{
+  "checkedAt": "2026-11-13T21:38:30.954Z",
+  "base": "http://127.0.0.1:4176",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "build": {
+    "indexMtime": "2026-11-13T21:35:25.931Z",
+    "indexSha256": "90765b11f47154be2ed2cd3d44fc10985792109a62258ec12ef1b7e9335ad4ce",
+    "indexUnchanged": true
+  },
+  "scope": "Focused independent production smoke; accessible culture-room story button, actual media time progression, semantic language resume, six-language modal axe/overflow in Chromium, four new photo cards in all engines.",
+  "results": [
+    {
+      "engine": "chromium",
+      "status": "pass",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "consoleWarnings": [
+        {
+          "phase": "culture",
+          "message": "[.WebGL-0x10400840800]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels"
+        },
+        {
+          "phase": "culture",
+          "message": "[.WebGL-0x10400840800]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels"
+        },
+        {
+          "phase": "culture",
+          "message": "[.WebGL-0x10400840800]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels"
+        },
+        {
+          "phase": "culture",
+          "message": "[.WebGL-0x10400840800]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels (this message will no longer repeat)"
+        }
+      ],
+      "httpFailures": [],
+      "requestFailures": [],
+      "externalRequests": [],
+      "audioResponses": [
+        {
+          "phase": "audio-ro",
+          "url": "http://127.0.0.1:4176/media/audio/clock-ro.mp3",
+          "status": 206,
+          "contentType": "audio/mpeg",
+          "contentRange": "bytes 0-127148/127149"
+        },
+        {
+          "phase": "audio-en",
+          "url": "http://127.0.0.1:4176/media/audio/clock-en.mp3",
+          "status": 206,
+          "contentType": "audio/mpeg",
+          "contentRange": "bytes 0-103148/103149"
+        },
+        {
+          "phase": "audio-zh",
+          "url": "http://127.0.0.1:4176/media/audio/clock-zh-Hans.mp3",
+          "status": 206,
+          "contentType": "audio/mpeg",
+          "contentRange": "bytes 0-144620/144621"
+        },
+        {
+          "phase": "modal-it",
+          "url": "http://127.0.0.1:4176/media/audio/clock-it.mp3",
+          "status": 206,
+          "contentType": "audio/mpeg",
+          "contentRange": "bytes 0-117548/117549"
+        },
+        {
+          "phase": "modal-fr",
+          "url": "http://127.0.0.1:4176/media/audio/clock-fr.mp3",
+          "status": 206,
+          "contentType": "audio/mpeg",
+          "contentRange": "bytes 0-112556/112557"
+        },
+        {
+          "phase": "modal-es",
+          "url": "http://127.0.0.1:4176/media/audio/clock-es.mp3",
+          "status": 206,
+          "contentType": "audio/mpeg",
+          "contentRange": "bytes 0-106988/106989"
+        }
+      ],
+      "initialNetwork": {
+        "requests": [
+          {
+            "url": "http://127.0.0.1:4176/",
+            "resourceType": "document"
+          },
+          {
+            "url": "http://127.0.0.1:4176/assets/index-DlGWqgmB.js",
+            "resourceType": "script"
+          },
+          {
+            "url": "http://127.0.0.1:4176/assets/index-DxLL2-ab.css",
+            "resourceType": "stylesheet"
+          },
+          {
+            "url": "http://127.0.0.1:4176/media/entrance.jpg",
+            "resourceType": "image"
+          },
+          {
+            "url": "http://127.0.0.1:4176/assets/libre-baskerville-latin-400-italic-Dx5Rrf3o.woff2",
+            "resourceType": "font"
+          },
+          {
+            "url": "http://127.0.0.1:4176/assets/cormorant-garamond-latin-400-italic-Dc_OZ8oc.woff2",
+            "resourceType": "font"
+          },
+          {
+            "url": "http://127.0.0.1:4176/assets/cormorant-garamond-latin-ext-400-normal-Drx2k2n9.woff2",
+            "resourceType": "font"
+          },
+          {
+            "url": "http://127.0.0.1:4176/assets/dm-sans-latin-ext-400-normal-BtiwyxMk.woff2",
+            "resourceType": "font"
+          },
+          {
+            "url": "http://127.0.0.1:4176/assets/cormorant-garamond-latin-400-normal-B-1hWBU7.woff2",
+            "resourceType": "font"
+          },
+          {
+            "url": "http://127.0.0.1:4176/assets/dm-sans-latin-400-normal-CW0RaeGs.woff2",
+            "resourceType": "font"
+          }
+        ],
+        "mp3Requests": [],
+        "threeDMuseumRequests": []
+      },
+      "audio": {
+        "openedViaAccessibleButton": {
+          "role": "button",
+          "name": "Ceasul floral",
+          "route": "http://127.0.0.1:4176/#/museum/culture"
+        },
+        "initial": {
+          "src": "./media/audio/clock-ro.mp3",
+          "time": 0,
+          "duration": 15.795542,
+          "paused": true,
+          "muted": true,
+          "readyState": 4,
+          "seeking": false,
+          "error": null
+        },
+        "roPlayed": {
+          "src": "./media/audio/clock-ro.mp3",
+          "time": 0.805266,
+          "duration": 15.795542,
+          "paused": false,
+          "muted": false,
+          "readyState": 4,
+          "seeking": false,
+          "error": null
+        },
+        "semanticResume": {
+          "source": {
+            "src": "./media/audio/clock-ro.mp3",
+            "time": 6.027229,
+            "duration": 15.795542,
+            "paused": true,
+            "muted": false,
+            "readyState": 1,
+            "seeking": true,
+            "error": null
+          },
+          "sourceSentence": 2,
+          "fraction": 0.43,
+          "expectedEnTime": 4.75178,
+          "observedEnTime": 4.75178,
+          "errorSeconds": 0,
+          "pausedPreserved": true
+        },
+        "enPlayed": {
+          "src": "./media/audio/clock-en.mp3",
+          "time": 5.077877,
+          "duration": 12.800167,
+          "paused": false,
+          "muted": false,
+          "readyState": 4,
+          "seeking": false,
+          "error": null
+        },
+        "zhPlayed": {
+          "src": "./media/audio/clock-zh-Hans.mp3",
+          "time": 8.005252,
+          "duration": 17.99,
+          "paused": false,
+          "muted": false,
+          "readyState": 4,
+          "seeking": false,
+          "error": null
+        },
+        "closedAndReleased": true,
+        "closeCleanupObservedWithinMs": 206
+      },
+      "modalScans": [
+        {
+          "language": "ro",
+          "overflow": {
+            "documentWidth": 390,
+            "viewportWidth": 390,
+            "documentOverflow": false,
+            "modalWidth": 370,
+            "modalLeft": 10,
+            "modalRight": 380,
+            "modalScrollWidth": 368,
+            "modalClientWidth": 368,
+            "modalOverflow": false
+          },
+          "seriousOrCritical": [],
+          "otherViolations": []
+        },
+        {
+          "language": "en",
+          "overflow": {
+            "documentWidth": 390,
+            "viewportWidth": 390,
+            "documentOverflow": false,
+            "modalWidth": 370,
+            "modalLeft": 10,
+            "modalRight": 380,
+            "modalScrollWidth": 368,
+            "modalClientWidth": 368,
+            "modalOverflow": false
+          },
+          "seriousOrCritical": [],
+          "otherViolations": []
+        },
+        {
+          "language": "it",
+          "overflow": {
+            "documentWidth": 390,
+            "viewportWidth": 390,
+            "documentOverflow": false,
+            "modalWidth": 370,
+            "modalLeft": 10,
+            "modalRight": 380,
+            "modalScrollWidth": 368,
+            "modalClientWidth": 368,
+            "modalOverflow": false
+          },
+          "seriousOrCritical": [],
+          "otherViolations": []
+        },
+        {
+          "language": "fr",
+          "overflow": {
+            "documentWidth": 390,
+            "viewportWidth": 390,
+            "documentOverflow": false,
+            "modalWidth": 370,
+            "modalLeft": 10,
+            "modalRight": 380,
+            "modalScrollWidth": 368,
+            "modalClientWidth": 368,
+            "modalOverflow": false
+          },
+          "seriousOrCritical": [],
+          "otherViolations": []
+        },
+        {
+          "language": "es",
+          "overflow": {
+            "documentWidth": 390,
+            "viewportWidth": 390,
+            "documentOverflow": false,
+            "modalWidth": 370,
+            "modalLeft": 10,
+            "modalRight": 380,
+            "modalScrollWidth": 368,
+            "modalClientWidth": 368,
+            "modalOverflow": false
+          },
+          "seriousOrCritical": [],
+          "otherViolations": []
+        },
+        {
+          "language": "zh-Hans",
+          "overflow": {
+            "documentWidth": 390,
+            "viewportWidth": 390,
+            "documentOverflow": false,
+            "modalWidth": 370,
+            "modalLeft": 10,
+            "modalRight": 380,
+            "modalScrollWidth": 368,
+            "modalClientWidth": 368,
+            "modalOverflow": false
+          },
+          "seriousOrCritical": [],
+          "otherViolations": []
+        }
+      ],
+      "photoChecks": [
+        {
+          "id": "parcul-castelului",
+          "category": "nature",
+          "src": "./media/photos-v02/parcul-castelului.webp",
+          "resolvedSrc": "http://127.0.0.1:4176/media/photos-v02/parcul-castelului.webp",
+          "naturalWidth": 1440,
+          "naturalHeight": 1080,
+          "alt": "匈雅提城堡旁城堡公园内的小径与草坪。",
+          "overflow": {
+            "documentWidth": 390,
+            "viewportWidth": 390,
+            "documentOverflow": false,
+            "modalWidth": null,
+            "modalLeft": null,
+            "modalRight": null,
+            "modalScrollWidth": null,
+            "modalClientWidth": null,
+            "modalOverflow": false
+          }
+        },
+        {
+          "id": "memorialul-revolutiei",
+          "category": "culture",
+          "src": "./media/photos-v02/city-memorialul-revolutiei.webp",
+          "resolvedSrc": "http://127.0.0.1:4176/media/photos-v02/city-memorialul-revolutiei.webp",
+          "naturalWidth": 1280,
+          "naturalHeight": 960,
+          "alt": "蒂米什瓦拉 Oituz 街革命纪念馆的外立面和入口。",
+          "overflow": {
+            "documentWidth": 390,
+            "viewportWidth": 390,
+            "documentOverflow": false,
+            "modalWidth": null,
+            "modalLeft": null,
+            "modalRight": null,
+            "modalScrollWidth": null,
+            "modalClientWidth": null,
+            "modalOverflow": false
+          }
+        },
+        {
+          "id": "fratelli",
+          "category": "night",
+          "src": "./media/photos-v02/city-fratelli.webp",
+          "resolvedSrc": "http://127.0.0.1:4176/media/photos-v02/city-fratelli.webp",
+          "naturalWidth": 1280,
+          "naturalHeight": 720,
+          "alt": "2013 年 2 月，Zdob și Zdub 乐队在蒂米什瓦拉 Fratelli 演出。",
+          "overflow": {
+            "documentWidth": 390,
+            "viewportWidth": 390,
+            "documentOverflow": false,
+            "modalWidth": null,
+            "modalLeft": null,
+            "modalRight": null,
+            "modalScrollWidth": null,
+            "modalClientWidth": null,
+            "modalOverflow": false
+          }
+        },
+        {
+          "id": "beraria",
+          "category": "food",
+          "src": "./media/photos-v02/city-beraria.webp",
+          "resolvedSrc": "http://127.0.0.1:4176/media/photos-v02/city-beraria.webp",
+          "naturalWidth": 797,
+          "naturalHeight": 531,
+          "alt": "2019 年 6 月，Piața 700 广场的 Berăria 700 入口和露台。",
+          "overflow": {
+            "documentWidth": 390,
+            "viewportWidth": 390,
+            "documentOverflow": false,
+            "modalWidth": null,
+            "modalLeft": null,
+            "modalRight": null,
+            "modalScrollWidth": null,
+            "modalClientWidth": null,
+            "modalOverflow": false
+          }
+        }
+      ]
+    },
+    {
+      "engine": "firefox",
+      "status": "pass",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "consoleWarnings": [
+        {
+          "phase": "culture",
+          "message": "[JavaScript Warning: \"WebGL context was lost.\" {file: \"http://127.0.0.1:4176/assets/museum-jkJGT3j6.js\" line: 3955}]"
+        },
+        {
+          "phase": "audio-en",
+          "message": "[JavaScript Warning: \"WebGL context was lost.\" {file: \"http://127.0.0.1:4176/assets/museum-jkJGT3j6.js\" line: 3955}]"
+        },
+        {
+          "phase": "audio-zh",
+          "message": "[JavaScript Warning: \"WebGL context was lost.\" {file: \"http://127.0.0.1:4176/assets/museum-jkJGT3j6.js\" line: 3955}]"
+        },
+        {
+          "phase": "modal-zh-Hans",
+          "message": "[JavaScript Warning: \"WebGL context was lost.\" {file: \"http://127.0.0.1:4176/assets/museum-jkJGT3j6.js\" line: 3955}]"
+        },
+        {
+          "phase": "photo-parcul-castelului",
+          "message": "[JavaScript Warning: \"WebGL context was lost.\" {file: \"http://127.0.0.1:4176/assets/museum-jkJGT3j6.js\" line: 3955}]"
+        }
+      ],
+      "httpFailures": [],
+      "requestFailures": [],
+      "externalRequests": [],
+      "audioResponses": [
+        {
+          "phase": "culture",
+          "url": "http://127.0.0.1:4176/media/audio/clock-ro.mp3",
+          "status": 206,
+          "contentType": "audio/mpeg",
+          "contentRange": "bytes 0-127148/127149"
+        },
+        {
+          "phase": "audio-en",
+          "url": "http://127.0.0.1:4176/media/audio/clock-en.mp3",
+          "status": 206,
+          "contentType": "audio/mpeg",
+          "contentRange": "bytes 0-103148/103149"
+        },
+        {
+          "phase": "audio-zh",
+          "url": "http://127.0.0.1:4176/media/audio/clock-zh-Hans.mp3",
+          "status": 206,
+          "contentType": "audio/mpeg",
+          "contentRange": "bytes 0-144620/144621"
+        },
+        {
+          "phase": "modal-zh-Hans",
+          "url": "http://127.0.0.1:4176/media/audio/clock-zh-Hans.mp3",
+          "status": 206,
+          "contentType": "audio/mpeg",
+          "contentRange": "bytes 0-144620/144621"
+        }
+      ],
+      "initialNetwork": {
+        "requests": [
+          {
+            "url": "http://127.0.0.1:4176/",
+            "resourceType": "document"
+          },
+          {
+            "url": "http://127.0.0.1:4176/assets/index-DlGWqgmB.js",
+            "resourceType": "script"
+          },
+          {
+            "url": "http://127.0.0.1:4176/assets/index-DxLL2-ab.css",
+            "resourceType": "stylesheet"
+          },
+          {
+            "url": "http://127.0.0.1:4176/assets/dm-sans-latin-ext-400-normal-BtiwyxMk.woff2",
+            "resourceType": "font"
+          },
+          {
+            "url": "http://127.0.0.1:4176/media/entrance.jpg",
+            "resourceType": "image"
+          },
+          {
+            "url": "http://127.0.0.1:4176/favicon.svg",
+            "resourceType": "image"
+          },
+          {
+            "url": "http://127.0.0.1:4176/assets/libre-baskerville-latin-400-italic-Dx5Rrf3o.woff2",
+            "resourceType": "font"
+          },
+          {
+            "url": "http://127.0.0.1:4176/assets/cormorant-garamond-latin-400-italic-Dc_OZ8oc.woff2",
+            "resourceType": "font"
+          },
+          {
+            "url": "http://127.0.0.1:4176/assets/cormorant-garamond-latin-ext-400-normal-Drx2k2n9.woff2",
+            "resourceType": "font"
+          },
+          {
+            "url": "http://127.0.0.1:4176/assets/dm-sans-latin-400-normal-CW0RaeGs.woff2",
+            "resourceType": "font"
+          },
+          {
+            "url": "http://127.0.0.1:4176/assets/cormorant-garamond-latin-400-normal-B-1hWBU7.woff2",
+            "resourceType": "font"
+          }
+        ],
+        "mp3Requests": [],
+        "threeDMuseumRequests": []
+      },
+      "audio": {
+        "openedViaAccessibleButton": {
+          "role": "button",
+          "name": "Ceasul floral",
+          "route": "http://127.0.0.1:4176/#/museum/culture"
+        },
+        "initial": {
+          "src": "./media/audio/clock-ro.mp3",
+          "time": 0,
+          "duration": 15.795541,
+          "paused": true,
+          "muted": true,
+          "readyState": 4,
+          "seeking": false,
+          "error": null
+        },
+        "roPlayed": {
+          "src": "./media/audio/clock-ro.mp3",
+          "time": 0.725166,
+          "duration": 15.795541,
+          "paused": false,
+          "muted": false,
+          "readyState": 4,
+          "seeking": false,
+          "error": null
+        },
+        "semanticResume": {
+          "source": {
+            "src": "./media/audio/clock-ro.mp3",
+            "time": 6.027229,
+            "duration": 15.795541,
+            "paused": true,
+            "muted": false,
+            "readyState": 4,
+            "seeking": false,
+            "error": null
+          },
+          "sourceSentence": 2,
+          "fraction": 0.43,
+          "expectedEnTime": 4.75178,
+          "observedEnTime": 4.75178,
+          "errorSeconds": 0,
+          "pausedPreserved": true
+        },
+        "enPlayed": {
+          "src": "./media/audio/clock-en.mp3",
+          "time": 5.075655,
+          "duration": 12.800166,
+          "paused": false,
+          "muted": false,
+          "readyState": 4,
+          "seeking": false,
+          "error": null
+        },
+        "zhPlayed": {
+          "src": "./media/audio/clock-zh-Hans.mp3",
+          "time": 7.993569,
+          "duration": 17.99,
+          "paused": false,
+          "muted": false,
+          "readyState": 4,
+          "seeking": false,
+          "error": null
+        },
+        "closedAndReleased": true,
+        "closeCleanupObservedWithinMs": 32
+      },
+      "modalScans": [
+        {
+          "language": "zh-Hans",
+          "overflow": {
+            "documentWidth": 390,
+            "viewportWidth": 390,
+            "documentOverflow": false,
+            "modalWidth": 370,
+            "modalLeft": 10,
+            "modalRight": 380,
+            "modalScrollWidth": 368,
+            "modalClientWidth": 368,
+            "modalOverflow": false
+          },
+          "seriousOrCritical": [],
+          "otherViolations": []
+        }
+      ],
+      "photoChecks": [
+        {
+          "id": "parcul-castelului",
+          "category": "nature",
+          "src": "./media/photos-v02/parcul-castelului.webp",
+          "resolvedSrc": "http://127.0.0.1:4176/media/photos-v02/parcul-castelului.webp",
+          "naturalWidth": 1440,
+          "naturalHeight": 1080,
+          "alt": "匈雅提城堡旁城堡公园内的小径与草坪。",
+          "overflow": {
+            "documentWidth": 390,
+            "viewportWidth": 390,
+            "documentOverflow": false,
+            "modalWidth": null,
+            "modalLeft": null,
+            "modalRight": null,
+            "modalScrollWidth": null,
+            "modalClientWidth": null,
+            "modalOverflow": false
+          }
+        },
+        {
+          "id": "memorialul-revolutiei",
+          "category": "culture",
+          "src": "./media/photos-v02/city-memorialul-revolutiei.webp",
+          "resolvedSrc": "http://127.0.0.1:4176/media/photos-v02/city-memorialul-revolutiei.webp",
+          "naturalWidth": 1280,
+          "naturalHeight": 960,
+          "alt": "蒂米什瓦拉 Oituz 街革命纪念馆的外立面和入口。",
+          "overflow": {
+            "documentWidth": 390,
+            "viewportWidth": 390,
+            "documentOverflow": false,
+            "modalWidth": null,
+            "modalLeft": null,
+            "modalRight": null,
+            "modalScrollWidth": null,
+            "modalClientWidth": null,
+            "modalOverflow": false
+          }
+        },
+        {
+          "id": "fratelli",
+          "category": "night",
+          "src": "./media/photos-v02/city-fratelli.webp",
+          "resolvedSrc": "http://127.0.0.1:4176/media/photos-v02/city-fratelli.webp",
+          "naturalWidth": 1280,
+          "naturalHeight": 720,
+          "alt": "2013 年 2 月，Zdob și Zdub 乐队在蒂米什瓦拉 Fratelli 演出。",
+          "overflow": {
+            "documentWidth": 390,
+            "viewportWidth": 390,
+            "documentOverflow": false,
+            "modalWidth": null,
+            "modalLeft": null,
+            "modalRight": null,
+            "modalScrollWidth": null,
+            "modalClientWidth": null,
+            "modalOverflow": false
+          }
+        },
+        {
+          "id": "beraria",
+          "category": "food",
+          "src": "./media/photos-v02/city-beraria.webp",
+          "resolvedSrc": "http://127.0.0.1:4176/media/photos-v02/city-beraria.webp",
+          "naturalWidth": 797,
+          "naturalHeight": 531,
+          "alt": "2019 年 6 月，Piața 700 广场的 Berăria 700 入口和露台。",
+          "overflow": {
+            "documentWidth": 390,
+            "viewportWidth": 390,
+            "documentOverflow": false,
+            "modalWidth": null,
+            "modalLeft": null,
+            "modalRight": null,
+            "modalScrollWidth": null,
+            "modalClientWidth": null,
+            "modalOverflow": false
+          }
+        }
+      ]
+    },
+    {
+      "engine": "webkit",
+      "status": "pass",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "consoleWarnings": [],
+      "httpFailures": [],
+      "requestFailures": [],
+      "externalRequests": [],
+      "audioResponses": [
+        {
+          "phase": "audio-ro",
+          "url": "http://127.0.0.1:4176/media/audio/clock-ro.mp3",
+          "status": 206,
+          "contentType": "audio/mpeg",
+          "contentRange": "bytes 0-1/127149"
+        },
+        {
+          "phase": "audio-ro",
+          "url": "http://127.0.0.1:4176/media/audio/clock-ro.mp3",
+          "status": 206,
+          "contentType": "audio/mpeg",
+          "contentRange": "bytes 0-127148/127149"
+        },
+        {
+          "phase": "audio-en",
+          "url": "http://127.0.0.1:4176/media/audio/clock-en.mp3",
+          "status": 206,
+          "contentType": "audio/mpeg",
+          "contentRange": "bytes 0-1/103149"
+        },
+        {
+          "phase": "audio-en",
+          "url": "http://127.0.0.1:4176/media/audio/clock-en.mp3",
+          "status": 206,
+          "contentType": "audio/mpeg",
+          "contentRange": "bytes 0-103148/103149"
+        },
+        {
+          "phase": "audio-zh",
+          "url": "http://127.0.0.1:4176/media/audio/clock-zh-Hans.mp3",
+          "status": 206,
+          "contentType": "audio/mpeg",
+          "contentRange": "bytes 0-1/144621"
+        },
+        {
+          "phase": "audio-zh",
+          "url": "http://127.0.0.1:4176/media/audio/clock-zh-Hans.mp3",
+          "status": 206,
+          "contentType": "audio/mpeg",
+          "contentRange": "bytes 0-144620/144621"
+        },
+        {
+          "phase": "modal-zh-Hans",
+          "url": "http://127.0.0.1:4176/media/audio/clock-zh-Hans.mp3",
+          "status": 206,
+          "contentType": "audio/mpeg",
+          "contentRange": "bytes 0-1/144621"
+        },
+        {
+          "phase": "modal-zh-Hans",
+          "url": "http://127.0.0.1:4176/media/audio/clock-zh-Hans.mp3",
+          "status": 206,
+          "contentType": "audio/mpeg",
+          "contentRange": "bytes 0-144620/144621"
+        }
+      ],
+      "initialNetwork": {
+        "requests": [
+          {
+            "url": "http://127.0.0.1:4176/",
+            "resourceType": "document"
+          },
+          {
+            "url": "http://127.0.0.1:4176/assets/index-DlGWqgmB.js",
+            "resourceType": "script"
+          },
+          {
+            "url": "http://127.0.0.1:4176/assets/index-DxLL2-ab.css",
+            "resourceType": "stylesheet"
+          },
+          {
+            "url": "http://127.0.0.1:4176/assets/dm-sans-latin-ext-400-normal-BtiwyxMk.woff2",
+            "resourceType": "font"
+          },
+          {
+            "url": "http://127.0.0.1:4176/media/entrance.jpg",
+            "resourceType": "image"
+          },
+          {
+            "url": "http://127.0.0.1:4176/assets/libre-baskerville-latin-400-italic-Dx5Rrf3o.woff2",
+            "resourceType": "font"
+          },
+          {
+            "url": "http://127.0.0.1:4176/assets/cormorant-garamond-latin-400-italic-Dc_OZ8oc.woff2",
+            "resourceType": "font"
+          },
+          {
+            "url": "http://127.0.0.1:4176/assets/cormorant-garamond-latin-ext-400-normal-Drx2k2n9.woff2",
+            "resourceType": "font"
+          },
+          {
+            "url": "http://127.0.0.1:4176/assets/cormorant-garamond-latin-400-normal-B-1hWBU7.woff2",
+            "resourceType": "font"
+          },
+          {
+            "url": "http://127.0.0.1:4176/assets/dm-sans-latin-400-normal-CW0RaeGs.woff2",
+            "resourceType": "font"
+          }
+        ],
+        "mp3Requests": [],
+        "threeDMuseumRequests": []
+      },
+      "audio": {
+        "openedViaAccessibleButton": {
+          "role": "button",
+          "name": "Ceasul floral",
+          "route": "http://127.0.0.1:4176/#/museum/culture"
+        },
+        "initial": {
+          "src": "./media/audio/clock-ro.mp3",
+          "time": 0,
+          "duration": 15.864,
+          "paused": true,
+          "muted": true,
+          "readyState": 4,
+          "seeking": false,
+          "error": null
+        },
+        "roPlayed": {
+          "src": "./media/audio/clock-ro.mp3",
+          "time": 0.5384915420005781,
+          "duration": 15.864,
+          "paused": false,
+          "muted": false,
+          "readyState": 4,
+          "seeking": false,
+          "error": null
+        },
+        "semanticResume": {
+          "source": {
+            "src": "./media/audio/clock-ro.mp3",
+            "time": 6.027229,
+            "duration": 15.864,
+            "paused": true,
+            "muted": false,
+            "readyState": 4,
+            "seeking": true,
+            "error": null
+          },
+          "sourceSentence": 2,
+          "fraction": 0.43,
+          "expectedEnTime": 4.75178,
+          "observedEnTime": 4.75178,
+          "errorSeconds": 0,
+          "pausedPreserved": true
+        },
+        "enPlayed": {
+          "src": "./media/audio/clock-en.mp3",
+          "time": 5.365490645000137,
+          "duration": 12.864,
+          "paused": false,
+          "muted": false,
+          "readyState": 4,
+          "seeking": false,
+          "error": null
+        },
+        "zhPlayed": {
+          "src": "./media/audio/clock-zh-Hans.mp3",
+          "time": 8.8163427456661,
+          "duration": 18.048,
+          "paused": false,
+          "muted": false,
+          "readyState": 4,
+          "seeking": false,
+          "error": null
+        },
+        "closedAndReleased": true,
+        "closeCleanupObservedWithinMs": 37
+      },
+      "modalScans": [
+        {
+          "language": "zh-Hans",
+          "overflow": {
+            "documentWidth": 390,
+            "viewportWidth": 390,
+            "documentOverflow": false,
+            "modalWidth": 370,
+            "modalLeft": 10,
+            "modalRight": 380,
+            "modalScrollWidth": 368,
+            "modalClientWidth": 368,
+            "modalOverflow": false
+          },
+          "seriousOrCritical": [],
+          "otherViolations": []
+        }
+      ],
+      "photoChecks": [
+        {
+          "id": "parcul-castelului",
+          "category": "nature",
+          "src": "./media/photos-v02/parcul-castelului.webp",
+          "resolvedSrc": "http://127.0.0.1:4176/media/photos-v02/parcul-castelului.webp",
+          "naturalWidth": 1440,
+          "naturalHeight": 1080,
+          "alt": "匈雅提城堡旁城堡公园内的小径与草坪。",
+          "overflow": {
+            "documentWidth": 390,
+            "viewportWidth": 390,
+            "documentOverflow": false,
+            "modalWidth": null,
+            "modalLeft": null,
+            "modalRight": null,
+            "modalScrollWidth": null,
+            "modalClientWidth": null,
+            "modalOverflow": false
+          }
+        },
+        {
+          "id": "memorialul-revolutiei",
+          "category": "culture",
+          "src": "./media/photos-v02/city-memorialul-revolutiei.webp",
+          "resolvedSrc": "http://127.0.0.1:4176/media/photos-v02/city-memorialul-revolutiei.webp",
+          "naturalWidth": 1280,
+          "naturalHeight": 960,
+          "alt": "蒂米什瓦拉 Oituz 街革命纪念馆的外立面和入口。",
+          "overflow": {
+            "documentWidth": 390,
+            "viewportWidth": 390,
+            "documentOverflow": false,
+            "modalWidth": null,
+            "modalLeft": null,
+            "modalRight": null,
+            "modalScrollWidth": null,
+            "modalClientWidth": null,
+            "modalOverflow": false
+          }
+        },
+        {
+          "id": "fratelli",
+          "category": "night",
+          "src": "./media/photos-v02/city-fratelli.webp",
+          "resolvedSrc": "http://127.0.0.1:4176/media/photos-v02/city-fratelli.webp",
+          "naturalWidth": 1280,
+          "naturalHeight": 720,
+          "alt": "2013 年 2 月，Zdob și Zdub 乐队在蒂米什瓦拉 Fratelli 演出。",
+          "overflow": {
+            "documentWidth": 390,
+            "viewportWidth": 390,
+            "documentOverflow": false,
+            "modalWidth": null,
+            "modalLeft": null,
+            "modalRight": null,
+            "modalScrollWidth": null,
+            "modalClientWidth": null,
+            "modalOverflow": false
+          }
+        },
+        {
+          "id": "beraria",
+          "category": "food",
+          "src": "./media/photos-v02/city-beraria.webp",
+          "resolvedSrc": "http://127.0.0.1:4176/media/photos-v02/city-beraria.webp",
+          "naturalWidth": 797,
+          "naturalHeight": 531,
+          "alt": "2019 年 6 月，Piața 700 广场的 Berăria 700 入口和露台。",
+          "overflow": {
+            "documentWidth": 390,
+            "viewportWidth": 390,
+            "documentOverflow": false,
+            "modalWidth": null,
+            "modalLeft": null,
+            "modalRight": null,
+            "modalScrollWidth": null,
+            "modalClientWidth": null,
+            "modalOverflow": false
+          }
+        }
+      ]
+    }
+  ],
+  "screenshots": [
+    "work/final-qa/v02-audio-chromium.png",
+    "work/final-qa/v02-photo-parcul-castelului.png",
+    "work/final-qa/v02-photo-memorialul-revolutiei.png",
+    "work/final-qa/v02-photo-fratelli.png",
+    "work/final-qa/v02-photo-beraria.png"
+  ],
+  "completedAt": "2026-11-13T21:39:01.173Z",
+  "summary": {
+    "engines": 3,
+    "passed": 3,
+    "failed": 0,
+    "modalScans": 8,
+    "photoDecodes": 12,
+    "pageErrors": 0,
+    "consoleErrors": 0,
+    "httpFailures": 0,
+    "requestFailures": 0,
+    "externalRequests": 0,
+    "seriousOrCriticalAxeViolations": 0,
+    "overflowFailures": 0
+  },
+  "temporaryServer": {
+    "port": 4176,
+    "owned": true,
+    "stopped": true,
+    "stopMethod": "SIGINT via owned exec session",
+    "listeningAfterStop": false
+  },
+  "environmentNotes": [
+    "Initial default-sandbox browser launches were denied by OS sandbox; the full measured run was performed through the approved escalated command.",
+    "First measured run exposed two test-harness assumptions: valid ./media paths were normalized to resolved URL paths, and asynchronous dialog-close cleanup is now awaited. No product edits were made for these harness corrections.",
+    "Chromium reported software WebGL ReadPixels performance warnings; Firefox reported WebGL context-loss warnings during scene disposal/recreation. No page/console errors, HTTP failures, failed requests or external requests occurred."
+  ],
+  "visualReview": {
+    "performed": true,
+    "screenshots": [
+      "work/final-qa/v02-audio-chromium.png",
+      "work/final-qa/v02-photo-parcul-castelului.png",
+      "work/final-qa/v02-photo-memorialul-revolutiei.png",
+      "work/final-qa/v02-photo-fratelli.png",
+      "work/final-qa/v02-photo-beraria.png"
+    ],
+    "observations": "Audio modal controls and transcript fit the 390×844 viewport. All four new images render sharply in their cards; archival Fratelli 2013 and Berăria700 2019 context captions are visible. No horizontal clipping observed."
+  }
+}

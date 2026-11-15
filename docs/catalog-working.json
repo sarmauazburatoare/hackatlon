@@ -1,0 +1,3662 @@
+{
+  "categories": [
+    {
+      "id": "adventure",
+      "number": 1,
+      "color": "#52C9C2",
+      "symbol": "↗",
+      "name": {
+        "ro": "Distracție & aventură",
+        "en": "Fun & adventure",
+        "it": "Divertimento e avventura",
+        "fr": "Loisirs et aventure",
+        "es": "Diversión y aventura",
+        "zh-Hans": "娱乐与冒险"
+      },
+      "intro": {
+        "ro": "Mișcare, joc și provocări de încercat împreună.",
+        "en": "Movement, games and challenges to try together.",
+        "it": "Movimento, giochi e sfide da provare insieme.",
+        "fr": "Du mouvement, des jeux et des défis à partager.",
+        "es": "Movimiento, juegos y retos para compartir.",
+        "zh-Hans": "一起运动、游戏，迎接新的挑战。"
+      }
+    },
+    {
+      "id": "kids",
+      "number": 2,
+      "color": "#F2D66D",
+      "symbol": "◒",
+      "name": {
+        "ro": "Bucurii pentru cei mici",
+        "en": "Little discoveries",
+        "it": "Scoperte per i più piccoli",
+        "fr": "Découvertes pour les petits",
+        "es": "Descubrimientos para peques",
+        "zh-Hans": "亲子时光"
+      },
+      "intro": {
+        "ro": "Ieșiri gândite în jurul curiozității copiilor.",
+        "en": "Outings shaped around children’s curiosity.",
+        "it": "Uscite pensate per la curiosità dei bambini.",
+        "fr": "Des sorties au rythme de la curiosité des enfants.",
+        "es": "Planes para la curiosidad de los niños.",
+        "zh-Hans": "以孩子的好奇心为起点，安排一次出游。"
+      }
+    },
+    {
+      "id": "nature",
+      "number": 3,
+      "color": "#8E9B68",
+      "symbol": "♧",
+      "name": {
+        "ro": "Escapade în aer liber",
+        "en": "Outdoor escapes",
+        "it": "Fughe all’aperto",
+        "fr": "Escapades en plein air",
+        "es": "Escapadas al aire libre",
+        "zh-Hans": "户外漫游"
+      },
+      "intro": {
+        "ro": "Parcuri, plimbări și o altă perspectivă asupra orașului.",
+        "en": "Parks, walks and another view of the city.",
+        "it": "Parchi, passeggiate e un altro sguardo sulla città.",
+        "fr": "Des parcs, des promenades et un autre regard sur la ville.",
+        "es": "Parques, paseos y otra mirada a la ciudad.",
+        "zh-Hans": "走进公园，沿路漫步，换个角度看城市。"
+      }
+    },
+    {
+      "id": "relax",
+      "number": 4,
+      "color": "#C3A4D8",
+      "symbol": "≈",
+      "name": {
+        "ro": "Relaxare & răsfăț",
+        "en": "Rest & relaxation",
+        "it": "Relax e benessere",
+        "fr": "Détente et bien-être",
+        "es": "Descanso y bienestar",
+        "zh-Hans": "放松身心"
+      },
+      "intro": {
+        "ro": "Lasă loc unei pauze, pe apă sau pe mal.",
+        "en": "Make room for a pause, on the water or beside it.",
+        "it": "Concediti una pausa, sull’acqua o lungo la riva.",
+        "fr": "Accordez-vous une pause, sur l’eau ou sur la berge.",
+        "es": "Haz una pausa, en el agua o junto a ella.",
+        "zh-Hans": "在水上或岸边，给自己留一段休息时间。"
+      }
+    },
+    {
+      "id": "night",
+      "number": 5,
+      "color": "#F05B9E",
+      "symbol": "☾",
+      "name": {
+        "ro": "Nopți în oraș",
+        "en": "After dark",
+        "it": "Notti in città",
+        "fr": "Nuits en ville",
+        "es": "Noches en la ciudad",
+        "zh-Hans": "城市之夜"
+      },
+      "intro": {
+        "ro": "Muzică și întâlniri de seară. Consultă condițiile fiecărui loc.",
+        "en": "Music and evening gatherings. Check each venue’s admission rules.",
+        "it": "Musica e incontri serali. Controlla le condizioni di accesso.",
+        "fr": "Musique et rencontres en soirée. Vérifiez les conditions d’entrée.",
+        "es": "Música y encuentros nocturnos. Consulta las condiciones de acceso.",
+        "zh-Hans": "音乐与夜间聚会。请查看各场所的入场规定。"
+      }
+    },
+    {
+      "id": "cafes",
+      "number": 6,
+      "color": "#8B6454",
+      "symbol": "☕",
+      "name": {
+        "ro": "Cafenele",
+        "en": "Coffee stops",
+        "it": "Caffetterie",
+        "fr": "Cafés",
+        "es": "Cafeterías",
+        "zh-Hans": "咖啡馆"
+      },
+      "intro": {
+        "ro": "Alege o pauză de cafea între două descoperiri.",
+        "en": "Choose a coffee break between discoveries.",
+        "it": "Scegli una pausa caffè tra una scoperta e l’altra.",
+        "fr": "Choisissez une pause café entre deux découvertes.",
+        "es": "Elige una pausa de café entre descubrimientos.",
+        "zh-Hans": "在两次探索之间，停下来喝杯咖啡。"
+      }
+    },
+    {
+      "id": "food",
+      "number": 7,
+      "color": "#F28B68",
+      "symbol": "◡",
+      "name": {
+        "ro": "Descoperiri culinare",
+        "en": "Food discoveries",
+        "it": "Scoperte gastronomiche",
+        "fr": "Découvertes gourmandes",
+        "es": "Descubrimientos gastronómicos",
+        "zh-Hans": "寻味之旅"
+      },
+      "intro": {
+        "ro": "Mese în oraș, bucătării diferite și locuri de întâlnire.",
+        "en": "Eating out, different cuisines and places to meet.",
+        "it": "Mangiare fuori, cucine diverse e luoghi d’incontro.",
+        "fr": "Des repas en ville, des cuisines variées et des rencontres.",
+        "es": "Comer fuera, cocinas diferentes y lugares para reunirse.",
+        "zh-Hans": "在城里品尝不同风味，找到相聚的地方。"
+      }
+    },
+    {
+      "id": "culture",
+      "number": 8,
+      "color": "#DEC7BD",
+      "symbol": "⌑",
+      "name": {
+        "ro": "Cultură & muzee",
+        "en": "Culture & museums",
+        "it": "Cultura e musei",
+        "fr": "Culture et musées",
+        "es": "Cultura y museos",
+        "zh-Hans": "文化与博物馆"
+      },
+      "intro": {
+        "ro": "Artă, memorie și patrimoniul cotidian al Banatului.",
+        "en": "Art, memory and the everyday heritage of Banat.",
+        "it": "Arte, memoria e patrimonio quotidiano del Banato.",
+        "fr": "Art, mémoire et patrimoine quotidien du Banat.",
+        "es": "Arte, memoria y patrimonio cotidiano del Banato.",
+        "zh-Hans": "艺术、记忆，以及巴纳特地区的日常文化遗产。"
+      }
+    },
+    {
+      "id": "history",
+      "number": 9,
+      "color": "#B8BDC5",
+      "symbol": "♜",
+      "name": {
+        "ro": "Timișoara istorică",
+        "en": "Historic Timișoara",
+        "it": "Timișoara storica",
+        "fr": "Timișoara historique",
+        "es": "Timișoara histórica",
+        "zh-Hans": "历史中的蒂米什瓦拉"
+      },
+      "intro": {
+        "ro": "Piețe și clădiri care te îndeamnă să privești mai atent.",
+        "en": "Squares and buildings that reward a closer look.",
+        "it": "Piazze ed edifici da osservare con attenzione.",
+        "fr": "Des places et des bâtiments à regarder de plus près.",
+        "es": "Plazas y edificios para observar con calma.",
+        "zh-Hans": "放慢脚步，细看广场与建筑的故事。"
+      }
+    }
+  ],
+  "activities": [
+    {
+      "id": "beat-seven",
+      "name": {
+        "ro": "Beat Se7en",
+        "en": "Beat Se7en",
+        "it": "Beat Se7en",
+        "fr": "Beat Se7en",
+        "es": "Beat Se7en",
+        "zh-Hans": "Beat Se7en"
+      },
+      "description": {
+        "ro": "Coordonează pașii echipei pe o podea LED interactivă. În clădirea Modex, jocul pune la încercare reflexele și cooperarea; consultă operatorul pentru rezervare și siguranță.",
+        "en": "Coordinate your team’s steps on an interactive LED floor. Inside the Modex building, the game challenges reflexes and cooperation; check reservations and safety requirements with the operator.",
+        "it": "Coordina i passi della squadra su un pavimento LED interattivo. Nel palazzo Modex, il gioco mette alla prova riflessi e collaborazione; verifica prenotazione e sicurezza.",
+        "fr": "Coordonnez les pas de votre équipe sur un sol LED interactif. Dans le bâtiment Modex, le jeu sollicite réflexes et coopération ; vérifiez réservation et sécurité.",
+        "es": "Coordina los pasos del equipo sobre un suelo LED interactivo. En el edificio Modex, el juego pone a prueba reflejos y cooperación; consulta reservas y seguridad.",
+        "zh-Hans": "在 Modex 大楼的互动 LED 地板上，与队友协调步伐、挑战反应与合作能力。请向经营方确认预约方式和安全要求。"
+      },
+      "categories": [
+        "adventure"
+      ],
+      "venues": [
+        {
+          "id": "beat-seven-main",
+          "name": "Beat Se7en",
+          "address": "Piața Iancu Huniade 3, Modex, etaj 2, Timișoara",
+          "verified": true,
+          "status": "open",
+          "minors": "unknown",
+          "url": "https://beatse7en.com/",
+          "linkType": "official",
+          "sources": [
+            "https://beatse7en.com/"
+          ],
+          "verifiedAt": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": "hype",
+      "name": {
+        "ro": "Hype Play by Kiddo",
+        "en": "Hype Play by Kiddo",
+        "it": "Hype Play by Kiddo",
+        "fr": "Hype Play by Kiddo",
+        "es": "Hype Play by Kiddo",
+        "zh-Hans": "Hype Play by Kiddo"
+      },
+      "description": {
+        "ro": "Încearcă o provocare interactivă alături de prieteni, cu mișcare și coordonare. Verifică la operator jocurile disponibile, regulile de siguranță și condițiile pentru grupul tău.",
+        "en": "Try an interactive challenge with friends, combining movement and coordination. Check available games, safety instructions and the conditions for your group with the operator before visiting.",
+        "it": "Prova una sfida interattiva con gli amici, tra movimento e coordinazione. Verifica con il gestore i giochi disponibili, le regole di sicurezza e le condizioni del gruppo.",
+        "fr": "Essayez un défi interactif entre amis, mêlant mouvement et coordination. Vérifiez auprès du lieu les jeux disponibles, les consignes de sécurité et les conditions pour votre groupe.",
+        "es": "Prueba un reto interactivo con amigos que combina movimiento y coordinación. Consulta los juegos disponibles, las normas de seguridad y las condiciones para vuestro grupo.",
+        "zh-Hans": "和朋友一起挑战互动游戏，体验运动与配合的乐趣。到访前请向经营方确认可选游戏、安全要求，以及适合你们团队的参与条件。"
+      },
+      "categories": [
+        "adventure"
+      ],
+      "venues": [
+        {
+          "id": "hype-main",
+          "name": "Hype Play by Kiddo",
+          "address": "Calea Stan Vidrighin 5D, Timișoara",
+          "verified": true,
+          "status": "open",
+          "minors": "yes",
+          "url": "https://hypeplay.ro/hype-timisoara/contact/",
+          "linkType": "official",
+          "sources": [
+            "https://hypeplay.ro/hype-timisoara/contact/"
+          ],
+          "verifiedAt": "2026-11-13",
+          "adultRequired": true,
+          "lat": 45.7433807,
+          "lon": 21.2559901
+        }
+      ]
+    },
+    {
+      "id": "skydiving",
+      "name": {
+        "ro": "Skydiving Simulator",
+        "en": "Skydiving Simulator",
+        "it": "Skydiving Simulator",
+        "fr": "Skydiving Simulator",
+        "es": "Skydiving Simulator",
+        "zh-Hans": "Skydiving Simulator"
+      },
+      "description": {
+        "ro": "Detaliile acestui loc sunt în curs de confirmare. Îl păstrăm între ideile de explorat; o destinație sigură va fi disponibilă după identificarea exactă a operatorului.",
+        "en": "Details of this place are being confirmed. It remains among the ideas to explore; a reliable destination will be available once the operator is identified.",
+        "it": "I dettagli di questo luogo sono in corso di verifica. Rimane tra le idee da esplorare; il collegamento sarà disponibile dopo l’identificazione esatta del gestore.",
+        "fr": "Les informations sur ce lieu sont en cours de vérification. Il reste parmi les idées à explorer ; un lien fiable suivra l’identification de son exploitant.",
+        "es": "Los detalles de este lugar se están comprobando. Se conserva como idea para explorar; habrá un destino fiable tras identificar exactamente al operador.",
+        "zh-Hans": "这个场所的具体信息仍待确认。我们将其保留为探索灵感；准确识别经营方后，才会提供可靠的访问链接。"
+      },
+      "categories": [
+        "adventure"
+      ],
+      "venues": [
+        {
+          "id": "skydiving-unconfirmed",
+          "name": "Skydiving Simulator",
+          "address": "",
+          "verified": false,
+          "status": "unknown",
+          "minors": "unknown",
+          "sources": []
+        }
+      ],
+      "note": "Operator, intrare și condiții de acces încă neconfirmate; exclus din recomandări."
+    },
+    {
+      "id": "bowling",
+      "name": {
+        "ro": "Bowling — Gentlemen’s Social Club",
+        "en": "Bowling — Gentlemen’s Social Club",
+        "it": "Bowling — Gentlemen’s Social Club",
+        "fr": "Bowling — Gentlemen’s Social Club",
+        "es": "Bolos — Gentlemen’s Social Club",
+        "zh-Hans": "保龄球 — Gentlemen’s Social Club"
+      },
+      "description": {
+        "ro": "Detaliile acestui loc sunt în curs de confirmare. Îl păstrăm între ideile de explorat; o destinație sigură va fi disponibilă după identificarea exactă a operatorului.",
+        "en": "Details of this place are being confirmed. It remains among the ideas to explore; a reliable destination will be available once the operator is identified.",
+        "it": "I dettagli di questo luogo sono in corso di verifica. Rimane tra le idee da esplorare; il collegamento sarà disponibile dopo l’identificazione esatta del gestore.",
+        "fr": "Les informations sur ce lieu sont en cours de vérification. Il reste parmi les idées à explorer ; un lien fiable suivra l’identification de son exploitant.",
+        "es": "Los detalles de este lugar se están comprobando. Se conserva como idea para explorar; habrá un destino fiable tras identificar exactamente al operador.",
+        "zh-Hans": "这个场所的具体信息仍待确认。我们将其保留为探索灵感；准确识别经营方后，才会提供可靠的访问链接。"
+      },
+      "categories": [
+        "adventure"
+      ],
+      "venues": [
+        {
+          "id": "bowling-unconfirmed",
+          "name": "Bowling — Gentlemen’s Social Club",
+          "address": "",
+          "verified": false,
+          "status": "unknown",
+          "minors": "unknown",
+          "sources": []
+        }
+      ],
+      "note": "Operator, intrare și condiții de acces încă neconfirmate; exclus din recomandări."
+    },
+    {
+      "id": "rolers",
+      "name": {
+        "ro": "Rolers Dreams",
+        "en": "Rolers Dreams",
+        "it": "Rolers Dreams",
+        "fr": "Rolers Dreams",
+        "es": "Rolers Dreams",
+        "zh-Hans": "Rolers Dreams"
+      },
+      "description": {
+        "ro": "Încearcă patinajul pe patine cu patru roți, într-un decor inspirat de disco. Alege sediul Roller Dreams din Dumbrăvița și verifică echipamentul, regulile și programul înainte de vizită.",
+        "en": "Try four-wheel roller skating in a disco-inspired setting. Choose the Roller Dreams branch in Dumbrăvița and check equipment, rules and opening information before planning your visit.",
+        "it": "Prova il pattinaggio a quattro ruote in un ambiente ispirato alla disco. Scegli Roller Dreams a Dumbrăvița e verifica attrezzatura, regole e apertura prima della visita.",
+        "fr": "Essayez les patins à quatre roues dans un décor disco. Choisissez Roller Dreams à Dumbrăvița et vérifiez l’équipement, les règles et les horaires avant votre visite.",
+        "es": "Prueba los patines de cuatro ruedas en un entorno disco. Elige Roller Dreams en Dumbrăvița y consulta equipo, normas y apertura antes de la visita.",
+        "zh-Hans": "在迪斯科风格的场地体验四轮溜冰。此条目选定 Dumbrăvița 的 Roller Dreams 分店；到访前请确认装备、参与规则及开放安排。"
+      },
+      "categories": [
+        "adventure"
+      ],
+      "venues": [
+        {
+          "id": "rolers-main",
+          "name": "Roller Dreams — Dumbrăvița",
+          "address": "Strada Gramma II 1, Dumbrăvița",
+          "verified": true,
+          "status": "open",
+          "minors": "unknown",
+          "url": "https://rollerdreams.ro/contact/",
+          "linkType": "official",
+          "sources": [
+            "https://rollerdreams.ro/contact/"
+          ],
+          "verifiedAt": "2026-11-13",
+          "lat": 45.79536494983532,
+          "lon": 21.245222153415042
+        }
+      ]
+    },
+    {
+      "id": "animus",
+      "name": {
+        "ro": "Animus — Floor Is Lava",
+        "en": "Animus — Floor Is Lava",
+        "it": "Animus — Floor Is Lava",
+        "fr": "Animus — Floor Is Lava",
+        "es": "Animus — Floor Is Lava",
+        "zh-Hans": "Animus — Floor Is Lava"
+      },
+      "description": {
+        "ro": "Încearcă o provocare interactivă alături de prieteni, cu mișcare și coordonare. Verifică la operator jocurile disponibile, regulile de siguranță și condițiile pentru grupul tău.",
+        "en": "Try an interactive challenge with friends, combining movement and coordination. Check available games, safety instructions and the conditions for your group with the operator before visiting.",
+        "it": "Prova una sfida interattiva con gli amici, tra movimento e coordinazione. Verifica con il gestore i giochi disponibili, le regole di sicurezza e le condizioni del gruppo.",
+        "fr": "Essayez un défi interactif entre amis, mêlant mouvement et coordination. Vérifiez auprès du lieu les jeux disponibles, les consignes de sécurité et les conditions pour votre groupe.",
+        "es": "Prueba un reto interactivo con amigos que combina movimiento y coordinación. Consulta los juegos disponibles, las normas de seguridad y las condiciones para vuestro grupo.",
+        "zh-Hans": "和朋友一起挑战互动游戏，体验运动与配合的乐趣。到访前请向经营方确认可选游戏、安全要求，以及适合你们团队的参与条件。"
+      },
+      "categories": [
+        "adventure"
+      ],
+      "venues": [
+        {
+          "id": "animus-main",
+          "name": "Animus — Floor Is Lava",
+          "address": "VOX Technology Park, clădirea B, etaj 1, Timișoara",
+          "verified": true,
+          "status": "open",
+          "minors": "yes",
+          "url": "https://animusarena.ro/en/what-is-animus",
+          "linkType": "official",
+          "sources": [
+            "https://animusarena.ro/en/what-is-animus"
+          ],
+          "verifiedAt": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": "red-motor",
+      "name": {
+        "ro": "Red Motor",
+        "en": "Red Motor",
+        "it": "Red Motor",
+        "fr": "Red Motor",
+        "es": "Red Motor",
+        "zh-Hans": "Red Motor"
+      },
+      "description": {
+        "ro": "Încearcă o sesiune de karting pe circuitul Red Motor. Există karturi pentru copii și adulți; verifică încadrarea, acordul însoțitorului și instructajul de siguranță înainte de cursă.",
+        "en": "Try a karting session at Red Motor. Karts are offered for children and adults; confirm eligibility, the accompanying adult’s consent and the safety briefing before your race.",
+        "it": "Prova una sessione di kart da Red Motor. Sono disponibili kart per bambini e adulti; verifica requisiti, consenso dell’accompagnatore e briefing di sicurezza prima della corsa.",
+        "fr": "Essayez le karting chez Red Motor. Des karts sont proposés aux enfants et adultes ; vérifiez les conditions, l’accord de l’accompagnateur et les consignes avant la course.",
+        "es": "Prueba una sesión de karting en Red Motor. Hay karts para niños y adultos; confirma requisitos, autorización del acompañante e instrucciones de seguridad antes de correr.",
+        "zh-Hans": "在 Red Motor 体验卡丁车。经营方提供儿童和成人车辆；比赛前请确认参与条件、陪同成人的同意要求，并完成安全讲解。"
+      },
+      "categories": [
+        "adventure"
+      ],
+      "venues": [
+        {
+          "id": "red-motor-main",
+          "name": "Red Motor",
+          "address": "Strada Ovidiu Cotruș 30, Timișoara",
+          "verified": true,
+          "status": "open",
+          "minors": "yes",
+          "url": "https://www.redmotor.ro/",
+          "linkType": "official",
+          "sources": [
+            "https://www.redmotor.ro/"
+          ],
+          "verifiedAt": "2026-11-13",
+          "minimumAge": 6,
+          "adultRequired": true
+        }
+      ]
+    },
+    {
+      "id": "arcade",
+      "name": {
+        "ro": "Arcade — Iulius Mall",
+        "en": "Arcade — Iulius Mall",
+        "it": "Sala giochi — Iulius Mall",
+        "fr": "Jeux d’arcade — Iulius Mall",
+        "es": "Juegos arcade — Iulius Mall",
+        "zh-Hans": "街机游戏 — Iulius Mall"
+      },
+      "description": {
+        "ro": "Detaliile acestui loc sunt în curs de confirmare. Îl păstrăm între ideile de explorat; o destinație sigură va fi disponibilă după identificarea exactă a operatorului.",
+        "en": "Details of this place are being confirmed. It remains among the ideas to explore; a reliable destination will be available once the operator is identified.",
+        "it": "I dettagli di questo luogo sono in corso di verifica. Rimane tra le idee da esplorare; il collegamento sarà disponibile dopo l’identificazione esatta del gestore.",
+        "fr": "Les informations sur ce lieu sont en cours de vérification. Il reste parmi les idées à explorer ; un lien fiable suivra l’identification de son exploitant.",
+        "es": "Los detalles de este lugar se están comprobando. Se conserva como idea para explorar; habrá un destino fiable tras identificar exactamente al operador.",
+        "zh-Hans": "这个场所的具体信息仍待确认。我们将其保留为探索灵感；准确识别经营方后，才会提供可靠的访问链接。"
+      },
+      "categories": [
+        "adventure"
+      ],
+      "venues": [
+        {
+          "id": "arcade-unconfirmed",
+          "name": "Arcade — Iulius Mall",
+          "address": "",
+          "verified": false,
+          "status": "unknown",
+          "minors": "unknown",
+          "sources": []
+        }
+      ],
+      "note": "Operator, intrare și condiții de acces încă neconfirmate; exclus din recomandări."
+    },
+    {
+      "id": "amazonia",
+      "name": {
+        "ro": "Amazonia",
+        "en": "Amazonia",
+        "it": "Amazonia",
+        "fr": "Amazonia",
+        "es": "Amazonia",
+        "zh-Hans": "Amazonia"
+      },
+      "description": {
+        "ro": "Alege zona de aquapark pentru piscine și tobogane. Minorii au nevoie de însoțire, iar atracțiile au reguli proprii; accesul la Spa are restricții separate.",
+        "en": "Choose the aquapark area for pools and slides. Minors need adult supervision, attractions have their own rules, and admission to the Spa has separate restrictions.",
+        "it": "Scegli l’area acquapark per piscine e scivoli. I minori devono essere accompagnati, le attrazioni hanno regole proprie e l’accesso alla Spa prevede restrizioni separate.",
+        "fr": "Choisissez l’espace aquapark pour les bassins et toboggans. Les mineurs doivent être accompagnés ; chaque attraction a ses règles et le Spa applique des restrictions distinctes.",
+        "es": "Elige la zona acuática para piscinas y toboganes. Los menores necesitan acompañamiento, cada atracción tiene sus normas y el acceso al spa tiene restricciones propias.",
+        "zh-Hans": "在水上乐园体验泳池与滑梯。未成年人需由成人陪同；各项目有独立参与规定，Spa 区另有年龄限制，请提前确认。"
+      },
+      "categories": [
+        "adventure"
+      ],
+      "venues": [
+        {
+          "id": "amazonia-main",
+          "name": "Amazonia",
+          "address": "Strada Avram Imbroane 56, Recepția 1 / intrarea A, Timișoara",
+          "verified": true,
+          "status": "open",
+          "minors": "yes",
+          "url": "https://www.amazonia.ro/bilete/",
+          "linkType": "official",
+          "sources": [
+            "https://www.amazonia.ro/bilete/",
+            "https://www.amazonia.ro/regulament-intern/"
+          ],
+          "verifiedAt": "2026-11-13",
+          "adultRequired": true
+        }
+      ]
+    },
+    {
+      "id": "exitgames",
+      "name": {
+        "ro": "Exitgames",
+        "en": "Exitgames",
+        "it": "Exitgames",
+        "fr": "Exitgames",
+        "es": "Exitgames",
+        "zh-Hans": "Exitgames"
+      },
+      "description": {
+        "ro": "Rezolvă indicii într-o cameră de evadare împreună cu echipa. Alege tema și vârsta potrivită; minorii participă cu adult, iar rezervarea se face la operator.",
+        "en": "Solve clues together inside a themed escape room. Choose a room with the right age limit; minors need an adult teammate and bookings go through the operator.",
+        "it": "Risolvi gli indizi con la squadra in una stanza a tema. Scegli il limite d’età adatto; i minori partecipano con un adulto e serve prenotare.",
+        "fr": "Résolvez ensemble les énigmes d’une salle à thème. Choisissez une limite d’âge adaptée ; les mineurs jouent avec un adulte et la réservation se fait directement.",
+        "es": "Resuelve pistas en equipo dentro de una sala temática. Elige una edad mínima adecuada; los menores juegan con un adulto y la reserva se realiza directamente.",
+        "zh-Hans": "与队友在主题密室中寻找线索、解开谜题。请选择年龄要求合适的房间；未成年人需有成人队友，并提前向经营方预约。"
+      },
+      "categories": [
+        "adventure"
+      ],
+      "venues": [
+        {
+          "id": "exitgames-main",
+          "name": "Exitgames",
+          "address": "Strada Constantin Brâncoveanu 53, Timișoara",
+          "verified": true,
+          "status": "open",
+          "minors": "yes",
+          "url": "https://exitgames.ro/public/ro",
+          "linkType": "official",
+          "sources": [
+            "https://exitgames.ro/public/ro"
+          ],
+          "verifiedAt": "2026-11-13",
+          "minimumAge": 12,
+          "adultRequired": true
+        }
+      ]
+    },
+    {
+      "id": "samantha",
+      "name": {
+        "ro": "Samantha’s House",
+        "en": "Samantha’s House",
+        "it": "Samantha’s House",
+        "fr": "Samantha’s House",
+        "es": "Samantha’s House",
+        "zh-Hans": "Samantha’s House"
+      },
+      "description": {
+        "ro": "Detaliile acestui loc sunt în curs de confirmare. Îl păstrăm între ideile de explorat; o destinație sigură va fi disponibilă după identificarea exactă a operatorului.",
+        "en": "Details of this place are being confirmed. It remains among the ideas to explore; a reliable destination will be available once the operator is identified.",
+        "it": "I dettagli di questo luogo sono in corso di verifica. Rimane tra le idee da esplorare; il collegamento sarà disponibile dopo l’identificazione esatta del gestore.",
+        "fr": "Les informations sur ce lieu sont en cours de vérification. Il reste parmi les idées à explorer ; un lien fiable suivra l’identification de son exploitant.",
+        "es": "Los detalles de este lugar se están comprobando. Se conserva como idea para explorar; habrá un destino fiable tras identificar exactamente al operador.",
+        "zh-Hans": "这个场所的具体信息仍待确认。我们将其保留为探索灵感；准确识别经营方后，才会提供可靠的访问链接。"
+      },
+      "categories": [
+        "adventure"
+      ],
+      "venues": [
+        {
+          "id": "samantha-unconfirmed",
+          "name": "Samantha’s House",
+          "address": "",
+          "verified": false,
+          "status": "unknown",
+          "minors": "unknown",
+          "sources": []
+        }
+      ],
+      "note": "Operator, intrare și condiții de acces încă neconfirmate; exclus din recomandări."
+    },
+    {
+      "id": "grumi",
+      "name": {
+        "ro": "Olărit — Grumi",
+        "en": "Pottery — Grumi",
+        "it": "Ceramica — Grumi",
+        "fr": "Poterie — Grumi",
+        "es": "Cerámica — Grumi",
+        "zh-Hans": "陶艺 — Grumi"
+      },
+      "description": {
+        "ro": "Detaliile acestui loc sunt în curs de confirmare. Îl păstrăm între ideile de explorat; o destinație sigură va fi disponibilă după identificarea exactă a operatorului.",
+        "en": "Details of this place are being confirmed. It remains among the ideas to explore; a reliable destination will be available once the operator is identified.",
+        "it": "I dettagli di questo luogo sono in corso di verifica. Rimane tra le idee da esplorare; il collegamento sarà disponibile dopo l’identificazione esatta del gestore.",
+        "fr": "Les informations sur ce lieu sont en cours de vérification. Il reste parmi les idées à explorer ; un lien fiable suivra l’identification de son exploitant.",
+        "es": "Los detalles de este lugar se están comprobando. Se conserva como idea para explorar; habrá un destino fiable tras identificar exactamente al operador.",
+        "zh-Hans": "这个场所的具体信息仍待确认。我们将其保留为探索灵感；准确识别经营方后，才会提供可靠的访问链接。"
+      },
+      "categories": [
+        "adventure"
+      ],
+      "venues": [
+        {
+          "id": "grumi-unconfirmed",
+          "name": "Olărit — Grumi",
+          "address": "",
+          "verified": false,
+          "status": "unknown",
+          "minors": "unknown",
+          "sources": []
+        }
+      ],
+      "note": "Operator, intrare și condiții de acces încă neconfirmate; exclus din recomandări."
+    },
+    {
+      "id": "megazone",
+      "name": {
+        "ro": "Megazone — Laser Tag",
+        "en": "Megazone — Laser Tag",
+        "it": "Megazone — Laser Tag",
+        "fr": "Megazone — Laser Tag",
+        "es": "Megazone — Laser Tag",
+        "zh-Hans": "Megazone — Laser Tag"
+      },
+      "description": {
+        "ro": "Formează o echipă pentru laser tag în arena Megazone 2 din Lipovei. Operatorul anunță acces de la șapte ani; verifică sesiunea și regulile înainte de rezervare.",
+        "en": "Gather a team for laser tag at Megazone 2 in Lipovei. The operator lists admission from age seven; confirm the session and rules before booking your visit.",
+        "it": "Forma una squadra per il laser tag da Megazone 2, a Lipovei. Il gestore indica accesso dai sette anni; verifica sessione e regole prima di prenotare.",
+        "fr": "Formez une équipe de laser tag chez Megazone 2, à Lipovei. Le lieu annonce l’accès dès sept ans ; confirmez la séance et les règles avant réservation.",
+        "es": "Forma un equipo para jugar al laser tag en Megazone 2, en Lipovei. El operador admite desde siete años; confirma la sesión y las normas.",
+        "zh-Hans": "在 Lipovei 的 Megazone 2 组队体验激光对战。经营方公布的参与年龄为七岁起；预约前请确认场次和具体规则。"
+      },
+      "categories": [
+        "adventure"
+      ],
+      "venues": [
+        {
+          "id": "megazone-main",
+          "name": "Megazone 2 — LaserTag",
+          "address": "Strada Ion Ionescu de la Brad 15, Timișoara",
+          "verified": true,
+          "status": "open",
+          "minors": "yes",
+          "url": "https://www.megazonetimisoara.ro/megazone-2",
+          "linkType": "official",
+          "sources": [
+            "https://www.megazonetimisoara.ro/megazone-2"
+          ],
+          "verifiedAt": "2026-11-13",
+          "minimumAge": 7
+        }
+      ]
+    },
+    {
+      "id": "paintball",
+      "name": {
+        "ro": "Paintball",
+        "en": "Paintball",
+        "it": "Paintball",
+        "fr": "Paintball",
+        "es": "Paintball",
+        "zh-Hans": "Paintball"
+      },
+      "description": {
+        "ro": "Detaliile acestui loc sunt în curs de confirmare. Îl păstrăm între ideile de explorat; o destinație sigură va fi disponibilă după identificarea exactă a operatorului.",
+        "en": "Details of this place are being confirmed. It remains among the ideas to explore; a reliable destination will be available once the operator is identified.",
+        "it": "I dettagli di questo luogo sono in corso di verifica. Rimane tra le idee da esplorare; il collegamento sarà disponibile dopo l’identificazione esatta del gestore.",
+        "fr": "Les informations sur ce lieu sont en cours de vérification. Il reste parmi les idées à explorer ; un lien fiable suivra l’identification de son exploitant.",
+        "es": "Los detalles de este lugar se están comprobando. Se conserva como idea para explorar; habrá un destino fiable tras identificar exactamente al operador.",
+        "zh-Hans": "这个场所的具体信息仍待确认。我们将其保留为探索灵感；准确识别经营方后，才会提供可靠的访问链接。"
+      },
+      "categories": [
+        "adventure"
+      ],
+      "venues": [
+        {
+          "id": "paintball-unconfirmed",
+          "name": "Paintball",
+          "address": "",
+          "verified": false,
+          "status": "unknown",
+          "minors": "unknown",
+          "sources": []
+        }
+      ],
+      "note": "Operator, intrare și condiții de acces încă neconfirmate; exclus din recomandări."
+    },
+    {
+      "id": "parcul-copiilor",
+      "name": {
+        "ro": "Parcul Copiilor",
+        "en": "Children’s Park",
+        "it": "Parco dei Bambini",
+        "fr": "Parc des Enfants",
+        "es": "Parque de los Niños",
+        "zh-Hans": "儿童公园"
+      },
+      "description": {
+        "ro": "Alege aleile parcului pentru o plimbare în aer liber și o pauză la umbră. Respectă spațiile verzi și indicatoarele întâlnite pe traseul tău.",
+        "en": "Choose the park’s paths for an outdoor walk and a pause in the shade. Respect planted areas and follow the signs you encounter along your way.",
+        "it": "Scegli i viali del parco per una passeggiata all’aperto e una pausa all’ombra. Rispetta gli spazi verdi e le indicazioni lungo il tuo percorso.",
+        "fr": "Empruntez les allées du parc pour marcher dehors et faire une pause à l’ombre. Respectez les espaces plantés et les indications rencontrées sur votre chemin.",
+        "es": "Recorre los senderos del parque y descansa a la sombra. Respeta las zonas verdes y sigue las indicaciones que encuentres a lo largo del paseo.",
+        "zh-Hans": "沿公园步道散步，在树荫下歇一歇。请爱护绿地，留意沿途标识，按照现场开放情况选择适合自己的游览路线。"
+      },
+      "categories": [
+        "kids"
+      ],
+      "venues": [
+        {
+          "id": "parcul-copiilor-main",
+          "name": "Parcul Copiilor",
+          "address": "Parcul Copiilor „Ion Creangă”, Splaiul Nistrului, Timișoara",
+          "verified": true,
+          "status": "open",
+          "minors": "yes",
+          "url": "https://visit-timisoara.com/ro/o-zi-in-timisoara/",
+          "linkType": "official",
+          "sources": [
+            "https://visit-timisoara.com/ro/o-zi-in-timisoara/",
+            "https://assets.primariatm.ro/794f423e-e38c-4343-bb13-ffc0a0128100",
+            "https://www.wikidata.org/wiki/Q22691420",
+            "https://www.wikidata.org/wiki/Q132449",
+            "https://www.wikidata.org/wiki/Q22693421"
+          ],
+          "verifiedAt": "2026-11-13"
+        }
+      ],
+      "photo": {
+        "path": "/media/photos/parcul-copiilor.webp",
+        "author": "Mister No",
+        "source": "https://commons.wikimedia.org/wiki/File:Parcul_Copiilor_-_panoramio.jpg",
+        "license": "CC BY 3.0 · https://creativecommons.org/licenses/by/3.0",
+        "alt": {
+          "ro": "Parcul Copiilor",
+          "en": "Children’s Park",
+          "it": "Parco dei Bambini",
+          "fr": "Parc des Enfants",
+          "es": "Parque de los Niños",
+          "zh-Hans": "儿童公园"
+        }
+      }
+    },
+    {
+      "id": "energy-kids",
+      "name": {
+        "ro": "Energy Kids — Iulius Mall",
+        "en": "Energy Kids — Iulius Mall",
+        "it": "Energy Kids — Iulius Mall",
+        "fr": "Energy Kids — Iulius Mall",
+        "es": "Energy Kids — Iulius Mall",
+        "zh-Hans": "Energy Kids — Iulius Mall"
+      },
+      "description": {
+        "ro": "Alege o zonă de joacă potrivită vârstei la Energy Kids, pe terasa Iulius Mall. Trambulinele și traseele au reguli diferite; confirmă însoțirea și accesul cu echipa locului.",
+        "en": "Choose an age-appropriate play area at Energy Kids on Iulius Mall’s terrace. Trampolines and climbing routes have different rules; confirm supervision and admission with the venue’s team.",
+        "it": "Scegli una zona adatta all’età da Energy Kids, sulla terrazza di Iulius Mall. Trampolini e percorsi hanno regole diverse; conferma accompagnamento e accesso con lo staff.",
+        "fr": "Choisissez une zone adaptée à l’âge chez Energy Kids, sur la terrasse d’Iulius Mall. Trampolines et parcours ont leurs règles ; confirmez l’accompagnement et l’accès avec l’équipe.",
+        "es": "Elige una zona adecuada a la edad en Energy Kids, en la terraza de Iulius Mall. Trampolines y recorridos tienen normas distintas; confirma acompañamiento y acceso.",
+        "zh-Hans": "在 Iulius Mall 露台上的 Energy Kids 选择适合孩子年龄的游戏区域。蹦床和攀爬项目有不同规定，请向工作人员确认陪同与参与要求。"
+      },
+      "categories": [
+        "kids"
+      ],
+      "venues": [
+        {
+          "id": "energy-kids-main",
+          "name": "Energy Kids — Iulius Mall",
+          "address": "Iulius Mall Timișoara, terasă, Piața Consiliul Europei 2",
+          "verified": true,
+          "status": "open",
+          "minors": "yes",
+          "url": "https://energykids.ro/locatii/timisoara-iulius-town/",
+          "linkType": "official",
+          "sources": [
+            "https://energykids.ro/locatii/timisoara-iulius-town/",
+            "https://www.iuliustown.ro/ro/entertainment/energy-kids-family-center"
+          ],
+          "verifiedAt": "2026-11-13",
+          "minimumAge": 1
+        }
+      ]
+    },
+    {
+      "id": "paradisul-piratilor",
+      "name": {
+        "ro": "Paradisul Piraților",
+        "en": "Paradisul Piraților",
+        "it": "Paradisul Piraților",
+        "fr": "Paradisul Piraților",
+        "es": "Paradisul Piraților",
+        "zh-Hans": "Paradisul Piraților"
+      },
+      "description": {
+        "ro": "Numele rămâne în ghid în ambele categorii. Localul inițial pare să se fi schimbat; confirmăm adresa și operatorul înainte de a oferi o recomandare sau un link.",
+        "en": "The name remains in both guide categories. The original venue appears to have changed; we are confirming its address and operator before providing a recommendation or link.",
+        "it": "Il nome rimane in entrambe le categorie. Il locale originario sembra cambiato; stiamo confermando indirizzo e gestore prima di offrire una raccomandazione o un collegamento.",
+        "fr": "Le nom reste dans les deux catégories. Le lieu d’origine semble avoir changé ; nous confirmons l’adresse et l’exploitant avant de proposer une recommandation ou un lien.",
+        "es": "El nombre se conserva en ambas categorías. El local original parece haber cambiado; confirmamos dirección y operador antes de ofrecer una recomendación o un enlace.",
+        "zh-Hans": "该名称保留在两个分类中。原场所似乎已发生变化；在确认地址与经营方之前，暂不提供推荐或访问链接。"
+      },
+      "categories": [
+        "kids",
+        "food"
+      ],
+      "venues": [
+        {
+          "id": "paradisul-piratilor-unconfirmed",
+          "name": "Paradisul Piraților",
+          "address": "",
+          "verified": false,
+          "status": "unknown",
+          "minors": "unknown",
+          "sources": [
+            "https://www.paradisulpiratilor.ro/povestea-noastra"
+          ]
+        }
+      ],
+      "note": "Official historical URL redirects to megazonebites.ro. Original pirate-themed venue may have closed/rebranded. Retain one entity/two appearances; do not recommend or silently substitute successor."
+    },
+    {
+      "id": "arena-jocurilor",
+      "name": {
+        "ro": "Arena Jocurilor SRL",
+        "en": "Arena Jocurilor SRL",
+        "it": "Arena Jocurilor SRL",
+        "fr": "Arena Jocurilor SRL",
+        "es": "Arena Jocurilor SRL",
+        "zh-Hans": "Arena Jocurilor SRL"
+      },
+      "description": {
+        "ro": "Detaliile acestui loc sunt în curs de confirmare. Îl păstrăm între ideile de explorat; o destinație sigură va fi disponibilă după identificarea exactă a operatorului.",
+        "en": "Details of this place are being confirmed. It remains among the ideas to explore; a reliable destination will be available once the operator is identified.",
+        "it": "I dettagli di questo luogo sono in corso di verifica. Rimane tra le idee da esplorare; il collegamento sarà disponibile dopo l’identificazione esatta del gestore.",
+        "fr": "Les informations sur ce lieu sont en cours de vérification. Il reste parmi les idées à explorer ; un lien fiable suivra l’identification de son exploitant.",
+        "es": "Los detalles de este lugar se están comprobando. Se conserva como idea para explorar; habrá un destino fiable tras identificar exactamente al operador.",
+        "zh-Hans": "这个场所的具体信息仍待确认。我们将其保留为探索灵感；准确识别经营方后，才会提供可靠的访问链接。"
+      },
+      "categories": [
+        "kids"
+      ],
+      "venues": [
+        {
+          "id": "arena-jocurilor-unconfirmed",
+          "name": "Arena Jocurilor SRL",
+          "address": "",
+          "verified": false,
+          "status": "unknown",
+          "minors": "unknown",
+          "sources": []
+        }
+      ],
+      "note": "Operator, intrare și condiții de acces încă neconfirmate; exclus din recomandări."
+    },
+    {
+      "id": "kids-town",
+      "name": {
+        "ro": "Kids Town",
+        "en": "Kids Town",
+        "it": "Kids Town",
+        "fr": "Kids Town",
+        "es": "Kids Town",
+        "zh-Hans": "Kids Town"
+      },
+      "description": {
+        "ro": "O idee pentru o ieșire cu cei mici, în jurul jocului. Confirmă locația, intervalele de vârstă, însoțirea și rezervarea direct cu operatorul înainte de vizită.",
+        "en": "An idea for an outing centred on play with younger visitors. Confirm the location, age ranges, adult supervision and booking arrangements directly with the operator beforehand.",
+        "it": "Un’idea per un’uscita dedicata al gioco con i più piccoli. Conferma con il gestore la sede, le fasce d’età, l’accompagnamento e le eventuali prenotazioni.",
+        "fr": "Une idée de sortie autour du jeu avec les plus petits. Confirmez directement le lieu, les âges admis, l’accompagnement et les modalités de réservation avant la visite.",
+        "es": "Una idea para salir a jugar con los pequeños. Confirma directamente con el operador la ubicación, las edades, el acompañamiento y las posibles reservas.",
+        "zh-Hans": "以游戏为主题，带孩子安排一次出游。到访前请直接向经营方确认地点、适用年龄、成人陪同要求，以及是否需要预约。"
+      },
+      "categories": [
+        "kids"
+      ],
+      "venues": [
+        {
+          "id": "kids-town-unconfirmed",
+          "name": "Kids Town",
+          "address": "",
+          "verified": false,
+          "status": "unknown",
+          "minors": "unknown",
+          "sources": []
+        }
+      ],
+      "note": "Operator, intrare și condiții de acces încă neconfirmate; exclus din recomandări."
+    },
+    {
+      "id": "noso",
+      "name": {
+        "ro": "Noso",
+        "en": "Noso",
+        "it": "Noso",
+        "fr": "Noso",
+        "es": "Noso",
+        "zh-Hans": "Noso"
+      },
+      "description": {
+        "ro": "Copiii de până la paisprezece ani pot descoperi zonele de joacă indoor Noso, de la bile la cățărare. Confirmă regulile fiecărui echipament și supravegherea înainte de vizită.",
+        "en": "Children up to fourteen can explore Noso’s indoor play areas, from ball pools to climbing. Confirm each piece of equipment’s rules and supervision arrangements before your visit.",
+        "it": "I bambini fino a quattordici anni possono esplorare le aree al coperto di Noso, tra palline e arrampicata. Conferma regole delle attrezzature e supervisione prima della visita.",
+        "fr": "Les enfants jusqu’à quatorze ans découvrent les jeux intérieurs de Noso, des balles à l’escalade. Confirmez les règles des équipements et l’accompagnement avant votre visite.",
+        "es": "Los niños de hasta catorce años pueden explorar los juegos interiores de Noso, entre bolas y escalada. Confirma normas de equipos y supervisión antes de visitar.",
+        "zh-Hans": "十四岁及以下儿童可在 Noso 的室内游戏区探索球池与攀爬项目。到访前请确认各项设备的参与规则和成人看护安排。"
+      },
+      "categories": [
+        "kids"
+      ],
+      "venues": [
+        {
+          "id": "noso-main",
+          "name": "Noso",
+          "address": "Strada Johann Heinrich Pestalozzi 20, Timișoara",
+          "verified": true,
+          "status": "open",
+          "minors": "yes",
+          "url": "https://noso.ro/",
+          "linkType": "official",
+          "sources": [
+            "https://noso.ro/"
+          ],
+          "verifiedAt": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": "planetarium",
+      "name": {
+        "ro": "Planetarium — UVT",
+        "en": "Planetarium — UVT",
+        "it": "Planetario — UVT",
+        "fr": "Planétarium — UVT",
+        "es": "Planetario — UVT",
+        "zh-Hans": "天文馆 — UVT"
+      },
+      "description": {
+        "ro": "Descoperă cerul proiectat în planetariul UVT, la etajul al doilea al Facultății de Fizică. Vizitele se programează anticipat; confirmă componența grupului și locurile disponibile.",
+        "en": "Explore the projected sky at UVT’s planetarium on the Physics Faculty’s second floor. Visits need advance booking; confirm your group’s eligibility and the places available before visiting.",
+        "it": "Scopri il cielo proiettato nel planetario UVT, al secondo piano della Facoltà di Fisica. Le visite richiedono prenotazione; verifica requisiti del gruppo e disponibilità.",
+        "fr": "Découvrez le ciel projeté au planétarium UVT, au deuxième étage de la faculté de physique. Les visites se réservent ; confirmez les groupes admis et les disponibilités.",
+        "es": "Descubre el cielo proyectado en el planetario UVT, en la segunda planta de Física. Las visitas requieren reserva; confirma los requisitos del grupo y las plazas.",
+        "zh-Hans": "前往 UVT 物理学院二楼的天文馆，观看投影星空。参观需提前预约；请确认团队是否符合要求，以及是否仍有名额。"
+      },
+      "categories": [
+        "kids"
+      ],
+      "venues": [
+        {
+          "id": "planetarium-main",
+          "name": "Planetarium — UVT",
+          "address": "Bd. Vasile Pârvan 4, Facultatea de Fizică UVT, etaj 2, Timișoara",
+          "verified": true,
+          "status": "open",
+          "minors": "yes",
+          "url": "https://physics.uvt.ro/planetariu/",
+          "linkType": "official",
+          "sources": [
+            "https://physics.uvt.ro/planetariu/"
+          ],
+          "verifiedAt": "2026-11-13",
+          "adultRequired": true
+        }
+      ]
+    },
+    {
+      "id": "bike-serbia",
+      "name": {
+        "ro": "Pista de bicicletă spre Serbia / Zrenjanin",
+        "en": "Cycle path towards Serbia / Zrenjanin",
+        "it": "Pista ciclabile verso la Serbia / Zrenjanin",
+        "fr": "Piste cyclable vers la Serbie / Zrenjanin",
+        "es": "Vía ciclista hacia Serbia / Zrenjanin",
+        "zh-Hans": "通往塞尔维亚／兹雷尼亚宁方向的自行车道"
+      },
+      "description": {
+        "ro": "O idee pentru pedalat de-a lungul Begăi spre granița cu Serbia. Alege dinainte porțiunea și punctul de acces; trecerea frontierei și continuarea spre Zrenjanin necesită verificare separată.",
+        "en": "An idea for cycling along the Bega towards Serbia’s border. Choose your section and access point first; crossing the border and continuing towards Zrenjanin require separate checks.",
+        "it": "Un’idea per pedalare lungo il Bega verso il confine serbo. Scegli prima tratto e accesso; attraversamento della frontiera e prosecuzione verso Zrenjanin richiedono verifiche separate.",
+        "fr": "Une idée de balade à vélo le long de la Bega vers la frontière serbe. Choisissez tronçon et accès ; passage frontalier et continuation vers Zrenjanin se vérifient séparément.",
+        "es": "Una idea para pedalear junto al Bega hacia Serbia. Elige tramo y acceso antes; el cruce fronterizo y la continuación hacia Zrenjanin requieren comprobaciones aparte.",
+        "zh-Hans": "沿贝加河向塞尔维亚边境方向骑行。请先选定路段与入口；跨境通行以及继续前往兹雷尼亚宁的路线，需要另行确认。"
+      },
+      "categories": [
+        "nature"
+      ],
+      "venues": [
+        {
+          "id": "bike-serbia-unconfirmed",
+          "name": "Pista de bicicletă spre Serbia / Zrenjanin",
+          "address": "",
+          "verified": false,
+          "status": "unknown",
+          "minors": "unknown",
+          "sources": [
+            "https://visit-timisoara.com/ro/o-zi-in-timisoara/"
+          ]
+        }
+      ],
+      "note": "Operator, intrare și condiții de acces încă neconfirmate; exclus din recomandări."
+    },
+    {
+      "id": "la-livada",
+      "name": {
+        "ro": "La Livada",
+        "en": "La Livada",
+        "it": "La Livada",
+        "fr": "La Livada",
+        "es": "La Livada",
+        "zh-Hans": "La Livada"
+      },
+      "description": {
+        "ro": "Fă o oprire la livada din Sânmihaiu Român, lângă pista de pe Bega. Consultă operatorul pentru masa în aer liber, intrarea exactă și disponibilitatea din ziua vizitei.",
+        "en": "Pause at the orchard in Sânmihaiu Român, beside the Bega cycle path. Check with the operator about outdoor dining, the exact entrance and availability on your visiting day.",
+        "it": "Fai una sosta nella livadă di Sânmihaiu Român, vicino alla ciclabile del Bega. Verifica con il gestore tavoli all’aperto, ingresso esatto e disponibilità del giorno.",
+        "fr": "Faites une halte au verger de Sânmihaiu Român, près de la piste du Bega. Renseignez-vous sur les repas dehors, l’entrée exacte et la disponibilité du jour.",
+        "es": "Haz una parada en el huerto de Sânmihaiu Român, junto a la vía ciclista del Bega. Consulta mesas exteriores, entrada exacta y disponibilidad del día.",
+        "zh-Hans": "在贝加河自行车道旁的 Sânmihaiu Român 果园歇一歇。请向经营方确认户外用餐、确切入口，以及到访当天是否开放。"
+      },
+      "categories": [
+        "nature"
+      ],
+      "venues": [
+        {
+          "id": "la-livada-main",
+          "name": "La Livada",
+          "address": "Sânmihaiu Român, lângă pista de biciclete Bega",
+          "verified": true,
+          "status": "open",
+          "minors": "unknown",
+          "url": "https://lalivadabanateana.ro/",
+          "linkType": "official",
+          "sources": [
+            "https://lalivadabanateana.ro/"
+          ],
+          "verifiedAt": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": "plaja-noua",
+      "name": {
+        "ro": "Plaja Nouă",
+        "en": "Plaja Nouă",
+        "it": "Plaja Nouă",
+        "fr": "Plaja Nouă",
+        "es": "Plaja Nouă",
+        "zh-Hans": "Plaja Nouă"
+      },
+      "description": {
+        "ro": "Detaliile acestui loc sunt în curs de confirmare. Îl păstrăm între ideile de explorat; o destinație sigură va fi disponibilă după identificarea exactă a operatorului.",
+        "en": "Details of this place are being confirmed. It remains among the ideas to explore; a reliable destination will be available once the operator is identified.",
+        "it": "I dettagli di questo luogo sono in corso di verifica. Rimane tra le idee da esplorare; il collegamento sarà disponibile dopo l’identificazione esatta del gestore.",
+        "fr": "Les informations sur ce lieu sont en cours de vérification. Il reste parmi les idées à explorer ; un lien fiable suivra l’identification de son exploitant.",
+        "es": "Los detalles de este lugar se están comprobando. Se conserva como idea para explorar; habrá un destino fiable tras identificar exactamente al operador.",
+        "zh-Hans": "这个场所的具体信息仍待确认。我们将其保留为探索灵感；准确识别经营方后，才会提供可靠的访问链接。"
+      },
+      "categories": [
+        "nature"
+      ],
+      "venues": [
+        {
+          "id": "plaja-noua-unconfirmed",
+          "name": "Plaja Nouă",
+          "address": "",
+          "verified": false,
+          "status": "unknown",
+          "minors": "unknown",
+          "sources": []
+        }
+      ],
+      "note": "Operator, intrare și condiții de acces încă neconfirmate; exclus din recomandări."
+    },
+    {
+      "id": "herneacova",
+      "name": {
+        "ro": "Herneacova",
+        "en": "Herneacova",
+        "it": "Herneacova",
+        "fr": "Herneacova",
+        "es": "Herneacova",
+        "zh-Hans": "Herneacova"
+      },
+      "description": {
+        "ro": "O idee de ieșire în natură la Domeniul Herneacova, cu activități ecvestre și trasee de explorat. Confirmă sezonul, rezervarea și condițiile fiecărei activități direct la operator.",
+        "en": "Consider an outdoor outing at the Herneacova estate, with equestrian activities and places to explore. Confirm the season, booking and each activity’s conditions directly with the operator.",
+        "it": "Un’idea per uscire nella natura alla tenuta Herneacova, tra attività equestri e percorsi da esplorare. Conferma stagione, prenotazione e condizioni di ogni attività con il gestore.",
+        "fr": "Une idée de sortie nature au domaine Herneacova, entre activités équestres et parcours. Confirmez directement la saison, les réservations et les conditions de chaque activité.",
+        "es": "Una idea de salida a la naturaleza en Herneacova, con actividades ecuestres y recorridos. Confirma temporada, reservas y condiciones de cada actividad directamente con el operador.",
+        "zh-Hans": "到 Herneacova 庄园探索自然与马术活动。安排出游前，请直接向经营方确认开放季节、预约方式，以及各项活动的具体条件。"
+      },
+      "categories": [
+        "nature"
+      ],
+      "venues": [
+        {
+          "id": "herneacova-main",
+          "name": "Herneacova",
+          "address": "Domeniul Herneacova, Herneacova, Timiș",
+          "verified": true,
+          "status": "unknown",
+          "minors": "unknown",
+          "url": "https://www.herneacova.ro/",
+          "linkType": "official",
+          "sources": [
+            "https://visit-timis.ro/domeniul-herneacova",
+            "https://visit-timis.ro/parcul-de-aventura-herneacova"
+          ],
+          "verifiedAt": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": "liziera",
+      "name": {
+        "ro": "L’iziera Park",
+        "en": "L’iziera Park",
+        "it": "L’iziera Park",
+        "fr": "L’iziera Park",
+        "es": "L’iziera Park",
+        "zh-Hans": "L’iziera Park"
+      },
+      "description": {
+        "ro": "Descoperă un spațiu de recreere lângă pădurea Bistra, în zona Ghiroda. Activitățile și accesul depind de sezon; confirmă redeschiderea la operator înainte de a porni.",
+        "en": "Discover a recreation space beside Bistra forest, near Ghiroda. Activities and admission depend on the season; confirm reopening with the operator before setting out for your visit.",
+        "it": "Scopri uno spazio ricreativo vicino alla foresta Bistra, nella zona di Ghiroda. Attività e accesso dipendono dalla stagione; conferma la riapertura con il gestore prima di partire.",
+        "fr": "Découvrez un espace de loisirs près de la forêt Bistra, à Ghiroda. Activités et accès dépendent de la saison ; confirmez la réouverture avant de partir.",
+        "es": "Descubre un espacio de ocio junto al bosque Bistra, cerca de Ghiroda. Las actividades y el acceso son estacionales; confirma la reapertura antes de salir.",
+        "zh-Hans": "探索 Ghiroda 附近 Bistra 森林旁的休闲空间。活动与入场受季节影响；出发前请向经营方确认是否已重新开放。"
+      },
+      "categories": [
+        "nature"
+      ],
+      "venues": [
+        {
+          "id": "liziera-main",
+          "name": "L’iziera Park",
+          "address": "Pădurea Bistra, lângă Ghiroda, Timiș",
+          "verified": true,
+          "status": "unknown",
+          "minors": "unknown",
+          "url": "https://liziera.com/",
+          "linkType": "official",
+          "sources": [
+            "https://liziera.com/"
+          ],
+          "verifiedAt": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": "parcul-rozelor",
+      "name": {
+        "ro": "Parcul Rozelor",
+        "en": "Rose Park",
+        "it": "Parco delle Rose",
+        "fr": "Parc des Roses",
+        "es": "Parque de las Rosas",
+        "zh-Hans": "玫瑰公园"
+      },
+      "description": {
+        "ro": "Plimbă-te printre straturile de trandafiri și aleile Parcului Rozelor. Observă culorile și ritmul grădinii, apoi continuă spre malul Begăi pentru o pauză în aer liber.",
+        "en": "Walk among the rose beds and paths of Rose Park. Notice the garden’s colours and rhythm, then continue towards the Bega riverbank for an outdoor pause.",
+        "it": "Passeggia tra le aiuole di rose e i viali del Parco delle Rose. Osserva colori e ritmo del giardino, poi prosegui verso la riva del Bega.",
+        "fr": "Promenez-vous parmi les rosiers et les allées du parc des Roses. Observez les couleurs du jardin, puis poursuivez vers la berge de la Bega pour une pause.",
+        "es": "Pasea entre los rosales y senderos del Parque de las Rosas. Observa los colores del jardín y continúa hacia la ribera del Bega para descansar.",
+        "zh-Hans": "沿玫瑰公园的花坛和步道漫步，观察花园的色彩与节奏，再走向附近的贝加河岸，享受一段户外休息时光。"
+      },
+      "categories": [
+        "nature"
+      ],
+      "venues": [
+        {
+          "id": "parcul-rozelor-main",
+          "name": "Parcul Rozelor",
+          "address": "Parcul Rozelor, Strada Academician Alexandru Borza, Timișoara",
+          "verified": true,
+          "status": "open",
+          "minors": "yes",
+          "url": "https://www.openstreetmap.org/?mlat=45.75&mlon=21.231111#map=18/45.75/21.231111",
+          "linkType": "map",
+          "sources": [
+            "https://visit-timisoara.com/ro/o-zi-in-timisoara/",
+            "https://assets.primariatm.ro/794f423e-e38c-4343-bb13-ffc0a0128100",
+            "https://www.wikidata.org/wiki/Q22691420",
+            "https://www.wikidata.org/wiki/Q132449",
+            "https://www.wikidata.org/wiki/Q22693421"
+          ],
+          "verifiedAt": "2026-11-13",
+          "lat": 45.75,
+          "lon": 21.231111
+        }
+      ],
+      "photo": {
+        "path": "/media/photos/parcul-rozelor.webp",
+        "author": "Turbojet",
+        "source": "https://commons.wikimedia.org/wiki/File:Parcul_Rozelor_Timisoara_-_entrance.jpg",
+        "license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0",
+        "alt": {
+          "ro": "Parcul Rozelor",
+          "en": "Rose Park",
+          "it": "Parco delle Rose",
+          "fr": "Parc des Roses",
+          "es": "Parque de las Rosas",
+          "zh-Hans": "玫瑰公园"
+        }
+      }
+    },
+    {
+      "id": "parcul-botanic",
+      "name": {
+        "ro": "Parcul Botanic",
+        "en": "Botanical Park",
+        "it": "Parco Botanico",
+        "fr": "Parc botanique",
+        "es": "Parque Botánico",
+        "zh-Hans": "植物园"
+      },
+      "description": {
+        "ro": "Explorează aleile Grădinii Botanice și observă arborii și schimbările de anotimp. O plimbare liniștită aproape de centru, cu atenție la plante și la indicatoarele grădinii.",
+        "en": "Explore the Botanical Garden’s paths and notice its trees and changing seasons. Take a quiet walk near the centre, respecting the plants and the garden’s posted signs.",
+        "it": "Esplora i viali del Giardino Botanico e osserva alberi e stagioni. Una passeggiata tranquilla vicino al centro, rispettando le piante e le indicazioni del giardino.",
+        "fr": "Explorez les allées du jardin botanique, ses arbres et les changements de saison. Une promenade calme près du centre, dans le respect des plantes et des panneaux.",
+        "es": "Explora los caminos del Jardín Botánico y observa sus árboles y estaciones. Un paseo tranquilo cerca del centro, respetando las plantas y las indicaciones del jardín.",
+        "zh-Hans": "走进植物园步道，观察树木与季节变化。在市中心附近慢慢散步，爱护植物，并遵守园内标识和现场开放规定。"
+      },
+      "categories": [
+        "nature"
+      ],
+      "venues": [
+        {
+          "id": "parcul-botanic-main",
+          "name": "Parcul Botanic",
+          "address": "Grădina Botanică, Strada Gheorghe Dima, Timișoara",
+          "verified": true,
+          "status": "open",
+          "minors": "yes",
+          "url": "https://www.openstreetmap.org/?mlat=45.76&mlon=21.2247222#map=18/45.76/21.2247222",
+          "linkType": "map",
+          "sources": [
+            "https://visit-timisoara.com/ro/o-zi-in-timisoara/",
+            "https://assets.primariatm.ro/794f423e-e38c-4343-bb13-ffc0a0128100",
+            "https://www.wikidata.org/wiki/Q22691420",
+            "https://www.wikidata.org/wiki/Q132449",
+            "https://www.wikidata.org/wiki/Q22693421"
+          ],
+          "verifiedAt": "2026-11-13",
+          "lat": 45.76,
+          "lon": 21.2247222
+        }
+      ],
+      "photo": {
+        "path": "/media/photos/parcul-botanic.webp",
+        "author": "Tournasol7",
+        "source": "https://commons.wikimedia.org/wiki/File:Botanical_Garden_in_Timisoara_(1).jpg",
+        "license": "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0",
+        "alt": {
+          "ro": "Parcul Botanic",
+          "en": "Botanical Park",
+          "it": "Parco Botanico",
+          "fr": "Parc botanique",
+          "es": "Parque Botánico",
+          "zh-Hans": "植物园"
+        }
+      }
+    },
+    {
+      "id": "parcul-civic",
+      "name": {
+        "ro": "Parcul Civic",
+        "en": "Civic Park",
+        "it": "Parco Civico",
+        "fr": "Parc civique",
+        "es": "Parque Cívico",
+        "zh-Hans": "市民公园"
+      },
+      "description": {
+        "ro": "Alege aleile parcului pentru o plimbare în aer liber și o pauză la umbră. Respectă spațiile verzi și indicatoarele întâlnite pe traseul tău.",
+        "en": "Choose the park’s paths for an outdoor walk and a pause in the shade. Respect planted areas and follow the signs you encounter along your way.",
+        "it": "Scegli i viali del parco per una passeggiata all’aperto e una pausa all’ombra. Rispetta gli spazi verdi e le indicazioni lungo il tuo percorso.",
+        "fr": "Empruntez les allées du parc pour marcher dehors et faire une pause à l’ombre. Respectez les espaces plantés et les indications rencontrées sur votre chemin.",
+        "es": "Recorre los senderos del parque y descansa a la sombra. Respeta las zonas verdes y sigue las indicaciones que encuentres a lo largo del paseo.",
+        "zh-Hans": "沿公园步道散步，在树荫下歇一歇。请爱护绿地，留意沿途标识，按照现场开放情况选择适合自己的游览路线。"
+      },
+      "categories": [
+        "nature"
+      ],
+      "venues": [
+        {
+          "id": "parcul-civic-main",
+          "name": "Parcul Civic",
+          "address": "Parcul Civic, Bd. Ion C. Brătianu, Timișoara",
+          "verified": true,
+          "status": "open",
+          "minors": "yes",
+          "url": "https://www.openstreetmap.org/?mlat=45.7538889&mlon=21.2313889#map=18/45.7538889/21.2313889",
+          "linkType": "map",
+          "sources": [
+            "https://assets.primariatm.ro/a5b46023-21e5-4f2d-a058-16a90869b8d6",
+            "https://assets.primariatm.ro/794f423e-e38c-4343-bb13-ffc0a0128100",
+            "https://www.wikidata.org/wiki/Q22693420"
+          ],
+          "verifiedAt": "2026-11-13",
+          "lat": 45.7538889,
+          "lon": 21.2313889
+        }
+      ],
+      "photo": {
+        "path": "/media/photos/parcul-civic.webp",
+        "author": "Ionlizarazu",
+        "source": "https://commons.wikimedia.org/wiki/File:Civic_Park,_Timi%C8%99oara.jpg",
+        "license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0",
+        "alt": {
+          "ro": "Parcul Civic",
+          "en": "Civic Park",
+          "it": "Parco Civico",
+          "fr": "Parc civique",
+          "es": "Parque Cívico",
+          "zh-Hans": "市民公园"
+        }
+      }
+    },
+    {
+      "id": "parcul-castelului",
+      "name": {
+        "ro": "Parcul Castelului",
+        "en": "Castle Park",
+        "it": "Parco del Castello",
+        "fr": "Parc du Château",
+        "es": "Parque del Castillo",
+        "zh-Hans": "城堡公园"
+      },
+      "description": {
+        "ro": "Detaliile acestui loc sunt în curs de confirmare. Îl păstrăm între ideile de explorat; o destinație sigură va fi disponibilă după identificarea exactă a operatorului.",
+        "en": "Details of this place are being confirmed. It remains among the ideas to explore; a reliable destination will be available once the operator is identified.",
+        "it": "I dettagli di questo luogo sono in corso di verifica. Rimane tra le idee da esplorare; il collegamento sarà disponibile dopo l’identificazione esatta del gestore.",
+        "fr": "Les informations sur ce lieu sont en cours de vérification. Il reste parmi les idées à explorer ; un lien fiable suivra l’identification de son exploitant.",
+        "es": "Los detalles de este lugar se están comprobando. Se conserva como idea para explorar; habrá un destino fiable tras identificar exactamente al operador.",
+        "zh-Hans": "这个场所的具体信息仍待确认。我们将其保留为探索灵感；准确识别经营方后，才会提供可靠的访问链接。"
+      },
+      "categories": [
+        "nature"
+      ],
+      "venues": [
+        {
+          "id": "parcul-castelului-unconfirmed",
+          "name": "Parcul Castelului",
+          "address": "",
+          "verified": false,
+          "status": "unknown",
+          "minors": "unknown",
+          "sources": []
+        }
+      ],
+      "note": "Operator, intrare și condiții de acces încă neconfirmate; exclus din recomandări."
+    },
+    {
+      "id": "parcul-regina-maria",
+      "name": {
+        "ro": "Parcul Regina Maria",
+        "en": "Queen Maria Park",
+        "it": "Parco Regina Maria",
+        "fr": "Parc Regina Maria",
+        "es": "Parque Regina Maria",
+        "zh-Hans": "玛丽亚王后公园"
+      },
+      "description": {
+        "ro": "Alege aleile parcului pentru o plimbare în aer liber și o pauză la umbră. Respectă spațiile verzi și indicatoarele întâlnite pe traseul tău.",
+        "en": "Choose the park’s paths for an outdoor walk and a pause in the shade. Respect planted areas and follow the signs you encounter along your way.",
+        "it": "Scegli i viali del parco per una passeggiata all’aperto e una pausa all’ombra. Rispetta gli spazi verdi e le indicazioni lungo il tuo percorso.",
+        "fr": "Empruntez les allées du parc pour marcher dehors et faire une pause à l’ombre. Respectez les espaces plantés et les indications rencontrées sur votre chemin.",
+        "es": "Recorre los senderos del parque y descansa a la sombra. Respeta las zonas verdes y sigue las indicaciones que encuentres a lo largo del paseo.",
+        "zh-Hans": "沿公园步道散步，在树荫下歇一歇。请爱护绿地，留意沿途标识，按照现场开放情况选择适合自己的游览路线。"
+      },
+      "categories": [
+        "nature"
+      ],
+      "venues": [
+        {
+          "id": "parcul-regina-maria-main",
+          "name": "Parcul Regina Maria",
+          "address": "Parcul Regina Maria, Bd. 3 August 1919, Timișoara",
+          "verified": true,
+          "status": "open",
+          "minors": "yes",
+          "url": "https://www.openstreetmap.org/?mlat=45.755587&mlon=21.242449#map=18/45.755587/21.242449",
+          "linkType": "map",
+          "sources": [
+            "https://visit-timisoara.com/ro/o-zi-in-timisoara/",
+            "https://assets.primariatm.ro/794f423e-e38c-4343-bb13-ffc0a0128100",
+            "https://www.wikidata.org/wiki/Q22691420",
+            "https://www.wikidata.org/wiki/Q132449",
+            "https://www.wikidata.org/wiki/Q22693421"
+          ],
+          "verifiedAt": "2026-11-13",
+          "lat": 45.755587,
+          "lon": 21.242449
+        }
+      ],
+      "photo": {
+        "path": "/media/photos/parcul-regina-maria.webp",
+        "author": "Fred Romero from Paris, France",
+        "source": "https://commons.wikimedia.org/wiki/File:Timi%C8%99oara_-_Parcul_%E2%80%9ERegina_Maria%E2%80%9D_(43013587180).jpg",
+        "license": "CC BY 2.0 · https://creativecommons.org/licenses/by/2.0",
+        "alt": {
+          "ro": "Parcul Regina Maria",
+          "en": "Queen Maria Park",
+          "it": "Parco Regina Maria",
+          "fr": "Parc Regina Maria",
+          "es": "Parque Regina Maria",
+          "zh-Hans": "玛丽亚王后公园"
+        }
+      }
+    },
+    {
+      "id": "pet-yoga",
+      "name": {
+        "ro": "Pet Yoga",
+        "en": "Pet Yoga",
+        "it": "Pet Yoga",
+        "fr": "Pet Yoga",
+        "es": "Pet Yoga",
+        "zh-Hans": "Pet Yoga"
+      },
+      "description": {
+        "ro": "Detaliile acestui loc sunt în curs de confirmare. Îl păstrăm între ideile de explorat; o destinație sigură va fi disponibilă după identificarea exactă a operatorului.",
+        "en": "Details of this place are being confirmed. It remains among the ideas to explore; a reliable destination will be available once the operator is identified.",
+        "it": "I dettagli di questo luogo sono in corso di verifica. Rimane tra le idee da esplorare; il collegamento sarà disponibile dopo l’identificazione esatta del gestore.",
+        "fr": "Les informations sur ce lieu sont en cours de vérification. Il reste parmi les idées à explorer ; un lien fiable suivra l’identification de son exploitant.",
+        "es": "Los detalles de este lugar se están comprobando. Se conserva como idea para explorar; habrá un destino fiable tras identificar exactamente al operador.",
+        "zh-Hans": "这个场所的具体信息仍待确认。我们将其保留为探索灵感；准确识别经营方后，才会提供可靠的访问链接。"
+      },
+      "categories": [
+        "relax"
+      ],
+      "venues": [
+        {
+          "id": "pet-yoga-unconfirmed",
+          "name": "Pet Yoga",
+          "address": "",
+          "verified": false,
+          "status": "unknown",
+          "minors": "unknown",
+          "sources": []
+        }
+      ],
+      "note": "Operator, intrare și condiții de acces încă neconfirmate; exclus din recomandări."
+    },
+    {
+      "id": "dharmaland",
+      "name": {
+        "ro": "Dharmaland",
+        "en": "Dharmaland",
+        "it": "Dharmaland",
+        "fr": "Dharmaland",
+        "es": "Dharmaland",
+        "zh-Hans": "Dharmaland"
+      },
+      "description": {
+        "ro": "Detaliile acestui loc sunt în curs de confirmare. Îl păstrăm între ideile de explorat; o destinație sigură va fi disponibilă după identificarea exactă a operatorului.",
+        "en": "Details of this place are being confirmed. It remains among the ideas to explore; a reliable destination will be available once the operator is identified.",
+        "it": "I dettagli di questo luogo sono in corso di verifica. Rimane tra le idee da esplorare; il collegamento sarà disponibile dopo l’identificazione esatta del gestore.",
+        "fr": "Les informations sur ce lieu sont en cours de vérification. Il reste parmi les idées à explorer ; un lien fiable suivra l’identification de son exploitant.",
+        "es": "Los detalles de este lugar se están comprobando. Se conserva como idea para explorar; habrá un destino fiable tras identificar exactamente al operador.",
+        "zh-Hans": "这个场所的具体信息仍待确认。我们将其保留为探索灵感；准确识别经营方后，才会提供可靠的访问链接。"
+      },
+      "categories": [
+        "relax"
+      ],
+      "venues": [
+        {
+          "id": "dharmaland-unconfirmed",
+          "name": "Dharmaland",
+          "address": "",
+          "verified": false,
+          "status": "unknown",
+          "minors": "unknown",
+          "sources": []
+        }
+      ],
+      "note": "Operator, intrare și condiții de acces încă neconfirmate; exclus din recomandări."
+    },
+    {
+      "id": "bega-walk",
+      "name": {
+        "ro": "Plimbare pe malul Begăi",
+        "en": "Walk along the Bega",
+        "it": "Passeggiata lungo il Bega",
+        "fr": "Promenade au bord de la Bega",
+        "es": "Paseo junto al Bega",
+        "zh-Hans": "贝加河畔漫步"
+      },
+      "description": {
+        "ro": "Urmează promenada Begăi între poduri și privește orașul dinspre apă. Seara, luminile se reflectă în canal; păstrează distanța față de margine și respectă traseele comune.",
+        "en": "Follow the Bega promenade between bridges and see the city from the water’s edge. Evening lights reflect in the canal; keep clear of the edge and shared routes.",
+        "it": "Segui la passeggiata del Bega tra i ponti e guarda la città dall’acqua. La sera le luci si riflettono nel canale; rispetta margini e percorsi condivisi.",
+        "fr": "Longez la Bega entre les ponts pour voir la ville depuis l’eau. Le soir, les lumières se reflètent dans le canal ; respectez la berge et les parcours partagés.",
+        "es": "Sigue el paseo del Bega entre puentes y observa la ciudad desde el agua. Las luces se reflejan al anochecer; respeta el borde y los caminos compartidos.",
+        "zh-Hans": "沿贝加河步道穿行于桥梁之间，从水边欣赏城市。夜晚灯光映在运河中；请与岸边保持距离，并注意共用步道上的行人和骑车者。"
+      },
+      "categories": [
+        "relax"
+      ],
+      "venues": [
+        {
+          "id": "bega-walk-main",
+          "name": "Plimbare pe malul Begăi",
+          "address": "Malul Begăi, între Podul Maria și Podul Mihai Viteazul, Timișoara",
+          "verified": true,
+          "status": "open",
+          "minors": "yes",
+          "url": "https://visit-timisoara.com/ro/timisoara-instagramabila/",
+          "linkType": "official",
+          "sources": [
+            "https://visit-timisoara.com/ro/timisoara-instagramabila/"
+          ],
+          "verifiedAt": "2026-11-13"
+        }
+      ],
+      "photo": {
+        "path": "/media/photos/bega-walk.webp",
+        "author": "ABBAfan18",
+        "source": "https://commons.wikimedia.org/wiki/File:Bega_noaptea_in_Timisoara_Podul_Tineretii.JPG",
+        "license": "Public domain",
+        "alt": {
+          "ro": "Plimbare pe malul Begăi",
+          "en": "Walk along the Bega",
+          "it": "Passeggiata lungo il Bega",
+          "fr": "Promenade au bord de la Bega",
+          "es": "Paseo junto al Bega",
+          "zh-Hans": "贝加河畔漫步"
+        }
+      }
+    },
+    {
+      "id": "bega-boat",
+      "name": {
+        "ro": "Plimbare cu vaporașul pe Bega",
+        "en": "Boat ride on the Bega",
+        "it": "Giro in battello sul Bega",
+        "fr": "Balade en bateau sur la Bega",
+        "es": "Paseo en barco por el Bega",
+        "zh-Hans": "乘船游览贝加河"
+      },
+      "description": {
+        "ro": "O călătorie pe Bega oferă o perspectivă de pe apă asupra orașului. Verifică la STPT sezonul de navigație, stația de îmbarcare și cursele înainte de plecare.",
+        "en": "A journey on the Bega offers a view of the city from the water. Check the navigation season, boarding stop and services with STPT before setting out.",
+        "it": "Un viaggio sul Bega mostra la città dall’acqua. Prima di partire, verifica con STPT la stagione di navigazione, la fermata d’imbarco e le corse disponibili.",
+        "fr": "Une traversée de la Bega offre une autre vue de la ville. Vérifiez auprès de STPT la saison de navigation, l’arrêt d’embarquement et les départs disponibles.",
+        "es": "Un recorrido por el Bega permite ver la ciudad desde el agua. Consulta con STPT la temporada de navegación, el embarcadero y las salidas disponibles.",
+        "zh-Hans": "乘船沿贝加河行进，从水面换个角度看城市。出发前请向 STPT 查询通航季节、上船站点及当前班次；并非全年均有航班。"
+      },
+      "categories": [
+        "relax"
+      ],
+      "venues": [
+        {
+          "id": "bega-boat-main",
+          "name": "Plimbare cu vaporașul pe Bega",
+          "address": "Canalul Bega, stațiile STPT din Timișoara",
+          "verified": true,
+          "status": "unknown",
+          "minors": "unknown",
+          "url": "https://www.stpt.ro/",
+          "linkType": "official",
+          "sources": [
+            "https://visit-timisoara.com/ro/informatii-utile/"
+          ],
+          "verifiedAt": "2026-11-13"
+        }
+      ],
+      "photo": {
+        "path": "/media/photos/bega-boat.webp",
+        "author": "Mihai mircea moise",
+        "source": "https://commons.wikimedia.org/wiki/File:Sta%C8%9Bie_vaporetto_Ardealul.jpg",
+        "license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0",
+        "alt": {
+          "ro": "Stația de îmbarcare Ardealul pe Bega",
+          "en": "Ardealul boarding stop on the Bega",
+          "it": "Fermata d’imbarco Ardealul sul Bega",
+          "fr": "Arrêt d’embarquement Ardealul sur la Bega",
+          "es": "Embarcadero Ardealul en el Bega",
+          "zh-Hans": "贝加河 Ardealul 上船站"
+        }
+      }
+    },
+    {
+      "id": "no-name",
+      "name": {
+        "ro": "No Name",
+        "en": "No Name",
+        "it": "No Name",
+        "fr": "No Name",
+        "es": "No Name",
+        "zh-Hans": "No Name"
+      },
+      "description": {
+        "ro": "Consultă programul locului pentru o seară de muzică sau întâlniri în oraș. Accesul, evenimentele și rezervările trebuie confirmate direct; condițiile pot diferi de la o seară la alta.",
+        "en": "Check the venue’s programme for an evening of music or meeting friends. Confirm admission, events and reservations directly, as conditions can vary from one evening to another.",
+        "it": "Consulta il programma del locale per una serata di musica o incontri. Conferma direttamente accesso, eventi e prenotazioni: le condizioni possono cambiare da una sera all’altra.",
+        "fr": "Consultez le programme du lieu pour une soirée musicale ou entre amis. Confirmez directement l’entrée, les événements et les réservations ; les conditions peuvent changer selon la soirée.",
+        "es": "Consulta la programación del local para una noche de música o encuentros. Confirma directamente el acceso, los eventos y las reservas, que pueden cambiar cada noche.",
+        "zh-Hans": "查看场所安排，选择一晚音乐或朋友聚会。请直接确认入场、活动与预约要求；不同晚间活动的条件可能不同。"
+      },
+      "categories": [
+        "night"
+      ],
+      "venues": [
+        {
+          "id": "no-name-unconfirmed",
+          "name": "No Name",
+          "address": "",
+          "verified": false,
+          "status": "unknown",
+          "minors": "unknown",
+          "sources": []
+        }
+      ],
+      "note": "Operator, intrare și condiții de acces încă neconfirmate; exclus din recomandări."
+    },
+    {
+      "id": "heaven",
+      "name": {
+        "ro": "Heaven",
+        "en": "Heaven",
+        "it": "Heaven",
+        "fr": "Heaven",
+        "es": "Heaven",
+        "zh-Hans": "Heaven"
+      },
+      "description": {
+        "ro": "Consultă programul locului pentru o seară de muzică sau întâlniri în oraș. Accesul, evenimentele și rezervările trebuie confirmate direct; condițiile pot diferi de la o seară la alta.",
+        "en": "Check the venue’s programme for an evening of music or meeting friends. Confirm admission, events and reservations directly, as conditions can vary from one evening to another.",
+        "it": "Consulta il programma del locale per una serata di musica o incontri. Conferma direttamente accesso, eventi e prenotazioni: le condizioni possono cambiare da una sera all’altra.",
+        "fr": "Consultez le programme du lieu pour une soirée musicale ou entre amis. Confirmez directement l’entrée, les événements et les réservations ; les conditions peuvent changer selon la soirée.",
+        "es": "Consulta la programación del local para una noche de música o encuentros. Confirma directamente el acceso, los eventos y las reservas, que pueden cambiar cada noche.",
+        "zh-Hans": "查看场所安排，选择一晚音乐或朋友聚会。请直接确认入场、活动与预约要求；不同晚间活动的条件可能不同。"
+      },
+      "categories": [
+        "night"
+      ],
+      "venues": [
+        {
+          "id": "heaven-unconfirmed",
+          "name": "Heaven",
+          "address": "",
+          "verified": false,
+          "status": "unknown",
+          "minors": "unknown",
+          "sources": []
+        }
+      ],
+      "note": "Operator, intrare și condiții de acces încă neconfirmate; exclus din recomandări."
+    },
+    {
+      "id": "fratelli",
+      "name": {
+        "ro": "Fratelli",
+        "en": "Fratelli",
+        "it": "Fratelli",
+        "fr": "Fratelli",
+        "es": "Fratelli",
+        "zh-Hans": "Fratelli"
+      },
+      "description": {
+        "ro": "Consultă programul locului pentru o seară de muzică sau întâlniri în oraș. Accesul, evenimentele și rezervările trebuie confirmate direct; condițiile pot diferi de la o seară la alta.",
+        "en": "Check the venue’s programme for an evening of music or meeting friends. Confirm admission, events and reservations directly, as conditions can vary from one evening to another.",
+        "it": "Consulta il programma del locale per una serata di musica o incontri. Conferma direttamente accesso, eventi e prenotazioni: le condizioni possono cambiare da una sera all’altra.",
+        "fr": "Consultez le programme du lieu pour une soirée musicale ou entre amis. Confirmez directement l’entrée, les événements et les réservations ; les conditions peuvent changer selon la soirée.",
+        "es": "Consulta la programación del local para una noche de música o encuentros. Confirma directamente el acceso, los eventos y las reservas, que pueden cambiar cada noche.",
+        "zh-Hans": "查看场所安排，选择一晚音乐或朋友聚会。请直接确认入场、活动与预约要求；不同晚间活动的条件可能不同。"
+      },
+      "categories": [
+        "night"
+      ],
+      "venues": [
+        {
+          "id": "fratelli-main",
+          "name": "Fratelli",
+          "address": "Bulevardul Corneliu Coposu 3, Timișoara",
+          "verified": true,
+          "status": "open",
+          "minors": "unknown",
+          "url": "https://fratelli.ro/fratelli-timisoara",
+          "linkType": "official",
+          "sources": [
+            "https://fratelli.ro/fratelli-timisoara"
+          ],
+          "verifiedAt": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": "darc",
+      "name": {
+        "ro": "D’arc",
+        "en": "D’arc",
+        "it": "D’arc",
+        "fr": "D’arc",
+        "es": "D’arc",
+        "zh-Hans": "D’arc"
+      },
+      "description": {
+        "ro": "Consultă programul locului pentru o seară de muzică sau întâlniri în oraș. Accesul, evenimentele și rezervările trebuie confirmate direct; condițiile pot diferi de la o seară la alta.",
+        "en": "Check the venue’s programme for an evening of music or meeting friends. Confirm admission, events and reservations directly, as conditions can vary from one evening to another.",
+        "it": "Consulta il programma del locale per una serata di musica o incontri. Conferma direttamente accesso, eventi e prenotazioni: le condizioni possono cambiare da una sera all’altra.",
+        "fr": "Consultez le programme du lieu pour une soirée musicale ou entre amis. Confirmez directement l’entrée, les événements et les réservations ; les conditions peuvent changer selon la soirée.",
+        "es": "Consulta la programación del local para una noche de música o encuentros. Confirma directamente el acceso, los eventos y las reservas, que pueden cambiar cada noche.",
+        "zh-Hans": "查看场所安排，选择一晚音乐或朋友聚会。请直接确认入场、活动与预约要求；不同晚间活动的条件可能不同。"
+      },
+      "categories": [
+        "night"
+      ],
+      "venues": [
+        {
+          "id": "darc-main",
+          "name": "D’arc",
+          "address": "Piața Unirii 5, Timișoara",
+          "verified": true,
+          "status": "open",
+          "minors": "unknown",
+          "url": "https://www.facebook.com/club.darc.timisoara/",
+          "linkType": "official",
+          "sources": [
+            "https://visit-timis.ro/d-arc"
+          ],
+          "verifiedAt": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": "darc-mal",
+      "name": {
+        "ro": "D’arc pe Mal",
+        "en": "D’arc pe Mal",
+        "it": "D’arc pe Mal",
+        "fr": "D’arc pe Mal",
+        "es": "D’arc pe Mal",
+        "zh-Hans": "D’arc pe Mal"
+      },
+      "description": {
+        "ro": "Consultă programul locului pentru o seară de muzică sau întâlniri în oraș. Accesul, evenimentele și rezervările trebuie confirmate direct; condițiile pot diferi de la o seară la alta.",
+        "en": "Check the venue’s programme for an evening of music or meeting friends. Confirm admission, events and reservations directly, as conditions can vary from one evening to another.",
+        "it": "Consulta il programma del locale per una serata di musica o incontri. Conferma direttamente accesso, eventi e prenotazioni: le condizioni possono cambiare da una sera all’altra.",
+        "fr": "Consultez le programme du lieu pour une soirée musicale ou entre amis. Confirmez directement l’entrée, les événements et les réservations ; les conditions peuvent changer selon la soirée.",
+        "es": "Consulta la programación del local para una noche de música o encuentros. Confirma directamente el acceso, los eventos y las reservas, que pueden cambiar cada noche.",
+        "zh-Hans": "查看场所安排，选择一晚音乐或朋友聚会。请直接确认入场、活动与预约要求；不同晚间活动的条件可能不同。"
+      },
+      "categories": [
+        "night"
+      ],
+      "venues": [
+        {
+          "id": "darc-mal-unconfirmed",
+          "name": "D’arc pe Mal",
+          "address": "",
+          "verified": false,
+          "status": "unknown",
+          "minors": "unknown",
+          "sources": []
+        }
+      ],
+      "note": "Operator, intrare și condiții de acces încă neconfirmate; exclus din recomandări."
+    },
+    {
+      "id": "atelier-experience",
+      "name": {
+        "ro": "Atelier d’Experience",
+        "en": "Atelier d’Experience",
+        "it": "Atelier d’Experience",
+        "fr": "Atelier d’Experience",
+        "es": "Atelier d’Experience",
+        "zh-Hans": "Atelier d’Experience"
+      },
+      "description": {
+        "ro": "Consultă programul locului pentru o seară de muzică sau întâlniri în oraș. Accesul, evenimentele și rezervările trebuie confirmate direct; condițiile pot diferi de la o seară la alta.",
+        "en": "Check the venue’s programme for an evening of music or meeting friends. Confirm admission, events and reservations directly, as conditions can vary from one evening to another.",
+        "it": "Consulta il programma del locale per una serata di musica o incontri. Conferma direttamente accesso, eventi e prenotazioni: le condizioni possono cambiare da una sera all’altra.",
+        "fr": "Consultez le programme du lieu pour une soirée musicale ou entre amis. Confirmez directement l’entrée, les événements et les réservations ; les conditions peuvent changer selon la soirée.",
+        "es": "Consulta la programación del local para una noche de música o encuentros. Confirma directamente el acceso, los eventos y las reservas, que pueden cambiar cada noche.",
+        "zh-Hans": "查看场所安排，选择一晚音乐或朋友聚会。请直接确认入场、活动与预约要求；不同晚间活动的条件可能不同。"
+      },
+      "categories": [
+        "night"
+      ],
+      "venues": [
+        {
+          "id": "atelier-experience-unconfirmed",
+          "name": "Atelier d’Experience",
+          "address": "",
+          "verified": false,
+          "status": "unknown",
+          "minors": "unknown",
+          "sources": []
+        }
+      ],
+      "note": "Operator, intrare și condiții de acces încă neconfirmate; exclus din recomandări."
+    },
+    {
+      "id": "escape-venue",
+      "name": {
+        "ro": "Escape Venue",
+        "en": "Escape Venue",
+        "it": "Escape Venue",
+        "fr": "Escape Venue",
+        "es": "Escape Venue",
+        "zh-Hans": "Escape Venue"
+      },
+      "description": {
+        "ro": "Consultă programul locului pentru o seară de muzică sau întâlniri în oraș. Accesul, evenimentele și rezervările trebuie confirmate direct; condițiile pot diferi de la o seară la alta.",
+        "en": "Check the venue’s programme for an evening of music or meeting friends. Confirm admission, events and reservations directly, as conditions can vary from one evening to another.",
+        "it": "Consulta il programma del locale per una serata di musica o incontri. Conferma direttamente accesso, eventi e prenotazioni: le condizioni possono cambiare da una sera all’altra.",
+        "fr": "Consultez le programme du lieu pour une soirée musicale ou entre amis. Confirmez directement l’entrée, les événements et les réservations ; les conditions peuvent changer selon la soirée.",
+        "es": "Consulta la programación del local para una noche de música o encuentros. Confirma directamente el acceso, los eventos y las reservas, que pueden cambiar cada noche.",
+        "zh-Hans": "查看场所安排，选择一晚音乐或朋友聚会。请直接确认入场、活动与预约要求；不同晚间活动的条件可能不同。"
+      },
+      "categories": [
+        "night"
+      ],
+      "venues": [
+        {
+          "id": "escape-venue-unconfirmed",
+          "name": "Escape Venue",
+          "address": "",
+          "verified": false,
+          "status": "unknown",
+          "minors": "unknown",
+          "sources": []
+        }
+      ],
+      "note": "Operator, intrare și condiții de acces încă neconfirmate; exclus din recomandări."
+    },
+    {
+      "id": "tucano",
+      "name": {
+        "ro": "Tucano",
+        "en": "Tucano",
+        "it": "Tucano",
+        "fr": "Tucano",
+        "es": "Tucano",
+        "zh-Hans": "Tucano"
+      },
+      "description": {
+        "ro": "Oprește-te pentru o cafea și o conversație în timpul plimbării. Consultă pagina cafenelei pentru meniul actual, adresa aleasă și condițiile vizitei.",
+        "en": "Pause for coffee and conversation during your walk. Check the café’s own page for its current menu, the branch you choose and details for your visit.",
+        "it": "Fermati per un caffè e una chiacchierata durante la passeggiata. Consulta la pagina del locale per il menu attuale, la sede scelta e i dettagli della visita.",
+        "fr": "Faites une pause café et conversation pendant votre promenade. Consultez la page du café pour son menu actuel, l’adresse choisie et les modalités de visite.",
+        "es": "Haz una pausa para tomar café y conversar durante el paseo. Consulta la página del local para ver el menú, la dirección elegida y los detalles.",
+        "zh-Hans": "散步途中，停下来喝杯咖啡、聊聊天。出发前请查看咖啡馆的官方页面，确认所选分店、当前菜单和到访信息。"
+      },
+      "categories": [
+        "cafes"
+      ],
+      "venues": [
+        {
+          "id": "tucano-main",
+          "name": "Tucano Coffee Venezuela — Iulius Mall",
+          "address": "Iulius Mall Timișoara, parter, Piața Consiliul Europei 2",
+          "verified": true,
+          "status": "open",
+          "minors": "unknown",
+          "url": "https://iuliustown.ro/ro/dining/cafenele",
+          "linkType": "official",
+          "sources": [
+            "https://iuliustown.ro/ro/dining/iuliustown.ro/ro/dining/cafenele"
+          ],
+          "verifiedAt": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": "starbucks",
+      "name": {
+        "ro": "Starbucks",
+        "en": "Starbucks",
+        "it": "Starbucks",
+        "fr": "Starbucks",
+        "es": "Starbucks",
+        "zh-Hans": "Starbucks"
+      },
+      "description": {
+        "ro": "Oprește-te pentru o cafea și o conversație în timpul plimbării. Consultă pagina cafenelei pentru meniul actual, adresa aleasă și condițiile vizitei.",
+        "en": "Pause for coffee and conversation during your walk. Check the café’s own page for its current menu, the branch you choose and details for your visit.",
+        "it": "Fermati per un caffè e una chiacchierata durante la passeggiata. Consulta la pagina del locale per il menu attuale, la sede scelta e i dettagli della visita.",
+        "fr": "Faites une pause café et conversation pendant votre promenade. Consultez la page du café pour son menu actuel, l’adresse choisie et les modalités de visite.",
+        "es": "Haz una pausa para tomar café y conversar durante el paseo. Consulta la página del local para ver el menú, la dirección elegida y los detalles.",
+        "zh-Hans": "散步途中，停下来喝杯咖啡、聊聊天。出发前请查看咖啡馆的官方页面，确认所选分店、当前菜单和到访信息。"
+      },
+      "categories": [
+        "cafes"
+      ],
+      "venues": [
+        {
+          "id": "starbucks-main",
+          "name": "Starbucks — Iulius Mall",
+          "address": "Iulius Mall Timișoara, demisol, Piața Consiliul Europei 2",
+          "verified": true,
+          "status": "open",
+          "minors": "unknown",
+          "url": "https://iuliustown.ro/ro/dining/cafenele",
+          "linkType": "official",
+          "sources": [
+            "https://iuliustown.ro/ro/dining/iuliustown.ro/ro/dining/cafenele"
+          ],
+          "verifiedAt": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": "frenzy",
+      "name": {
+        "ro": "Frenzy",
+        "en": "Frenzy",
+        "it": "Frenzy",
+        "fr": "Frenzy",
+        "es": "Frenzy",
+        "zh-Hans": "Frenzy"
+      },
+      "description": {
+        "ro": "Oprește-te pentru o cafea și o conversație în timpul plimbării. Consultă pagina cafenelei pentru meniul actual, adresa aleasă și condițiile vizitei.",
+        "en": "Pause for coffee and conversation during your walk. Check the café’s own page for its current menu, the branch you choose and details for your visit.",
+        "it": "Fermati per un caffè e una chiacchierata durante la passeggiata. Consulta la pagina del locale per il menu attuale, la sede scelta e i dettagli della visita.",
+        "fr": "Faites une pause café et conversation pendant votre promenade. Consultez la page du café pour son menu actuel, l’adresse choisie et les modalités de visite.",
+        "es": "Haz una pausa para tomar café y conversar durante el paseo. Consulta la página del local para ver el menú, la dirección elegida y los detalles.",
+        "zh-Hans": "散步途中，停下来喝杯咖啡、聊聊天。出发前请查看咖啡馆的官方页面，确认所选分店、当前菜单和到访信息。"
+      },
+      "categories": [
+        "cafes"
+      ],
+      "venues": [
+        {
+          "id": "frenzy-unconfirmed",
+          "name": "Frenzy",
+          "address": "",
+          "verified": false,
+          "status": "unknown",
+          "minors": "unknown",
+          "sources": []
+        }
+      ],
+      "note": "Operator, intrare și condiții de acces încă neconfirmate; exclus din recomandări."
+    },
+    {
+      "id": "teds",
+      "name": {
+        "ro": "Ted’s Coffee",
+        "en": "Ted’s Coffee",
+        "it": "Ted’s Coffee",
+        "fr": "Ted’s Coffee",
+        "es": "Ted’s Coffee",
+        "zh-Hans": "Ted’s Coffee"
+      },
+      "description": {
+        "ro": "Oprește-te pentru o cafea și o conversație în timpul plimbării. Consultă pagina cafenelei pentru meniul actual, adresa aleasă și condițiile vizitei.",
+        "en": "Pause for coffee and conversation during your walk. Check the café’s own page for its current menu, the branch you choose and details for your visit.",
+        "it": "Fermati per un caffè e una chiacchierata durante la passeggiata. Consulta la pagina del locale per il menu attuale, la sede scelta e i dettagli della visita.",
+        "fr": "Faites une pause café et conversation pendant votre promenade. Consultez la page du café pour son menu actuel, l’adresse choisie et les modalités de visite.",
+        "es": "Haz una pausa para tomar café y conversar durante el paseo. Consulta la página del local para ver el menú, la dirección elegida y los detalles.",
+        "zh-Hans": "散步途中，停下来喝杯咖啡、聊聊天。出发前请查看咖啡馆的官方页面，确认所选分店、当前菜单和到访信息。"
+      },
+      "categories": [
+        "cafes"
+      ],
+      "venues": [
+        {
+          "id": "teds-main",
+          "name": "Ted’s Coffee",
+          "address": "City Business Centre, Strada Coriolan Brediceanu 10, Timișoara",
+          "verified": true,
+          "status": "open",
+          "minors": "unknown",
+          "url": "https://www.old.teds.ro/locatii",
+          "linkType": "official",
+          "sources": [
+            "https://www.old.teds.ro/locatii"
+          ],
+          "verifiedAt": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": "brewno",
+      "name": {
+        "ro": "Brewno",
+        "en": "Brewno",
+        "it": "Brewno",
+        "fr": "Brewno",
+        "es": "Brewno",
+        "zh-Hans": "Brewno"
+      },
+      "description": {
+        "ro": "Alege o cafea de specialitate și patiserie la Brewno Unirii, pe Gheorghe Lazăr. Operatorul are și alte sedii; această oprire păstrează adresa centrală verificată în ghid.",
+        "en": "Choose specialty coffee and pastry at Brewno Unirii on Gheorghe Lazăr Street. The operator has other branches too; this stop uses the central address checked for the guide.",
+        "it": "Scegli caffè di specialità e pasticceria da Brewno Unirii, in via Gheorghe Lazăr. Il gestore ha altre sedi; questa tappa usa l’indirizzo centrale verificato nella guida.",
+        "fr": "Choisissez café de spécialité et pâtisserie chez Brewno Unirii, rue Gheorghe Lazăr. Le café possède d’autres adresses ; cette étape conserve la succursale centrale vérifiée pour le guide.",
+        "es": "Elige café de especialidad y pastelería en Brewno Unirii, en Gheorghe Lazăr. El operador tiene otras sucursales; esta parada usa la dirección central comprobada.",
+        "zh-Hans": "在 Gheorghe Lazăr 街的 Brewno Unirii 品尝精品咖啡与糕点。品牌另有分店；本条目对应已核对的市中心地址，请留意所选馆址。"
+      },
+      "categories": [
+        "cafes"
+      ],
+      "venues": [
+        {
+          "id": "brewno-main",
+          "name": "Brewno Unirii",
+          "address": "Strada Gheorghe Lazăr 6, Timișoara",
+          "verified": true,
+          "status": "open",
+          "minors": "unknown",
+          "url": "https://brewno.ro/",
+          "linkType": "official",
+          "sources": [
+            "https://brewno.ro/"
+          ],
+          "verifiedAt": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": "mercy",
+      "name": {
+        "ro": "Mercy Coffee",
+        "en": "Mercy Coffee",
+        "it": "Mercy Coffee",
+        "fr": "Mercy Coffee",
+        "es": "Mercy Coffee",
+        "zh-Hans": "Mercy Coffee"
+      },
+      "description": {
+        "ro": "Oprește-te pentru o cafea și o conversație în timpul plimbării. Consultă pagina cafenelei pentru meniul actual, adresa aleasă și condițiile vizitei.",
+        "en": "Pause for coffee and conversation during your walk. Check the café’s own page for its current menu, the branch you choose and details for your visit.",
+        "it": "Fermati per un caffè e una chiacchierata durante la passeggiata. Consulta la pagina del locale per il menu attuale, la sede scelta e i dettagli della visita.",
+        "fr": "Faites une pause café et conversation pendant votre promenade. Consultez la page du café pour son menu actuel, l’adresse choisie et les modalités de visite.",
+        "es": "Haz una pausa para tomar café y conversar durante el paseo. Consulta la página del local para ver el menú, la dirección elegida y los detalles.",
+        "zh-Hans": "散步途中，停下来喝杯咖啡、聊聊天。出发前请查看咖啡馆的官方页面，确认所选分店、当前菜单和到访信息。"
+      },
+      "categories": [
+        "cafes"
+      ],
+      "venues": [
+        {
+          "id": "mercy-unconfirmed",
+          "name": "Mercy Coffee",
+          "address": "",
+          "verified": false,
+          "status": "unknown",
+          "minors": "unknown",
+          "sources": []
+        }
+      ],
+      "note": "Operator, intrare și condiții de acces încă neconfirmate; exclus din recomandări."
+    },
+    {
+      "id": "comun-cafe-mara",
+      "name": {
+        "ro": "Comun Cafe Mara",
+        "en": "Comun Cafe Mara",
+        "it": "Comun Cafe Mara",
+        "fr": "Comun Cafe Mara",
+        "es": "Comun Cafe Mara",
+        "zh-Hans": "Comun Cafe Mara"
+      },
+      "description": {
+        "ro": "Detaliile acestui loc sunt în curs de confirmare. Îl păstrăm între ideile de explorat; o destinație sigură va fi disponibilă după identificarea exactă a operatorului.",
+        "en": "Details of this place are being confirmed. It remains among the ideas to explore; a reliable destination will be available once the operator is identified.",
+        "it": "I dettagli di questo luogo sono in corso di verifica. Rimane tra le idee da esplorare; il collegamento sarà disponibile dopo l’identificazione esatta del gestore.",
+        "fr": "Les informations sur ce lieu sont en cours de vérification. Il reste parmi les idées à explorer ; un lien fiable suivra l’identification de son exploitant.",
+        "es": "Los detalles de este lugar se están comprobando. Se conserva como idea para explorar; habrá un destino fiable tras identificar exactamente al operador.",
+        "zh-Hans": "这个场所的具体信息仍待确认。我们将其保留为探索灵感；准确识别经营方后，才会提供可靠的访问链接。"
+      },
+      "categories": [
+        "cafes"
+      ],
+      "venues": [
+        {
+          "id": "comun-cafe-mara-unconfirmed",
+          "name": "Comun Cafe Mara",
+          "address": "",
+          "verified": false,
+          "status": "unknown",
+          "minors": "unknown",
+          "sources": []
+        }
+      ],
+      "note": "Operator, intrare și condiții de acces încă neconfirmate; exclus din recomandări."
+    },
+    {
+      "id": "street-coffee",
+      "name": {
+        "ro": "Street Coffee Roasters",
+        "en": "Street Coffee Roasters",
+        "it": "Street Coffee Roasters",
+        "fr": "Street Coffee Roasters",
+        "es": "Street Coffee Roasters",
+        "zh-Hans": "Street Coffee Roasters"
+      },
+      "description": {
+        "ro": "Oprește-te pentru o cafea și o conversație în timpul plimbării. Consultă pagina cafenelei pentru meniul actual, adresa aleasă și condițiile vizitei.",
+        "en": "Pause for coffee and conversation during your walk. Check the café’s own page for its current menu, the branch you choose and details for your visit.",
+        "it": "Fermati per un caffè e una chiacchierata durante la passeggiata. Consulta la pagina del locale per il menu attuale, la sede scelta e i dettagli della visita.",
+        "fr": "Faites une pause café et conversation pendant votre promenade. Consultez la page du café pour son menu actuel, l’adresse choisie et les modalités de visite.",
+        "es": "Haz una pausa para tomar café y conversar durante el paseo. Consulta la página del local para ver el menú, la dirección elegida y los detalles.",
+        "zh-Hans": "散步途中，停下来喝杯咖啡、聊聊天。出发前请查看咖啡馆的官方页面，确认所选分店、当前菜单和到访信息。"
+      },
+      "categories": [
+        "cafes"
+      ],
+      "venues": [
+        {
+          "id": "street-coffee-main",
+          "name": "Street Coffee Roasters — Alba Iulia",
+          "address": "Strada Alba Iulia 5, Timișoara",
+          "verified": true,
+          "status": "open",
+          "minors": "unknown",
+          "url": "https://streetcoffee.ro/locatii/timisoara/",
+          "linkType": "official",
+          "sources": [
+            "https://streetcoffee.ro/locatii/timisoara/"
+          ],
+          "verifiedAt": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": "meron",
+      "name": {
+        "ro": "Meron Timișoara",
+        "en": "Meron Timișoara",
+        "it": "Meron Timișoara",
+        "fr": "Meron Timișoara",
+        "es": "Meron Timișoara",
+        "zh-Hans": "Meron Timișoara"
+      },
+      "description": {
+        "ro": "Oprește-te pentru o cafea și o conversație în timpul plimbării. Consultă pagina cafenelei pentru meniul actual, adresa aleasă și condițiile vizitei.",
+        "en": "Pause for coffee and conversation during your walk. Check the café’s own page for its current menu, the branch you choose and details for your visit.",
+        "it": "Fermati per un caffè e una chiacchierata durante la passeggiata. Consulta la pagina del locale per il menu attuale, la sede scelta e i dettagli della visita.",
+        "fr": "Faites une pause café et conversation pendant votre promenade. Consultez la page du café pour son menu actuel, l’adresse choisie et les modalités de visite.",
+        "es": "Haz una pausa para tomar café y conversar durante el paseo. Consulta la página del local para ver el menú, la dirección elegida y los detalles.",
+        "zh-Hans": "散步途中，停下来喝杯咖啡、聊聊天。出发前请查看咖啡馆的官方页面，确认所选分店、当前菜单和到访信息。"
+      },
+      "categories": [
+        "cafes"
+      ],
+      "venues": [
+        {
+          "id": "meron-main",
+          "name": "Meron Timișoara",
+          "address": "Strada Johann Wolfgang von Goethe 2, Timișoara",
+          "verified": true,
+          "status": "open",
+          "minors": "unknown",
+          "url": "https://www.meron.coffee/meron-timisoara-2/",
+          "linkType": "official",
+          "sources": [
+            "https://www.meron.coffee/meron-timisoara-2/"
+          ],
+          "verifiedAt": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": "caffe-doge",
+      "name": {
+        "ro": "Caffe del Doge",
+        "en": "Caffe del Doge",
+        "it": "Caffe del Doge",
+        "fr": "Caffe del Doge",
+        "es": "Caffe del Doge",
+        "zh-Hans": "Caffe del Doge"
+      },
+      "description": {
+        "ro": "Oprește-te pentru o cafea și o conversație în timpul plimbării. Consultă pagina cafenelei pentru meniul actual, adresa aleasă și condițiile vizitei.",
+        "en": "Pause for coffee and conversation during your walk. Check the café’s own page for its current menu, the branch you choose and details for your visit.",
+        "it": "Fermati per un caffè e una chiacchierata durante la passeggiata. Consulta la pagina del locale per il menu attuale, la sede scelta e i dettagli della visita.",
+        "fr": "Faites une pause café et conversation pendant votre promenade. Consultez la page du café pour son menu actuel, l’adresse choisie et les modalités de visite.",
+        "es": "Haz una pausa para tomar café y conversar durante el paseo. Consulta la página del local para ver el menú, la dirección elegida y los detalles.",
+        "zh-Hans": "散步途中，停下来喝杯咖啡、聊聊天。出发前请查看咖啡馆的官方页面，确认所选分店、当前菜单和到访信息。"
+      },
+      "categories": [
+        "cafes"
+      ],
+      "venues": [
+        {
+          "id": "caffe-doge-unconfirmed",
+          "name": "Caffe del Doge",
+          "address": "",
+          "verified": false,
+          "status": "unknown",
+          "minors": "unknown",
+          "sources": []
+        }
+      ],
+      "note": "Operator, intrare și condiții de acces încă neconfirmate; exclus din recomandări."
+    },
+    {
+      "id": "senses",
+      "name": {
+        "ro": "Senses Specialty Coffee",
+        "en": "Senses Specialty Coffee",
+        "it": "Senses Specialty Coffee",
+        "fr": "Senses Specialty Coffee",
+        "es": "Senses Specialty Coffee",
+        "zh-Hans": "Senses Specialty Coffee"
+      },
+      "description": {
+        "ro": "Oprește-te pentru o cafea și o conversație în timpul plimbării. Consultă pagina cafenelei pentru meniul actual, adresa aleasă și condițiile vizitei.",
+        "en": "Pause for coffee and conversation during your walk. Check the café’s own page for its current menu, the branch you choose and details for your visit.",
+        "it": "Fermati per un caffè e una chiacchierata durante la passeggiata. Consulta la pagina del locale per il menu attuale, la sede scelta e i dettagli della visita.",
+        "fr": "Faites une pause café et conversation pendant votre promenade. Consultez la page du café pour son menu actuel, l’adresse choisie et les modalités de visite.",
+        "es": "Haz una pausa para tomar café y conversar durante el paseo. Consulta la página del local para ver el menú, la dirección elegida y los detalles.",
+        "zh-Hans": "散步途中，停下来喝杯咖啡、聊聊天。出发前请查看咖啡馆的官方页面，确认所选分店、当前菜单和到访信息。"
+      },
+      "categories": [
+        "cafes"
+      ],
+      "venues": [
+        {
+          "id": "senses-unconfirmed",
+          "name": "Senses Specialty Coffee",
+          "address": "",
+          "verified": false,
+          "status": "unknown",
+          "minors": "unknown",
+          "sources": []
+        }
+      ],
+      "note": "Operator, intrare și condiții de acces încă neconfirmate; exclus din recomandări."
+    },
+    {
+      "id": "zaza",
+      "name": {
+        "ro": "Zaza",
+        "en": "Zaza",
+        "it": "Zaza",
+        "fr": "Zaza",
+        "es": "Zaza",
+        "zh-Hans": "Zaza"
+      },
+      "description": {
+        "ro": "Alege o masă în oraș și consultă meniul direct la restaurant. Confirmă disponibilitatea mesei, ingredientele și condițiile de acces înainte de a porni.",
+        "en": "Choose a meal out and view the menu directly with the restaurant. Confirm table availability, ingredients and admission details before setting out for your visit.",
+        "it": "Scegli un pranzo o una cena fuori e consulta il menu del ristorante. Verifica disponibilità dei tavoli, ingredienti e condizioni di accesso prima di partire.",
+        "fr": "Choisissez un repas en ville et consultez le menu du restaurant. Confirmez la disponibilité des tables, les ingrédients et les conditions d’accès avant de partir.",
+        "es": "Elige una comida fuera y consulta el menú del restaurante. Confirma la disponibilidad de mesas, los ingredientes y las condiciones de acceso antes de salir.",
+        "zh-Hans": "安排一顿外出用餐，直接向餐厅查看菜单。出发前请确认座位、食材以及入场规定，以经营方当前公布的信息为准。"
+      },
+      "categories": [
+        "food"
+      ],
+      "venues": [
+        {
+          "id": "zaza-main",
+          "name": "Zaza",
+          "address": "Bd. Vasile Pârvan 9, Timișoara",
+          "verified": true,
+          "status": "open",
+          "minors": "unknown",
+          "url": "https://zazarestopub.ro/",
+          "linkType": "official",
+          "sources": [
+            "https://zazarestopub.ro/"
+          ],
+          "verifiedAt": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": "vineri-13",
+      "name": {
+        "ro": "Vineri 13",
+        "en": "Vineri 13",
+        "it": "Vineri 13",
+        "fr": "Vineri 13",
+        "es": "Vineri 13",
+        "zh-Hans": "Vineri 13"
+      },
+      "description": {
+        "ro": "Alege o masă în oraș și consultă meniul direct la restaurant. Confirmă disponibilitatea mesei, ingredientele și condițiile de acces înainte de a porni.",
+        "en": "Choose a meal out and view the menu directly with the restaurant. Confirm table availability, ingredients and admission details before setting out for your visit.",
+        "it": "Scegli un pranzo o una cena fuori e consulta il menu del ristorante. Verifica disponibilità dei tavoli, ingredienti e condizioni di accesso prima di partire.",
+        "fr": "Choisissez un repas en ville et consultez le menu du restaurant. Confirmez la disponibilité des tables, les ingrédients et les conditions d’accès avant de partir.",
+        "es": "Elige una comida fuera y consulta el menú del restaurante. Confirma la disponibilidad de mesas, los ingredientes y las condiciones de acceso antes de salir.",
+        "zh-Hans": "安排一顿外出用餐，直接向餐厅查看菜单。出发前请确认座位、食材以及入场规定，以经营方当前公布的信息为准。"
+      },
+      "categories": [
+        "food"
+      ],
+      "venues": [
+        {
+          "id": "vineri-13-unconfirmed",
+          "name": "Vineri 13",
+          "address": "",
+          "verified": false,
+          "status": "unknown",
+          "minors": "unknown",
+          "sources": []
+        }
+      ],
+      "note": "Operator, intrare și condiții de acces încă neconfirmate; exclus din recomandări."
+    },
+    {
+      "id": "massimo",
+      "name": {
+        "ro": "Massimo",
+        "en": "Massimo",
+        "it": "Massimo",
+        "fr": "Massimo",
+        "es": "Massimo",
+        "zh-Hans": "Massimo"
+      },
+      "description": {
+        "ro": "Alege o masă în oraș și consultă meniul direct la restaurant. Confirmă disponibilitatea mesei, ingredientele și condițiile de acces înainte de a porni.",
+        "en": "Choose a meal out and view the menu directly with the restaurant. Confirm table availability, ingredients and admission details before setting out for your visit.",
+        "it": "Scegli un pranzo o una cena fuori e consulta il menu del ristorante. Verifica disponibilità dei tavoli, ingredienti e condizioni di accesso prima di partire.",
+        "fr": "Choisissez un repas en ville et consultez le menu du restaurant. Confirmez la disponibilité des tables, les ingrédients et les conditions d’accès avant de partir.",
+        "es": "Elige una comida fuera y consulta el menú del restaurante. Confirma la disponibilidad de mesas, los ingredientes y las condiciones de acceso antes de salir.",
+        "zh-Hans": "安排一顿外出用餐，直接向餐厅查看菜单。出发前请确认座位、食材以及入场规定，以经营方当前公布的信息为准。"
+      },
+      "categories": [
+        "food"
+      ],
+      "venues": [
+        {
+          "id": "massimo-unconfirmed",
+          "name": "Massimo",
+          "address": "",
+          "verified": false,
+          "status": "unknown",
+          "minors": "unknown",
+          "sources": []
+        }
+      ],
+      "note": "Operator, intrare și condiții de acces încă neconfirmate; exclus din recomandări."
+    },
+    {
+      "id": "rio",
+      "name": {
+        "ro": "Rio — ramen",
+        "en": "Rio — ramen",
+        "it": "Rio — ramen",
+        "fr": "Rio — ramen",
+        "es": "Rio — ramen",
+        "zh-Hans": "Rio — ramen"
+      },
+      "description": {
+        "ro": "Detaliile acestui loc sunt în curs de confirmare. Îl păstrăm între ideile de explorat; o destinație sigură va fi disponibilă după identificarea exactă a operatorului.",
+        "en": "Details of this place are being confirmed. It remains among the ideas to explore; a reliable destination will be available once the operator is identified.",
+        "it": "I dettagli di questo luogo sono in corso di verifica. Rimane tra le idee da esplorare; il collegamento sarà disponibile dopo l’identificazione esatta del gestore.",
+        "fr": "Les informations sur ce lieu sont en cours de vérification. Il reste parmi les idées à explorer ; un lien fiable suivra l’identification de son exploitant.",
+        "es": "Los detalles de este lugar se están comprobando. Se conserva como idea para explorar; habrá un destino fiable tras identificar exactamente al operador.",
+        "zh-Hans": "这个场所的具体信息仍待确认。我们将其保留为探索灵感；准确识别经营方后，才会提供可靠的访问链接。"
+      },
+      "categories": [
+        "food"
+      ],
+      "venues": [
+        {
+          "id": "rio-unconfirmed",
+          "name": "Rio — ramen",
+          "address": "",
+          "verified": false,
+          "status": "unknown",
+          "minors": "unknown",
+          "sources": []
+        }
+      ],
+      "note": "Operator, intrare și condiții de acces încă neconfirmate; exclus din recomandări."
+    },
+    {
+      "id": "woktagon",
+      "name": {
+        "ro": "Woktagon",
+        "en": "Woktagon",
+        "it": "Woktagon",
+        "fr": "Woktagon",
+        "es": "Woktagon",
+        "zh-Hans": "Woktagon"
+      },
+      "description": {
+        "ro": "Alege o masă în oraș și consultă meniul direct la restaurant. Confirmă disponibilitatea mesei, ingredientele și condițiile de acces înainte de a porni.",
+        "en": "Choose a meal out and view the menu directly with the restaurant. Confirm table availability, ingredients and admission details before setting out for your visit.",
+        "it": "Scegli un pranzo o una cena fuori e consulta il menu del ristorante. Verifica disponibilità dei tavoli, ingredienti e condizioni di accesso prima di partire.",
+        "fr": "Choisissez un repas en ville et consultez le menu du restaurant. Confirmez la disponibilité des tables, les ingrédients et les conditions d’accès avant de partir.",
+        "es": "Elige una comida fuera y consulta el menú del restaurante. Confirma la disponibilidad de mesas, los ingredientes y las condiciones de acceso antes de salir.",
+        "zh-Hans": "安排一顿外出用餐，直接向餐厅查看菜单。出发前请确认座位、食材以及入场规定，以经营方当前公布的信息为准。"
+      },
+      "categories": [
+        "food"
+      ],
+      "venues": [
+        {
+          "id": "woktagon-unconfirmed",
+          "name": "Woktagon",
+          "address": "",
+          "verified": false,
+          "status": "unknown",
+          "minors": "unknown",
+          "sources": [
+            "https://www.woktagon.ro/contact"
+          ]
+        }
+      ],
+      "note": "Search-indexed official contact corroborates Gheorghe Lazăr8 and Korean cuisine; direct page redirects to Google login. Public link withheld until accessible destination checked."
+    },
+    {
+      "id": "pinocchio",
+      "name": {
+        "ro": "Pinocchio — Piața Libertății",
+        "en": "Pinocchio — Piața Libertății",
+        "it": "Pinocchio — Piața Libertății",
+        "fr": "Pinocchio — Piața Libertății",
+        "es": "Pinocchio — Piața Libertății",
+        "zh-Hans": "Pinocchio — Piața Libertății"
+      },
+      "description": {
+        "ro": "Alege o masă în oraș și consultă meniul direct la restaurant. Confirmă disponibilitatea mesei, ingredientele și condițiile de acces înainte de a porni.",
+        "en": "Choose a meal out and view the menu directly with the restaurant. Confirm table availability, ingredients and admission details before setting out for your visit.",
+        "it": "Scegli un pranzo o una cena fuori e consulta il menu del ristorante. Verifica disponibilità dei tavoli, ingredienti e condizioni di accesso prima di partire.",
+        "fr": "Choisissez un repas en ville et consultez le menu du restaurant. Confirmez la disponibilité des tables, les ingrédients et les conditions d’accès avant de partir.",
+        "es": "Elige una comida fuera y consulta el menú del restaurante. Confirma la disponibilidad de mesas, los ingredientes y las condiciones de acceso antes de salir.",
+        "zh-Hans": "安排一顿外出用餐，直接向餐厅查看菜单。出发前请确认座位、食材以及入场规定，以经营方当前公布的信息为准。"
+      },
+      "categories": [
+        "food"
+      ],
+      "venues": [
+        {
+          "id": "pinocchio-unconfirmed",
+          "name": "Pinocchio — Piața Libertății",
+          "address": "",
+          "verified": false,
+          "status": "unknown",
+          "minors": "unknown",
+          "sources": []
+        }
+      ],
+      "note": "Operator, intrare și condiții de acces încă neconfirmate; exclus din recomandări."
+    },
+    {
+      "id": "jacks",
+      "name": {
+        "ro": "Jack’s",
+        "en": "Jack’s",
+        "it": "Jack’s",
+        "fr": "Jack’s",
+        "es": "Jack’s",
+        "zh-Hans": "Jack’s"
+      },
+      "description": {
+        "ro": "Alege o masă în oraș și consultă meniul direct la restaurant. Confirmă disponibilitatea mesei, ingredientele și condițiile de acces înainte de a porni.",
+        "en": "Choose a meal out and view the menu directly with the restaurant. Confirm table availability, ingredients and admission details before setting out for your visit.",
+        "it": "Scegli un pranzo o una cena fuori e consulta il menu del ristorante. Verifica disponibilità dei tavoli, ingredienti e condizioni di accesso prima di partire.",
+        "fr": "Choisissez un repas en ville et consultez le menu du restaurant. Confirmez la disponibilité des tables, les ingrédients et les conditions d’accès avant de partir.",
+        "es": "Elige una comida fuera y consulta el menú del restaurante. Confirma la disponibilidad de mesas, los ingredientes y las condiciones de acceso antes de salir.",
+        "zh-Hans": "安排一顿外出用餐，直接向餐厅查看菜单。出发前请确认座位、食材以及入场规定，以经营方当前公布的信息为准。"
+      },
+      "categories": [
+        "food"
+      ],
+      "venues": [
+        {
+          "id": "jacks-unconfirmed",
+          "name": "Jack’s",
+          "address": "",
+          "verified": false,
+          "status": "unknown",
+          "minors": "unknown",
+          "sources": []
+        }
+      ],
+      "note": "Operator, intrare și condiții de acces încă neconfirmate; exclus din recomandări."
+    },
+    {
+      "id": "moon-garden",
+      "name": {
+        "ro": "Moon Garden",
+        "en": "Moon Garden",
+        "it": "Moon Garden",
+        "fr": "Moon Garden",
+        "es": "Moon Garden",
+        "zh-Hans": "Moon Garden"
+      },
+      "description": {
+        "ro": "Alege o masă în oraș și consultă meniul direct la restaurant. Confirmă disponibilitatea mesei, ingredientele și condițiile de acces înainte de a porni.",
+        "en": "Choose a meal out and view the menu directly with the restaurant. Confirm table availability, ingredients and admission details before setting out for your visit.",
+        "it": "Scegli un pranzo o una cena fuori e consulta il menu del ristorante. Verifica disponibilità dei tavoli, ingredienti e condizioni di accesso prima di partire.",
+        "fr": "Choisissez un repas en ville et consultez le menu du restaurant. Confirmez la disponibilité des tables, les ingrédients et les conditions d’accès avant de partir.",
+        "es": "Elige una comida fuera y consulta el menú del restaurante. Confirma la disponibilidad de mesas, los ingredientes y las condiciones de acceso antes de salir.",
+        "zh-Hans": "安排一顿外出用餐，直接向餐厅查看菜单。出发前请确认座位、食材以及入场规定，以经营方当前公布的信息为准。"
+      },
+      "categories": [
+        "food"
+      ],
+      "venues": [
+        {
+          "id": "moon-garden-main",
+          "name": "Moon Garden",
+          "address": "Strada Grigore Alexandrescu 204, Timișoara",
+          "verified": true,
+          "status": "open",
+          "minors": "unknown",
+          "url": "https://moongarden.ro/",
+          "linkType": "official",
+          "sources": [
+            "https://moongarden.ro/"
+          ],
+          "verifiedAt": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": "napoleon",
+      "name": {
+        "ro": "Napoleon Pizza",
+        "en": "Napoleon Pizza",
+        "it": "Napoleon Pizza",
+        "fr": "Napoleon Pizza",
+        "es": "Napoleon Pizza",
+        "zh-Hans": "Napoleon Pizza"
+      },
+      "description": {
+        "ro": "Alege o masă în oraș și consultă meniul direct la restaurant. Confirmă disponibilitatea mesei, ingredientele și condițiile de acces înainte de a porni.",
+        "en": "Choose a meal out and view the menu directly with the restaurant. Confirm table availability, ingredients and admission details before setting out for your visit.",
+        "it": "Scegli un pranzo o una cena fuori e consulta il menu del ristorante. Verifica disponibilità dei tavoli, ingredienti e condizioni di accesso prima di partire.",
+        "fr": "Choisissez un repas en ville et consultez le menu du restaurant. Confirmez la disponibilité des tables, les ingrédients et les conditions d’accès avant de partir.",
+        "es": "Elige una comida fuera y consulta el menú del restaurante. Confirma la disponibilidad de mesas, los ingredientes y las condiciones de acceso antes de salir.",
+        "zh-Hans": "安排一顿外出用餐，直接向餐厅查看菜单。出发前请确认座位、食材以及入场规定，以经营方当前公布的信息为准。"
+      },
+      "categories": [
+        "food"
+      ],
+      "venues": [
+        {
+          "id": "napoleon-unconfirmed",
+          "name": "Napoleon Pizza",
+          "address": "",
+          "verified": false,
+          "status": "unknown",
+          "minors": "unknown",
+          "sources": []
+        }
+      ],
+      "note": "Operator, intrare și condiții de acces încă neconfirmate; exclus din recomandări."
+    },
+    {
+      "id": "white-pizza",
+      "name": {
+        "ro": "White Pizza",
+        "en": "White Pizza",
+        "it": "White Pizza",
+        "fr": "White Pizza",
+        "es": "White Pizza",
+        "zh-Hans": "White Pizza"
+      },
+      "description": {
+        "ro": "Alege o masă în oraș și consultă meniul direct la restaurant. Confirmă disponibilitatea mesei, ingredientele și condițiile de acces înainte de a porni.",
+        "en": "Choose a meal out and view the menu directly with the restaurant. Confirm table availability, ingredients and admission details before setting out for your visit.",
+        "it": "Scegli un pranzo o una cena fuori e consulta il menu del ristorante. Verifica disponibilità dei tavoli, ingredienti e condizioni di accesso prima di partire.",
+        "fr": "Choisissez un repas en ville et consultez le menu du restaurant. Confirmez la disponibilité des tables, les ingrédients et les conditions d’accès avant de partir.",
+        "es": "Elige una comida fuera y consulta el menú del restaurante. Confirma la disponibilidad de mesas, los ingredientes y las condiciones de acceso antes de salir.",
+        "zh-Hans": "安排一顿外出用餐，直接向餐厅查看菜单。出发前请确认座位、食材以及入场规定，以经营方当前公布的信息为准。"
+      },
+      "categories": [
+        "food"
+      ],
+      "venues": [
+        {
+          "id": "white-pizza-unconfirmed",
+          "name": "White Pizza",
+          "address": "",
+          "verified": false,
+          "status": "unknown",
+          "minors": "unknown",
+          "sources": []
+        }
+      ],
+      "note": "Operator, intrare și condiții de acces încă neconfirmate; exclus din recomandări."
+    },
+    {
+      "id": "dei-frati",
+      "name": {
+        "ro": "Dei Frati",
+        "en": "Dei Frati",
+        "it": "Dei Frati",
+        "fr": "Dei Frati",
+        "es": "Dei Frati",
+        "zh-Hans": "Dei Frati"
+      },
+      "description": {
+        "ro": "Alege o masă în oraș și consultă meniul direct la restaurant. Confirmă disponibilitatea mesei, ingredientele și condițiile de acces înainte de a porni.",
+        "en": "Choose a meal out and view the menu directly with the restaurant. Confirm table availability, ingredients and admission details before setting out for your visit.",
+        "it": "Scegli un pranzo o una cena fuori e consulta il menu del ristorante. Verifica disponibilità dei tavoli, ingredienti e condizioni di accesso prima di partire.",
+        "fr": "Choisissez un repas en ville et consultez le menu du restaurant. Confirmez la disponibilité des tables, les ingrédients et les conditions d’accès avant de partir.",
+        "es": "Elige una comida fuera y consulta el menú del restaurante. Confirma la disponibilidad de mesas, los ingredientes y las condiciones de acceso antes de salir.",
+        "zh-Hans": "安排一顿外出用餐，直接向餐厅查看菜单。出发前请确认座位、食材以及入场规定，以经营方当前公布的信息为准。"
+      },
+      "categories": [
+        "food"
+      ],
+      "venues": [
+        {
+          "id": "dei-frati-unconfirmed",
+          "name": "Dei Frati",
+          "address": "",
+          "verified": false,
+          "status": "unknown",
+          "minors": "unknown",
+          "sources": []
+        }
+      ],
+      "note": "Operator, intrare și condiții de acces încă neconfirmate; exclus din recomandări."
+    },
+    {
+      "id": "del-corso",
+      "name": {
+        "ro": "Del Corso",
+        "en": "Del Corso",
+        "it": "Del Corso",
+        "fr": "Del Corso",
+        "es": "Del Corso",
+        "zh-Hans": "Del Corso"
+      },
+      "description": {
+        "ro": "Alege o masă în oraș și consultă meniul direct la restaurant. Confirmă disponibilitatea mesei, ingredientele și condițiile de acces înainte de a porni.",
+        "en": "Choose a meal out and view the menu directly with the restaurant. Confirm table availability, ingredients and admission details before setting out for your visit.",
+        "it": "Scegli un pranzo o una cena fuori e consulta il menu del ristorante. Verifica disponibilità dei tavoli, ingredienti e condizioni di accesso prima di partire.",
+        "fr": "Choisissez un repas en ville et consultez le menu du restaurant. Confirmez la disponibilité des tables, les ingrédients et les conditions d’accès avant de partir.",
+        "es": "Elige una comida fuera y consulta el menú del restaurante. Confirma la disponibilidad de mesas, los ingredientes y las condiciones de acceso antes de salir.",
+        "zh-Hans": "安排一顿外出用餐，直接向餐厅查看菜单。出发前请确认座位、食材以及入场规定，以经营方当前公布的信息为准。"
+      },
+      "categories": [
+        "food"
+      ],
+      "venues": [
+        {
+          "id": "del-corso-main",
+          "name": "Locanda Del Corso",
+          "address": "Strada Mărășești 10, Timișoara",
+          "verified": true,
+          "status": "open",
+          "minors": "unknown",
+          "url": "https://locandadelcorso.ro/",
+          "linkType": "official",
+          "sources": [
+            "https://delcorsogroup.ro/locatiile-noastre"
+          ],
+          "verifiedAt": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": "el-maguey",
+      "name": {
+        "ro": "El Maguey",
+        "en": "El Maguey",
+        "it": "El Maguey",
+        "fr": "El Maguey",
+        "es": "El Maguey",
+        "zh-Hans": "El Maguey"
+      },
+      "description": {
+        "ro": "Alege o masă în oraș și consultă meniul direct la restaurant. Confirmă disponibilitatea mesei, ingredientele și condițiile de acces înainte de a porni.",
+        "en": "Choose a meal out and view the menu directly with the restaurant. Confirm table availability, ingredients and admission details before setting out for your visit.",
+        "it": "Scegli un pranzo o una cena fuori e consulta il menu del ristorante. Verifica disponibilità dei tavoli, ingredienti e condizioni di accesso prima di partire.",
+        "fr": "Choisissez un repas en ville et consultez le menu du restaurant. Confirmez la disponibilité des tables, les ingrédients et les conditions d’accès avant de partir.",
+        "es": "Elige una comida fuera y consulta el menú del restaurante. Confirma la disponibilidad de mesas, los ingredientes y las condiciones de acceso antes de salir.",
+        "zh-Hans": "安排一顿外出用餐，直接向餐厅查看菜单。出发前请确认座位、食材以及入场规定，以经营方当前公布的信息为准。"
+      },
+      "categories": [
+        "food"
+      ],
+      "venues": [
+        {
+          "id": "el-maguey-unconfirmed",
+          "name": "El Maguey",
+          "address": "",
+          "verified": false,
+          "status": "unknown",
+          "minors": "unknown",
+          "sources": []
+        }
+      ],
+      "note": "Operator, intrare și condiții de acces încă neconfirmate; exclus din recomandări."
+    },
+    {
+      "id": "beraria",
+      "name": {
+        "ro": "Berăria",
+        "en": "Berăria",
+        "it": "Berăria",
+        "fr": "Berăria",
+        "es": "Berăria",
+        "zh-Hans": "Berăria"
+      },
+      "description": {
+        "ro": "Detaliile acestui loc sunt în curs de confirmare. Îl păstrăm între ideile de explorat; o destinație sigură va fi disponibilă după identificarea exactă a operatorului.",
+        "en": "Details of this place are being confirmed. It remains among the ideas to explore; a reliable destination will be available once the operator is identified.",
+        "it": "I dettagli di questo luogo sono in corso di verifica. Rimane tra le idee da esplorare; il collegamento sarà disponibile dopo l’identificazione esatta del gestore.",
+        "fr": "Les informations sur ce lieu sont en cours de vérification. Il reste parmi les idées à explorer ; un lien fiable suivra l’identification de son exploitant.",
+        "es": "Los detalles de este lugar se están comprobando. Se conserva como idea para explorar; habrá un destino fiable tras identificar exactamente al operador.",
+        "zh-Hans": "这个场所的具体信息仍待确认。我们将其保留为探索灵感；准确识别经营方后，才会提供可靠的访问链接。"
+      },
+      "categories": [
+        "food"
+      ],
+      "venues": [
+        {
+          "id": "beraria-unconfirmed",
+          "name": "Berăria",
+          "address": "",
+          "verified": false,
+          "status": "unknown",
+          "minors": "unknown",
+          "sources": []
+        }
+      ],
+      "note": "Operator, intrare și condiții de acces încă neconfirmate; exclus din recomandări."
+    },
+    {
+      "id": "casa-bunicii",
+      "name": {
+        "ro": "Casa Bunicii Garden",
+        "en": "Casa Bunicii Garden",
+        "it": "Casa Bunicii Garden",
+        "fr": "Casa Bunicii Garden",
+        "es": "Casa Bunicii Garden",
+        "zh-Hans": "Casa Bunicii Garden"
+      },
+      "description": {
+        "ro": "La Casa Bunicii Garden poți combina masa cu o ieșire în grădina urbană de pe Averescu. Operatorul confirmă locul de joacă; verifică masa și condițiile pentru copii.",
+        "en": "At Casa Bunicii Garden, combine a meal with the urban garden on Averescu Street. The operator confirms a playground; check table availability and the conditions for children.",
+        "it": "Da Casa Bunicii Garden puoi unire il pasto al giardino urbano di via Averescu. Il gestore conferma un’area giochi; verifica tavoli e condizioni per i bambini.",
+        "fr": "Chez Casa Bunicii Garden, associez repas et jardin urbain de la rue Averescu. Le lieu confirme une aire de jeux ; vérifiez les tables et conditions pour enfants.",
+        "es": "En Casa Bunicii Garden combina una comida con el jardín urbano de Averescu. El operador confirma una zona infantil; consulta mesa y condiciones para niños.",
+        "zh-Hans": "在 Averescu 街的 Casa Bunicii Garden 用餐，享受城市花园。经营方确认设有儿童游戏区；请提前确认座位和儿童参与条件。"
+      },
+      "categories": [
+        "food"
+      ],
+      "venues": [
+        {
+          "id": "casa-bunicii-main",
+          "name": "Casa Bunicii Garden",
+          "address": "Strada Mareșal Alexandru Averescu 1B, Timișoara",
+          "verified": true,
+          "status": "open",
+          "minors": "yes",
+          "url": "https://www.casa-bunicii.ro/restaurant-timisoara",
+          "linkType": "official",
+          "sources": [
+            "https://www.casa-bunicii.ro/restaurant-timisoara"
+          ],
+          "verifiedAt": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": "zone-2",
+      "name": {
+        "ro": "Restaurant ZONE 2",
+        "en": "Restaurant ZONE 2",
+        "it": "Restaurant ZONE 2",
+        "fr": "Restaurant ZONE 2",
+        "es": "Restaurant ZONE 2",
+        "zh-Hans": "Restaurant ZONE 2"
+      },
+      "description": {
+        "ro": "Alege o masă în oraș și consultă meniul direct la restaurant. Confirmă disponibilitatea mesei, ingredientele și condițiile de acces înainte de a porni.",
+        "en": "Choose a meal out and view the menu directly with the restaurant. Confirm table availability, ingredients and admission details before setting out for your visit.",
+        "it": "Scegli un pranzo o una cena fuori e consulta il menu del ristorante. Verifica disponibilità dei tavoli, ingredienti e condizioni di accesso prima di partire.",
+        "fr": "Choisissez un repas en ville et consultez le menu du restaurant. Confirmez la disponibilité des tables, les ingrédients et les conditions d’accès avant de partir.",
+        "es": "Elige una comida fuera y consulta el menú del restaurante. Confirma la disponibilidad de mesas, los ingredientes y las condiciones de acceso antes de salir.",
+        "zh-Hans": "安排一顿外出用餐，直接向餐厅查看菜单。出发前请确认座位、食材以及入场规定，以经营方当前公布的信息为准。"
+      },
+      "categories": [
+        "food"
+      ],
+      "venues": [
+        {
+          "id": "zone-2-unconfirmed",
+          "name": "Restaurant ZONE 2",
+          "address": "",
+          "verified": false,
+          "status": "unknown",
+          "minors": "unknown",
+          "sources": []
+        }
+      ],
+      "note": "Operator, intrare și condiții de acces încă neconfirmate; exclus din recomandări."
+    },
+    {
+      "id": "daf-junior",
+      "name": {
+        "ro": "DAF Junior",
+        "en": "DAF Junior",
+        "it": "DAF Junior",
+        "fr": "DAF Junior",
+        "es": "DAF Junior",
+        "zh-Hans": "DAF Junior"
+      },
+      "description": {
+        "ro": "Alege o masă în oraș și consultă meniul direct la restaurant. Confirmă disponibilitatea mesei, ingredientele și condițiile de acces înainte de a porni.",
+        "en": "Choose a meal out and view the menu directly with the restaurant. Confirm table availability, ingredients and admission details before setting out for your visit.",
+        "it": "Scegli un pranzo o una cena fuori e consulta il menu del ristorante. Verifica disponibilità dei tavoli, ingredienti e condizioni di accesso prima di partire.",
+        "fr": "Choisissez un repas en ville et consultez le menu du restaurant. Confirmez la disponibilité des tables, les ingrédients et les conditions d’accès avant de partir.",
+        "es": "Elige una comida fuera y consulta el menú del restaurante. Confirma la disponibilidad de mesas, los ingredientes y las condiciones de acceso antes de salir.",
+        "zh-Hans": "安排一顿外出用餐，直接向餐厅查看菜单。出发前请确认座位、食材以及入场规定，以经营方当前公布的信息为准。"
+      },
+      "categories": [
+        "food"
+      ],
+      "venues": [
+        {
+          "id": "daf-junior-main",
+          "name": "DAF Junior",
+          "address": "Strada Gloria 5, Giroc",
+          "verified": true,
+          "status": "open",
+          "minors": "unknown",
+          "url": "https://dafjunior.ro/contact/",
+          "linkType": "official",
+          "sources": [
+            "https://dafjunior.ro/contact/"
+          ],
+          "verifiedAt": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": "flonta",
+      "name": {
+        "ro": "Complex Flonta",
+        "en": "Complex Flonta",
+        "it": "Complex Flonta",
+        "fr": "Complex Flonta",
+        "es": "Complex Flonta",
+        "zh-Hans": "Complex Flonta"
+      },
+      "description": {
+        "ro": "Alege o masă în oraș și consultă meniul direct la restaurant. Confirmă disponibilitatea mesei, ingredientele și condițiile de acces înainte de a porni.",
+        "en": "Choose a meal out and view the menu directly with the restaurant. Confirm table availability, ingredients and admission details before setting out for your visit.",
+        "it": "Scegli un pranzo o una cena fuori e consulta il menu del ristorante. Verifica disponibilità dei tavoli, ingredienti e condizioni di accesso prima di partire.",
+        "fr": "Choisissez un repas en ville et consultez le menu du restaurant. Confirmez la disponibilité des tables, les ingrédients et les conditions d’accès avant de partir.",
+        "es": "Elige una comida fuera y consulta el menú del restaurante. Confirma la disponibilidad de mesas, los ingredientes y las condiciones de acceso antes de salir.",
+        "zh-Hans": "安排一顿外出用餐，直接向餐厅查看菜单。出发前请确认座位、食材以及入场规定，以经营方当前公布的信息为准。"
+      },
+      "categories": [
+        "food"
+      ],
+      "venues": [
+        {
+          "id": "flonta-main",
+          "name": "Complex Flonta",
+          "address": "Complex Flonta, Giroc, Timiș",
+          "verified": true,
+          "status": "unknown",
+          "minors": "unknown",
+          "url": "https://complex-flonta.ro/descopera/restaurantul/",
+          "linkType": "official",
+          "sources": [
+            "https://complex-flonta.ro/descopera/restaurantul/"
+          ],
+          "verifiedAt": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": "muzeul-arta",
+      "name": {
+        "ro": "Muzeul Național de Artă Timișoara",
+        "en": "Timișoara National Museum of Art",
+        "it": "Museo Nazionale d’Arte di Timișoara",
+        "fr": "Musée national d’art de Timișoara",
+        "es": "Museo Nacional de Arte de Timișoara",
+        "zh-Hans": "蒂米什瓦拉国家艺术博物馆"
+      },
+      "description": {
+        "ro": "Intră din Piața Unirii în muzeul găzduit de Palatul Baroc. Descoperă expozițiile de artă, urmărește detaliile clădirii și verifică programul actual pe pagina instituției.",
+        "en": "Enter from Union Square into the museum housed in the Baroque Palace. Discover art exhibitions, notice the building’s details and check the institution’s current visiting information.",
+        "it": "Entra da Piazza dell’Unione nel museo ospitato dal Palazzo Barocco. Scopri le mostre d’arte, osserva i dettagli dell’edificio e controlla le informazioni attuali dell’istituzione.",
+        "fr": "Entrez depuis la place de l’Union dans le musée du palais baroque. Découvrez les expositions, observez les détails du bâtiment et consultez les informations de visite actuelles.",
+        "es": "Entra desde la Plaza de la Unión al museo del Palacio Barroco. Descubre las exposiciones, observa los detalles del edificio y consulta la información actual.",
+        "zh-Hans": "从联合广场进入巴洛克宫内的艺术博物馆，参观艺术展览，留意建筑细节。具体开放安排和到访信息，请查看博物馆当前公告。"
+      },
+      "categories": [
+        "culture"
+      ],
+      "venues": [
+        {
+          "id": "muzeul-arta-main",
+          "name": "Muzeul Național de Artă Timișoara",
+          "address": "Piața Unirii 1, intrare din piață, Timișoara",
+          "verified": true,
+          "status": "open",
+          "minors": "yes",
+          "url": "https://mnart.museum/informatii/",
+          "linkType": "official",
+          "sources": [
+            "https://mnart.museum/informatii/",
+            "https://mnart.museum/reguli-de-vizitare/",
+            "https://www.wikidata.org/wiki/Q18542193"
+          ],
+          "verifiedAt": "2026-11-13",
+          "lat": 45.7574472,
+          "lon": 21.2294528
+        }
+      ],
+      "photo": {
+        "path": "/media/photos/muzeul-arta.webp",
+        "author": "LuminitaM",
+        "source": "https://commons.wikimedia.org/wiki/File:Art_Museum_Timisoara.jpg",
+        "license": "CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0",
+        "alt": {
+          "ro": "Muzeul Național de Artă Timișoara",
+          "en": "Timișoara National Museum of Art",
+          "it": "Museo Nazionale d’Arte di Timișoara",
+          "fr": "Musée national d’art de Timișoara",
+          "es": "Museo Nacional de Arte de Timișoara",
+          "zh-Hans": "蒂米什瓦拉国家艺术博物馆"
+        }
+      }
+    },
+    {
+      "id": "memorialul-revolutiei",
+      "name": {
+        "ro": "Memorialul Revoluției",
+        "en": "Revolution Memorial",
+        "it": "Memoriale della Rivoluzione",
+        "fr": "Mémorial de la Révolution",
+        "es": "Memorial de la Revolución",
+        "zh-Hans": "革命纪念馆"
+      },
+      "description": {
+        "ro": "Descoperă documente și expoziții despre Revoluția din decembrie 1989. Memorialul de pe Oituz păstrează mărturii ale istoriei recente; alege o vizită potrivită intereselor și vârstei grupului.",
+        "en": "Discover documents and exhibitions about the December 1989 Revolution. The memorial on Oituz preserves accounts of recent history; consider your group’s interests and ages when planning a visit.",
+        "it": "Scopri documenti e mostre sulla Rivoluzione del dicembre 1989. Il memoriale di Oituz conserva testimonianze della storia recente; valuta interessi ed età del gruppo prima della visita.",
+        "fr": "Découvrez documents et expositions sur la Révolution de décembre 1989. Le mémorial d’Oituz conserve des témoignages d’histoire récente ; tenez compte des intérêts et des âges du groupe.",
+        "es": "Descubre documentos y exposiciones sobre la Revolución de diciembre de 1989. El memorial de Oituz conserva testimonios recientes; considera los intereses y edades del grupo.",
+        "zh-Hans": "通过文件和展览了解 1989 年十二月革命。Oituz 街的纪念馆保存近代历史见证；安排参观时，请结合团队兴趣和年龄考虑展览内容。"
+      },
+      "categories": [
+        "culture"
+      ],
+      "venues": [
+        {
+          "id": "memorialul-revolutiei-main",
+          "name": "Memorialul Revoluției",
+          "address": "Strada Oituz 2B, Timișoara",
+          "verified": true,
+          "status": "open",
+          "minors": "yes",
+          "url": "https://memorialulrevolutiei.ro/despre-noi/orar/",
+          "linkType": "official",
+          "sources": [
+            "https://memorialulrevolutiei.ro/despre-noi/orar/",
+            "https://visit-timisoara.com/ro/muzee/"
+          ],
+          "verifiedAt": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": "muzeul-banatului",
+      "name": {
+        "ro": "Muzeul Național al Banatului — Bastion",
+        "en": "National Museum of Banat — Bastion",
+        "it": "Museo Nazionale del Banato — Bastione",
+        "fr": "Musée national du Banat — Bastion",
+        "es": "Museo Nacional del Banato — Bastión",
+        "zh-Hans": "巴纳特国家博物馆 — 堡垒馆址"
+      },
+      "description": {
+        "ro": "Vizitează expozițiile Muzeului Național al Banatului de la Bastionul Theresia. Verifică selecția curentă înainte de plecare; această intrare nu promite acces în Castelul Huniade, aflat în restaurare.",
+        "en": "Visit the National Museum of Banat’s exhibitions at Theresia Bastion. Check the current selection before visiting; this entry does not promise access to Huniade Castle, which is under restoration.",
+        "it": "Visita le mostre del Museo Nazionale del Banato al Bastione Theresia. Controlla la selezione attuale; questa sede non garantisce accesso al Castello Huniade, in restauro.",
+        "fr": "Visitez les expositions du Musée national du Banat au bastion Theresia. Consultez la sélection actuelle ; cette entrée ne donne pas accès au château Huniade, en restauration.",
+        "es": "Visita las exposiciones del Museo Nacional del Banato en el Bastión Theresia. Consulta la selección actual; esta entrada no ofrece acceso al castillo Huniade, en restauración.",
+        "zh-Hans": "在 Theresia 堡垒参观巴纳特国家博物馆的展览。出发前请查看当前展览信息；本条目指堡垒馆址，Huniade 城堡仍在修复中。"
+      },
+      "categories": [
+        "culture"
+      ],
+      "venues": [
+        {
+          "id": "muzeul-banatului-main",
+          "name": "Muzeul Național al Banatului — Bastion",
+          "address": "Bastionul Theresia, Strada Martin Luther 4, Timișoara",
+          "verified": true,
+          "status": "open",
+          "minors": "yes",
+          "url": "https://mnab.ro/visit-us/",
+          "linkType": "official",
+          "sources": [
+            "https://mnab.ro/visit-us/",
+            "https://www.wikidata.org/wiki/Q539936"
+          ],
+          "verifiedAt": "2026-11-13",
+          "lat": 45.7569444,
+          "lon": 21.2333333
+        }
+      ],
+      "photo": {
+        "path": "/media/photos/muzeul-banatului.webp",
+        "author": "Marius Catalin Boldeanu",
+        "source": "https://commons.wikimedia.org/wiki/File:Bastionul_Theresia_din_Timisoara_(2).jpg",
+        "license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0",
+        "alt": {
+          "ro": "Muzeul Național al Banatului — Bastion",
+          "en": "National Museum of Banat — Bastion",
+          "it": "Museo Nazionale del Banato — Bastione",
+          "fr": "Musée national du Banat — Bastion",
+          "es": "Museo Nacional del Banato — Bastión",
+          "zh-Hans": "巴纳特国家博物馆 — 堡垒馆址"
+        }
+      }
+    },
+    {
+      "id": "muzeul-comunismului",
+      "name": {
+        "ro": "Muzeul Consumatorului Comunist",
+        "en": "Communist Consumer Museum",
+        "it": "Museo del Consumatore Comunista",
+        "fr": "Musée du consommateur communiste",
+        "es": "Museo del Consumidor Comunista",
+        "zh-Hans": "共产主义时期消费生活博物馆"
+      },
+      "description": {
+        "ro": "Descoperă obiecte ale vieții cotidiene din perioada comunistă, la muzeul de pe strada László Székely. Confirmă deschiderea direct pe pagina locului înainte de vizită.",
+        "en": "Discover objects from everyday life during the communist period at the museum on László Székely Street. Confirm current opening directly on the venue’s page before visiting.",
+        "it": "Scopri oggetti della vita quotidiana del periodo comunista nel museo di via László Székely. Conferma l’apertura attuale direttamente sulla pagina del luogo prima della visita.",
+        "fr": "Découvrez des objets du quotidien de la période communiste au musée de la rue László Székely. Confirmez l’ouverture actuelle sur la page du lieu avant la visite.",
+        "es": "Descubre objetos cotidianos de la época comunista en el museo de la calle László Székely. Confirma la apertura actual directamente en su página antes de visitar.",
+        "zh-Hans": "在 László Székely 街的博物馆了解共产主义时期的日常物品。当前开放状态尚待直接确认，请先查看场所页面再安排到访。"
+      },
+      "categories": [
+        "culture"
+      ],
+      "venues": [
+        {
+          "id": "muzeul-comunismului-main",
+          "name": "Muzeul Consumatorului Comunist",
+          "address": "Strada László Székely 1, Timișoara",
+          "verified": true,
+          "status": "unknown",
+          "minors": "unknown",
+          "url": "https://www.facebook.com/muzeuconsumatorcomunist",
+          "linkType": "official",
+          "sources": [
+            "https://visit-timisoara.com/ro/muzee/"
+          ],
+          "verifiedAt": "2026-11-13"
+        }
+      ],
+      "photo": {
+        "path": "/media/photos/muzeul-comunismului.webp",
+        "author": "Chainwit.",
+        "source": "https://commons.wikimedia.org/wiki/File:2023_April_-_Muzeul_Consumatorului_Comunist_din_Timi%C8%99oara_10.jpg",
+        "license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0",
+        "alt": {
+          "ro": "Muzeul Consumatorului Comunist",
+          "en": "Communist Consumer Museum",
+          "it": "Museo del Consumatore Comunista",
+          "fr": "Musée du consommateur communiste",
+          "es": "Museo del Consumidor Comunista",
+          "zh-Hans": "共产主义时期消费生活博物馆"
+        }
+      }
+    },
+    {
+      "id": "jecza",
+      "name": {
+        "ro": "Jecza Gallery",
+        "en": "Jecza Gallery",
+        "it": "Jecza Gallery",
+        "fr": "Jecza Gallery",
+        "es": "Jecza Gallery",
+        "zh-Hans": "Jecza Gallery"
+      },
+      "description": {
+        "ro": "Privește expozițiile de artă contemporană ale galeriei Jecza din Timișoara. Consultă programul și expoziția curentă la operator, distingând această galerie de spațiul său din București.",
+        "en": "Explore contemporary art exhibitions at Jecza’s Timișoara gallery. Check the programme and current show with the operator, distinguishing this gallery from its separate space in Bucharest.",
+        "it": "Osserva le mostre d’arte contemporanea della galleria Jecza di Timișoara. Consulta programma e mostra attuale, distinguendo questa galleria dalla sua sede separata di Bucarest.",
+        "fr": "Découvrez l’art contemporain à la galerie Jecza de Timișoara. Consultez le programme actuel en distinguant cette galerie de son autre espace, situé à Bucarest.",
+        "es": "Explora las exposiciones de arte contemporáneo de Jecza en Timișoara. Consulta la programación actual y distingue esta galería de su otro espacio en Bucarest.",
+        "zh-Hans": "在 Jecza 的蒂米什瓦拉画廊欣赏当代艺术。请向画廊确认当前展览及开放安排，并注意与其布加勒斯特馆址区分。"
+      },
+      "categories": [
+        "culture"
+      ],
+      "venues": [
+        {
+          "id": "jecza-main",
+          "name": "Jecza Gallery",
+          "address": "Calea Martirilor 1989 nr. 51/45, Timișoara",
+          "verified": true,
+          "status": "open",
+          "minors": "unknown",
+          "url": "https://jeczagallery.com/",
+          "linkType": "official",
+          "sources": [
+            "https://jeczagallery.com/",
+            "https://www.wikidata.org/wiki/Q135219227"
+          ],
+          "verifiedAt": "2026-11-13",
+          "lat": 45.727873,
+          "lon": 21.2381153
+        }
+      ]
+    },
+    {
+      "id": "muzeul-apei",
+      "name": {
+        "ro": "Muzeul Apei",
+        "en": "Water Museum",
+        "it": "Museo dell’Acqua",
+        "fr": "Musée de l’Eau",
+        "es": "Museo del Agua",
+        "zh-Hans": "水博物馆"
+      },
+      "description": {
+        "ro": "Explorează fosta uzină de apă de la Urseni, cu instalații istorice și clădiri industriale. Copiii sub paisprezece ani sunt însoțiți; consultă programul actual înainte de vizită.",
+        "en": "Explore the former Urseni water plant, its historical equipment and industrial buildings. Children under fourteen need adult supervision; check the museum’s current visiting programme before your trip.",
+        "it": "Esplora l’ex impianto idrico di Urseni, con macchinari storici ed edifici industriali. I bambini sotto i quattordici anni vanno accompagnati; verifica il programma attuale prima della visita.",
+        "fr": "Explorez l’ancienne usine des eaux d’Urseni, ses équipements historiques et bâtiments industriels. Les moins de quatorze ans doivent être accompagnés ; vérifiez le programme actuel avant la visite.",
+        "es": "Explora la antigua planta de agua de Urseni, sus instalaciones históricas y edificios industriales. Los menores de catorce años necesitan acompañamiento; consulta el programa actual.",
+        "zh-Hans": "探索 Urseni 旧水厂的历史设备与工业建筑。十四岁以下儿童须由成人陪同；参观前请查看博物馆当前的开放安排。"
+      },
+      "categories": [
+        "culture"
+      ],
+      "venues": [
+        {
+          "id": "muzeul-apei-main",
+          "name": "Muzeul Apei",
+          "address": "Calea Urseni 26, Timișoara",
+          "verified": true,
+          "status": "open",
+          "minors": "yes",
+          "url": "https://www.muzeulapei.ro/",
+          "linkType": "official",
+          "sources": [
+            "https://www.muzeulapei.ro/en/plan-you-visit/",
+            "https://visit-timisoara.com/ro/muzee/",
+            "https://www.wikidata.org/wiki/Q134311609"
+          ],
+          "verifiedAt": "2026-11-13",
+          "adultRequired": true,
+          "lat": 45.7236111,
+          "lon": 21.2563889
+        }
+      ]
+    },
+    {
+      "id": "muzeul-satului",
+      "name": {
+        "ro": "Muzeul Satului Bănățean",
+        "en": "Banat Village Museum",
+        "it": "Museo del Villaggio del Banato",
+        "fr": "Musée du village du Banat",
+        "es": "Museo de la Aldea del Banato",
+        "zh-Hans": "巴纳特乡村博物馆"
+      },
+      "description": {
+        "ro": "Plimbă-te prin gospodăriile și construcțiile tradiționale ale Banatului, într-un muzeu în aer liber. Terenul poate fi denivelat; copiii sub paisprezece ani vizitează însoțiți de adult.",
+        "en": "Walk among Banat’s traditional homes and buildings in an open-air museum. Paths can be uneven; children under fourteen visit with an adult, following the museum’s current visitor rules.",
+        "it": "Passeggia tra case ed edifici tradizionali del Banato in un museo all’aperto. Il terreno può essere irregolare; i bambini sotto i quattordici anni visitano accompagnati.",
+        "fr": "Promenez-vous parmi les maisons et bâtiments traditionnels du Banat dans un musée de plein air. Le terrain peut être irrégulier ; les moins de quatorze ans sont accompagnés.",
+        "es": "Pasea entre casas y edificios tradicionales del Banato en un museo al aire libre. El terreno puede ser irregular; los menores de catorce años van acompañados.",
+        "zh-Hans": "在露天博物馆中穿行于巴纳特传统民居与建筑之间。部分道路不平；十四岁以下儿童须由成人陪同，并遵守馆方规定。"
+      },
+      "categories": [
+        "culture"
+      ],
+      "venues": [
+        {
+          "id": "muzeul-satului-main",
+          "name": "Muzeul Satului Bănățean",
+          "address": "Strada Avram Imbroane 1, Timișoara",
+          "verified": true,
+          "status": "open",
+          "minors": "yes",
+          "url": "https://muzeulsatuluibanatean.ro/",
+          "linkType": "official",
+          "sources": [
+            "https://muzeulsatuluibanatean.ro/2026/03/11/regulament-de-vizitare-al-muzeului-satului-banatean-timisoara/",
+            "https://visit-timisoara.com/ro/muzee/",
+            "https://www.wikidata.org/wiki/Q806117"
+          ],
+          "verifiedAt": "2026-11-13",
+          "adultRequired": true,
+          "lat": 45.7774344,
+          "lon": 21.2660262
+        }
+      ],
+      "photo": {
+        "path": "/media/photos/muzeul-satului.webp",
+        "author": "Chainwit.",
+        "source": "https://commons.wikimedia.org/wiki/File:Muzeul_Satului_B%C4%83n%C4%83%C8%9Bean_Timi%C8%99oara_(2023)_-_img_15.jpg",
+        "license": "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0",
+        "alt": {
+          "ro": "Muzeul Satului Bănățean",
+          "en": "Banat Village Museum",
+          "it": "Museo del Villaggio del Banato",
+          "fr": "Musée du village du Banat",
+          "es": "Museo de la Aldea del Banato",
+          "zh-Hans": "巴纳特乡村博物馆"
+        }
+      }
+    },
+    {
+      "id": "catedrala",
+      "name": {
+        "ro": "Catedrala Mitropolitană „Sfinții Trei Ierarhi”",
+        "en": "“Three Holy Hierarchs” Metropolitan Cathedral",
+        "it": "Cattedrale metropolitana dei Tre Santi Gerarchi",
+        "fr": "Cathédrale métropolitaine des Trois Saints Hiérarques",
+        "es": "Catedral Metropolitana de los Tres Santos Jerarcas",
+        "zh-Hans": "三圣教父都主教座堂"
+      },
+      "description": {
+        "ro": "Privește turlele Catedralei Mitropolitane din capătul Pieței Victoriei. Dacă intri, respectă slujbele și liniștea lăcașului; pentru colecția muzeală consultă separat informațiile instituției.",
+        "en": "Look up at the Metropolitan Cathedral’s towers at the end of Victory Square. Inside, respect worship and quiet; consult the institution separately for its museum collection.",
+        "it": "Osserva le torri della Cattedrale metropolitana in fondo a Piazza della Vittoria. All’interno rispetta funzioni e silenzio; consulta separatamente le informazioni sulla collezione museale.",
+        "fr": "Observez les tours de la cathédrale métropolitaine au bout de la place de la Victoire. Respectez offices et silence ; renseignez-vous séparément pour la collection du musée.",
+        "es": "Observa las torres de la catedral al final de la Plaza de la Victoria. Respeta los oficios y el silencio; consulta aparte la colección museística.",
+        "zh-Hans": "在胜利广场一端仰望都主教座堂的塔楼。入内时请尊重礼拜并保持安静；如需参观馆藏，请另向教堂查询。"
+      },
+      "categories": [
+        "history"
+      ],
+      "venues": [
+        {
+          "id": "catedrala-main",
+          "name": "Catedrala Mitropolitană „Sfinții Trei Ierarhi”",
+          "address": "Bd. Regele Ferdinand I, Piața Victoriei, Timișoara",
+          "verified": true,
+          "status": "open",
+          "minors": "unknown",
+          "url": "https://www.mitropolia-banatului.ro/",
+          "linkType": "official",
+          "sources": [
+            "https://visit-timis.ro/catedrala-mitropolitana-timisoara",
+            "https://www.wikidata.org/wiki/Q1261597"
+          ],
+          "verifiedAt": "2026-11-13",
+          "lat": 45.750626,
+          "lon": 21.224234
+        }
+      ],
+      "photo": {
+        "path": "/media/photos/catedrala.webp",
+        "author": "Choinowski",
+        "source": "https://commons.wikimedia.org/wiki/File:Catedrala_Mitropolitan%C4%83_%E2%80%9ESfin%C8%9Bii_Trei_Ierarhi%E2%80%9D.jpg",
+        "license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0",
+        "alt": {
+          "ro": "Catedrala Mitropolitană „Sfinții Trei Ierarhi”",
+          "en": "“Three Holy Hierarchs” Metropolitan Cathedral",
+          "it": "Cattedrale metropolitana dei Tre Santi Gerarchi",
+          "fr": "Cathédrale métropolitaine des Trois Saints Hiérarques",
+          "es": "Catedral Metropolitana de los Tres Santos Jerarcas",
+          "zh-Hans": "三圣教父都主教座堂"
+        }
+      }
+    },
+    {
+      "id": "piata-victoriei",
+      "name": {
+        "ro": "Piața Victoriei",
+        "en": "Victory Square",
+        "it": "Piazza della Vittoria",
+        "fr": "Place de la Victoire",
+        "es": "Plaza de la Victoria",
+        "zh-Hans": "胜利广场"
+      },
+      "description": {
+        "ro": "Traversează piața în ritmul tău și privește fațadele din jur. Oprește-te la detaliile clădirilor, apoi continuă pe străzile pietonale din centrul orașului.",
+        "en": "Cross the square at your own pace and look at the surrounding façades. Pause over architectural details, then continue into the pedestrian streets of the city centre.",
+        "it": "Attraversa la piazza al tuo ritmo e osserva le facciate intorno. Soffermati sui dettagli degli edifici, poi continua nelle strade pedonali del centro cittadino.",
+        "fr": "Traversez la place à votre rythme et observez les façades. Attardez-vous sur les détails des bâtiments, puis poursuivez dans les rues piétonnes du centre-ville.",
+        "es": "Cruza la plaza a tu ritmo y observa las fachadas que la rodean. Descubre sus detalles y continúa por las calles peatonales del centro.",
+        "zh-Hans": "按照自己的节奏穿过广场，欣赏周边立面与建筑细节。停留片刻，再继续走进市中心的步行街，探索沿途不同的角落。"
+      },
+      "categories": [
+        "history"
+      ],
+      "venues": [
+        {
+          "id": "piata-victoriei-main",
+          "name": "Piața Victoriei",
+          "address": "Piața Victoriei, Timișoara",
+          "verified": true,
+          "status": "open",
+          "minors": "yes",
+          "url": "https://www.openstreetmap.org/?mlat=45.753256&mlon=21.225543#map=18/45.753256/21.225543",
+          "linkType": "map",
+          "sources": [
+            "https://visit-timisoara.com/ro/monumente/",
+            "https://www.wikidata.org/wiki/Q1402782"
+          ],
+          "verifiedAt": "2026-11-13",
+          "lat": 45.753256,
+          "lon": 21.225543
+        }
+      ],
+      "photo": {
+        "path": "/media/photos/piata-victoriei.webp",
+        "author": "Choinowski",
+        "source": "https://commons.wikimedia.org/wiki/File:Victory_Square_in_Timi%C8%99oara_Romania.jpg",
+        "license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0",
+        "alt": {
+          "ro": "Piața Victoriei",
+          "en": "Victory Square",
+          "it": "Piazza della Vittoria",
+          "fr": "Place de la Victoire",
+          "es": "Plaza de la Victoria",
+          "zh-Hans": "胜利广场"
+        }
+      }
+    },
+    {
+      "id": "piata-libertatii",
+      "name": {
+        "ro": "Piața Libertății",
+        "en": "Liberty Square",
+        "it": "Piazza della Libertà",
+        "fr": "Place de la Liberté",
+        "es": "Plaza de la Libertad",
+        "zh-Hans": "自由广场"
+      },
+      "description": {
+        "ro": "Traversează piața în ritmul tău și privește fațadele din jur. Oprește-te la detaliile clădirilor, apoi continuă pe străzile pietonale din centrul orașului.",
+        "en": "Cross the square at your own pace and look at the surrounding façades. Pause over architectural details, then continue into the pedestrian streets of the city centre.",
+        "it": "Attraversa la piazza al tuo ritmo e osserva le facciate intorno. Soffermati sui dettagli degli edifici, poi continua nelle strade pedonali del centro cittadino.",
+        "fr": "Traversez la place à votre rythme et observez les façades. Attardez-vous sur les détails des bâtiments, puis poursuivez dans les rues piétonnes du centre-ville.",
+        "es": "Cruza la plaza a tu ritmo y observa las fachadas que la rodean. Descubre sus detalles y continúa por las calles peatonales del centro.",
+        "zh-Hans": "按照自己的节奏穿过广场，欣赏周边立面与建筑细节。停留片刻，再继续走进市中心的步行街，探索沿途不同的角落。"
+      },
+      "categories": [
+        "history"
+      ],
+      "venues": [
+        {
+          "id": "piata-libertatii-main",
+          "name": "Piața Libertății",
+          "address": "Piața Libertății, Timișoara",
+          "verified": true,
+          "status": "open",
+          "minors": "yes",
+          "url": "https://www.openstreetmap.org/?mlat=45.755568&mlon=21.227201#map=18/45.755568/21.227201",
+          "linkType": "map",
+          "sources": [
+            "https://visit-timisoara.com/ro/monumente/",
+            "https://www.wikidata.org/wiki/Q175320"
+          ],
+          "verifiedAt": "2026-11-13",
+          "lat": 45.755568,
+          "lon": 21.227201
+        }
+      ],
+      "photo": {
+        "path": "/media/photos/piata-libertatii.webp",
+        "author": "Gugalcrom123",
+        "source": "https://commons.wikimedia.org/wiki/File:Timi%C8%99oara_-_Pia%C8%9Ba_Libert%C4%83%C8%9Bii_noaptea,_septembrie_2023.jpg",
+        "license": "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0",
+        "alt": {
+          "ro": "Piața Libertății",
+          "en": "Liberty Square",
+          "it": "Piazza della Libertà",
+          "fr": "Place de la Liberté",
+          "es": "Plaza de la Libertad",
+          "zh-Hans": "自由广场"
+        }
+      }
+    },
+    {
+      "id": "piata-unirii",
+      "name": {
+        "ro": "Piața Unirii",
+        "en": "Union Square",
+        "it": "Piazza dell’Unione",
+        "fr": "Place de l’Union",
+        "es": "Plaza de la Unión",
+        "zh-Hans": "联合广场"
+      },
+      "description": {
+        "ro": "Traversează piața în ritmul tău și privește fațadele din jur. Oprește-te la detaliile clădirilor, apoi continuă pe străzile pietonale din centrul orașului.",
+        "en": "Cross the square at your own pace and look at the surrounding façades. Pause over architectural details, then continue into the pedestrian streets of the city centre.",
+        "it": "Attraversa la piazza al tuo ritmo e osserva le facciate intorno. Soffermati sui dettagli degli edifici, poi continua nelle strade pedonali del centro cittadino.",
+        "fr": "Traversez la place à votre rythme et observez les façades. Attardez-vous sur les détails des bâtiments, puis poursuivez dans les rues piétonnes du centre-ville.",
+        "es": "Cruza la plaza a tu ritmo y observa las fachadas que la rodean. Descubre sus detalles y continúa por las calles peatonales del centro.",
+        "zh-Hans": "按照自己的节奏穿过广场，欣赏周边立面与建筑细节。停留片刻，再继续走进市中心的步行街，探索沿途不同的角落。"
+      },
+      "categories": [
+        "history"
+      ],
+      "venues": [
+        {
+          "id": "piata-unirii-main",
+          "name": "Piața Unirii",
+          "address": "Piața Unirii, Timișoara",
+          "verified": true,
+          "status": "open",
+          "minors": "yes",
+          "url": "https://www.openstreetmap.org/?mlat=45.75795&mlon=21.229014#map=18/45.75795/21.229014",
+          "linkType": "map",
+          "sources": [
+            "https://visit-timisoara.com/ro/monumente/",
+            "https://www.wikidata.org/wiki/Q422722"
+          ],
+          "verifiedAt": "2026-11-13",
+          "lat": 45.75795,
+          "lon": 21.229014
+        }
+      ],
+      "photo": {
+        "path": "/media/photos/piata-unirii.webp",
+        "author": "Pudelek",
+        "source": "https://commons.wikimedia.org/wiki/File:Union_Square,_Timi%C8%99oara,_Banat_02.jpg",
+        "license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0",
+        "alt": {
+          "ro": "Piața Unirii",
+          "en": "Union Square",
+          "it": "Piazza dell’Unione",
+          "fr": "Place de l’Union",
+          "es": "Plaza de la Unión",
+          "zh-Hans": "联合广场"
+        }
+      }
+    },
+    {
+      "id": "cetate",
+      "name": {
+        "ro": "Cartierul Cetate",
+        "en": "Cetate historic district",
+        "it": "Quartiere storico Cetate",
+        "fr": "Quartier historique Cetate",
+        "es": "Barrio histórico Cetate",
+        "zh-Hans": "Cetate 历史街区"
+      },
+      "description": {
+        "ro": "Explorează la pas străzile din Cetate, între piețe, pasaje și fațade istorice. Fotografia arată strada Eugeniu de Savoya; harta te ajută să alegi continuarea plimbării.",
+        "en": "Explore Cetate’s streets on foot, between squares, passages and historic façades. The photograph shows Eugeniu de Savoya Street; use the map to choose where your walk goes next.",
+        "it": "Esplora a piedi le strade di Cetate, tra piazze, passaggi e facciate storiche. La fotografia mostra via Eugeniu de Savoya; scegli sulla mappa come proseguire.",
+        "fr": "Explorez à pied les rues de Cetate, entre places, passages et façades historiques. La photo montre la rue Eugeniu de Savoya ; choisissez votre suite sur la carte.",
+        "es": "Explora a pie las calles de Cetate, entre plazas, pasajes y fachadas históricas. La foto muestra Eugeniu de Savoya; el mapa ayuda a continuar el paseo.",
+        "zh-Hans": "步行探索 Cetate 的街道、广场、通道与历史立面。照片展示 Eugeniu de Savoya 街；可借助地图决定下一段散步路线。"
+      },
+      "categories": [
+        "history"
+      ],
+      "venues": [
+        {
+          "id": "cetate-main",
+          "name": "Cartierul Cetate",
+          "address": "Cartierul Cetate, Timișoara",
+          "verified": true,
+          "status": "open",
+          "minors": "yes",
+          "url": "https://visit-timisoara.com/ro/monumente/",
+          "linkType": "official",
+          "sources": [
+            "https://visit-timisoara.com/ro/monumente/"
+          ],
+          "verifiedAt": "2026-11-13"
+        }
+      ],
+      "photo": {
+        "path": "/media/photos/cetate.webp",
+        "author": "Tournasol7",
+        "source": "https://commons.wikimedia.org/wiki/File:Strada_Eugeniu_de_Savoya_1_in_Timisoara_(1).jpg",
+        "license": "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0",
+        "alt": {
+          "ro": "Fațadă de pe strada Eugeniu de Savoya, în Cetate",
+          "en": "Façade on Eugeniu de Savoya Street, Cetate",
+          "it": "Facciata in via Eugeniu de Savoya, Cetate",
+          "fr": "Façade de la rue Eugeniu de Savoya, Cetate",
+          "es": "Fachada de Eugeniu de Savoya, Cetate",
+          "zh-Hans": "Cetate 街区 Eugeniu de Savoya 街的建筑立面"
+        }
+      }
+    },
+    {
+      "id": "millennium",
+      "name": {
+        "ro": "Biserica Millennium",
+        "en": "Millennium Church",
+        "it": "Chiesa del Millennio",
+        "fr": "Église Millennium",
+        "es": "Iglesia Millennium",
+        "zh-Hans": "千禧教堂"
+      },
+      "description": {
+        "ro": "Descoperă biserica romano-catolică Millennium din cartierul Fabric, cu intrarea din Piața Romanilor. Respectă programul liturgic și verifică direct condițiile unei vizite sau ale unui concert.",
+        "en": "Discover the Roman Catholic Millennium Church in Fabric, entering from Piața Romanilor. Respect services and check directly for the conditions of a visit or a concert.",
+        "it": "Scopri la chiesa cattolica Millennium nel quartiere Fabric, con ingresso da Piața Romanilor. Rispetta le funzioni e verifica le condizioni per visite e concerti.",
+        "fr": "Découvrez l’église catholique Millennium, dans le quartier Fabric, depuis Piața Romanilor. Respectez les offices et vérifiez les conditions d’une visite ou d’un concert.",
+        "es": "Descubre la iglesia católica Millennium en Fabric, con entrada desde Piața Romanilor. Respeta los oficios y consulta las condiciones de una visita o un concierto.",
+        "zh-Hans": "前往 Fabric 街区的天主教千禧教堂，入口位于 Piața Romanilor。请尊重礼拜安排，并直接确认参观或音乐会的参与条件。"
+      },
+      "categories": [
+        "history"
+      ],
+      "venues": [
+        {
+          "id": "millennium-main",
+          "name": "Biserica Millennium",
+          "address": "Piața Romanilor 2, Timișoara",
+          "verified": true,
+          "status": "open",
+          "minors": "unknown",
+          "url": "https://gerhardus.ro/events/concert-aniversar-la-biserica-millennium-din-timisoara-fabric/",
+          "linkType": "official",
+          "sources": [
+            "https://gerhardus.ro/parohii/",
+            "https://gerhardus.ro/events/concert-aniversar-la-biserica-millennium-din-timisoara-fabric/",
+            "https://www.wikidata.org/wiki/Q1935450"
+          ],
+          "verifiedAt": "2026-11-13",
+          "lat": 45.756749,
+          "lon": 21.247879
+        }
+      ],
+      "photo": {
+        "path": "/media/photos/millennium.webp",
+        "author": "BuhaM",
+        "source": "https://commons.wikimedia.org/wiki/File:Millennium_Church,_Timi%C8%99oara_02.jpg",
+        "license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0",
+        "alt": {
+          "ro": "Biserica Millennium",
+          "en": "Millennium Church",
+          "it": "Chiesa del Millennio",
+          "fr": "Église Millennium",
+          "es": "Iglesia Millennium",
+          "zh-Hans": "千禧教堂"
+        }
+      }
+    }
+  ],
+  "kinds": {
+    "beat-seven": "game",
+    "hype": "game",
+    "skydiving": "unknown",
+    "bowling": "unknown",
+    "rolers": "unknown",
+    "animus": "game",
+    "red-motor": "unknown",
+    "arcade": "unknown",
+    "amazonia": "water",
+    "exitgames": "escape",
+    "samantha": "unknown",
+    "grumi": "pottery",
+    "megazone": "laser",
+    "paintball": "unknown",
+    "parcul-copiilor": "park",
+    "energy-kids": "play",
+    "paradisul-piratilor": "familyfood",
+    "arena-jocurilor": "unknown",
+    "kids-town": "play",
+    "noso": "play",
+    "planetarium": "unknown",
+    "bike-serbia": "cycle",
+    "la-livada": "unknown",
+    "plaja-noua": "unknown",
+    "herneacova": "unknown",
+    "liziera": "unknown",
+    "parcul-rozelor": "roses",
+    "parcul-botanic": "garden",
+    "parcul-civic": "park",
+    "parcul-castelului": "unknown",
+    "parcul-regina-maria": "park",
+    "pet-yoga": "unknown",
+    "dharmaland": "unknown",
+    "bega-walk": "bega",
+    "bega-boat": "boat",
+    "no-name": "night",
+    "heaven": "night",
+    "fratelli": "night",
+    "darc": "night",
+    "darc-mal": "night",
+    "atelier-experience": "night",
+    "escape-venue": "night",
+    "tucano": "coffee",
+    "starbucks": "coffee",
+    "frenzy": "coffee",
+    "teds": "coffee",
+    "brewno": "coffee",
+    "mercy": "coffee",
+    "comun-cafe-mara": "unknown",
+    "street-coffee": "coffee",
+    "meron": "coffee",
+    "caffe-doge": "coffee",
+    "senses": "coffee",
+    "zaza": "food",
+    "vineri-13": "food",
+    "massimo": "food",
+    "rio": "unknown",
+    "woktagon": "korean",
+    "pinocchio": "food",
+    "jacks": "food",
+    "moon-garden": "food",
+    "napoleon": "pizza",
+    "white-pizza": "pizza",
+    "dei-frati": "food",
+    "del-corso": "food",
+    "el-maguey": "food",
+    "beraria": "unknown",
+    "casa-bunicii": "food",
+    "zone-2": "food",
+    "daf-junior": "food",
+    "flonta": "food",
+    "muzeul-arta": "art",
+    "memorialul-revolutiei": "memory",
+    "muzeul-banatului": "banat",
+    "muzeul-comunismului": "communism",
+    "jecza": "gallery",
+    "muzeul-apei": "industrial",
+    "muzeul-satului": "village",
+    "catedrala": "cathedral",
+    "piata-victoriei": "square",
+    "piata-libertatii": "square",
+    "piata-unirii": "square",
+    "cetate": "oldtown",
+    "millennium": "church"
+  }
+}

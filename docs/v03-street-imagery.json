@@ -1,0 +1,33 @@
+{
+  "checkedAt": "2026-11-13",
+  "primarySources": [
+    "https://kartaview.org/terms",
+    "https://kartaview.org/doc/photos",
+    "https://kartaview.org/doc/faq"
+  ],
+  "apiBase": "https://api.kartaview.org",
+  "legacyAPI": "https://api.openstreetcam.org returned TLS hostname mismatch; certificate checks were not disabled",
+  "license": "CC BY-SA 4.0; required credit © Grab and KartaView Contributors",
+  "queries": [
+    {
+      "label": "jecza",
+      "count": 0
+    },
+    {
+      "label": "muzeul-apei",
+      "count": 0
+    },
+    {
+      "label": "central",
+      "count": 186
+    },
+    {
+      "label": "bega-bars",
+      "count": 28
+    }
+  ],
+  "metadataRecords": 214,
+  "downloadedPreviews": 108,
+  "selection": "No image selected. Representative central/river-road contact-sheet samples show road views without a clearly identifiable missing attraction. No generic road image was assigned to a restaurant. Jecza and water-museum queries had no nearby results.",
+  "limits": "Metadata coordinates do not verify an attraction entrance. No exhaustive manual inspection of all downloaded previews is claimed."
+}

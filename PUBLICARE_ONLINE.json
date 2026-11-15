@@ -1,0 +1,36 @@
+{
+  "title": "Timișoara, cameră cu cameră",
+  "contentVersion": "0.3.0",
+  "date": "2026-11-14",
+  "url": "https://timisoara-camera-cu-camera-2026.popescu-andrei314159.chatgpt.site",
+  "accessMode": "public",
+  "projectId": "appgprj_6af796f0f48081918982d882828a4770",
+  "savedVersionId": "appgprj_6af796f0f48081918982d882828a4770~appgver_507ff4467d3c8191b6d02539a6749e7f",
+  "versionNumber": 1,
+  "deploymentId": "appgdep_6af797d04144819188f58171ef2a6e78",
+  "deploymentStatus": "succeeded",
+  "sourceCommit": "e8d8d9b81a808e320d6596c7a7ec86c87880f340",
+  "staticDirectory": "dist",
+  "localURL": "http://localhost:8000/",
+  "anonymousVerificationReport": "Timisoara-online-verification.json",
+  "note": "Static hosted publication; no dependency on the local computer being online. Runtime assets match tested local v0.3; HTML adds absolute sharing metadata.",
+  "anonymousAccessVerified": true,
+  "verificationSummary": {
+    "status": "pass",
+    "anonymousDocumentStatus": 200,
+    "browserHomeStatus": 200,
+    "decodedImages": 5,
+    "verifiedSourceAssets": 11,
+    "sourceAssetMismatches": 0,
+    "pageErrors": 0,
+    "consoleErrors": 0,
+    "httpFailures": 0,
+    "requestFailures": 0,
+    "externalRequests": 0
+  },
+  "verifiedRoutes": {
+    "foodCards": 19,
+    "kidsCards": 7,
+    "cultureExhibits": 7
+  }
+}

@@ -1,0 +1,1575 @@
+{
+  "checkedAt": "2026-11-14",
+  "policy": "Keep freely licensed exact-venue photography where available. For missing entries, use actual photographs displayed on the operator homepage only because the user explicitly requested this fallback; reuse license remains unconfirmed.",
+  "selected": {
+    "tucano": {
+      "checkedAt": "2026-11-13",
+      "name": "Tucano",
+      "status": "licensed",
+      "photo": {
+        "path": "/media/photos-v03/city-tucano.webp",
+        "author": "Keizers",
+        "source": "https://commons.wikimedia.org/wiki/File:Iulius_Town_Timi%C8%99oara_at_night,_September_2019_1.jpg",
+        "license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+        "alt": {
+          "ro": "Fațada și terasa Tucano Coffee Venezuela din Iulius Town, noaptea, în septembrie 2019.",
+          "en": "Facade and terrace of Tucano Coffee Venezuela in Iulius Town at night, September 2019.",
+          "it": "Facciata e terrazza di Tucano Coffee Venezuela a Iulius Town di notte, settembre 2019.",
+          "fr": "Façade et terrasse de Tucano Coffee Venezuela à Iulius Town, de nuit, en septembre 2019.",
+          "es": "Fachada y terraza de Tucano Coffee Venezuela en Iulius Town por la noche, septiembre de 2019.",
+          "zh-Hans": "2019 年 9 月，Iulius Town 的 Tucano Coffee Venezuela 外立面与露台夜景。"
+        },
+        "caption": {
+          "ro": "Imagine de arhivă decupată: Tucano Coffee Venezuela, septembrie 2019.",
+          "en": "Cropped archive photograph: Tucano Coffee Venezuela, September 2019.",
+          "it": "Foto d’archivio ritagliata: Tucano Coffee Venezuela, settembre 2019.",
+          "fr": "Photo d’archive recadrée : Tucano Coffee Venezuela, septembre 2019.",
+          "es": "Foto de archivo recortada: Tucano Coffee Venezuela, septiembre de 2019.",
+          "zh-Hans": "已裁剪的历史照片：Tucano Coffee Venezuela，2019 年 9 月。"
+        },
+        "rightsStatus": "licensed"
+      },
+      "evidence": {
+        "url": "https://commons.wikimedia.org/wiki/File:Iulius_Town_Timi%C8%99oara_at_night,_September_2019_1.jpg",
+        "author": "Keizers",
+        "authorUrl": "https://commons.wikimedia.org/wiki/User:Keizers",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "identity": "Original photograph visibly shows the Tucano storefront beneath Congress Hall at Iulius Town. The TUCANO sign is partly obscured by an existing tree, but the storefront mural, entrance and terrace are present. This is a focused crop of the real cafe, rather than a generic mall view. The official Iulius Town directory identifies the branch as Tucano Coffee (Venezuela). Revo.js 2023 venue access directions independently place Tucano directly below Congress Hall with escalators to its right, matching the uncropped image.",
+        "identitySources": [
+          "https://iuliustown.ro/ro/dining/tucano-coffee-venezuela",
+          "https://revojs.ro/2023/venue/",
+          "https://commons.wikimedia.org/wiki/File:Iulius_Town_Timi%C8%99oara_at_night,_September_2019_1.jpg"
+        ],
+        "capturedAt": "2019-09-06",
+        "date": "2019-09-06 23:17:26",
+        "original": "https://upload.wikimedia.org/wikipedia/commons/9/95/Iulius_Town_Timi%C8%99oara_at_night%2C_September_2019_1.jpg",
+        "rightsEvidence": "Individual Wikimedia Commons file page identifies Keizers as author, Own work as source, and an explicit copyright-holder grant under CC BY-SA 4.0. The grant covers reuse and adaptations with credit and share-alike.",
+        "transform": "Cropped original 4032×3024 image to pixel rectangle [200,1300,1970,2500] to focus on the cafe facade and terrace; resized to 1200×814 and converted to WebP at quality 86. No retouching or generated content. Adapted photo remains CC BY-SA 4.0.",
+        "dimensions": [
+          1200,
+          814
+        ],
+        "bytes": 220058,
+        "sha256": "6b2115530c328ebd700b2f59b8a79ec719a34006ab481d317d01331163f236fb",
+        "originalSha256": "7333f7900ad4cd2c54d1bc9e138b9fc4f6feecd3e6bf5b7eb8bbe9d701f74e83",
+        "visualQA": "Inspected original and final storefront crop. The left storefront, colorful mural, doorway, terrace and partial original TUCANO sign remain visible; a tree obscures part of the sign.",
+        "limitations": "Archive image dated September 2019 in six-language alt text and captions. No claim of current furnishings/layout. Original smartphone night image has visible grain."
+      },
+      "rightsStatus": "licensed"
+    },
+    "atelier-experience": {
+      "name": "Atelier d’Experience",
+      "checkedAt": "2026-11-14",
+      "status": "selected",
+      "rightsStatus": "operator-homepage-unconfirmed",
+      "photo": {
+        "path": "/media/photos-v03/city-atelier-experience.webp",
+        "author": "Autor neprecizat (pagina operatorului Atelier d’Experience)",
+        "source": "https://atelier.bargig.ro/",
+        "license": "Sursă: site-ul operatorului · licență de reutilizare neprecizată",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "alt": {
+          "ro": "Cocktail prezentat de Atelier d’Experience.",
+          "en": "Cocktail presented by Atelier d’Experience.",
+          "it": "Cocktail presentato da Atelier d’Experience.",
+          "fr": "Cocktail présenté par Atelier d’Experience.",
+          "es": "Cóctel presentado por Atelier d’Experience.",
+          "zh-Hans": "Atelier d’Experience 展示的鸡尾酒。"
+        },
+        "caption": {
+          "ro": "Fotografie de prezentare publicată de operator.",
+          "en": "Presentation photograph published by the operator.",
+          "it": "Foto di presentazione pubblicata dal gestore.",
+          "fr": "Photo de présentation publiée par l’établissement.",
+          "es": "Foto de presentación publicada por el local.",
+          "zh-Hans": "运营方发布的展示照片。"
+        }
+      },
+      "evidence": {
+        "url": "https://atelier.bargig.ro/",
+        "imageUrl": "https://atelier.bargig.ro/signature-cocktail.webp",
+        "author": "Photographer not credited in the retrieved homepage image metadata; operator/publisher is identified in photo.author.",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "userRequestedFallback": true,
+        "rightsEvidence": "The user explicitly requested the operator homepage image when no openly licensed photo was found. No reuse grant or copyright license is established or implied.",
+        "identity": "Actual photograph displayed on the public operator homepage for Atelier d’Experience; visually checked against the downloaded image.",
+        "branchConfirmed": true,
+        "capturedAt": null,
+        "checkedAt": "2026-11-14",
+        "transform": "Homepage image downloaded through its publicly displayed URL; EXIF orientation applied, RGB converted, resized in intermediate JPEG to 568×640 when necessary, then to 568×640 WebP quality 85. No generated imagery, retouching, logo substitution, or text overlays added.",
+        "sha256": "510a9f5d980336bf1ce22d69d7005b137840d68aaa0aec92a0c62ced654ed15f",
+        "bytes": 27776,
+        "dimensions": [
+          568,
+          640
+        ],
+        "visualQA": "Selected from inspected contact sheets; source is a photograph, not a logo, advertising graphic, loading placeholder, or tracking pixel."
+      }
+    },
+    "teds": {
+      "name": "Ted’s Coffee",
+      "checkedAt": "2026-11-14",
+      "status": "selected",
+      "rightsStatus": "operator-homepage-unconfirmed",
+      "photo": {
+        "path": "/media/photos-v03/city-teds.webp",
+        "author": "Autor neprecizat (pagina operatorului Ted’s Coffee)",
+        "source": "https://www.old.teds.ro/",
+        "license": "Sursă: site-ul operatorului · licență de reutilizare neprecizată",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "alt": {
+          "ro": "Barista la espressor, fotografie de prezentare Ted’s Coffee.",
+          "en": "Barista at an espresso machine in a Ted’s Coffee presentation photograph.",
+          "it": "Barista alla macchina da espresso in una foto di presentazione di Ted’s Coffee.",
+          "fr": "Barista à la machine à espresso sur une photo de présentation de Ted’s Coffee.",
+          "es": "Barista con una máquina de espresso en una foto de presentación de Ted’s Coffee.",
+          "zh-Hans": "Ted’s Coffee 展示照片中的咖啡师与意式咖啡机。"
+        },
+        "caption": {
+          "ro": "Fotografie de pe pagina operatorului; filiala fotografiată nu este confirmată.",
+          "en": "Photograph from the operator’s page; the pictured branch is unconfirmed.",
+          "it": "Foto dalla pagina del gestore; la sede fotografata non è confermata.",
+          "fr": "Photo de la page de l’établissement ; la succursale photographiée n’est pas confirmée.",
+          "es": "Foto de la página del operador; la sucursal fotografiada no está confirmada.",
+          "zh-Hans": "照片来自运营方页面；所拍摄的分店尚未确认。"
+        }
+      },
+      "evidence": {
+        "url": "https://www.old.teds.ro/",
+        "imageUrl": "https://www.old.teds.ro/images/MIDDLE-HERO-IMAGE.jpg",
+        "author": "Photographer not credited in the retrieved homepage image metadata; operator/publisher is identified in photo.author.",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "userRequestedFallback": true,
+        "rightsEvidence": "The user explicitly requested the operator homepage image when no openly licensed photo was found. No reuse grant or copyright license is established or implied.",
+        "identity": "Actual photograph displayed on the public operator homepage for Ted’s Coffee; visually checked against the downloaded image.",
+        "branchConfirmed": false,
+        "capturedAt": null,
+        "checkedAt": "2026-11-14",
+        "transform": "Homepage image downloaded through its publicly displayed URL; EXIF orientation applied, RGB converted, resized in intermediate JPEG to 1800×720 when necessary, then to 1200×480 WebP quality 85. No generated imagery, retouching, logo substitution, or text overlays added.",
+        "sha256": "6c1d4087a558c54b5cee93a0145286723794cc5e6fe369b5826a3cf1af2a6956",
+        "bytes": 56324,
+        "dimensions": [
+          1200,
+          480
+        ],
+        "visualQA": "Selected from inspected contact sheets; source is a photograph, not a logo, advertising graphic, loading placeholder, or tracking pixel.",
+        "limitations": "The operator publishes this real image, but the exact branch is not established. Six-language caption makes that limitation explicit."
+      }
+    },
+    "brewno": {
+      "name": "Brewno",
+      "checkedAt": "2026-11-14",
+      "status": "selected",
+      "rightsStatus": "operator-homepage-unconfirmed",
+      "photo": {
+        "path": "/media/photos-v03/city-brewno.webp",
+        "author": "Autor neprecizat (pagina operatorului Brewno)",
+        "source": "https://brewno.ro/",
+        "license": "Sursă: site-ul operatorului · licență de reutilizare neprecizată",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "alt": {
+          "ro": "Cafea în fotografia de prezentare Brewno.",
+          "en": "Coffee in a presentation photograph from Brewno.",
+          "it": "Caffè in una foto di presentazione di Brewno.",
+          "fr": "Café sur une photo de présentation de Brewno.",
+          "es": "Café en una foto de presentación de Brewno.",
+          "zh-Hans": "Brewno 展示照片中的咖啡。"
+        },
+        "caption": {
+          "ro": "Fotografie de prezentare publicată de operator.",
+          "en": "Presentation photograph published by the operator.",
+          "it": "Foto di presentazione pubblicata dal gestore.",
+          "fr": "Photo de présentation publiée par l’établissement.",
+          "es": "Foto de presentación publicada por el local.",
+          "zh-Hans": "运营方发布的展示照片。"
+        }
+      },
+      "evidence": {
+        "url": "https://brewno.ro/",
+        "imageUrl": "https://brewno.ro/cdn/shop/t/4/assets/brewno-hero-espresso-1152.webp?v=22580322490132184651793012332",
+        "author": "Photographer not credited in the retrieved homepage image metadata; operator/publisher is identified in photo.author.",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "userRequestedFallback": true,
+        "rightsEvidence": "The user explicitly requested the operator homepage image when no openly licensed photo was found. No reuse grant or copyright license is established or implied.",
+        "identity": "Actual photograph displayed on the public operator homepage for Brewno; visually checked against the downloaded image.",
+        "branchConfirmed": true,
+        "capturedAt": null,
+        "checkedAt": "2026-11-14",
+        "transform": "Homepage image downloaded through its publicly displayed URL; EXIF orientation applied, RGB converted, resized in intermediate JPEG to 1152×1728 when necessary, then to 800×1200 WebP quality 85. No generated imagery, retouching, logo substitution, or text overlays added.",
+        "sha256": "a09b436ca59811aa606a0d1839b4b446e608076e80b18b99b776e0ba7b7b124e",
+        "bytes": 54306,
+        "dimensions": [
+          800,
+          1200
+        ],
+        "visualQA": "Selected from inspected contact sheets; source is a photograph, not a logo, advertising graphic, loading placeholder, or tracking pixel."
+      }
+    },
+    "comun-cafe-mara": {
+      "name": "Comun Cafe Mara",
+      "checkedAt": "2026-11-14",
+      "status": "selected",
+      "rightsStatus": "operator-homepage-unconfirmed",
+      "photo": {
+        "path": "/media/photos-v03/city-comun-cafe-mara.webp",
+        "author": "Autor neprecizat (pagina operatorului Comun Cafe Mara)",
+        "source": "https://comun.cafe/",
+        "license": "Sursă: site-ul operatorului · licență de reutilizare neprecizată",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "alt": {
+          "ro": "Fațada și intrarea Comun Cafe Mara.",
+          "en": "Facade and entrance of Comun Cafe Mara.",
+          "it": "Facciata e ingresso di Comun Cafe Mara.",
+          "fr": "Façade et entrée de Comun Cafe Mara.",
+          "es": "Fachada y entrada de Comun Cafe Mara.",
+          "zh-Hans": "Comun Cafe Mara 的外立面与入口。"
+        },
+        "caption": {
+          "ro": "Fotografie de prezentare publicată de operator.",
+          "en": "Presentation photograph published by the operator.",
+          "it": "Foto di presentazione pubblicata dal gestore.",
+          "fr": "Photo de présentation publiée par l’établissement.",
+          "es": "Foto de presentación publicada por el local.",
+          "zh-Hans": "运营方发布的展示照片。"
+        }
+      },
+      "evidence": {
+        "url": "https://comun.cafe/",
+        "imageUrl": "https://startyour.website/comun-cafe/wp-content/uploads/sites/10/2025/07/user_13_foto_2_Stefan_Stefan_Pavaluta-scaled.jpg",
+        "author": "Photographer not credited in the retrieved homepage image metadata; operator/publisher is identified in photo.author.",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "userRequestedFallback": true,
+        "rightsEvidence": "The user explicitly requested the operator homepage image when no openly licensed photo was found. No reuse grant or copyright license is established or implied.",
+        "identity": "Actual photograph displayed on the public operator homepage for Comun Cafe Mara; visually checked against the downloaded image.",
+        "branchConfirmed": true,
+        "capturedAt": null,
+        "checkedAt": "2026-11-14",
+        "transform": "Homepage image downloaded through its publicly displayed URL; EXIF orientation applied, RGB converted, resized in intermediate JPEG to 1800×1202 when necessary, then to 1200×801 WebP quality 85. No generated imagery, retouching, logo substitution, or text overlays added.",
+        "sha256": "07f72fc68eeb3b68d96374d65fa3b4730bf8f6b5594be0400f4482b148c15b7f",
+        "bytes": 156878,
+        "dimensions": [
+          1200,
+          801
+        ],
+        "visualQA": "Selected from inspected contact sheets; source is a photograph, not a logo, advertising graphic, loading placeholder, or tracking pixel."
+      }
+    },
+    "meron": {
+      "name": "Meron Timișoara",
+      "checkedAt": "2026-11-14",
+      "status": "selected",
+      "rightsStatus": "operator-homepage-unconfirmed",
+      "photo": {
+        "path": "/media/photos-v03/city-meron.webp",
+        "author": "Autor neprecizat (pagina rețelei Meron)",
+        "source": "https://www.meron.coffee/",
+        "license": "Sursă: site-ul operatorului · licență de reutilizare neprecizată",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "alt": {
+          "ro": "Espresso într-o ceașcă, fotografie de prezentare Meron.",
+          "en": "Espresso in a cup, a Meron presentation photograph.",
+          "it": "Espresso in tazza, foto di presentazione Meron.",
+          "fr": "Espresso dans une tasse, photo de présentation Meron.",
+          "es": "Espresso en una taza, foto de presentación de Meron.",
+          "zh-Hans": "Meron 展示照片中的一杯意式浓缩咖啡。"
+        },
+        "caption": {
+          "ro": "Fotografie de pe pagina rețelei Meron; filiala din Timișoara nu este identificată.",
+          "en": "Photograph from Meron’s brand homepage; the Timișoara branch is not identified.",
+          "it": "Foto dalla pagina della rete Meron; la sede di Timișoara non è identificata.",
+          "fr": "Photo de la page du réseau Meron ; la succursale de Timișoara n’est pas identifiée.",
+          "es": "Foto de la página de la cadena Meron; no se identifica la sucursal de Timișoara.",
+          "zh-Hans": "照片来自 Meron 品牌主页；未指明蒂米什瓦拉分店。"
+        }
+      },
+      "evidence": {
+        "url": "https://www.meron.coffee/",
+        "imageUrl": "https://www.meron.coffee/wp-content/uploads/2019/07/DSC02969-scaled.jpg",
+        "author": "Photographer not credited in the retrieved homepage image metadata; operator/publisher is identified in photo.author.",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "userRequestedFallback": true,
+        "rightsEvidence": "The user explicitly requested the operator homepage image when no openly licensed photo was found. No reuse grant or copyright license is established or implied.",
+        "identity": "A real espresso-cup product photograph published on Meron’s generic brand homepage. It does not identify or depict the Timișoara branch. The previously selected interior photograph was rejected because its actual URL contains MERON-SIBIU-1.",
+        "branchConfirmed": false,
+        "capturedAt": null,
+        "checkedAt": "2026-11-14",
+        "transform": "Generic Meron homepage photograph downloaded through its public URL; RGB converted and resized in the intermediate JPEG to 1800×1200, then to 1200×800 WebP quality85. No retouching, cropping, generated content or text overlays.",
+        "sha256": "4220134e6a175f7232d630b544acd74fced25e4f175bd8fd232d5fe073222ada",
+        "bytes": 18122,
+        "dimensions": [
+          1200,
+          800
+        ],
+        "visualQA": "Espresso cup on a light background; no cafe interior or branch-identifying architecture is shown.",
+        "limitations": "Generic coffee/product presentation photograph from the Meron brand homepage; no exact cafe location is established. Six-language alt text describes the espresso and six-language caption explicitly avoids a Timișoara branch claim. Rejected source: https://www.meron.coffee/wp-content/uploads/2019/06/MERON-SIBIU-1-scaled-e1659957186114.jpg"
+      }
+    },
+    "zaza": {
+      "name": "Zaza",
+      "checkedAt": "2026-11-14",
+      "status": "selected",
+      "rightsStatus": "operator-homepage-unconfirmed",
+      "photo": {
+        "path": "/media/photos-v03/city-zaza.webp",
+        "author": "Autor neprecizat (pagina operatorului Zaza)",
+        "source": "https://zazarestopub.ro/",
+        "license": "Sursă: site-ul operatorului · licență de reutilizare neprecizată",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "alt": {
+          "ro": "Preparat prezentat pe pagina Zaza.",
+          "en": "Dish shown on the Zaza page.",
+          "it": "Piatto mostrato nella pagina di Zaza.",
+          "fr": "Plat présenté sur la page de Zaza.",
+          "es": "Plato mostrado en la página de Zaza.",
+          "zh-Hans": "Zaza 页面展示的菜品。"
+        },
+        "caption": {
+          "ro": "Fotografie de prezentare publicată de operator.",
+          "en": "Presentation photograph published by the operator.",
+          "it": "Foto di presentazione pubblicata dal gestore.",
+          "fr": "Photo de présentation publiée par l’établissement.",
+          "es": "Foto de presentación publicada por el local.",
+          "zh-Hans": "运营方发布的展示照片。"
+        }
+      },
+      "evidence": {
+        "url": "https://zazarestopub.ro/",
+        "imageUrl": "https://zazarestopub.ro/wp-content/uploads/2019/02/english.jpg",
+        "author": "Photographer not credited in the retrieved homepage image metadata; operator/publisher is identified in photo.author.",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "userRequestedFallback": true,
+        "rightsEvidence": "The user explicitly requested the operator homepage image when no openly licensed photo was found. No reuse grant or copyright license is established or implied.",
+        "identity": "Actual photograph displayed on the public operator homepage for Zaza; visually checked against the downloaded image.",
+        "branchConfirmed": true,
+        "capturedAt": null,
+        "checkedAt": "2026-11-14",
+        "transform": "Homepage image downloaded through its publicly displayed URL; EXIF orientation applied, RGB converted, resized in intermediate JPEG to 600×400 when necessary, then to 600×400 WebP quality 85. No generated imagery, retouching, logo substitution, or text overlays added.",
+        "sha256": "c0407a2a8db23e7cd5c24e4bd41265a35d4f7dd2e4228fce6afd6912091fdeb0",
+        "bytes": 48130,
+        "dimensions": [
+          600,
+          400
+        ],
+        "visualQA": "Selected from inspected contact sheets; source is a photograph, not a logo, advertising graphic, loading placeholder, or tracking pixel."
+      }
+    },
+    "rio": {
+      "name": "Riyo Wok Sushi",
+      "checkedAt": "2026-11-14",
+      "status": "selected",
+      "rightsStatus": "operator-homepage-unconfirmed",
+      "photo": {
+        "path": "/media/photos-v03/city-rio.webp",
+        "author": "Autor neprecizat (pagina operatorului Riyo Wok Sushi)",
+        "source": "https://riyosushi.ro/",
+        "license": "Sursă: site-ul operatorului · licență de reutilizare neprecizată",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "alt": {
+          "ro": "Interior prezentat pe pagina Riyo Wok Sushi.",
+          "en": "Interior shown on the Riyo Wok Sushi page.",
+          "it": "Interni mostrati nella pagina di Riyo Wok Sushi.",
+          "fr": "Intérieur présenté sur la page de Riyo Wok Sushi.",
+          "es": "Interior mostrado en la página de Riyo Wok Sushi.",
+          "zh-Hans": "Riyo Wok Sushi 页面展示的室内空间。"
+        },
+        "caption": {
+          "ro": "Fotografie de prezentare publicată de operator.",
+          "en": "Presentation photograph published by the operator.",
+          "it": "Foto di presentazione pubblicata dal gestore.",
+          "fr": "Photo de présentation publiée par l’établissement.",
+          "es": "Foto de presentación publicada por el local.",
+          "zh-Hans": "运营方发布的展示照片。"
+        }
+      },
+      "evidence": {
+        "url": "https://riyosushi.ro/",
+        "imageUrl": "https://riyosushi.ro/wp-content/uploads/2022/07/poza-22-1920x1080-1-1536x1024.jpg",
+        "author": "Photographer not credited in the retrieved homepage image metadata; operator/publisher is identified in photo.author.",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "userRequestedFallback": true,
+        "rightsEvidence": "The user explicitly requested the operator homepage image when no openly licensed photo was found. No reuse grant or copyright license is established or implied.",
+        "identity": "Actual photograph displayed on the public operator homepage for Riyo Wok Sushi; visually checked against the downloaded image.",
+        "branchConfirmed": true,
+        "capturedAt": null,
+        "checkedAt": "2026-11-14",
+        "transform": "Homepage image downloaded through its publicly displayed URL; EXIF orientation applied, RGB converted, resized in intermediate JPEG to 1536×1024 when necessary, then to 1200×800 WebP quality 85. No generated imagery, retouching, logo substitution, or text overlays added.",
+        "sha256": "e9878a71a13513c1d6f8ed07d9b910fc6b549fb6baa556b2f739353fdecf3085",
+        "bytes": 160180,
+        "dimensions": [
+          1200,
+          800
+        ],
+        "visualQA": "Selected from inspected contact sheets; source is a photograph, not a logo, advertising graphic, loading placeholder, or tracking pixel."
+      }
+    },
+    "pinocchio": {
+      "name": "Pinocchio — Piața Libertății",
+      "checkedAt": "2026-11-14",
+      "status": "selected",
+      "rightsStatus": "operator-homepage-unconfirmed",
+      "photo": {
+        "path": "/media/photos-v03/city-pinocchio.webp",
+        "author": "Autor neprecizat (pagina operatorului Pinocchio — Piața Libertății)",
+        "source": "https://www.clatite-pinochio.ro/",
+        "license": "Sursă: site-ul operatorului · licență de reutilizare neprecizată",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "alt": {
+          "ro": "Clătită cu ciocolată și căpșuni prezentată de Pinocchio — Piața Libertății.",
+          "en": "Crepe with chocolate and strawberries presented by Pinocchio — Piața Libertății.",
+          "it": "Crêpe con cioccolato e fragole presentata da Pinocchio — Piața Libertății.",
+          "fr": "Crêpe au chocolat et aux fraises présentée par Pinocchio — Piața Libertății.",
+          "es": "Crepe con chocolate y fresas presentada por Pinocchio — Piața Libertății.",
+          "zh-Hans": "Pinocchio — Piața Libertății 展示的巧克力草莓可丽饼。"
+        },
+        "caption": {
+          "ro": "Fotografie de pe pagina operatorului; filiala fotografiată nu este confirmată.",
+          "en": "Photograph from the operator’s page; the pictured branch is unconfirmed.",
+          "it": "Foto dalla pagina del gestore; la sede fotografata non è confermata.",
+          "fr": "Photo de la page de l’établissement ; la succursale photographiée n’est pas confirmée.",
+          "es": "Foto de la página del operador; la sucursal fotografiada no está confirmada.",
+          "zh-Hans": "照片来自运营方页面；所拍摄的分店尚未确认。"
+        }
+      },
+      "evidence": {
+        "url": "https://www.clatite-pinochio.ro/",
+        "imageUrl": "https://www.clatite-pinochio.ro/_next/image?url=%2Fslides%2FIMG_1267_r.webp&w=1920&q=75&dpl=dpl_8n1D1X1dtfSkmsv4wZHwVoKYuhVJ",
+        "author": "Photographer not credited in the retrieved homepage image metadata; operator/publisher is identified in photo.author.",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "userRequestedFallback": true,
+        "rightsEvidence": "The user explicitly requested the operator homepage image when no openly licensed photo was found. No reuse grant or copyright license is established or implied.",
+        "identity": "Actual photograph displayed on the public operator homepage for Pinocchio — Piața Libertății; visually checked against the downloaded image.",
+        "branchConfirmed": false,
+        "capturedAt": null,
+        "checkedAt": "2026-11-14",
+        "transform": "Homepage image downloaded through its publicly displayed URL; EXIF orientation applied, RGB converted, resized in intermediate JPEG to 1800×1200 when necessary, then to 1200×800 WebP quality 85. No generated imagery, retouching, logo substitution, or text overlays added.",
+        "sha256": "16b5d5ca2bab29c718f353f35659ab4526c54aeb4403527d4c00321a7a3f4049",
+        "bytes": 101228,
+        "dimensions": [
+          1200,
+          800
+        ],
+        "visualQA": "Selected from inspected contact sheets; source is a photograph, not a logo, advertising graphic, loading placeholder, or tracking pixel.",
+        "limitations": "The operator publishes this real image, but the exact branch is not established. Six-language caption makes that limitation explicit."
+      }
+    },
+    "jacks": {
+      "name": "Jack’s",
+      "checkedAt": "2026-11-14",
+      "status": "selected",
+      "rightsStatus": "operator-homepage-unconfirmed",
+      "photo": {
+        "path": "/media/photos-v03/city-jacks.webp",
+        "author": "Autor neprecizat (pagina operatorului Jack’s)",
+        "source": "https://jacksbistro.ro/",
+        "license": "Sursă: site-ul operatorului · licență de reutilizare neprecizată",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "alt": {
+          "ro": "Interior prezentat pe pagina Jack’s.",
+          "en": "Interior shown on the Jack’s page.",
+          "it": "Interni mostrati nella pagina di Jack’s.",
+          "fr": "Intérieur présenté sur la page de Jack’s.",
+          "es": "Interior mostrado en la página de Jack’s.",
+          "zh-Hans": "Jack’s 页面展示的室内空间。"
+        },
+        "caption": {
+          "ro": "Fotografie de pe pagina operatorului; filiala fotografiată nu este confirmată.",
+          "en": "Photograph from the operator’s page; the pictured branch is unconfirmed.",
+          "it": "Foto dalla pagina del gestore; la sede fotografata non è confermata.",
+          "fr": "Photo de la page de l’établissement ; la succursale photographiée n’est pas confirmée.",
+          "es": "Foto de la página del operador; la sucursal fotografiada no está confirmada.",
+          "zh-Hans": "照片来自运营方页面；所拍摄的分店尚未确认。"
+        }
+      },
+      "evidence": {
+        "url": "https://jacksbistro.ro/",
+        "imageUrl": "https://jacksbistro.ro/wp-content/uploads/2025/02/POZA-UNIRII-1-480x480.jpeg",
+        "author": "Photographer not credited in the retrieved homepage image metadata; operator/publisher is identified in photo.author.",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "userRequestedFallback": true,
+        "rightsEvidence": "The user explicitly requested the operator homepage image when no openly licensed photo was found. No reuse grant or copyright license is established or implied.",
+        "identity": "Actual photograph displayed on the public operator homepage for Jack’s; visually checked against the downloaded image.",
+        "branchConfirmed": false,
+        "capturedAt": null,
+        "checkedAt": "2026-11-14",
+        "transform": "Homepage image downloaded through its publicly displayed URL; EXIF orientation applied, RGB converted, resized in intermediate JPEG to 480×480 when necessary, then to 480×480 WebP quality 85. No generated imagery, retouching, logo substitution, or text overlays added.",
+        "sha256": "adf3982698cae0a50c0b78c685bb0b62d0dceac04e078d0842c7fd4c28cbca75",
+        "bytes": 36378,
+        "dimensions": [
+          480,
+          480
+        ],
+        "visualQA": "Selected from inspected contact sheets; source is a photograph, not a logo, advertising graphic, loading placeholder, or tracking pixel.",
+        "limitations": "The operator publishes this real image, but the exact branch is not established. Six-language caption makes that limitation explicit."
+      }
+    },
+    "moon-garden": {
+      "name": "Moon Garden",
+      "checkedAt": "2026-11-14",
+      "status": "selected",
+      "rightsStatus": "operator-homepage-unconfirmed",
+      "photo": {
+        "path": "/media/photos-v03/city-moon-garden.webp",
+        "author": "Autor neprecizat (pagina operatorului Moon Garden)",
+        "source": "https://moongarden.ro/",
+        "license": "Sursă: site-ul operatorului · licență de reutilizare neprecizată",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "alt": {
+          "ro": "Vedere de sus asupra restaurantului Moon Garden.",
+          "en": "Aerial view of the Moon Garden restaurant.",
+          "it": "Vista aerea del ristorante Moon Garden.",
+          "fr": "Vue aérienne du restaurant Moon Garden.",
+          "es": "Vista aérea del restaurante Moon Garden.",
+          "zh-Hans": "Moon Garden 餐厅的俯视照片。"
+        },
+        "caption": {
+          "ro": "Fotografie de prezentare publicată de operator.",
+          "en": "Presentation photograph published by the operator.",
+          "it": "Foto di presentazione pubblicata dal gestore.",
+          "fr": "Photo de présentation publiée par l’établissement.",
+          "es": "Foto de presentación publicada por el local.",
+          "zh-Hans": "运营方发布的展示照片。"
+        }
+      },
+      "evidence": {
+        "url": "https://moongarden.ro/",
+        "imageUrl": "https://moongarden.ro/wp-content/uploads/moongarden-image-gallery-main-1536x864.webp",
+        "author": "Photographer not credited in the retrieved homepage image metadata; operator/publisher is identified in photo.author.",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "userRequestedFallback": true,
+        "rightsEvidence": "The user explicitly requested the operator homepage image when no openly licensed photo was found. No reuse grant or copyright license is established or implied.",
+        "identity": "Actual photograph displayed on the public operator homepage for Moon Garden; visually checked against the downloaded image.",
+        "branchConfirmed": true,
+        "capturedAt": null,
+        "checkedAt": "2026-11-14",
+        "transform": "Homepage image downloaded through its publicly displayed URL; EXIF orientation applied, RGB converted, resized in intermediate JPEG to 1536×864 when necessary, then to 1200×675 WebP quality 85. No generated imagery, retouching, logo substitution, or text overlays added.",
+        "sha256": "27ca3cd69f1a727c3aeba3a825cf92c959f01c4f701007ca627b77d31cd5a68f",
+        "bytes": 107590,
+        "dimensions": [
+          1200,
+          675
+        ],
+        "visualQA": "Selected from inspected contact sheets; source is a photograph, not a logo, advertising graphic, loading placeholder, or tracking pixel."
+      }
+    },
+    "del-corso": {
+      "name": "Del Corso",
+      "checkedAt": "2026-11-14",
+      "status": "selected",
+      "rightsStatus": "operator-homepage-unconfirmed",
+      "photo": {
+        "path": "/media/photos-v03/city-del-corso.webp",
+        "author": "Autor neprecizat (pagina operatorului Del Corso)",
+        "source": "https://locandadelcorso.ro/",
+        "license": "Sursă: site-ul operatorului · licență de reutilizare neprecizată",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "alt": {
+          "ro": "Interior prezentat pe pagina Del Corso.",
+          "en": "Interior shown on the Del Corso page.",
+          "it": "Interni mostrati nella pagina di Del Corso.",
+          "fr": "Intérieur présenté sur la page de Del Corso.",
+          "es": "Interior mostrado en la página de Del Corso.",
+          "zh-Hans": "Del Corso 页面展示的室内空间。"
+        },
+        "caption": {
+          "ro": "Fotografie de prezentare publicată de operator.",
+          "en": "Presentation photograph published by the operator.",
+          "it": "Foto di presentazione pubblicata dal gestore.",
+          "fr": "Photo de présentation publiée par l’établissement.",
+          "es": "Foto de presentación publicada por el local.",
+          "zh-Hans": "运营方发布的展示照片。"
+        }
+      },
+      "evidence": {
+        "url": "https://locandadelcorso.ro/",
+        "imageUrl": "https://locandadelcorso.ro/imagini-w/1920/29257despre-noi.png",
+        "author": "Photographer not credited in the retrieved homepage image metadata; operator/publisher is identified in photo.author.",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "userRequestedFallback": true,
+        "rightsEvidence": "The user explicitly requested the operator homepage image when no openly licensed photo was found. No reuse grant or copyright license is established or implied.",
+        "identity": "Actual photograph displayed on the public operator homepage for Del Corso; visually checked against the downloaded image.",
+        "branchConfirmed": true,
+        "capturedAt": null,
+        "checkedAt": "2026-11-14",
+        "transform": "Homepage image downloaded through its publicly displayed URL; EXIF orientation applied, RGB converted, resized in intermediate JPEG to 1800×1203 when necessary, then to 1200×802 WebP quality 85. No generated imagery, retouching, logo substitution, or text overlays added.",
+        "sha256": "b899294c482c3ab43120dfdcfe6a2299bd782e49ef1d92016cdd84316fedfb13",
+        "bytes": 137480,
+        "dimensions": [
+          1200,
+          802
+        ],
+        "visualQA": "Selected from inspected contact sheets; source is a photograph, not a logo, advertising graphic, loading placeholder, or tracking pixel."
+      }
+    },
+    "el-maguey": {
+      "name": "El Maguey",
+      "checkedAt": "2026-11-14",
+      "status": "selected",
+      "rightsStatus": "operator-homepage-unconfirmed",
+      "photo": {
+        "path": "/media/photos-v03/city-el-maguey.webp",
+        "author": "Autor neprecizat (pagina operatorului El Maguey)",
+        "source": "https://elmaguey.ro/timisoara/",
+        "license": "Sursă: site-ul operatorului · licență de reutilizare neprecizată",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "alt": {
+          "ro": "Intrarea El Maguey, cu firmă și steag mexican.",
+          "en": "Entrance to El Maguey, with its sign and a Mexican flag.",
+          "it": "Ingresso di El Maguey, con insegna e bandiera messicana.",
+          "fr": "Entrée de El Maguey, avec enseigne et drapeau mexicain.",
+          "es": "Entrada de El Maguey, con letrero y bandera mexicana.",
+          "zh-Hans": "El Maguey 的入口、招牌与墨西哥国旗。"
+        },
+        "caption": {
+          "ro": "Fotografie de prezentare publicată de operator.",
+          "en": "Presentation photograph published by the operator.",
+          "it": "Foto di presentazione pubblicata dal gestore.",
+          "fr": "Photo de présentation publiée par l’établissement.",
+          "es": "Foto de presentación publicada por el local.",
+          "zh-Hans": "运营方发布的展示照片。"
+        }
+      },
+      "evidence": {
+        "url": "https://elmaguey.ro/timisoara/",
+        "imageUrl": "https://elmaguey.ro/wp-content/uploads/2025/09/Restaurant-mexican-Timisoara-1920x909.jpg",
+        "author": "Photographer not credited in the retrieved homepage image metadata; operator/publisher is identified in photo.author.",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "userRequestedFallback": true,
+        "rightsEvidence": "The user explicitly requested the operator homepage image when no openly licensed photo was found. No reuse grant or copyright license is established or implied.",
+        "identity": "Actual photograph displayed on the public operator homepage for El Maguey; visually checked against the downloaded image.",
+        "branchConfirmed": true,
+        "capturedAt": null,
+        "checkedAt": "2026-11-14",
+        "transform": "Homepage image downloaded through its publicly displayed URL; EXIF orientation applied, RGB converted, resized in intermediate JPEG to 1800×852 when necessary, then to 1200×568 WebP quality 85. No generated imagery, retouching, logo substitution, or text overlays added.",
+        "sha256": "8dcc2110ea9594e460ac512e62fa5de26540e62b0b8185f6386a316659ef9365",
+        "bytes": 81622,
+        "dimensions": [
+          1200,
+          568
+        ],
+        "visualQA": "Selected from inspected contact sheets; source is a photograph, not a logo, advertising graphic, loading placeholder, or tracking pixel."
+      }
+    },
+    "zone-2": {
+      "name": "Restaurant ZONE 2",
+      "checkedAt": "2026-11-14",
+      "status": "selected",
+      "rightsStatus": "operator-homepage-unconfirmed",
+      "photo": {
+        "path": "/media/photos-v03/city-zone-2.webp",
+        "author": "Autor neprecizat (pagina operatorului Restaurant ZONE 2)",
+        "source": "https://www.zonecafe.ro/",
+        "license": "Sursă: site-ul operatorului · licență de reutilizare neprecizată",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "alt": {
+          "ro": "Preparate prezentate pe pagina Restaurant ZONE 2.",
+          "en": "Dishes shown on the Restaurant ZONE 2 page.",
+          "it": "Piatti mostrati nella pagina di Restaurant ZONE 2.",
+          "fr": "Plats présentés sur la page de Restaurant ZONE 2.",
+          "es": "Platos mostrados en la página de Restaurant ZONE 2.",
+          "zh-Hans": "Restaurant ZONE 2 页面展示的菜品。"
+        },
+        "caption": {
+          "ro": "Fotografie de pe pagina operatorului; filiala fotografiată nu este confirmată.",
+          "en": "Photograph from the operator’s page; the pictured branch is unconfirmed.",
+          "it": "Foto dalla pagina del gestore; la sede fotografata non è confermata.",
+          "fr": "Photo de la page de l’établissement ; la succursale photographiée n’est pas confirmée.",
+          "es": "Foto de la página del operador; la sucursal fotografiada no está confirmada.",
+          "zh-Hans": "照片来自运营方页面；所拍摄的分店尚未确认。"
+        }
+      },
+      "evidence": {
+        "url": "https://www.zonecafe.ro/",
+        "imageUrl": "https://www.zonecafe.ro/wp-content/uploads/2025/04/HEADER-MANCARE-QR-MENU-ZONE-2.jpg",
+        "author": "Photographer not credited in the retrieved homepage image metadata; operator/publisher is identified in photo.author.",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "userRequestedFallback": true,
+        "rightsEvidence": "The user explicitly requested the operator homepage image when no openly licensed photo was found. No reuse grant or copyright license is established or implied.",
+        "identity": "Actual photograph displayed on the public operator homepage for Restaurant ZONE 2; visually checked against the downloaded image.",
+        "branchConfirmed": false,
+        "capturedAt": null,
+        "checkedAt": "2026-11-14",
+        "transform": "Homepage image downloaded through its publicly displayed URL; EXIF orientation applied, RGB converted, resized in intermediate JPEG to 1366×768 when necessary, then to 1200×675 WebP quality 85. No generated imagery, retouching, logo substitution, or text overlays added.",
+        "sha256": "a81c26e95e5516dd944c70b51480d1aa0eddedc73ec3181b1e54bcbe80c02a83",
+        "bytes": 201292,
+        "dimensions": [
+          1200,
+          675
+        ],
+        "visualQA": "Selected from inspected contact sheets; source is a photograph, not a logo, advertising graphic, loading placeholder, or tracking pixel.",
+        "limitations": "The operator publishes this real image, but the exact branch is not established. Six-language caption makes that limitation explicit."
+      }
+    },
+    "daf-junior": {
+      "name": "DAF Junior",
+      "checkedAt": "2026-11-14",
+      "status": "selected",
+      "rightsStatus": "operator-homepage-unconfirmed",
+      "photo": {
+        "path": "/media/photos-v03/city-daf-junior.webp",
+        "author": "Autor neprecizat (pagina operatorului DAF Junior)",
+        "source": "https://dafjunior.ro/",
+        "license": "Sursă: site-ul operatorului · licență de reutilizare neprecizată",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "alt": {
+          "ro": "Interior prezentat pe pagina DAF Junior.",
+          "en": "Interior shown on the DAF Junior page.",
+          "it": "Interni mostrati nella pagina di DAF Junior.",
+          "fr": "Intérieur présenté sur la page de DAF Junior.",
+          "es": "Interior mostrado en la página de DAF Junior.",
+          "zh-Hans": "DAF Junior 页面展示的室内空间。"
+        },
+        "caption": {
+          "ro": "Fotografie de prezentare publicată de operator.",
+          "en": "Presentation photograph published by the operator.",
+          "it": "Foto di presentazione pubblicata dal gestore.",
+          "fr": "Photo de présentation publiée par l’établissement.",
+          "es": "Foto de presentación publicada por el local.",
+          "zh-Hans": "运营方发布的展示照片。"
+        }
+      },
+      "evidence": {
+        "url": "https://dafjunior.ro/",
+        "imageUrl": "https://dafjunior.ro/wp-content/uploads/2022/11/1-480x320.jpg",
+        "author": "Photographer not credited in the retrieved homepage image metadata; operator/publisher is identified in photo.author.",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "userRequestedFallback": true,
+        "rightsEvidence": "The user explicitly requested the operator homepage image when no openly licensed photo was found. No reuse grant or copyright license is established or implied.",
+        "identity": "Actual photograph displayed on the public operator homepage for DAF Junior; visually checked against the downloaded image.",
+        "branchConfirmed": true,
+        "capturedAt": null,
+        "checkedAt": "2026-11-14",
+        "transform": "Homepage image downloaded through its publicly displayed URL; EXIF orientation applied, RGB converted, resized in intermediate JPEG to 480×320 when necessary, then to 480×320 WebP quality 85. No generated imagery, retouching, logo substitution, or text overlays added.",
+        "sha256": "787c071e0dd18f8cfa96e0c754a4e7237c4fc5b1da12f1cdd25f66c5b3a6a5df",
+        "bytes": 27984,
+        "dimensions": [
+          480,
+          320
+        ],
+        "visualQA": "Selected from inspected contact sheets; source is a photograph, not a logo, advertising graphic, loading placeholder, or tracking pixel."
+      }
+    },
+    "flonta": {
+      "name": "Complex Flonta",
+      "checkedAt": "2026-11-14",
+      "status": "selected",
+      "rightsStatus": "operator-homepage-unconfirmed",
+      "photo": {
+        "path": "/media/photos-v03/city-flonta.webp",
+        "author": "Autor neprecizat (pagina operatorului Complex Flonta)",
+        "source": "https://complex-flonta.ro/",
+        "license": "Sursă: site-ul operatorului · licență de reutilizare neprecizată",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "alt": {
+          "ro": "Terasa Complex Flonta, lângă apă.",
+          "en": "The Complex Flonta terrace beside the water.",
+          "it": "La terrazza di Complex Flonta, accanto all’acqua.",
+          "fr": "La terrasse de Complex Flonta, au bord de l’eau.",
+          "es": "La terraza de Complex Flonta, junto al agua.",
+          "zh-Hans": "Complex Flonta 的水边露台。"
+        },
+        "caption": {
+          "ro": "Fotografie de prezentare publicată de operator.",
+          "en": "Presentation photograph published by the operator.",
+          "it": "Foto di presentazione pubblicata dal gestore.",
+          "fr": "Photo de présentation publiée par l’établissement.",
+          "es": "Foto de presentación publicada por el local.",
+          "zh-Hans": "运营方发布的展示照片。"
+        }
+      },
+      "evidence": {
+        "url": "https://complex-flonta.ro/",
+        "imageUrl": "https://complex-flonta.ro/wp-content/uploads/2018/08/flonta-terasa-new-1.jpg",
+        "author": "Photographer not credited in the retrieved homepage image metadata; operator/publisher is identified in photo.author.",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "userRequestedFallback": true,
+        "rightsEvidence": "The user explicitly requested the operator homepage image when no openly licensed photo was found. No reuse grant or copyright license is established or implied.",
+        "identity": "Actual photograph displayed on the public operator homepage for Complex Flonta; visually checked against the downloaded image.",
+        "branchConfirmed": true,
+        "capturedAt": null,
+        "checkedAt": "2026-11-14",
+        "transform": "Homepage image downloaded through its publicly displayed URL; EXIF orientation applied, RGB converted, resized in intermediate JPEG to 1800×938 when necessary, then to 1200×625 WebP quality 85. No generated imagery, retouching, logo substitution, or text overlays added.",
+        "sha256": "3b52c6dd754b398d39f37e10a58dbc7121ba19b458776a1598a145d052e83315",
+        "bytes": 213424,
+        "dimensions": [
+          1200,
+          625
+        ],
+        "visualQA": "Selected from inspected contact sheets; source is a photograph, not a logo, advertising graphic, loading placeholder, or tracking pixel."
+      }
+    },
+    "starbucks": {
+      "name": "Starbucks",
+      "checkedAt": "2026-11-14",
+      "status": "selected",
+      "rightsStatus": "operator-homepage-unconfirmed",
+      "photo": {
+        "path": "/media/photos-v03/city-starbucks.webp",
+        "author": "Autor neprecizat (pagina operatorului Starbucks)",
+        "source": "https://iuliustown.ro/ro/dining/starbucks",
+        "license": "Sursă: site-ul operatorului · licență de reutilizare neprecizată",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "alt": {
+          "ro": "Fațada și intrarea Starbucks.",
+          "en": "Facade and entrance of Starbucks.",
+          "it": "Facciata e ingresso di Starbucks.",
+          "fr": "Façade et entrée de Starbucks.",
+          "es": "Fachada y entrada de Starbucks.",
+          "zh-Hans": "Starbucks 的外立面与入口。"
+        },
+        "caption": {
+          "ro": "Fotografie de prezentare publicată de operator.",
+          "en": "Presentation photograph published by the operator.",
+          "it": "Foto di presentazione pubblicata dal gestore.",
+          "fr": "Photo de présentation publiée par l’établissement.",
+          "es": "Foto de presentación publicada por el local.",
+          "zh-Hans": "运营方发布的展示照片。"
+        }
+      },
+      "evidence": {
+        "url": "https://iuliustown.ro/ro/dining/starbucks",
+        "imageUrl": "https://iuliustown.ro/imagini/740x600/9551image00027.jpeg",
+        "author": "Photographer not credited in the retrieved homepage image metadata; operator/publisher is identified in photo.author.",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "userRequestedFallback": true,
+        "rightsEvidence": "The user explicitly requested the operator homepage image when no openly licensed photo was found. No reuse grant or copyright license is established or implied.",
+        "identity": "Official Iulius Town Starbucks branch page shows this facade with STARBUCKS lettering. Mall operator is the publisher; photographer is uncredited.",
+        "branchConfirmed": true,
+        "capturedAt": null,
+        "checkedAt": "2026-11-14",
+        "transform": "Homepage image downloaded through its publicly displayed URL; EXIF orientation applied, RGB converted, resized in intermediate JPEG to 740×600 when necessary, then to 740×600 WebP quality 85. No generated imagery, retouching, logo substitution, or text overlays added.",
+        "sha256": "0516949bf99208d809c5a1ccd15e3a654012e4c7b499c6ce7304fb22a17c1b3b",
+        "bytes": 101776,
+        "dimensions": [
+          740,
+          600
+        ],
+        "visualQA": "Selected from inspected contact sheets; source is a photograph, not a logo, advertising graphic, loading placeholder, or tracking pixel.",
+        "originalSha256": "cc01cad1d607bd5e2dce7fd89f5341de0bd3bbb92f1d7ac4a098991329a8b680"
+      }
+    },
+    "street-coffee": {
+      "name": "Street Coffee Roasters",
+      "checkedAt": "2026-11-14",
+      "status": "selected",
+      "rightsStatus": "operator-homepage-unconfirmed",
+      "photo": {
+        "path": "/media/photos-v03/city-street-coffee.webp",
+        "author": "Autor neprecizat (pagina operatorului Street Coffee Roasters)",
+        "source": "https://streetcoffee.ro/locatii/timisoara/",
+        "license": "Sursă: site-ul operatorului · licență de reutilizare neprecizată",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "alt": {
+          "ro": "Fațada și intrarea Street Coffee Roasters.",
+          "en": "Facade and entrance of Street Coffee Roasters.",
+          "it": "Facciata e ingresso di Street Coffee Roasters.",
+          "fr": "Façade et entrée de Street Coffee Roasters.",
+          "es": "Fachada y entrada de Street Coffee Roasters.",
+          "zh-Hans": "Street Coffee Roasters 的外立面与入口。"
+        },
+        "caption": {
+          "ro": "Fotografie de prezentare publicată de operator.",
+          "en": "Presentation photograph published by the operator.",
+          "it": "Foto di presentazione pubblicata dal gestore.",
+          "fr": "Photo de présentation publiée par l’établissement.",
+          "es": "Foto de presentación publicada por el local.",
+          "zh-Hans": "运营方发布的展示照片。"
+        }
+      },
+      "evidence": {
+        "url": "https://streetcoffee.ro/locatii/timisoara/",
+        "imageUrl": "https://streetcoffee.ro/assets/location-03.webp",
+        "author": "Photographer not credited in the retrieved homepage image metadata; operator/publisher is identified in photo.author.",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "userRequestedFallback": true,
+        "rightsEvidence": "The user explicitly requested the operator homepage image when no openly licensed photo was found. No reuse grant or copyright license is established or implied.",
+        "identity": "Official Street Coffee Timisoara locations page identifies the chosen image as Street Coffee Alba Iulia, Timișoara; the visible storefront sign matches.",
+        "branchConfirmed": true,
+        "capturedAt": null,
+        "checkedAt": "2026-11-14",
+        "transform": "Homepage image downloaded through its publicly displayed URL; EXIF orientation applied, RGB converted, resized in intermediate JPEG to 737×491 when necessary, then to 737×491 WebP quality 85. No generated imagery, retouching, logo substitution, or text overlays added.",
+        "sha256": "31daca84717e3693b227d66ba94c8ed71e845b2f0c4ff509fd47713fdb19d4cd",
+        "bytes": 51482,
+        "dimensions": [
+          737,
+          491
+        ],
+        "visualQA": "Selected from inspected contact sheets; source is a photograph, not a logo, advertising graphic, loading placeholder, or tracking pixel.",
+        "originalSha256": "1328cf4cf8974f33197f2a85795dbe0652027866fbeb826195f83c16150f094c"
+      }
+    },
+    "casa-bunicii": {
+      "name": "Casa Bunicii Garden",
+      "checkedAt": "2026-11-14",
+      "status": "selected",
+      "rightsStatus": "operator-homepage-unconfirmed",
+      "photo": {
+        "path": "/media/photos-v03/city-casa-bunicii.webp",
+        "author": "Autor neprecizat (pagina operatorului Casa Bunicii Garden)",
+        "source": "https://www.casa-bunicii.ro/",
+        "license": "Sursă: site-ul operatorului · licență de reutilizare neprecizată",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "alt": {
+          "ro": "Grădina și mesele restaurantului Casa Bunicii Garden, văzute de sus.",
+          "en": "Garden and restaurant tables at Casa Bunicii Garden, viewed from above.",
+          "it": "Giardino e tavoli del ristorante Casa Bunicii Garden, visti dall’alto.",
+          "fr": "Jardin et tables du restaurant Casa Bunicii Garden, vus d’en haut.",
+          "es": "Jardín y mesas del restaurante Casa Bunicii Garden, vistos desde arriba.",
+          "zh-Hans": "从上方拍摄的 Casa Bunicii Garden 花园与餐桌。"
+        },
+        "caption": {
+          "ro": "Fotografie de prezentare publicată de operator.",
+          "en": "Presentation photograph published by the operator.",
+          "it": "Foto di presentazione pubblicata dal gestore.",
+          "fr": "Photo de présentation publiée par l’établissement.",
+          "es": "Foto de presentación publicada por el local.",
+          "zh-Hans": "运营方发布的展示照片。"
+        }
+      },
+      "evidence": {
+        "url": "https://www.casa-bunicii.ro/",
+        "imageUrl": "https://static.wixstatic.com/media/1d1f0c_528247db774044d58ebe7f215c3f8d04~mv2.jpg",
+        "author": "Photographer not credited in the retrieved homepage image metadata; operator/publisher is identified in photo.author.",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "userRequestedFallback": true,
+        "rightsEvidence": "The user explicitly requested the operator homepage image when no openly licensed photo was found. No reuse grant or copyright license is established or implied.",
+        "identity": "Operator homepage displays this aerial garden restaurant photograph and links its current Timișoara restaurant page. The image shows garden tables and the restaurant building.",
+        "branchConfirmed": true,
+        "capturedAt": null,
+        "checkedAt": "2026-11-14",
+        "transform": "Homepage image downloaded through its publicly displayed URL; EXIF orientation applied, RGB converted, resized in intermediate JPEG to 1800×1200 when necessary, then to 1200×800 WebP quality 85. No generated imagery, retouching, logo substitution, or text overlays added.",
+        "sha256": "4ffe42916cc71b3fb693a86d8e86fdb94565e2670e505515246509f3fd1b76c2",
+        "bytes": 286518,
+        "dimensions": [
+          1200,
+          800
+        ],
+        "visualQA": "Selected from inspected contact sheets; source is a photograph, not a logo, advertising graphic, loading placeholder, or tracking pixel.",
+        "originalSha256": "ab14325c615d63faf3ebd9f23fdfa165399baadafacc4adec776b8bec512458e"
+      }
+    },
+    "muzeul-apei": {
+      "name": "Muzeul Apei",
+      "checkedAt": "2026-11-14",
+      "status": "selected",
+      "rightsStatus": "operator-homepage-unconfirmed",
+      "photo": {
+        "path": "/media/photos-v03/city-muzeul-apei.webp",
+        "author": "Autor neprecizat (pagina operatorului Muzeul Apei)",
+        "source": "https://www.muzeulapei.ro/",
+        "license": "Sursă: site-ul operatorului · licență de reutilizare neprecizată",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "alt": {
+          "ro": "Vizitatori lângă utilajele expuse la Muzeul Apei.",
+          "en": "Visitors beside the machinery displayed at Muzeul Apei.",
+          "it": "Visitatori accanto ai macchinari esposti al Muzeul Apei.",
+          "fr": "Visiteurs près des machines exposées au Muzeul Apei.",
+          "es": "Visitantes junto a la maquinaria expuesta en Muzeul Apei.",
+          "zh-Hans": "Muzeul Apei 展出的机器与参观者。"
+        },
+        "caption": {
+          "ro": "Fotografie de prezentare publicată de operator.",
+          "en": "Presentation photograph published by the operator.",
+          "it": "Foto di presentazione pubblicata dal gestore.",
+          "fr": "Photo de présentation publiée par l’établissement.",
+          "es": "Foto de presentación publicada por el local.",
+          "zh-Hans": "运营方发布的展示照片。"
+        }
+      },
+      "evidence": {
+        "url": "https://www.muzeulapei.ro/",
+        "imageUrl": "https://www.muzeulapei.ro/media/tu4c0xkm/img_2821.jpg?width=1200",
+        "author": "Photographer not credited in the retrieved homepage image metadata; operator/publisher is identified in photo.author.",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "userRequestedFallback": true,
+        "rightsEvidence": "The user explicitly requested the operator homepage image when no openly licensed photo was found. No reuse grant or copyright license is established or implied.",
+        "identity": "Actual photograph displayed on the public operator homepage for Muzeul Apei; visually checked against the downloaded image.",
+        "branchConfirmed": true,
+        "capturedAt": null,
+        "checkedAt": "2026-11-14",
+        "transform": "Homepage image downloaded through its publicly displayed URL; EXIF orientation applied, RGB converted, resized in intermediate JPEG to 1200×800 when necessary, then to 1200×800 WebP quality 85. No generated imagery, retouching, logo substitution, or text overlays added.",
+        "sha256": "df89f10b2e2166b01a033072a36014deea5adbeb36b6cd246f45d11b0c5b35a3",
+        "bytes": 89126,
+        "dimensions": [
+          1200,
+          800
+        ],
+        "visualQA": "Selected from inspected contact sheets; source is a photograph, not a logo, advertising graphic, loading placeholder, or tracking pixel.",
+        "originalSha256": "7b762442dab946a771bfb83cd79ef753613f557bc27655b1a1fd7231b8db78ae"
+      }
+    },
+    "jecza": {
+      "name": "Jecza Gallery",
+      "checkedAt": "2026-11-14",
+      "status": "selected",
+      "rightsStatus": "operator-homepage-unconfirmed",
+      "photo": {
+        "path": "/media/photos-v03/city-jecza.webp",
+        "author": "Autor neprecizat (pagina operatorului Jecza Gallery)",
+        "source": "https://jeczagallery.com/",
+        "license": "Sursă: site-ul operatorului · licență de reutilizare neprecizată",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "alt": {
+          "ro": "Vizitator cu un ghid de expoziție, fotografie publicată de Jecza Gallery.",
+          "en": "Visitor with an exhibition guide in a photograph published by Jecza Gallery.",
+          "it": "Visitatore con una guida alla mostra, in una foto pubblicata da Jecza Gallery.",
+          "fr": "Visiteur avec un guide d’exposition, sur une photo publiée par Jecza Gallery.",
+          "es": "Visitante con una guía de exposición, en una foto publicada por Jecza Gallery.",
+          "zh-Hans": "Jecza Gallery 发布的照片中，一位参观者手持展览指南。"
+        },
+        "caption": {
+          "ro": "Fotografie de pe pagina operatorului; filiala fotografiată nu este confirmată.",
+          "en": "Photograph from the operator’s page; the pictured branch is unconfirmed.",
+          "it": "Foto dalla pagina del gestore; la sede fotografata non è confermata.",
+          "fr": "Photo de la page de l’établissement ; la succursale photographiée n’est pas confirmée.",
+          "es": "Foto de la página del operador; la sucursal fotografiada no está confirmada.",
+          "zh-Hans": "照片来自运营方页面；所拍摄的分店尚未确认。"
+        }
+      },
+      "evidence": {
+        "url": "https://jeczagallery.com/",
+        "imageUrl": "https://static-assets.artlogic.net/w_600,c_limit,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1594/usr/images/feature_panels/images_and_objects/74/_inf4080.jpg",
+        "author": "Photographer not credited in the retrieved homepage image metadata; operator/publisher is identified in photo.author.",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "userRequestedFallback": true,
+        "rightsEvidence": "The user explicitly requested the operator homepage image when no openly licensed photo was found. No reuse grant or copyright license is established or implied.",
+        "identity": "Actual photograph displayed on the public operator homepage for Jecza Gallery; visually checked against the downloaded image.",
+        "branchConfirmed": false,
+        "capturedAt": null,
+        "checkedAt": "2026-11-14",
+        "transform": "Homepage image downloaded through its publicly displayed URL; EXIF orientation applied, RGB converted, resized in intermediate JPEG to 600×400 when necessary, then to 600×400 WebP quality 85. No generated imagery, retouching, logo substitution, or text overlays added.",
+        "sha256": "a30e7efe38ded01573358c04b0e276d9447554343c47c55cd7936082de86a87d",
+        "bytes": 10766,
+        "dimensions": [
+          600,
+          400
+        ],
+        "visualQA": "Selected from inspected contact sheets; source is a photograph, not a logo, advertising graphic, loading placeholder, or tracking pixel.",
+        "originalSha256": "39abda009c0e9aeff0e90c8c7a4b29895be20c173fda381aa5198d3bfbe26e47",
+        "limitations": "The operator publishes this real image, but the exact branch is not established. Six-language caption makes that limitation explicit."
+      }
+    },
+    "napoleon": {
+      "name": "Napoleon Pizza",
+      "checkedAt": "2026-11-14",
+      "status": "selected",
+      "rightsStatus": "operator-homepage-unconfirmed",
+      "photo": {
+        "path": "/media/photos-v03/city-napoleon.webp",
+        "author": "Autor neprecizat (pagina operatorului Napoleon Pizza)",
+        "source": "https://napoleon.ro/",
+        "license": "Sursă: site-ul operatorului · licență de reutilizare neprecizată",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "alt": {
+          "ro": "Pizza în fotografia principală de pe pagina Napoleon Pizza.",
+          "en": "Pizza in the main photograph on the Napoleon Pizza page.",
+          "it": "Pizza nella foto principale della pagina di Napoleon Pizza.",
+          "fr": "Pizza sur la photo principale de la page de Napoleon Pizza.",
+          "es": "Pizza en la foto principal de la página de Napoleon Pizza.",
+          "zh-Hans": "Napoleon Pizza 页面主照片中的披萨。"
+        },
+        "caption": {
+          "ro": "Fotografie de prezentare publicată de operator.",
+          "en": "Presentation photograph published by the operator.",
+          "it": "Foto di presentazione pubblicata dal gestore.",
+          "fr": "Photo de présentation publiée par l’établissement.",
+          "es": "Foto de presentación publicada por el local.",
+          "zh-Hans": "运营方发布的展示照片。"
+        }
+      },
+      "evidence": {
+        "url": "https://napoleon.ro/",
+        "imageUrl": "https://napoleon.ro/images/hero-pizza.webp",
+        "author": "Photographer not credited in the retrieved homepage image metadata; operator/publisher is identified in photo.author.",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "userRequestedFallback": true,
+        "rightsEvidence": "The user explicitly requested the operator homepage image when no openly licensed photo was found. No reuse grant or copyright license is established or implied.",
+        "identity": "Actual photograph displayed on the public operator homepage for Napoleon Pizza; visually checked against the downloaded image.",
+        "branchConfirmed": true,
+        "capturedAt": null,
+        "checkedAt": "2026-11-14",
+        "transform": "Original homepage WebP pizza photograph composited over a plain warm white background using its existing alpha channel, resized from1536×1024 to1200×800, saved as WebP quality85. This removes invisible padding colors without altering the photographed pizza. No generated content, retouching or added text.",
+        "sha256": "d661e944c677483240a71f83a9d95c8de3024379ab1de58bdb62c6df09bd45bb",
+        "bytes": 181348,
+        "dimensions": [
+          1200,
+          800
+        ],
+        "visualQA": "Selected from inspected contact sheets; source is a photograph, not a logo, advertising graphic, loading placeholder, or tracking pixel.",
+        "originalSha256": "34009d9002913f9ae8be0a47285c7e2e1ecad57c2d33ef4a086535b551b4b24d"
+      }
+    },
+    "dei-frati": {
+      "name": "Dei Frati",
+      "checkedAt": "2026-11-14",
+      "status": "selected",
+      "rightsStatus": "operator-homepage-unconfirmed",
+      "photo": {
+        "path": "/media/photos-v03/city-dei-frati.webp",
+        "author": "Autor neprecizat (pagina operatorului Dei Frati)",
+        "source": "https://www.deifratitm.ro/",
+        "license": "Sursă: site-ul operatorului · licență de reutilizare neprecizată",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "alt": {
+          "ro": "Preparate prezentate pe pagina Dei Frati.",
+          "en": "Dishes shown on the Dei Frati page.",
+          "it": "Piatti mostrati nella pagina di Dei Frati.",
+          "fr": "Plats présentés sur la page de Dei Frati.",
+          "es": "Platos mostrados en la página de Dei Frati.",
+          "zh-Hans": "Dei Frati 页面展示的菜品。"
+        },
+        "caption": {
+          "ro": "Fotografie de prezentare publicată de operator.",
+          "en": "Presentation photograph published by the operator.",
+          "it": "Foto di presentazione pubblicata dal gestore.",
+          "fr": "Photo de présentation publiée par l’établissement.",
+          "es": "Foto de presentación publicada por el local.",
+          "zh-Hans": "运营方发布的展示照片。"
+        }
+      },
+      "evidence": {
+        "url": "https://www.deifratitm.ro/",
+        "imageUrl": "https://www.deifratitm.ro/galerie5.jpg",
+        "author": "Photographer not credited in the retrieved homepage image metadata; operator/publisher is identified in photo.author.",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "userRequestedFallback": true,
+        "rightsEvidence": "The user explicitly requested the operator homepage image when no openly licensed photo was found. No reuse grant or copyright license is established or implied.",
+        "identity": "Actual photograph displayed on the public operator homepage for Dei Frati; visually checked against the downloaded image.",
+        "branchConfirmed": true,
+        "capturedAt": null,
+        "checkedAt": "2026-11-14",
+        "transform": "Homepage image downloaded through its publicly displayed URL; EXIF orientation applied, RGB converted, resized in intermediate JPEG to 1800×1200 when necessary, then to 1200×800 WebP quality 85. No generated imagery, retouching, logo substitution, or text overlays added.",
+        "sha256": "a1891516bfccdc626cc88f9e03f3e9bc18555fe5bc74d0c0142f241291c55c86",
+        "bytes": 105212,
+        "dimensions": [
+          1200,
+          800
+        ],
+        "visualQA": "Selected from inspected contact sheets; source is a photograph, not a logo, advertising graphic, loading placeholder, or tracking pixel.",
+        "originalSha256": "346cd9553a802b19c2762caaba4e58411e7ac1cce5d8bf9a876a7782a57bb5a4"
+      }
+    },
+    "heaven": {
+      "name": "Heaven",
+      "checkedAt": "2026-11-14",
+      "status": "selected",
+      "rightsStatus": "operator-homepage-unconfirmed",
+      "photo": {
+        "path": "/media/photos-v03/city-heaven.webp",
+        "author": "Autor neprecizat (pagina operatorului Heaven)",
+        "source": "https://heaventimisoara.ro/",
+        "license": "Sursă: site-ul operatorului · licență de reutilizare neprecizată",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "alt": {
+          "ro": "Concert la Heaven, fotografie de arhivă de pe site-ul operatorului.",
+          "en": "Performance at Heaven, an archive photograph from the operator’s website.",
+          "it": "Concerto da Heaven, foto d’archivio dal sito del gestore.",
+          "fr": "Concert au Heaven, photo d’archive du site de l’établissement.",
+          "es": "Concierto en Heaven, foto de archivo del sitio del local.",
+          "zh-Hans": "Heaven 演出场景，照片来自运营方网站的历史图片。"
+        },
+        "caption": {
+          "ro": "Fotografie de arhivă de pe site-ul Heaven; data exactă neprecizată.",
+          "en": "Archive photograph from the Heaven website; exact date unspecified.",
+          "it": "Foto d’archivio dal sito di Heaven; data esatta non indicata.",
+          "fr": "Photo d’archive du site de Heaven ; date exacte non précisée.",
+          "es": "Foto de archivo del sitio de Heaven; fecha exacta no indicada.",
+          "zh-Hans": "来自 Heaven 网站的历史照片；确切拍摄日期未注明。"
+        }
+      },
+      "evidence": {
+        "url": "https://heaventimisoara.ro/",
+        "imageUrl": "https://heaventimisoara.ro/wp-content/uploads/2018/05/HVN_The-Motans_010.jpg",
+        "author": "Photographer not credited in the retrieved homepage image metadata; operator/publisher is identified in photo.author.",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "userRequestedFallback": true,
+        "rightsEvidence": "The user explicitly requested the operator homepage image when no openly licensed photo was found. No reuse grant or copyright license is established or implied.",
+        "identity": "Actual photograph displayed on the public operator homepage for Heaven; visually checked against the downloaded image.",
+        "branchConfirmed": true,
+        "capturedAt": null,
+        "checkedAt": "2026-11-14",
+        "transform": "Homepage image downloaded through its publicly displayed URL; EXIF orientation applied, RGB converted, resized in intermediate JPEG to 1800×1200 when necessary, then to 1200×800 WebP quality 85. No generated imagery, retouching, logo substitution, or text overlays added.",
+        "sha256": "83bf7c12b96aa213cd2e476fd50eeb6800a489e45d6e903b5f51dbef7b58b579",
+        "bytes": 103930,
+        "dimensions": [
+          1200,
+          800
+        ],
+        "visualQA": "Selected from inspected contact sheets; source is a photograph, not a logo, advertising graphic, loading placeholder, or tracking pixel.",
+        "originalSha256": "8e75cb348964f9207c287e1b9766d7082c47d9c6741891d89d019aa85f254e74"
+      }
+    },
+    "white-pizza": {
+      "name": "Why Pizza",
+      "checkedAt": "2026-11-14",
+      "status": "selected",
+      "rightsStatus": "operator-homepage-unconfirmed",
+      "photo": {
+        "path": "/media/photos-v03/city-white-pizza.webp",
+        "author": "Autor neprecizat (pagina operatorului Why Pizza)",
+        "source": "https://www.whypizza.ro/",
+        "license": "Sursă: site-ul operatorului · licență de reutilizare neprecizată",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "alt": {
+          "ro": "Interior prezentat pe pagina Why Pizza.",
+          "en": "Interior shown on the Why Pizza page.",
+          "it": "Interni mostrati nella pagina di Why Pizza.",
+          "fr": "Intérieur présenté sur la page de Why Pizza.",
+          "es": "Interior mostrado en la página de Why Pizza.",
+          "zh-Hans": "Why Pizza 页面展示的室内空间。"
+        },
+        "caption": {
+          "ro": "Fotografie de prezentare publicată de operator.",
+          "en": "Presentation photograph published by the operator.",
+          "it": "Foto di presentazione pubblicata dal gestore.",
+          "fr": "Photo de présentation publiée par l’établissement.",
+          "es": "Foto de presentación publicada por el local.",
+          "zh-Hans": "运营方发布的展示照片。"
+        }
+      },
+      "evidence": {
+        "url": "https://www.whypizza.ro/",
+        "imageUrl": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQeU8X2G0S5Krlbh5GMIRrQgUOedb2SVc-fAtoaAjFw1xU3x4xf6EKbf8F3W9kz_D-JZ6Q8QY_uBazbG1ipGqIq2fYGfAj3ztTcGI_Q4NgNdcyvl8GGGG9KR-GYhAwJyTd7UKkia8-B1vscQK11-h2net2g4uzuPdAmzN76nfm0naKGA_F4zOnAWNlVC=w16383",
+        "author": "Photographer not credited in the retrieved homepage image metadata; operator/publisher is identified in photo.author.",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "userRequestedFallback": true,
+        "rightsEvidence": "The user explicitly requested the operator homepage image when no openly licensed photo was found. No reuse grant or copyright license is established or implied.",
+        "identity": "Actual photograph displayed on the public operator homepage for Why Pizza; visually checked against the downloaded image.",
+        "branchConfirmed": true,
+        "capturedAt": null,
+        "checkedAt": "2026-11-14",
+        "transform": "Homepage image downloaded through its publicly displayed URL; EXIF orientation applied, RGB converted, resized in intermediate JPEG to 2048×1365 when necessary, then to 1200×800 WebP quality 85. No generated imagery, retouching, logo substitution, or text overlays added.",
+        "sha256": "941b7b3bca2d0a611e64cbd9af45be6273759811caf1f3b43be2ce3288ffcf24",
+        "bytes": 131222,
+        "dimensions": [
+          1200,
+          800
+        ],
+        "visualQA": "Selected from inspected contact sheets; source is a photograph, not a logo, advertising graphic, loading placeholder, or tracking pixel."
+      }
+    },
+    "caffe-doge": {
+      "name": "Caffe del Doge",
+      "checkedAt": "2026-11-14",
+      "status": "selected",
+      "rightsStatus": "operator-homepage-unconfirmed",
+      "photo": {
+        "path": "/media/photos-v03/city-caffe-doge.webp",
+        "author": "Autor neprecizat (pagina operatorului Caffe del Doge)",
+        "source": "https://www.facebook.com/caffedeldogeromania/",
+        "license": "Sursă: site-ul operatorului · licență de reutilizare neprecizată",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "alt": {
+          "ro": "Cafea în fotografia de prezentare Caffe del Doge.",
+          "en": "Coffee in a presentation photograph from Caffe del Doge.",
+          "it": "Caffè in una foto di presentazione di Caffe del Doge.",
+          "fr": "Café sur une photo de présentation de Caffe del Doge.",
+          "es": "Café en una foto de presentación de Caffe del Doge.",
+          "zh-Hans": "Caffe del Doge 展示照片中的咖啡。"
+        },
+        "caption": {
+          "ro": "Fotografie de prezentare publicată de operator.",
+          "en": "Presentation photograph published by the operator.",
+          "it": "Foto di presentazione pubblicata dal gestore.",
+          "fr": "Photo de présentation publiée par l’établissement.",
+          "es": "Foto de presentación publicada por el local.",
+          "zh-Hans": "运营方发布的展示照片。"
+        }
+      },
+      "evidence": {
+        "url": "https://www.facebook.com/caffedeldogeromania/",
+        "imageUrl": "https://scontent.farw1-1.fna.fbcdn.net/v/t39.30808-6/488729584_1212404260887891_7460603061306928142_n.jpg?stp=dst-jpg_tt6&cstp=mx2048x1363&ctp=s2048x1363&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=xaHijRsGOF0Q7kNvwFzqUlw&_nc_oc=AdolQCz_ksPuMnFtMXNHOuRxuqioGuzazEtiPJxie7fNvoHoR1HnZBMEM_NlmeuknpQ&_nc_zt=23&_nc_ht=scontent.farw1-1.fna&_nc_gid=btLMnTTsW6wVfl-Jf15C2w&_nc_ss=7e20f&oh=00_AQRvJGHyl_2GaBiMS2SYbmaMC_mbOkInXobBPTB5GG9s_g&oe=6AFD5BA2",
+        "author": "Photographer not credited in the retrieved homepage image metadata; operator/publisher is identified in photo.author.",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "userRequestedFallback": true,
+        "rightsEvidence": "The user explicitly requested the operator homepage image when no openly licensed photo was found. No reuse grant or copyright license is established or implied.",
+        "identity": "Actual photograph displayed on the public operator homepage for Caffe del Doge; visually checked against the downloaded image.",
+        "branchConfirmed": true,
+        "capturedAt": null,
+        "checkedAt": "2026-11-14",
+        "transform": "Homepage image downloaded through its publicly displayed URL; EXIF orientation applied, RGB converted, resized in intermediate JPEG to 1800×1198 when necessary, then to 1200×799 WebP quality 85. No generated imagery, retouching, logo substitution, or text overlays added.",
+        "sha256": "dff5ac269d6bf23bdcfa42f39b5644f753766fd1c3105d31b8a3605c122a0742",
+        "bytes": 63894,
+        "dimensions": [
+          1200,
+          799
+        ],
+        "visualQA": "Selected from inspected contact sheets; source is a photograph, not a logo, advertising graphic, loading placeholder, or tracking pixel.",
+        "originalSha256": "6883bb293997f9b71faa578fe2f1203ae9db6c7ba8d0864aec18447afaa3e594"
+      }
+    },
+    "senses": {
+      "name": "Senses Specialty Coffee",
+      "checkedAt": "2026-11-14",
+      "status": "selected",
+      "rightsStatus": "operator-homepage-unconfirmed",
+      "photo": {
+        "path": "/media/photos-v03/city-senses.webp",
+        "author": "Autor neprecizat (pagina operatorului Senses Specialty Coffee)",
+        "source": "https://www.facebook.com/sensescoffee.ro/",
+        "license": "Sursă: site-ul operatorului · licență de reutilizare neprecizată",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "alt": {
+          "ro": "Pahare și cești Senses Specialty Coffee, cu Piața Unirii în fundal.",
+          "en": "Senses Specialty Coffee cups with Union Square in the background.",
+          "it": "Bicchieri e tazze Senses Specialty Coffee, con Piața Unirii sullo sfondo.",
+          "fr": "Gobelets et tasses Senses Specialty Coffee, avec Piața Unirii en arrière-plan.",
+          "es": "Vasos y tazas Senses Specialty Coffee, con Piața Unirii al fondo.",
+          "zh-Hans": "Senses Specialty Coffee 咖啡杯，背景为联合广场。"
+        },
+        "caption": {
+          "ro": "Fotografie de prezentare publicată de operator.",
+          "en": "Presentation photograph published by the operator.",
+          "it": "Foto di presentazione pubblicata dal gestore.",
+          "fr": "Photo de présentation publiée par l’établissement.",
+          "es": "Foto de presentación publicada por el local.",
+          "zh-Hans": "运营方发布的展示照片。"
+        }
+      },
+      "evidence": {
+        "url": "https://www.facebook.com/sensescoffee.ro/",
+        "imageUrl": "https://scontent.fomr1-1.fna.fbcdn.net/v/t39.30808-6/884928882_122176243412972584_2443791214056897484_n.avif?stp=dst-jpg_tt6&cstp=mx2048x1365&ctp=s2048x1365&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=peXD7D8fSiwQ7kNvwHAdh70&_nc_oc=Adr2uSAJUrSWzPmFgAySxHRgj_WvvZk4ge8K_HFjbuOhfEiKb_yuS6JtpiC-Jzo11nA&_nc_zt=23&_nc_ht=scontent.fomr1-1.fna&_nc_gid=RhQdsYcLZY0d1v3wcfpwGw&_nc_ss=7e20f&oh=00_AQRS249uWWcu_uLywahQIhwIrDlLeFo5zU2J7J1oFP65rw&oe=6AFD66EF",
+        "author": "Photographer not credited in the retrieved homepage image metadata; operator/publisher is identified in photo.author.",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "userRequestedFallback": true,
+        "rightsEvidence": "The user explicitly requested the operator homepage image when no openly licensed photo was found. No reuse grant or copyright license is established or implied.",
+        "identity": "Actual photograph displayed on the public operator homepage for Senses Specialty Coffee; visually checked against the downloaded image.",
+        "branchConfirmed": true,
+        "capturedAt": null,
+        "checkedAt": "2026-11-14",
+        "transform": "Homepage image downloaded through its publicly displayed URL; EXIF orientation applied, RGB converted, resized in intermediate JPEG to 1800×1200 when necessary, then to 1200×800 WebP quality 85. No generated imagery, retouching, logo substitution, or text overlays added.",
+        "sha256": "9a7b5a92b68f79ea9c8295e0d1c3a3edc95ce9e6f928034d89496024086d1daa",
+        "bytes": 67708,
+        "dimensions": [
+          1200,
+          800
+        ],
+        "visualQA": "Selected from inspected contact sheets; source is a photograph, not a logo, advertising graphic, loading placeholder, or tracking pixel.",
+        "originalSha256": "90b7188cd533dde6f65ac7cb86bbfed481d9d072ae7cc98bf75977ffcb69c038"
+      }
+    },
+    "massimo": {
+      "name": "Massimo",
+      "checkedAt": "2026-11-14",
+      "status": "selected",
+      "rightsStatus": "operator-homepage-unconfirmed",
+      "photo": {
+        "path": "/media/photos-v03/city-massimo.webp",
+        "author": "Autor neprecizat (pagina operatorului Massimo)",
+        "source": "https://www.facebook.com/massimotimisoara/",
+        "license": "Sursă: site-ul operatorului · licență de reutilizare neprecizată",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "alt": {
+          "ro": "Preparat prezentat pe pagina Massimo.",
+          "en": "Dish shown on the Massimo page.",
+          "it": "Piatto mostrato nella pagina di Massimo.",
+          "fr": "Plat présenté sur la page de Massimo.",
+          "es": "Plato mostrado en la página de Massimo.",
+          "zh-Hans": "Massimo 页面展示的菜品。"
+        },
+        "caption": {
+          "ro": "Fotografie de prezentare publicată de operator.",
+          "en": "Presentation photograph published by the operator.",
+          "it": "Foto di presentazione pubblicata dal gestore.",
+          "fr": "Photo de présentation publiée par l’établissement.",
+          "es": "Foto de presentación publicada por el local.",
+          "zh-Hans": "运营方发布的展示照片。"
+        }
+      },
+      "evidence": {
+        "url": "https://www.facebook.com/massimotimisoara/",
+        "imageUrl": "https://scontent.farw1-1.fna.fbcdn.net/v/t39.30808-6/472390016_9188599997858705_3800683833611468410_n.jpg?stp=dst-jpg_tt6&cstp=mx820x547&ctp=s820x547&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=0jZhtpDBAlEQ7kNvwFbah_Q&_nc_oc=AdrX81rQkk821SMG5jqGQxUWC-7KFbSI4FNtGe3C1cvquYWpBX2KFd0zqhSlZNdBLUE&_nc_zt=23&_nc_ht=scontent.farw1-1.fna&_nc_gid=9v2zajObXyiycv7dQeXqGw&_nc_ss=7e20f&oh=00_AQTAITAdHm5WciaDux5o6BZC-IkqzC_0uigiZ71a76yIIg&oe=6AFD6384",
+        "author": "Photographer not credited in the retrieved homepage image metadata; operator/publisher is identified in photo.author.",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "userRequestedFallback": true,
+        "rightsEvidence": "The user explicitly requested the operator homepage image when no openly licensed photo was found. No reuse grant or copyright license is established or implied.",
+        "identity": "The correct Massimo Timisoara Facebook homepage publishes this charcuterie photograph. welcometomassimo.com was rejected because that restaurant is in Brașov.",
+        "branchConfirmed": true,
+        "capturedAt": null,
+        "checkedAt": "2026-11-14",
+        "transform": "Homepage image downloaded through its publicly displayed URL; EXIF orientation applied, RGB converted, resized in intermediate JPEG to 820×547 when necessary, then to 820×547 WebP quality 85. No generated imagery, retouching, logo substitution, or text overlays added.",
+        "sha256": "fc197cede0adb1478a8890c71fd828f32adc4c73c2f738b31aea4ea22f49fc8f",
+        "bytes": 65020,
+        "dimensions": [
+          820,
+          547
+        ],
+        "visualQA": "Selected from inspected contact sheets; source is a photograph, not a logo, advertising graphic, loading placeholder, or tracking pixel.",
+        "originalSha256": "cf0381708dd4eeb564a5c0d3ce1fe05f8b095a719ea8d7bbc0c9fd6b15e24d29"
+      }
+    },
+    "no-name": {
+      "name": "No Name",
+      "checkedAt": "2026-11-14",
+      "status": "selected",
+      "rightsStatus": "operator-homepage-unconfirmed",
+      "photo": {
+        "path": "/media/photos-v03/city-no-name.webp",
+        "author": "Autor neprecizat (pagina operatorului No Name)",
+        "source": "https://www.facebook.com/clubnonametm/",
+        "license": "Sursă: site-ul operatorului · licență de reutilizare neprecizată",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "alt": {
+          "ro": "Piscina No Name iluminată noaptea, fotografie publicată de operator.",
+          "en": "The No Name pool lit at night, in a photograph published by the operator.",
+          "it": "La piscina di No Name illuminata di notte, in una foto pubblicata dal gestore.",
+          "fr": "La piscine de No Name éclairée de nuit, sur une photo publiée par l’établissement.",
+          "es": "La piscina de No Name iluminada de noche, en una foto publicada por el local.",
+          "zh-Hans": "运营方发布的 No Name 泳池夜景照片。"
+        },
+        "caption": {
+          "ro": "Fotografie de prezentare publicată de operator.",
+          "en": "Presentation photograph published by the operator.",
+          "it": "Foto di presentazione pubblicata dal gestore.",
+          "fr": "Photo de présentation publiée par l’établissement.",
+          "es": "Foto de presentación publicada por el local.",
+          "zh-Hans": "运营方发布的展示照片。"
+        }
+      },
+      "evidence": {
+        "url": "https://www.facebook.com/clubnonametm/",
+        "imageUrl": "https://scontent.fomr1-1.fna.fbcdn.net/v/t39.30808-6/900563669_1592642839574489_1337330391398845360_n.avif?stp=dst-jpg_tt6&cstp=mx960x638&ctp=s960x638&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=Lw22QSYjklYQ7kNvwF1opaz&_nc_oc=Ado4_F0nFxkDHxMhfJre7dUKfOnh2gVBZuFJv_oGPCh_4QsVGxWUIhwpMbLtunZTCVY&_nc_zt=23&_nc_ht=scontent.fomr1-1.fna&_nc_gid=NLVzS4SNunxS39wkNcz1Ow&_nc_ss=7e20f&oh=00_AQRt8EhemGKRIE_Q0WgAVIWcPycXCfUxGoJAAiFsqfR3NA&oe=6AFD6C9E",
+        "author": "Photographer not credited in the retrieved homepage image metadata; operator/publisher is identified in photo.author.",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "userRequestedFallback": true,
+        "rightsEvidence": "The user explicitly requested the operator homepage image when no openly licensed photo was found. No reuse grant or copyright license is established or implied.",
+        "identity": "Actual photograph displayed on the public operator homepage for No Name; visually checked against the downloaded image.",
+        "branchConfirmed": true,
+        "capturedAt": null,
+        "checkedAt": "2026-11-14",
+        "transform": "Homepage image downloaded through its publicly displayed URL; EXIF orientation applied, RGB converted, resized in intermediate JPEG to 960×638 when necessary, then to 960×638 WebP quality 85. No generated imagery, retouching, logo substitution, or text overlays added.",
+        "sha256": "863aa1294231d6a59038047d2837af568498952988a39cd5e76bebda23d9a4d0",
+        "bytes": 97324,
+        "dimensions": [
+          960,
+          638
+        ],
+        "visualQA": "Selected from inspected contact sheets; source is a photograph, not a logo, advertising graphic, loading placeholder, or tracking pixel.",
+        "originalSha256": "917937c1714cad9744a93c25e2afc72aec48d9815157b4e593929bf752a917c1"
+      }
+    },
+    "darc-mal": {
+      "name": "D’arc pe Mal",
+      "checkedAt": "2026-11-14",
+      "status": "selected",
+      "rightsStatus": "operator-homepage-unconfirmed",
+      "photo": {
+        "path": "/media/photos-v03/city-darc-mal.webp",
+        "author": "Autor neprecizat (pagina operatorului D’arc pe Mal)",
+        "source": "https://www.facebook.com/club.darc.timisoara/",
+        "license": "Sursă: site-ul operatorului · licență de reutilizare neprecizată",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "alt": {
+          "ro": "Terasa D’arc pe Mal și ambarcațiuni pe Bega.",
+          "en": "The D’arc pe Mal terrace and boats on the Bega.",
+          "it": "La terrazza di D’arc pe Mal e imbarcazioni sul Bega.",
+          "fr": "La terrasse de D’arc pe Mal et des bateaux sur la Bega.",
+          "es": "La terraza de D’arc pe Mal y barcos en el Bega.",
+          "zh-Hans": "D’arc pe Mal 的露台与 Bega 河上的船只。"
+        },
+        "caption": {
+          "ro": "Fotografie de prezentare publicată de operator.",
+          "en": "Presentation photograph published by the operator.",
+          "it": "Foto di presentazione pubblicata dal gestore.",
+          "fr": "Photo de présentation publiée par l’établissement.",
+          "es": "Foto de presentación publicada por el local.",
+          "zh-Hans": "运营方发布的展示照片。"
+        }
+      },
+      "evidence": {
+        "url": "https://www.facebook.com/club.darc.timisoara/",
+        "imageUrl": "https://scontent.fomr1-1.fna.fbcdn.net/v/t39.30808-6/895620153_1567828078711024_6245179643112013103_n.avif?stp=dst-jpg_tt6&cstp=mx2048x1365&ctp=s2048x1365&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=ICGjSjYgY8MQ7kNvwGzm7RH&_nc_oc=AdoloIBDj5gO86zEBx9RWQDfCpwCkjxW-ziFOGSK0S24p01qU_jmZ-v6OWPVjYy3zsI&_nc_zt=23&_nc_ht=scontent.fomr1-1.fna&_nc_gid=yAJ35h6C4Nv2pNN2zpJ1Mw&_nc_ss=7e20f&oh=00_AQSAmkPMdL0e2jwPn9FVV3SC5VQCr2juWbT_U7n76QTk1g&oe=6AFD486B",
+        "author": "Photographer not credited in the retrieved homepage image metadata; operator/publisher is identified in photo.author.",
+        "rightsStatus": "operator-homepage-unconfirmed",
+        "userRequestedFallback": true,
+        "rightsEvidence": "The user explicitly requested the operator homepage image when no openly licensed photo was found. No reuse grant or copyright license is established or implied.",
+        "identity": "Public D’arc Timișoara Facebook homepage cover depicts its identifiable Bega riverside terrace/boat; assigned to D’arc pe Mal rather than its central Piața Unirii premises.",
+        "branchConfirmed": true,
+        "capturedAt": null,
+        "checkedAt": "2026-11-14",
+        "transform": "Homepage image downloaded through its publicly displayed URL; EXIF orientation applied, RGB converted, resized in intermediate JPEG to 1800×1200 when necessary, then to 1200×800 WebP quality 85. No generated imagery, retouching, logo substitution, or text overlays added.",
+        "sha256": "f5e336b1d02592f7df46b3ee040f305e88d08e4d95e283a3cfe962e79e303e8f",
+        "bytes": 220790,
+        "dimensions": [
+          1200,
+          800
+        ],
+        "visualQA": "Selected from inspected contact sheets; source is a photograph, not a logo, advertising graphic, loading placeholder, or tracking pixel.",
+        "originalSha256": "d23c76fe706cf15818b8197d619774e00339c911ab5176a6beff931285bf7d38"
+      }
+    }
+  },
+  "unresolved": {
+    "darc": {
+      "name": "D’arc",
+      "checkedAt": "2026-11-14",
+      "reason": "No homepage photograph of the central Piața Unirii venue retrieved. Official D’arc Facebook cover shows D’arc pe Mal and is assigned there, not reused for this different branch. darc.ro timed out.",
+      "photo": null,
+      "checkedUrls": [
+        {
+          "url": "https://darc.ro/",
+          "error": "<urlopen error timed out>"
+        }
+      ]
+    },
+    "escape-venue": {
+      "name": "Escape Venue",
+      "checkedAt": "2026-11-14",
+      "reason": "Operator Facebook URL escape.venue now resolves to Escape in Marilao, not the Timișoara venue. Rejected identity mismatch. No actual operator homepage photo established.",
+      "photo": null,
+      "checkedUrls": []
+    },
+    "frenzy": {
+      "name": "Frenzy",
+      "checkedAt": "2026-11-14",
+      "reason": "Official Instagram homepage supplied no publicly retrievable photograph; no separate operator website established. Directories and third-party review photos were not treated as operator-homepage authorization.",
+      "photo": null,
+      "checkedUrls": []
+    },
+    "mercy": {
+      "name": "Mercy Coffee",
+      "checkedAt": "2026-11-14",
+      "reason": "No retrievable operator homepage with a real photograph established. Third-party review images were not relabeled as operator photos.",
+      "photo": null,
+      "checkedUrls": []
+    },
+    "vineri-13": {
+      "name": "Vineri 15",
+      "checkedAt": "2026-11-14",
+      "reason": "vineri15.ro HTTP homepage is a Hosterion coming-soon placeholder; HTTPS fails certificate validation. Official Facebook page did not expose a public photograph. Placeholder illustration rejected.",
+      "photo": null,
+      "checkedUrls": [
+        {
+          "url": "https://vineri15.ro/",
+          "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:1129)>"
+        },
+        {
+          "url": "https://www.wikoti.com/vineri-15.ro",
+          "error": "HTTP Error 403: Forbidden"
+        }
+      ]
+    },
+    "woktagon": {
+      "name": "Woktagon",
+      "checkedAt": "2026-11-14",
+      "reason": "woktagon.ro redirects to a Google Sites page requiring Google sign-in. No public operator homepage photograph was retrievable; no authentication bypass attempted.",
+      "photo": null,
+      "checkedUrls": [
+        {
+          "url": "https://www.woktagon.ro/",
+          "finalUrl": "https://accounts.google.com/v3/signin/identifier?continue=https://sites.google.com/view/woktagonro&followup=https://sites.google.com/view/woktagonro&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S235695804:1794606892293587",
+          "images": 1
+        }
+      ]
+    }
+  },
+  "summary": {
+    "selected": 30,
+    "licensed": 1,
+    "operatorHomepageUnconfirmed": 29,
+    "unresolved": 6
+  },
+  "rejectedIdentitySources": {
+    "massimo": "https://www.welcometomassimo.com/ro/contact/ is Brașov, not Timișoara.",
+    "escape-venue": "https://www.facebook.com/escape.venue/ resolves to Escape | Marilao."
+  }
+}
